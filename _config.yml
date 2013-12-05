@@ -9,7 +9,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : DALIBO 
-tagline: French PostgreSQL company
+tagline: Actualité PostgreSQL 
 author :
   name : dalibo 
   email : contact@dalibo.com
