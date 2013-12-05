@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Some thoughts about PostgreSQL from France 
+title: L'actualité PostgreSQL 
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
