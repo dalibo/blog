@@ -1,4 +1,13 @@
-~~NOTOC~~
+---
+layout: post
+title: "Lettre d'info de Septembre 2014"
+description: ""
+category: "newsletter"
+tags: []
+---
+{% include JB/setup %}
+
+~
 
 # Lettre d'information de Dalibo
 
@@ -11,6 +20,8 @@ L'actualité de PostgreSQL et de ses projets satellites. *Juin/Juillet/Août/Sep
 PostgreSQL 9.3 est disponible depuis quelques jours en version RC1, et le stamp 9.3.0 a été ajouté sur le code source. Autrement dit, la version finale est pour très bientôt.
 
 Elle est prévue pour le 9 septembre, à moins qu'un bug important ne soit découvert d'ici là.
+
+<!--more-->
 
 Les nouveautés sont maintenant bien connues:
 
