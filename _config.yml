@@ -27,6 +27,7 @@ author :
 #
 production_url : http://dalibo.github.io/blog
 
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -69,11 +70,11 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  archive_path: archive.html
+  categories_path : categories.html
+  tags_path : tags.html
+  atom_path : atom.xml
+  rss_path : rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

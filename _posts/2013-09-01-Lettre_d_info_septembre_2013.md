@@ -7,11 +7,11 @@ tags: []
 ---
 {% include JB/setup %}
 
-~
 
-# Lettre d'information de Dalibo
 
 L'actualité de PostgreSQL et de ses projets satellites. *Juin/Juillet/Août/Septembre 2013.*
+
+<!--more-->
 
 ## Événements
 
@@ -21,7 +21,6 @@ PostgreSQL 9.3 est disponible depuis quelques jours en version RC1, et le stamp 
 
 Elle est prévue pour le 9 septembre, à moins qu'un bug important ne soit découvert d'ici là.
 
-<!--more-->
 
 Les nouveautés sont maintenant bien connues:
 
@@ -38,6 +37,8 @@ Les nouveautés sont maintenant bien connues:
     * Données des vues modifiables automatiquement;
     * pg_dump parallélisé pour accélérer les sauvegardes;
     * Clause LATERAL.
+
+<!--more-->
 
 ### Workshop 9.3
 
