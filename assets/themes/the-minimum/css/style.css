@@ -282,13 +282,13 @@ pre {
   margin-top: 0;
 }
 .unit-article a:link {
-  border-bottom: 1px dotted #99cc99;
+  border-bottom: 1px dotted #336699;
 }
 .unit-article a:visited {
-  border-bottom: 1px dotted #77bb77;
+  border-bottom: 1px dotted #225588;
 }
 .unit-article a:hover {
-  border-bottom: 1px dotted #bbddbb;
+  border-bottom: 1px dotted #5588bb;
 }
 .unit-article blockquote {
   border-left: 1em solid rgba(21, 25, 25, 0.8);
@@ -514,15 +514,15 @@ pre {
   padding-bottom: 1.625em;
 }
 .the-footer a:link {
-  color: #99cc99;
+  color: #5588bb;
   border: 0;
 }
 .the-footer a:visited {
-  color: #77bb77;
+  color: #4477aa;
   border: 0;
 }
 .the-footer a:hover {
-  color: #bbddbb;
+  color: #6699cc;
   border: 0;
 }
 .the-footer ul {

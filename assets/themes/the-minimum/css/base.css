@@ -33,9 +33,9 @@ Links from [HTML5 Boilerplate](http://j.mp/rP0wmY)
 No styleguide reference.
 */
 
-a { color: #00e; }
-a:visited { color: #551a8b; }
-a:hover { color: #06e; }
+a { color: #55b9da; }
+a:visited { color: #55b9da; }
+a:hover { color: #66c0cb; }
 a:focus { outline: thin dotted; }
 a:hover, a:active { outline: 0; }
 
