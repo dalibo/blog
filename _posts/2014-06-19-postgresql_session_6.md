@@ -1,8 +1,22 @@
+---
+layout: post
+title: "Session PostgreSQL 6 : Appel à Orateurs "
+description: ""
+category: ""
+tags: [PostgreSQL, sécurité, ]
+---
+
+
+{% include JB/setup %}
+
+
 Session PostgreSQL 6 : Appel à Orateurs 
 ==========================================
 
 
 Après le succès des cinq premières Sessions PostgreSQL dédiées aux nouveautés de la version 9.0 (février 2011), à PostGIS (juin 2011), à la réplication (février 2012), à la migration d'Oracle vers PostgreSQL (octobre 2012) et aux Performances avec PostgreSQL (mars 2013) nous avons le plaisir d'annoncer la tenue de la sixième session, le 25 septembre prochain, à Paris.
+
+<!--more-->
 
 En effet, pour continuer sur cette lancée, Dalibo et Oslandia organisent ensemble une journée de conférences dédiée à PostgreSQL et PostGIS : [[http://www.postgresql-sessions.org/]]
 
