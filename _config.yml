@@ -3,7 +3,7 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-pygments: true
+highlighter: true
 markdown: kramdown
 
 
@@ -12,17 +12,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: L'actualité PostgreSQL par DALIBO 
 
-description: Stylish Jekyll Theme
+description: 
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: DALIBO
+  email: contact@dalibo.com
+  github: dalibo
+  twitter: dalibo
+  pinterest: 
+  linkedin: 
+  bio: DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml

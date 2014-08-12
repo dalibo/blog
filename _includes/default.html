@@ -59,7 +59,7 @@
 			</a>
 			{% endif %}
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
+				<img src="{{ site.BASE_PATH }}/assets/img/logo.png" class="img-circle" />
 				{{ site.title }}
 			</a>
 		</div>
@@ -98,7 +98,7 @@
 		<footer>
 			<hr/>
 			<p>
-				&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} with Jekyll. Theme: <a href="https://github.com/dbtek/dbyll">dbyll</a> by dbtek.
+				&copy; 2005-{{ site.time | date: '%Y' }} {{ site.author.name }}. Sauf indication contraire, tous les éléments de bog sont disponibles sous licence Creative Commons BY-NC-SA.
 			</p>
 		</footer>
 	</div>
