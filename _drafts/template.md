@@ -1,0 +1,21 @@
+---
+layout: post
+title: Titre de l'article
+published: 2001-01-01 
+author: Chuck Norris
+twitter_id: @chuck_norris
+github_id: chuck_norris
+tags: [PostgreSQL, performance, sauvegarde, monitoring]
+---
+
+Mettre ici une ou deux phrases qui résument votre article
+
+<!--MORE-->
+
+Le reste de l'article
+
+{% highlight sql %}
+SELECT blah 
+{% endhighlight %}
+
+

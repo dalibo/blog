@@ -2,7 +2,7 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+exclude: ["README.md", "_drafts/template.md"] # files to exclude
 highlighter: true
 markdown: kramdown
 
@@ -27,4 +27,4 @@ author:
 rss_path: feed.xml
 tags_path: tags.html
 
-BASE_PATH: http://dalibo.github.io/blog/
+BASE_PATH: 
