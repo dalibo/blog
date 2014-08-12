@@ -6,7 +6,20 @@
 
 	<div class="col-sm-10">
 	 <span class="post-date">
-	   Publié le <strong>{{ page.date | date: "%d/%m/%Y" }}</strong>
+	   Publié le <strong>{{ page.date | date: "%d/%m/%Y" }} </strong>
+	   {% if page.author %}
+	       par {{ page.author }}
+	   {%endif%}
+	   {% if page.twitter_id %}
+	   			<a class="btn btn-default btn-sm" href="https://twitter.com/{{ page.twitter_id }}">
+				<i class="fa fa-twitter fa-lg"></i>
+			</a>
+	   {%endif%}
+	   {% if page.github_id %}
+	   			<a class="btn btn-default btn-sm" href="https://github.com/{{ page.github_id }}">
+				<i class="fa fa-github fa-lg"></i>
+			</a>
+	   {%endif%}	   
 	 </span>
 	  <div class="article_body">
 	  {{ content }}

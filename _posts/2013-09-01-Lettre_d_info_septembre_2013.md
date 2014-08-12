@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Lettre d'info"
-tagline: "Septembre 2013"
+author: damien clochard
+twitter_id: "@daamien"
+github_id: daamien
 description: ""
 tags: [newsletter]
 ---

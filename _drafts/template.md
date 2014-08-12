@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Titre de l'article
-published: 2001-01-01 
+title: Titre de l'article 
 author: Chuck Norris
 twitter_id: @chuck_norris
 github_id: chuck_norris
