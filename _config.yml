@@ -23,10 +23,8 @@ author:
   pinterest: 
   linkedin: 
   bio: DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
-  email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
-categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH:
+BASE_PATH: http://dalibo.github.io
