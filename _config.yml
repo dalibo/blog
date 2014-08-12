@@ -27,4 +27,4 @@ author:
 rss_path: feed.xml
 tags_path: tags.html
 
-BASE_PATH: http://dalibo.github.io
+BASE_PATH: http://dalibo.github.io/blog/
