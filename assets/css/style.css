@@ -97,7 +97,7 @@ article{
 
 .post-date {
 	text-transform: uppercase;
-	font-size: 14px;
+	font-size: 16px;
 	letter-spacing: 3px;
 }
 
@@ -131,6 +131,10 @@ article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
 	color: #e74c3c;
+}
+
+article.home h2 {
+  margin-top: 0;
 }
 
 .author .author-image {
@@ -182,4 +186,6 @@ footer {
 ul.dropdown-menu>li>a>i.fa {
     width: 1.3em;
 }
+
+
 

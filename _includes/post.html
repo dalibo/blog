@@ -1,20 +1,12 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  <h1>{{ page.title }} {% if page.tagline %}</h1><small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
 	
 <article>
 
 	<div class="col-sm-10">
 	 <span class="post-date">
-	   {% assign d = page.date | date: "%d" | plus:'0' %}
-	   {{ page.date | date: "%B" }} 
-	   {% case d %}
-	     {% when 1 or 21 or 31 %}{{ d }}st,
-	     {% when 2 or 22 %}{{ d }}nd,
-	     {% when 3 or 23 %}{{ d }}rd,
-	     {% else %}{{ d }}th,
-	   {% endcase %}
-	   {{ page.date | date: "%Y" }}
+	   Publié le <strong>{{ page.date | date: "%d/%m/%Y" }}</strong>
 	 </span>
 	  <div class="article_body">
 	  {{ content }}
