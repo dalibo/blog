@@ -3,7 +3,6 @@ layout: post
 title: Hello World!
 categories: [general, setup, demo]
 tags: [demo, dbyll, dbtek, setup]
-fullview: true
 ---
 
 **dbyll** is minimalist, stylish theme for jekyll. Supports gravatar, account links (github, twitter, e-mail, pinterest, résume file) and a bio.  
