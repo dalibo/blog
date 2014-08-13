@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Workshop Postgresql 9.4 - 1er octobre 2014
