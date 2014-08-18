@@ -2,7 +2,7 @@
 layout: post
 title: Sortie de pgBadger 6
 author: Virginie Jourdan
-twitter_id: @JourdanVirginie
+twitter_id: JourdanVirginie
 github_id: 
 tags: [PostgreSQL, performance, pgBadger]
 ---
