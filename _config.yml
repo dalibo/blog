@@ -27,4 +27,6 @@ author:
 rss_path: feed.xml
 tags_path: tags.html
 
+ga_id: UA-637331-11
+
 BASE_PATH: 
