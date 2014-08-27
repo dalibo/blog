@@ -1,5 +1,3 @@
-<markdown>
-
 ---
 layout: post
 title: POWA ! Analysez votre trafic PostgreSQL en direct !
