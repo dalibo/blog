@@ -23,12 +23,12 @@ Un ensemble de fonctions PL est également disponible pour accéder et gérer le
 
 Concrètement POWA est une extension PostgreSQL conçue pour historiser les informations fournies par l'extension pg_stat_statements. Elle fournit des fonctions SQL qui collectent les informations utiles à une fréquence définie.
 
-Cette permière version est prête pour être mise en production même s'il reste bien sûr de nombreux axes d'amélioration. Installez-la (ou testez notre site demo) et faites nous savoir ce que vous en pensez.
+Cette première version est prête pour être mise en production même s'il reste bien sûr de nombreux axes d'amélioration. Installez-la (ou testez notre site demo) et faites nous savoir ce que vous en pensez.
 Nous avons besoin actuellement de vos remarques et de vos idées, notamment pour améliorer l'IHM...
 
 POWA est disponible sous licence PostgreSQL. Le code est écrit en C et en SQL. L'interface est basée sur Perl et Mojolicious. Évidement les stats sont stockées dans une base PostgreSQL :-)
 
-Pour une liste esxhaustive des changements, consultez les notes de version : 
+Pour une liste exhaustive des changements, consultez les notes de version : 
 [https://github.com/dalibo/powa/blob/master/CHANGELOG.md](https://github.com/dalibo/powa/blob/master/CHANGELOG.md)
 
 ## Remerciements
