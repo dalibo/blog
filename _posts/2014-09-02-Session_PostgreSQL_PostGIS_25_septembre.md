@@ -28,5 +28,3 @@ Au programme de cette journée :
 
 Nos précédentes sessions depuis 2011 ayant toujours rencontré un vif succès, et les places étant limitées, nous vous invitons à réserver au plus vite !
 [http://www.postgresql-sessions.org/6/registration_form](http://www.postgresql-sessions.org/6/registration_form)
-
-</markdown>
