@@ -8,7 +8,7 @@ tags: [PostgreSQL, monitoring, graphs, dashboard]
 ---
 ##Surveillez et gérez vos serveurs PostgreSQL
 
-//Paris, le 9 septembre 2014//
+__Paris, le 9 septembre 2014__
 
 Le Groupe de Développement OPM (voir ci-dessous) est fier de présenter la première version publique du projet Open PostgreSQL Monitoring (OPM), une suite de monitoring entièrement libre pour PostgreSQL.
 
@@ -37,7 +37,7 @@ OPM est un projet ouvert et disponible conformément à la Licence PostgreSQL. T
 
 * Site web : [http://opm.io/](http://opm.io/)
 * Demo : [http://demo.opm.io/](http://demo.opm.io) (login/pass = opm/demo) 
-* Twitter : [http://twitter.com/__opm__](@__opm__)
+* Twitter : [@__opm__](http://twitter.com/__opm__)
 
 ----
 
