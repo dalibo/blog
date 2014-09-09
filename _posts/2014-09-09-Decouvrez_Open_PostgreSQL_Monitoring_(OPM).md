@@ -6,9 +6,6 @@ twitter_id: daamien
 github_id: daamien
 tags: [PostgreSQL, monitoring, graphs, dashboard]
 ---
-# Découvrez Open PostgreSQL Monitoring (OPM) 
-
-
 ##Surveillez et gérez vos serveurs PostgreSQL
 
 //Paris, le 9 septembre 2014//
@@ -48,10 +45,8 @@ OPM est un projet ouvert et disponible conformément à la Licence PostgreSQL. T
 
 Open PostgreSQL Monitoring est un Logiciel Libre conçu pour vous aider à gérer vos serveurs PostgreSQL. C'est un outil flexible qui suivra l'activité de chaque instance. Il peut rassembler des statistiques, des tableaux de bord d'affichage et envoyer des alertes lorsque quelque-chose tourne mal. Le but à long terme du projet est de fournir des fonctions semblables à celles d'Oracle Grid Control ou SQL Server Management Studio, pour PostgreSQL.
 
-Code & Demo sur http://opm.io/
+Code & Demo sur [http://opm.io/](http://opm.io/)
 
 ##A propos du Groupe de Développement OPM
 
 Ce projet est conduit par le Groupe de Développement OPM (OPMDG), une équipe de développeurs réunis pour construire des outils de contrôle efficaces pour PostgreSQL. Jusqu'ici le sponsor principal de ce projet est DALIBO, le leader PostgreSQL en France. Cependant l'équipe projet est ouverte aux idées et aux contributions: les personnes et les entreprises qui partagent les buts de l'OPMDG sont invités à rejoindre l'équipe!
-
-</markdown>
