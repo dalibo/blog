@@ -13,7 +13,7 @@ pour remédier à cela.
 
 <!--MORE-->
 
-L'installation de PostgreSQL fournit par Red Hat dans sa distribution
+L'installation de PostgreSQL fournie par Red Hat dans sa distribution
 par défaut est confinée par SELinux, par contre, la version majeure de
 PostgreSQL est la version 8.4 dans RHEL/CentOS 6. Ce qui fait que les
 paquets RPM fournis par le PGDG sont massivement utilisés : ils
