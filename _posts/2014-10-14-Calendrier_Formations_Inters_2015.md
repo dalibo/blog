@@ -28,7 +28,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 30 juin-2 juillet 
 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-administration](Administration PostgreSQL)
+» Voir le plan de formation [Administration PostgreSQL](http://www.dalibo.com/formation-administration)
 
 ##PostgresQL Avancé (DBA2)
 
@@ -42,7 +42,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 6-8 juillet 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-avance](PostgresQL Avancé)
+» Voir le plan de formation [PostgresQL Avancé](http://www.dalibo.com/formation-postgresql-avance)
 
 ##PostgreSQL Haute-Disponibilité (DBA3)
 
@@ -54,7 +54,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 15-16 juin 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-replication-hot-standby](PostgreSQL Haute-Disponibilité)
+» Voir le plan de formation [PostgreSQL Haute-Disponibilité](http://www.dalibo.com/formation-postgresql-replication-hot-standby)
 
 ##PostgreSQL Performance (DBA4)
 
@@ -66,7 +66,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 25-26 juin 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-performance](PostgreSQL Performance)
+» Voir le plan de formation [PostgreSQL Performance](http://www.dalibo.com/formation-postgresql-performance)
 
 ##Développeur (PL/PGSQL) (DEV1)
 
@@ -91,7 +91,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 18-19 juin 
 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-migration-postgresql](Migration Oracle vers PostgreSQL)
+» Voir le plan de formation [Migration Oracle vers PostgreSQL](http://www.dalibo.com/formation-migration-postgresql)
 
 ##PostgreSQL Architectes (DEV3)
 
@@ -103,7 +103,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 9-10 juillet 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-architecte](PostgreSQL Architectes)
+» Voir le plan de formation [PostgreSQL Architectes](http://www.dalibo.com/formation-postgresql-architecte)
 
 
 ##SQL : conception et mise en oeuvre (DEV4)
@@ -116,7 +116,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 9-11 juin 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-sql-conception-mise-en-oeuvre](SQL : conception et mise en oeuvre)
+» Voir le plan de formation [SQL : conception et mise en oeuvre](http://www.dalibo.com/formation-sql-conception-mise-en-oeuvre)
 
 ##PostGIS : Mise en Oeuvre (SIG1)
 
@@ -124,7 +124,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 18-20 mai 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgis-mise-en-oeuvre](PostGIS : Mise en Oeuvre)
+» Voir le plan de formation [PostGIS : Mise en Oeuvre](http://www.dalibo.com/formation-postgis-mise-en-oeuvre)
 
 ##PostGIS : Fonctionnalités Avancées (SIG2)
 
@@ -132,4 +132,4 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 27-29 mai 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-postgis-fonctionnalites-avancees](PostGIS : Fonctionnalités Avancées)
+» Voir le plan de formation [PostGIS : Fonctionnalités Avancées](http://www.dalibo.com/formation-postgis-fonctionnalites-avancees])
