@@ -110,5 +110,3 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 23-25 février 
 
 27-29 mai 
-
-</markdown>
