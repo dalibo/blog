@@ -27,6 +27,9 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 30 juin-2 juillet 
 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-administration](Administration PostgreSQL)
+
 ##PostgresQL Avancé (DBA2)
 
 19-21 janvier 
@@ -39,6 +42,8 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 6-8 juillet 
 
+» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-avance](PostgresQL Avancé)
+
 ##PostgreSQL Haute-Disponibilité (DBA3)
 
 26-27 janvier 
@@ -48,6 +53,8 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 21-22 avril 
 
 15-16 juin 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-replication-hot-standby](PostgreSQL Haute-Disponibilité)
 
 ##PostgreSQL Performance (DBA4)
 
@@ -59,6 +66,8 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 25-26 juin 
 
+» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-performance](PostgreSQL Performance)
+
 ##Développeur (PL/PGSQL) (DEV1)
 
 22-23 janvier 
@@ -68,6 +77,8 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 2-3 avril 
 
 4-5 juin 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-developpeur](Développeur (PL/PGSQL))
 
 ##Migration Oracle vers PostgreSQL (DEV2)
 
@@ -79,6 +90,9 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 18-19 juin 
 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-migration-postgresql](Migration Oracle vers PostgreSQL)
+
 ##PostgreSQL Architectes (DEV3)
 
 5-6 février 
@@ -88,6 +102,9 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 23-24 avril 
 
 9-10 juillet 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-postgresql-architecte](PostgreSQL Architectes)
+
 
 ##SQL : conception et mise en oeuvre (DEV4)
 
@@ -99,14 +116,20 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 9-11 juin 
 
+» Voir le plan de formation [http://www.dalibo.com/formation-sql-conception-mise-en-oeuvre](SQL : conception et mise en oeuvre)
+
 ##PostGIS : Mise en Oeuvre (SIG1)
 
 16-18 février 
 
 18-20 mai 
 
+» Voir le plan de formation [http://www.dalibo.com/formation-postgis-mise-en-oeuvre](PostGIS : Mise en Oeuvre)
+
 ##PostGIS : Fonctionnalités Avancées (SIG2)
 
 23-25 février 
 
 27-29 mai 
+
+» Voir le plan de formation [http://www.dalibo.com/formation-postgis-fonctionnalites-avancees](PostGIS : Fonctionnalités Avancées)
