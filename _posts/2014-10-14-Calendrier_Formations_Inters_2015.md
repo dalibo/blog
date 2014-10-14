@@ -78,7 +78,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 4-5 juin 
 
-» Voir le plan de formation [http://www.dalibo.com/formation-developpeur](Développeur (PL/PGSQL))
+» Voir le plan de formation [Développeur (PL/PGSQL)](http://www.dalibo.com/formation-developpeur)
 
 ##Migration Oracle vers PostgreSQL (DEV2)
 
