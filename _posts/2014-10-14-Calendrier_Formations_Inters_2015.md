@@ -6,8 +6,6 @@ twitter_id: JourdanVirginie
 github_id: vijourdan
 tags: [PostgreSQL, formation, SIG]
 ---
-##Calendrier Formations Inters 2015 
-
 *Paris, le 14 octobre 2014*
 
 Découvrez notre calendrier de formations inter pour le premier trimestre 2015.
