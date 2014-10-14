@@ -10,6 +10,7 @@ tags: [PostgreSQL, formation, SIG]
 
 Découvrez notre calendrier de formations inter pour le premier trimestre 2015.
 N'hésitez pas à nous contacter pour vous y inscrire ou obtenir des renseignements complémentaires : [formation@dalibo.com](formation@dalibo.com)
+
 Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://www.dalibo.com/formations)
 
 <!--MORE-->
