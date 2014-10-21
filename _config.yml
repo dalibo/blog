@@ -14,7 +14,8 @@ defaults:
     values:
       title: L'actualité PostgreSQL par DALIBO 
 
-description: 
+title: L'actualité PostgreSQL par DALIBO
+description: DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
 author:
   name: DALIBO
   email: contact@dalibo.com
@@ -29,4 +30,4 @@ tags_path: tags.html
 
 ga_id: UA-637331-11
 
-BASE_PATH: 
+BASE_PATH: http://blog.dalibo.com
