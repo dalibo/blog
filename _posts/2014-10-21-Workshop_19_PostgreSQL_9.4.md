@@ -1,4 +1,3 @@
-<markdown>
 ---
 layout: post
 title: Workshop Postgresql 9.4 - 19 novembre 2014
@@ -6,7 +5,6 @@ author: Virginie Jourdan
 twitter_id: JourdanVirginie 
 github_id: vijourdan
 tags: [PostgreSQL, workshop]
-
 ---
 *Paris, le 21 octobre 2014*
 
