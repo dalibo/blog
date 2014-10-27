@@ -48,7 +48,7 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 26-27 janvier 
 
-19-20 mars 
+23-24 mars 
 
 21-22 avril 
 
@@ -60,11 +60,11 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 2-3 février 
 
-23-24 mars 
+26-27 mars 
 
 27-28 avril 
 
-25-26 juin 
+9-10 juillet 
 
 » Voir le plan de formation [PostgreSQL Performance](http://www.dalibo.com/formation-postgresql-performance)
 
@@ -97,11 +97,11 @@ Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://w
 
 5-6 février 
 
-26-27 mars 
+19-20 mars 
 
 23-24 avril 
 
-9-10 juillet 
+25-26 juin 
 
 » Voir le plan de formation [PostgreSQL Architectes](http://www.dalibo.com/formation-postgresql-architecte)
 
