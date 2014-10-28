@@ -23,7 +23,7 @@ En zoomant sur l’un des graphes, le tableau s’ajuste et vous affiche les req
 Un ensemble de fonctions PL est également disponible pour accéder et gérer les statistiques.
 
 
-## Nouveautés métriques et améliorations de l'interface
+## Nouvelles métriques et améliorations de l'interface
 
 
 Cette nouvelle version inclut un certain nombre de correctifs et de nouvelles fonctionnalités depuis.
