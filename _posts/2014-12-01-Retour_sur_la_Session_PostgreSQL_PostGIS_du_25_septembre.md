@@ -36,4 +36,5 @@ Au plaisir de vous y rencontrer en cette belle occasion !
 Et pour être informés de nos projets, évènements à venir ... 
 
 [Blog Oslandia](http://www.oslandia.com/articles.html) / [Twitter](https://twitter.com/Oslandia_fr)
+
 [Newsletter Dalibo](http://dalibo.us6.list-manage.com/subscribe?u=1c10ff1ff8&id=0f138e24f0)
