@@ -7,7 +7,7 @@ github_id: daamien
 tags: [PostgreSQL]
 
 ---
-*Paris, le 18 décembre 2014*
+Paris, le 18 décembre 2014
 
 Le PostgreSQL Global Development Group annonce la sortie de PostgreSQL 9.4, la dernière version majeure de la base de données open source la plus avancée. Cette version apporte de nombreuses nouvelles fonctionnalités qui améliorent la flexibilité, la scalabilité et les performances de PostgreSQL pour la plupart des utilisateurs, avec notamment l'amélioration du support de JSON, de la réplication et des performances sur les index.
 
