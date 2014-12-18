@@ -36,6 +36,7 @@ Performance
 -----------
 
 La version 9.4 apporte de nombreuses améliorations des performances qui permettront à ses utilisateurs de mieux tirer profit de leurs serveurs PostgreSQL. Parmi ces améliorations :
+
   * Améliorations sur les index GIN, les rendant jusqu'à 50% plus petits et jusqu'à trois fois plus rapides.
   * Rafraîchissement non-bloquant des vues matérialisées pour produire des rapports à jour plus rapidement.
   * Chargement plus rapide du cache de la base après un redémarrage avec pg_prewarm.
