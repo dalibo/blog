@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md", "_drafts/template.md"] # files to exclude
 highlighter: true
 markdown: kramdown
-
+excerpt_separator: "<!--MORE-->"
 
 defaults:
   -
