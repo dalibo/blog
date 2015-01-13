@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Pénurie de compétences PostgreSQL : Dalibo certifie et labellise des partenaires indépendants
+title: Pénurie de compétences PostgreSQL, Dalibo certifie et labellise des partenaires indépendants
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
 tags: [PostgreSQL, DBA]
-
 ---
+
 *Paris, le 13 janvier 2015*
 
 Tandis que la demande en compétences PostgreSQL s’accélère au rythme d’une forte adoption du système de gestion de base de données open source en France, l’offre tarde à se structurer. En réponse, Dalibo innove avec des formations gratuites et lance son programme de partenariat "DBA PostgreSQL"  
