@@ -56,4 +56,3 @@ Code & Démo sur [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
 
 DALIBO est le spécialiste français de PostgreSQL et propose du support, de la formation et du conseil depuis 2005. La société est active au sein de la communauté PostgreSQL de différentes manières, notamment : des développements, des articles, de la traduction, des conférences ouvertes à tous et des ateliers gratuits.
 Retrouvez les projets open source de DALIBO sur : [http://dalibo.github.io](http://dalibo.github.io)
-</markdown>
