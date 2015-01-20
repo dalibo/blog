@@ -23,6 +23,8 @@ POWA est un analyseur de trafic (“workload analyzer”) qui va vous donner une
 En zoomant sur l’un des graphes, le tableau s’ajuste et vous affiche les requêtes qui se sont exécutées sur cette période. En cliquant sur une requête spécifique, vous obtenez des graphiques supplémentaires : temps de lecture/écriture, nombre de lignes affectées, etc.
 Un ensemble de fonctions PL est également disponible pour accéder et gérer les statistiques.
 
+![PoWA screenshot]({{ site.production_url }}/img/powa_20150120.png)
+
 ## Nouvelles fonctionnalités et changements dans l'interface Web
 
   * L'interface Web est maintenant compatible avec mojolicious 5.0 et plus
