@@ -37,11 +37,11 @@ comment nous pourrions mettre en oeuvre notre exemple.
 Pour installer cette extension, rien de plus simple, après avoir décompressé
 l'archive :
 
-'''
+```
     $ cd external_file/
     $ make
     $ make install
-'''
+```
 
 Les extensions nécessitent d'avoir un PostgreSQL >= 9.1. Reste à créer
 l'extension dans la base de données cible :
@@ -52,13 +52,13 @@ l'extension dans la base de données cible :
 
 Celle-ci va créer le schéma "external_file" et y créer les tables et fonctions
 nécessaires à son utilisation. Pour que les utilisateurs puissent utiliser ce
-schema il est préférable de changer le '''search_path''' par défaut :
+schema il est préférable de changer le ```search_path``` par défaut :
 
 {% highlight sql %}
     ALTER DATABASE mabase SET search_path="$user",public,external_file;
 {% endhighlight sql %}
 
-Il faut commencer par créer des '''DIRECTORY''' dans lequel seront stockées les
+Il faut commencer par créer des ```DIRECTORY``` dans lequel seront stockées les
 images passées sous forme de bytea et selon le nom de fichier donné.
 
 {% highlight sql %}
@@ -71,21 +71,21 @@ pouvoir écrire dedans, mais l'autocréation du répertoire peut faire partie
 d'une amélioration de l'extension. Il faut aussi que le '/' final soit
 présent pour que l'extension fonctionne correctement.
 
-Ici on a donc un emplacement de stockage nommé '''mon_album_photo''' avec comme
-emplacement physique '''/var/www/albums/gilles/famille/'''. Les photos seront
+Ici on a donc un emplacement de stockage nommé ```mon_album_photo``` avec comme
+emplacement physique ```/var/www/albums/gilles/famille/```. Les photos seront
 elle accessibles en consultation directement via Internet par une URL du
 genre http://monserver/albums/gilles/famille/
 
-Puis on sécurise l'accès à ce '''DIRECTORY''' :
+Puis on sécurise l'accès à ce ```DIRECTORY``` :
 
 {% highlight sql %}
     INSERT INTO directory_roles(directory_name,directory_role,directory_read,directory_write)
         VALUES ('mon_album_photo', 'gilles', true, true);
 {% endhighlight sql %}
 
-Seul l'utilisateur '''gilles''' pourra lire et écrire via PostgreSQL dans ce
+Seul l'utilisateur ```gilles``` pourra lire et écrire via PostgreSQL dans ce
 répertoire. Cet utilisateur peut donc maintenant créer un fichier dans ce
-'''DIRECTORY''' :
+```DIRECTORY``` :
 
 {% highlight sql %}
     SELECT writeEfile('\x89504e470d0a1a0a0000000d4948445200000010000000100804000000b5fa37ea000000017352474200aece1ce900000002624b474400ff878fccbf000000097048597300000b1300000b1301009a9c180000000774494d4507df01170b1e22d266d3160000018c4944415428cf3d904d4b546100859ff77ac7b90e33232a8a3841392a82e1226c51b61a5018647025686452da2f109556b96b9121b8487021d942850441178a28820b093f080b669360146eca08111bc6f9784f8b2b9ecd599cb378ce01009a7d0bd5b6c61b622e80b8510f00c9a049c636927a20ef0d71803a3f8e00509df056db2f3e2aa39f7aa5583af4ba230c700ba0ce0b4e990b14d05b5bd0b97d2444c1f91eed03a0dc0d4c2084ba949124edab465864f25e373859cf267ca6300100829481417269b9eb38056c113070c831200ef8718d6fc9e180e4f28cfb9cb08fc8b202f4f2d040d1fe9553240a0c93a78335aef8c31e6da488e31136a5c681463a69e336dff844962ffcc66386799e90d12fb940c918357c002ab064805d604e39335b526970bd8ae505c98e2aac4d4979bd94ab3d494f45bf0042f7f83c983bd5b4a66d4acfed9c5dd78eee5cf2be29723d67c065a4eaeb94c6d562135ad48b2bb64801540244fd567dfdf8f6bfb44e3479c4e3da0840837f1074b30ae00c379f0d45d32cbdbb846ace00f80fc4ada500c15a80bc0000000049454e44ae426082', ('mon_album_photo', 'pgbadger-icon.png'));
@@ -93,10 +93,10 @@ répertoire. Cet utilisateur peut donc maintenant créer un fichier dans ce
 
 On peut vérifier que le fichier est bien créé sur disque :
 
-'''
+```
     $ ls -la /var/www/albums/gilles/famille/pgbadger.png
     -rw-r--r-- 1 postgres postgres 520 janv. 23 12:30 /var/www/albums/gilles/famille/pgbadger.png
-'''
+```
 
 Suivant votre modèle de données, il vous faut une table qui va stocker les
 méta-données relatives à ces fichiers externes, par exemple :
@@ -111,7 +111,7 @@ méta-données relatives à ces fichiers externes, par exemple :
     );
 {% endhighlight sql %}
 
-La table utilise un type utilisateur créé par l'extension '''efile''', voici
+La table utilise un type utilisateur créé par l'extension ```efile```, voici
 la définition de ce type :
 
 {% highlight sql %}
