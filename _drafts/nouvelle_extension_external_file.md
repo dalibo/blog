@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Extension BFILE pour PostgreSQL: external_file
+title: Extension BFILE pour PostgreSQL&#58; external_file
 author: Gilles Darold
-twitter_id: @dalibo
+twitter_id: dalibo
 github_id: dalibo
 tags: [PostgreSQL, extension, lob, bfile]
 ---
