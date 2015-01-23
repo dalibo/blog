@@ -37,11 +37,11 @@ comment nous pourrions mettre en oeuvre notre exemple.
 Pour installer cette extension, rien de plus simple, après avoir décompressé
 l'archive :
 
-```
-    $ cd external_file/
-    $ make
-    $ make install
-```
+{% highlight bash %}
+$ cd external_file/
+$ make
+$ make install
+{% endhighlight %}
 
 Les extensions nécessitent d'avoir un PostgreSQL >= 9.1. Reste à créer
 l'extension dans la base de données cible :
@@ -93,10 +93,10 @@ répertoire. Cet utilisateur peut donc maintenant créer un fichier dans ce
 
 On peut vérifier que le fichier est bien créé sur disque :
 
-```
-    $ ls -la /var/www/albums/gilles/famille/pgbadger.png
-    -rw-r--r-- 1 postgres postgres 520 janv. 23 12:30 /var/www/albums/gilles/famille/pgbadger.png
-```
+{% highlight bash %}
+$ ls -la /var/www/albums/gilles/famille/pgbadger.png
+-rw-r--r-- 1 postgres postgres 520 janv. 23 12:30 /var/www/albums/gilles/famille/pgbadger.png
+{% endhighlight %}
 
 Suivant votre modèle de données, il vous faut une table qui va stocker les
 méta-données relatives à ces fichiers externes, par exemple :
