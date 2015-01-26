@@ -37,9 +37,9 @@ comment nous pourrions mettre en oeuvre notre exemple.
 Pour installer cette extension, rien de plus simple, après avoir décompressé
 l'archive :
 
-    &#36; cd external_file/
-    &#36; make
-    &#36; make install
+    $ cd external_file/
+    $ make
+    $ make install
 
 
 Les extensions nécessitent d'avoir un PostgreSQL >= 9.1. Reste à créer
@@ -54,7 +54,7 @@ nécessaires à son utilisation. Pour que les utilisateurs puissent utiliser ce
 schéma il est préférable de changer le ```search_path``` par défaut :
 
 ```
-    ALTER DATABASE mabase SET search_path="&#36;user",public,external_file;
+    ALTER DATABASE mabase SET search_path="$user",public,external_file;
 ```
 
 Il faut commencer par créer des ```DIRECTORY``` dans lesquels seront stockées les
@@ -92,7 +92,7 @@ répertoire. Cet utilisateur peut donc maintenant créer un fichier dans ce
 
 On peut vérifier que le fichier est bien créé sur disque :
 
-    &#36; ls -la /var/www/albums/gilles/famille/pgbadger.png
+    $ ls -la /var/www/albums/gilles/famille/pgbadger.png
     -rw-r--r-- 1 postgres postgres 520 janv. 23 12:30 /var/www/albums/gilles/famille/pgbadger.png
 
 Suivant votre modèle de données, il vous faut une table qui va stocker les
@@ -155,7 +155,7 @@ au format bytea du logo de pgbadger :
 
 ```
     CREATE OR REPLACE FUNCTION bytea_import(p_path text, p_result out bytea) 
-    AS &#36;&#36;
+    AS $body$
     DECLARE
       l_oid oid;
       r record;
@@ -170,7 +170,7 @@ au format bytea du logo de pgbadger :
       END LOOP;
       PERFORM lo_unlink(l_oid);
     END;
-    &#36;&#36;
+    $body$
     LANGUAGE PLPGSQL;
     
     CREATE TABLE bytea_tbl (file_content bytea);
