@@ -139,18 +139,22 @@ Voilà, vous avez à peu près les BFILE d'Oracle dans PostgreSQL. Reportez vous
 
 Cette extension n'est pas parfaite et ne résoud pas toutes les problèmatiques,
 mais cela peut être une solution simple à ce que vous voulez faire. Il faut
-cependant prendre en compte les performances à la manipulation des fichiers
-externes via PostgreSQL. Mais aussi penser à la sauvegarde et la réplication,
-si nécessaire, de ces fichiers qui doivent être traités en parallèle des
-solutions internes à PostgreSQL.
+cependant prendre en compte la sauvegarde et la réplication, de ces fichiers
+qui doivent être traités en parallèle des solutions internes à PostgreSQL.
+
+Au niveau la performance en entrée / sortie elle est généralement sans importante.
+Le chargement devrait être peu utilisé comparativement aux autres requêtes, l'idée
+du BFILE est quand même celui d'un "pointeur" vers quelque chose de défini et
+utilisé par des moyens externes. D'ailleurs ce chargement direct n'existe pas non
+plus pour les BFILE sous Oracle.
 
 N'hésitez pas à faire des remarques et à remonter les dysfonctionnements via
 le dépôt github : https://github.com/darold/external_file . Toute contribution
 est aussi la bienvenue.
 
-PS: si vous ne savez pas comment importer vos fichiers sous forme de donnée
-bytea, voici une fonction que j'ai utilisé pour avoir la donnée bytea du
-logo de pgbadger :
+Si vous ne savez pas comment importer directement vos fichiers sous forme de
+donnée bytea, voici une fonction qui peut être utilisé pour avoir la donnée
+au format bytea du logo de pgbadger :
 
 {% highlight sql %}
 CREATE OR REPLACE FUNCTION bytea_import(p_path text, p_result out bytea) 
@@ -177,5 +181,5 @@ INSERT INTO bytea_tbl(file_content) SELECT bytea_import('/tmp/pgbadger.png');
 {% endhighlight sql %}
 
 Il ne me reste plus qu'a faire un SELECT dans la table bytea_tbl pour obtenir
-la données bytea.
+la donnée bytea.
 
