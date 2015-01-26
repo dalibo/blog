@@ -13,8 +13,12 @@ Mettre ici une ou deux phrases qui résument votre article
 
 Le reste de l'article
 
-{% highlight sql %}
+``` bash
+$ command
+```
+
+``` sql
 SELECT blah 
-{% endhighlight %}
+```
 
 
