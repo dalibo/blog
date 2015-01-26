@@ -153,7 +153,6 @@ Si vous ne savez pas comment importer directement vos fichiers sous forme de
 donnée bytea, voici une fonction qui peut être utilisée pour avoir la donnée
 au format bytea du logo de pgbadger :
 
-```
     CREATE OR REPLACE FUNCTION bytea_import(p_path text, p_result out bytea) 
     AS $body$
     DECLARE
@@ -175,7 +174,6 @@ au format bytea du logo de pgbadger :
     
     CREATE TABLE bytea_tbl (file_content bytea);
     INSERT INTO bytea_tbl(file_content) SELECT bytea_import('/tmp/pgbadger.png');
-```
 
 Il ne me reste plus qu'a faire un SELECT dans la table bytea_tbl pour obtenir
 la donnée bytea.
