@@ -13,12 +13,3 @@ Mettre ici une ou deux phrases qui résument votre article
 
 Le reste de l'article
 
-``` bash
-$ command
-```
-
-``` sql
-SELECT blah 
-```
-
-
