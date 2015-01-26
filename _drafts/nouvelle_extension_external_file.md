@@ -3,11 +3,11 @@ layout: post
 title: Extension BFILE pour PostgreSQL&#58; external_file
 author: Gilles Darold
 twitter_id: dalibo
-github_id: dalibo
+github_id: darold
 tags: [PostgreSQL, extension, lob, bfile]
 ---
 
-Vous connaisez les BFILE d'Oracle ? Il s'agit d'un type de données qui permet d'accéder à des fichiers externes, stockés en dehors à la base.
+Vous connaisez les BFILE d'Oracle ? Il s'agit d'un type de données qui permet d'accéder à des fichiers externes, stockés en dehors de la base.
 
 Une nouvelle extension appelée [external file](https://github.com/darold/external_file) permet désormais de 
 manipuler des fichiers à l'extérieur du système de base de
@@ -15,20 +15,20 @@ données PostgreSQL.
 
 <!--MORE-->
 
-Supposez par exemple que vous ayez besoin de mettre à disposition d'un site Web
+Supposez par exemple que vous ayiez besoin de mettre à disposition d'un site Web
 des images. Toutes les informations et les méta-données relatives à ces images
 sont stockées dans votre base PostgreSQL et vous souhaitez que les utilisateurs
-puissent ajouter ou manipuller les images via votre interface Web.
+puissent ajouter ou manipuler les images via votre interface Web.
 
 Aucun problème, vous pouvez stocker vos images sous forme d'objets binaires
-(bytea). L'inconvénient c'est que cela peut avoir un coût très élévé sur les
-performances selon l'activité de votre site. Il y a bien sur la possibilité
+(bytea). L'inconvénient étant le coût très élevé que cela peut avoir sur les
+performances selon l'activité de votre site. Il y a bien sûr la possibilité
 d'utiliser un cache en amont mais cela complexifie l'architecture. Dans notre
 exemple l'idéal pourrait être de stocker les images sur un système de fichier
 accessible à PostgreSQL et en même temps à un serveur Web. La manipulation
 des images et des données associées passerait donc toujours par PostgreSQL
 mais le service d'affichage/consultation des images serait rendu par un serveur
-Apache, bien plus efficase pour ca.
+Apache, bien plus efficace pour ça.
 
 C'est ce que permet la nouvelle extension "external_file" développée par
 Dominique Legendre pour les besoins du Brgm (http://www.brgm.fr/). Voici
@@ -53,13 +53,13 @@ l'extension dans la base de données cible :
 
 Celle-ci va créer le schéma "external_file" et y créer les tables et fonctions
 nécessaires à son utilisation. Pour que les utilisateurs puissent utiliser ce
-schema il est préférable de changer le ```search_path``` par défaut :
+schéma il est préférable de changer le ```search_path``` par défaut :
 
 ``` sql
     ALTER DATABASE mabase SET search_path="$user",public,external_file;
 ```
 
-Il faut commencer par créer des ```DIRECTORY``` dans lequel seront stockées les
+Il faut commencer par créer des ```DIRECTORY``` dans lesquels seront stockées les
 images passées sous forme de bytea et selon le nom de fichier donné.
 
 ``` sql
@@ -67,7 +67,7 @@ images passées sous forme de bytea et selon le nom de fichier donné.
         VALUES ('mon_album_photo','/var/www/albums/gilles/famille/');
 ```
 
-Bien sur le répertoire cible doit exister et l'utilisateur postgres doit
+Bien sûr le répertoire cible doit exister et l'utilisateur postgres doit
 pouvoir écrire dedans, mais l'autocréation du répertoire peut faire partie
 d'une amélioration de l'extension. Il faut aussi que le '/' final soit
 présent pour que l'extension fonctionne correctement.
@@ -122,7 +122,7 @@ la définition de ce type :
     );
 ```
 
-Passons ensuite ) l'ajout des informations sur le fichier que l'on vient
+Passons ensuite à l'ajout des informations sur le fichier que l'on vient
 d'enregistrer :
 
 ``` sql
@@ -138,12 +138,12 @@ Il est notamment possible de faire une copie du fichier par l'interface SQL :
 Voilà, vous avez à peu près les BFILE d'Oracle dans PostgreSQL. Reportez vous
 à la documentation de l'extension pour plus d'explications.
 
-Cette extension n'est pas parfaite et ne résoud pas toutes les problèmatiques,
+Cette extension n'est pas parfaite et ne résoud pas toutes les problématiques,
 mais cela peut être une solution simple à ce que vous voulez faire. Il faut
-cependant prendre en compte la sauvegarde et la réplication, de ces fichiers
-qui doivent être traités en parallèle des solutions internes à PostgreSQL.
+cependant prendre en compte la sauvegarde et la réplication de ces fichiers,
+qui doivent être traitées en parallèle des solutions internes à PostgreSQL.
 
-Au niveau la performance en entrée / sortie elle est généralement sans importante.
+Au niveau de la performance en entrée / sortie elle est généralement sans importance.
 Le chargement devrait être peu utilisé comparativement aux autres requêtes, l'idée
 du BFILE est quand même celui d'un "pointeur" vers quelque chose de défini et
 utilisé par des moyens externes. D'ailleurs ce chargement direct n'existe pas non
@@ -154,7 +154,7 @@ le dépôt github : https://github.com/darold/external_file . Toute contribution
 est aussi la bienvenue.
 
 Si vous ne savez pas comment importer directement vos fichiers sous forme de
-donnée bytea, voici une fonction qui peut être utilisé pour avoir la donnée
+donnée bytea, voici une fonction qui peut être utilisée pour avoir la donnée
 au format bytea du logo de pgbadger :
 
 ``` sql
