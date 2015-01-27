@@ -107,7 +107,7 @@ la définition de ce type :
 Passons ensuite à l'ajout des informations sur le fichier que l'on vient
 d'enregistrer :
 
-    INSERT INTO mon_album VALUES (1, 'gilles', 520, 'images/pgn', ('mon_album_photo','pgbadger.png'));
+    INSERT INTO mon_album VALUES (1, 'gilles', 520, 'images/png', ('mon_album_photo','pgbadger.png'));
 
 Il est notamment possible de faire une copie du fichier par l'interface SQL :
 
