@@ -2,7 +2,7 @@
 layout: post
 title: Participation Dalibo à PgConf Russia 2015
 author: Virginie Jourdan
-twitter_id: VirginieJourdan   
+twitter_id: JourdanVirginie   
 github_id: vijourdan
 tags: [PostgreSQL, pgconf, conference]
 
