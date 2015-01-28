@@ -7,7 +7,7 @@ github_id: darold
 tags: [PostgreSQL, extension, lob, bfile]
 ---
 
-Vous connaisez les BFILE d'Oracle ? Il s'agit d'un type de données qui permet d'accéder à des fichiers externes, stockés en dehors de la base.
+Vous connaissez les BFILE d'Oracle ? Il s'agit d'un type de données qui permet d'accéder à des fichiers externes, stockés en dehors de la base.
 
 Une nouvelle extension appelée [external file](https://github.com/darold/external_file) permet désormais de 
 manipuler des fichiers à l'extérieur du système de base de
