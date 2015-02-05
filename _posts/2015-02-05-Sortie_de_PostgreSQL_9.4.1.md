@@ -11,7 +11,7 @@ tags: [PostgreSQL, securite, upgrade]
 
 
 Le PostgreSQL Global Development Group vient de publier une importante mise à jour contenant des correctifs pour plusieurs failles de sécurité pour l'ensemble des versions supportées du SGBDR PostgreSQL, il s'agit des versions mineures 9.4.1, 9.3.6, 9.2.10, 9.1.15, et 9.0.19.
-Ces mises à jour contiennent des corrictifs de sécurité et des correctifs pour les problèmes découverts depuis la dernière publication. En particulier pour la mise à jour de la version 9.4, une modification sur l'échappement des chaînes de caractères unicode avec les types JSON et JSONB est incluse.
+Ces mises à jour contiennent des correctifs de sécurité et des correctifs pour les problèmes découverts depuis la dernière publication. En particulier pour la mise à jour de la version 9.4, une modification sur l'échappement des chaînes de caractères unicode avec les types JSON et JSONB est incluse.
 
 <!--MORE-->
 
