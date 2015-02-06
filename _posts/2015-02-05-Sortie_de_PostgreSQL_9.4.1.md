@@ -74,14 +74,14 @@ la mise à jour; voyez les notes de mise à jour pour plus de détails.
 
 * [Téléchargement]
 * [Notes de version]
-* [Sécurité]
 * [Annonce officielle]
+* [Sécurité]
 
 
 [Téléchargement]: http://www.postgresql.org/download
 [Notes de version]: http://www.postgresql.org/docs/current/static/release.html
+[Annonce officielle]: http://www.postgresql.org/about/news/1569/
 [Sécurité]: http://www.postgresql.org/support/security/
-[Annonce officielle]: http://www.postgresql.org/about/news/1569/
 
 
 [CVE-2015-0241]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0241
