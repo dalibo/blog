@@ -20,7 +20,7 @@ Tous les utilisateurs sont invités à mettre à jour leurs installations de Pos
 
 ## Correctifs de sécurité
 
-Cette mise à jour corrige plusieurs failles de sécurité découvertes dans PöstgreSQL ces derniers mois. L'exploitation de toutes ces failles nécessite une authentification préalable, et certaines des conditions supplémentaires, par conséquent elles ne sont pas considérées comme graves. Cependant, chacun est invité à vérifier dans la liste suivante des failles corrigées celles les impactant :
+Cette mise à jour corrige plusieurs failles de sécurité découvertes dans PostgreSQL ces derniers mois. L'exploitation de toutes ces failles nécessite une authentification préalable et certaines conditions supplémentaires, par conséquent elles ne sont pas considérées comme graves. Cependant, chacun est invité à vérifier dans la liste suivante des failles corrigées celles les impactant :
 
 * [CVE-2015-0241] Dépassement de tampon dans les fonctions "to_char".
 * [CVE-2015-0242] Dépassement de tampon dans les wrappers de fonction de type printf.
