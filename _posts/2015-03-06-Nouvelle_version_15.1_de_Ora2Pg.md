@@ -13,8 +13,6 @@ La nouvelle version 15.0 d'Ora2Pg avec dans la foulée un correctif et une versi
 
 <!--MORE-->
 
-Ces nouvelles versions apportent aussi de nombreux correctifs, pour avoir la liste complète, consulter le [https://github.com/darold/ora2pg/changelog](changelog).
-
 ## Nouvelles fonctionnalités
 
 Parmis ces nouvelles fonctionnalités on peut siter la possibilité d'exporter les BFILES tels quels en utilisant la nouvelle extension external_file [https://github.com/darold/external_file](https://github.com/darold/external_file), mais aussi le support des transactions autonomes avec l'utilisation de l'extension dblink et de fonctions d'encapsulation.
@@ -28,6 +26,8 @@ Cette version permet aussi :
   * Les contraintes sur les types spatiaux sont maintenant automatiquement déduites des paramètres des index définis sous Oracle.
   * Ajout de l'export des sous partitions Oracle, jusqu'à présent Ora2Pg se limitait aux partitions principales.
   * les directives ALLOW et EXCLUDE ont été entièrement revues pour permettre un filtre au niveau des différents object.
+
+De nombreux correctifs ont été apportés, pour avoir la liste complète, consulter le [changelog](https://github.com/darold/ora2pg/changelog).
 
 ## Liens
 
