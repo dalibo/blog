@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  PoWA 2: A la recherche de l'index manquant 
+title:  PoWA 2, A la recherche de l'index manquant 
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
