@@ -11,12 +11,13 @@ tags: [PostgreSQL, migration, oracle]
 
 La nouvelle version 15.0 d'Ora2Pg avec dans la foulée un correctif et une version 15.1 sont sortis le mois dernier. L'outil libre et gratuit de migration des bases Oracle vers PostgreSQL propose toujours plus de fonctionnalités.
 
+<!--MORE-->
 ## Nouvelles fonctionnalités
 
 Parmis ces nouvelles fonctionnalités on peut siter la possibilité d'exporter les BFILES tels quels en utilisant la nouvelle extension external_file [https://github.com/darold/external_file](https://github.com/darold/external_file), mais aussi le support des transactions autonomes avec l'utilisation de l'extension dblink et de fonctions d'encapsulation.
 
 Cette version permet aussi :
-<!--MORE-->
+
     - l'export des DIRECTORY en lien avec l'extension external_file et notamment des privilèges d'accès à ces DIRECTORY ;
     - les DATABASE LINK d'Oracle sont maintenant exportés en tant que source de données externe (Foreign Data Wrapper) en utilisant l'extension oracle_fdw ;
     - les SYNONYMS que l'on retrouve souvent dans les schémas Oracle sont maintenant exportés en tant que vues. S'il s'agit de SYNONYM utilisant des DATABASE LINK, ils pourront être pris en compte en utilisant l'extension oracle_fdw ;
