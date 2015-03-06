@@ -72,15 +72,15 @@ POWA est un projet ouvert sous licence PostgreSQL. Toute contribution constructi
 ## Liens :
 
 Pour PoWA 2.0:
-  * Téléchargement: [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
-  * Démo: [http://demo-powa.dalibo.com](http://demo-powa.dalibo.com)  (login/pass = powa/demo)
-  * Doc: [http://powa.readthedocs.org/](http://powa.readthedocs.org/)
-  * Liste de discussion: [https://groups.google.com/forum/?hl=fr#!forum/powa-users](https://groups.google.com/forum/?hl=fr#!forum/powa-users)
-  * Issues: [https://github.com/dalibo/powa/issues](https://github.com/dalibo/powa/issues)
+* Téléchargement: [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
+* Démo: [http://demo-powa.dalibo.com](http://demo-powa.dalibo.com)  (login/pass = powa/demo)
+* Doc: [http://powa.readthedocs.org/](http://powa.readthedocs.org/)
+* Liste de discussion: [https://groups.google.com/forum/?hl=fr#!forum/powa-users](https://groups.google.com/forum/?hl=fr#!forum/powa-users)
+* Issues: [https://github.com/dalibo/powa/issues](https://github.com/dalibo/powa/issues)
 
 Pour les nouvelles extensions :
-  * [pg_stat_kcache](https://github.com/dalibo/pg_stat_kcache)
-  * [pg_qualstats](https://github.com/dalibo/pg_qualstats) 
+* [pg_stat_kcache](https://github.com/dalibo/pg_stat_kcache)
+* [pg_qualstats](https://github.com/dalibo/pg_qualstats) 
 
 Pour une liste complète des changements, vous pouvez consulter la note de version : [http://powa.readthedocs.org/en/latest/releases/v2.0.html](http://powa.readthedocs.org/en/latest/releases/v2.0.html)
 
