@@ -15,7 +15,7 @@ La nouvelle version 15.0 d'Ora2Pg avec dans la foulée un correctif et une versi
 
 ## Nouvelles fonctionnalités
 
-Parmis ces nouvelles fonctionnalités on peut siter la possibilité d'exporter les BFILES tels quels en utilisant la nouvelle extension external_file [https://github.com/darold/external_file](https://github.com/darold/external_file), mais aussi le support des transactions autonomes avec l'utilisation de l'extension dblink et de fonctions d'encapsulation.
+Parmis ces nouvelles fonctionnalités on peut citer la possibilité d'exporter les BFILES tels quels en utilisant la nouvelle extension external_file [https://github.com/darold/external_file](https://github.com/darold/external_file), mais aussi le support des transactions autonomes avec l'utilisation de l'extension dblink et de fonctions d'encapsulation.
 
 Cette version permet aussi :
 
