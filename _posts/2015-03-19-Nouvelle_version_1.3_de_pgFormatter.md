@@ -9,9 +9,9 @@ tags: [PostgreSQL, sql]
 ---
 *Paris, le 19 mars 2015*
 
-La nouvelle version 1.3 de pgFormatter est sorti aujourd'hui. Cette version mineure corrige un certain nombre
-de problèmes de formattage du code SQL et ajoute le support des opérateurs géométriques. Une nouvelle
-fonctionnalité permet aussi de formatter sur une seule ligne une requête, l'exact inverse de son utilisation
+La nouvelle version 1.3 de pgFormatter est sortie aujourd'hui. Cette version mineure corrige un certain nombre
+de problèmes de formatage du code SQL et ajoute le support des opérateurs géométriques. Une nouvelle
+fonctionnalité permet aussi de formater sur une seule ligne une requête, l'exact inverse de son utilisation
 usuelle.
 
 <!--MORE-->
@@ -27,8 +27,8 @@ usuelle.
 
 ## À propos de pgFormatter :
 
-pgFormatter est un outil Open Source gratuit qui permet de formatter/embellifier le code SQL. Il supporte
-les mots clefs du SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 et les lots clefs spécifiques à PostgreSQL.
-Il partage le même code que pgBadger, donc la plupart des modifications et améliorations qui sont faites sur
-pgFormatter sont repportées dans pgBadger. C'est un projet créé et maintenu par l'auteur de pgBadger, Gilles Darold.
+pgFormatter est un outil Open Source gratuit qui permet de formater/embellir le code SQL. Il supporte
+les mots clefs du SQL-92, SQL-99, SQL-2003, SQL-2008, SQL-2011 et les mots clefs spécifiques à PostgreSQL.
+Il partage le même code que pgBadger, ainsi, la plupart des modifications et améliorations faites sur
+pgFormatter sont reportées dans pgBadger. C'est un projet créé et maintenu par l'auteur de pgBadger, Gilles Darold.
 
