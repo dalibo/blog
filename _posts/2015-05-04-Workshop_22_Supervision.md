@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Workshop Supervision - 17 juin 2015
+title:  Workshop PostgreSQL Supervision - 17 juin 2015
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
