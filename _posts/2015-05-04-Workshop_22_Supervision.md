@@ -12,7 +12,7 @@ tags: [PostgreSQL, workshop]
 Dalibo a le plaisir de vous inviter à son prochain Workshop, le mercredi 17 juin prochain, à Paris.
 A cette occasion, une journée complète d'ateliers et d'échanges sera consacrée à la Supervision et ses outils.
 
-
+![PostgreSQL Monitoring](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/powa_20150120.png)
 <!--MORE-->
 
 
