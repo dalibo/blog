@@ -8,8 +8,6 @@ tags: [PostgreSQL, securite, upgrade]
 
 ---
 
-Bug des droits fsync, PostgreSQL 9.4.1, 9.3.6, 9.2.10, 9.1.15 et 9.0.19
-=======================================================================
 
 Le 22 mai 2015, le projet PostgreSQL a publié un ensemble de mises à jour pour toutes les versions supportées de PostgreSQL. Un des correctifs apportés par ces mises à jour forçait un appel à fsync pour tous les fichiers de PostgreSQL lors d'un redémarrage suite à un crash. Ce correctif a été ajouté pour empêcher certains types de corruption de données qui peuvent se produire lorsque le système hébergeant la base de données subit plusieurs pannes d'affilée.
 
