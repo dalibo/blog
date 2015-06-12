@@ -19,7 +19,7 @@ lors de la prochaine fenêtre de maintenance.
 
 <!--MORE-->
 
-## Correction liées à la récupération après un crash
+## Corrections liées à la récupération après un crash
 
 Les précédentes mises à jour ont essayé de corriger un problème dans PostgreSQL
 9.3 et 9.4 lié au rebouclage du multixact, mais sans prendre en compte les
