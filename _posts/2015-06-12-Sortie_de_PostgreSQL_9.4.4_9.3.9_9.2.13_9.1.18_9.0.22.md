@@ -45,9 +45,10 @@ En plus du correctif décrit plus haut, un certain nombre d'autres problèmes on
 été corrigés dans cette version. Cela inclut :
 
 * corrige des échecs pour invalider le fichier d'initialisation du cache de
-* relation * évite les deadlocks provoqués entre de nouvelles sessions et
-* l'exécution d'ordres CREATE/DROP DATABASE ; * améliore la planification des
-* semi-jointures et des anti-jointures.
+relation
+* évite les deadlocks provoqués entre de nouvelles sessions et l'exécution
+d'ordres CREATE/DROP DATABASE ;
+* améliore la planification des semi-jointures et des anti-jointures.
 
 ## Correctifs cumulatifs
 
