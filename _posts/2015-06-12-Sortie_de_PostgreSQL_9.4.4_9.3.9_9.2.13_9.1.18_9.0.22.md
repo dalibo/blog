@@ -75,4 +75,4 @@ PostgreSQL 9.3.
 Liens:
 
 - [Téléchargement](http://www.postgresql.org/download)
-- [Notes de versions](http://www.postgresql.org/docs/current/static/release.html)
+- [Notes de versions](http://www.postgresql.org/docs/9.4/static/release-9-3-9.html)
