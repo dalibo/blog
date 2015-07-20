@@ -24,7 +24,7 @@ Vous aurez ainsi l'opportunité de participer aux conférences suivantes :
   * Michel Edwell de Météo France : Témoignage utilisateur sur la mise en œuvre de la réplication
   * Olivier Courtin d'Oslandia : PostGIS : trucs et astuces & présentation du projet Tempus
   * Jean-Marc Guazzo de SQIG Inc (Québec, Canada) : Office, .NET & … PostgreSQL : tiercé gagnant pour les institutions publiques ?
-  * Julien Rouhaud et Ronan Dunklau de Dalibo : Optimisation de requêtes, avec powa / qualstats / kcache / hypopg
+  * Julien Rouhaud et Ronan Dunklau de Dalibo : Optimisation de requêtes, avec PoWA / pg_qualstats / pg_stat_kcache / HypoPG
 
 Deux temps forts lors de cette session, grâce à la présence d'acteurs emblématiques de la communauté PostgreSQL : notre invité spécial, Heikki Linnakangas, développeur et commiter de longue date et Magnus Hagander, président de PostgreSQL Europe et membre de la "Core Team PostgreSQL" qui nous fait l'amitié de venir présenter les nouveautés de la 9.5.
 
