@@ -18,7 +18,7 @@ A l’occasion de cet évènement entièrement dédié à PostgreSQL, gratuit et
 Vous aurez ainsi l'opportunité de participer aux conférences suivantes :
 
   * Heikki Linakangas de PIVOTAL (USA) : pg_rewind - resynchronizing servers after failover
-  * Magnus Hagander de REDPIL LINPRO (Suède) : What's new in PostgreSQL 9.5 ?
+  * Magnus Hagander de REDPILL LINPRO (Suède) : What's new in PostgreSQL 9.5 ?
   * Vincent Laborie et Eric Pommereau du Ministère de l'Intérieur : Postgresql-Postgis, les usages pour la sécurité intérieure
   * Nicolas Relange de Lemoine Technologies : Exemple d'une migration de PostgreSQL sous Linux d'un système de suivi de production
   * Michel Edwell de Météo France : Témoignage utilisateur sur la mise en œuvre de la réplication
