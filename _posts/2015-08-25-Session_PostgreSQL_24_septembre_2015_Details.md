@@ -2,7 +2,7 @@
 layout: post
 title:  Notre Session PostgreSQL du jeudi 24 septembre, plus de détails !
 author: Virginie Jourdan
-twitter_id:  JourdanVirginie   
+twitter_id:  JourdanVirginie
 github_id: vijourdan
 tags: [PostgreSQL, session, conference]
 
@@ -18,6 +18,9 @@ Plus que quelques jours avant l'ouverture des inscriptions, prévue le 2 septemb
 Pour vous faire patienter, nous dévoilons plus de détails sur notre Session du 24 septembre.
 
 Le lieu choisi est symbolique, nous serons accueillis par la fondation Mozilla, Boulevard Montmartre, au sein de son grand salon inscrit aux monuments historiques.
+
+![Mozilla Europe](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/mozilla_europe_paris1.jpg)
+
 
 Un accueil chaleureux par Mozilla, un lieu de prestige, un programme alléchant ... 
 
