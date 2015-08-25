@@ -19,7 +19,7 @@ Pour vous faire patienter, nous dévoilons plus de détails sur notre Session du
 
 Le lieu choisi est symbolique, nous serons accueillis par la fondation Mozilla, Boulevard Montmartre, au sein de son grand salon inscrit aux monuments historiques.
 
-![Mozilla Europe](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/mozilla_europe_paris1.jpg)
+![Mozilla Europe](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/mozilla-europe-paris1.jpg)
 
 
 Un accueil chaleureux par Mozilla, un lieu de prestige, un programme alléchant ... 
