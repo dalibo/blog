@@ -9,7 +9,7 @@ tags: [PostgreSQL, session, conference]
 ---
 *Paris, le 30 septembre 2015*
 
-Notre septième pgsession du 24 septembre dernier a rencontré un franc succès !
+Cette septième édition du 24 septembre dernier a, encore une fois, tenu toutes ses promesses ...
 
 
 <!--MORE-->
