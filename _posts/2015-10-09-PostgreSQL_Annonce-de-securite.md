@@ -60,7 +60,8 @@ En plus de ce qui précède, de nombreux problèmes ont été corrigés dans cet
   * Correction d'un problème de démarrage sur Windows avec une locale Chinoise
   * Corriger le script install.bat de Windows pour gérer les espaces dans les noms de fichiers
   * Rendre la version numérique de PostgreSQL accessible aux extensions
-  * Cette mise à jour contient aussi la version 2015g de tzdata, avec des mises à jour pour les Iles Caïman, La Moldavie, le Marc, l'île Norfolk, la Corée du Nord, la Turquie, l'Uruguay et une nouvelle zone pour America/Fort_Nelson.
+
+Cette mise à jour contient aussi la version 2015g de tzdata, avec des mises à jour pour les Iles Caïman, La Moldavie, le Marc, l'île Norfolk, la Corée du Nord, la Turquie, l'Uruguay et une nouvelle zone pour America/Fort_Nelson.
 
 ## Cette version est la version finale pour 9.0
 
