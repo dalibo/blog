@@ -48,7 +48,7 @@ En plus de ce qui précède, de nombreux problèmes ont été corrigés dans cet
   * Rendre plus réactive l'annulation des requêtes utilisant des expressions régulières
   * Corriger différents bugs de l'optimiseur
   * Corriger plusieurs problèmes à l'extinction dans le postmaster
-  * Rentre l'autovacuum anti-wrapparound (bouclage du numéro de transaction) plus robuste
+  * Rendre l'autovacuum anti-wrapparound (bouclage du numéro de transaction) plus robuste
   * Corriger des bugs mineurs dans les indexes GIN et SP-GiST
   * Corriger plusieurs problèmes avec PL/Python, PL/Perl et PL/Tcl
   * Améliorer le garbage collection (nettoyage des entrées mortes) de pg_stat_statements
@@ -65,7 +65,7 @@ Cette mise à jour contient aussi la version 2015g de tzdata, avec des mises à 
 
 ## Cette version est la version finale pour 9.0
 
-9.0.23 est la version finale pour la version majeure 9.0, qui est maintenant End-Of-Life (EOL), comme prévu. Les prochaines mises à jour de sécurité n’incluront pas la version 9.0. Par conséquent, les utilisateurs de cette version devraient planifier une mise à jour vers une autre version majeure aussi vite que possible. Pour plus d'informations à propos de la politique de support de la communauté, et le plannig d'EOL, voyez «Versioning Policy».
+9.0.23 est la version finale pour la version majeure 9.0, qui est maintenant End-Of-Life (EOL), comme prévu. Les prochaines mises à jour de sécurité n’incluront pas la version 9.0. Par conséquent, les utilisateurs de cette version devraient planifier une mise à jour vers une autre version majeure aussi vite que possible. Pour plus d'informations à propos de la politique de support de la communauté, et le planning d'EOL, voyez «Versioning Policy».
 
 ## Mise à jour
 
