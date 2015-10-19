@@ -9,12 +9,9 @@ tags: [PostgreSQL, sql]
 ---
 *Paris, le 19 Octobre 2015*
 
-La nouvelle version 1.5 de pgFormatter est sortie aujourd'hui. Elle corrige
-certains problèmes et ajoute le support des nouveaux mots clefs relatifs à
-PostgreSQL 9.5. Elle inclue aussi une réécriture majeure du code par Hubert
-depesz Lubaczewski, pg_format fonctionne comme auparavant - permettant les
-deux interfaces, CGI et CLI, mais vous pouvez accéder directement à ces
-fonctionnalités au niveau développement en utilisant les modules pgFormatter::*.
+La nouvelle version 1.5 de pgFormatter est sortie aujourd'hui. Elle corrige certains problèmes et ajoute le support des nouveaux mots clefs relatifs à PostgreSQL 9.5. 
+Elle inclut aussi une réécriture majeure du code par Hubert depesz Lubaczewski.
+pg_format fonctionne comme auparavant (permettant les deux interfaces, CGI et CLI), mais vous pouvez accéder directement à ces fonctionnalités au niveau développement en utilisant les modules pgFormatter::*.
 
 <!--MORE-->
 
@@ -23,10 +20,10 @@ LOCKED, LOGGED, POLICY, ROLLUP, TABLESAMPLE. Et les nouvelles fonctions sont :
 jsonb_pretty, jsonb_set, pg_last_committed_xact, pg_xact_commit_timestamp.
 
 Il y a aussi une astuce ajoutée à la documentation qui est très utile aux
-utilisateurs de vi. Vous pouvez formatter le code SQL directement depuis
+utilisateurs de vi. Vous pouvez formater le code SQL directement depuis
 vi en ajoutant une simpl ligne au fichier .vimrc. Pour plus de détails
 consultez la documentation.  Cette astuce est issue du blog de David Fetter
-http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html
+[http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html](http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html)
 
 ## Liens
 
