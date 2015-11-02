@@ -51,8 +51,8 @@ Cette version amène aussi beaucoup d'améliorations:
 
 Il y a aussi quelques nouvelles options en ligne à la commande ora2pg:
 
-  * "-m | --mysql" : doit être utilisé avec --init_project ou -i pour informer ora2pg qu'il faut travailler sur un format MySQL
-  * "-T | --temp_dir" : option à utiliser pour avoir plusieurs exécutions d'ora2pg en parallèle et utiliser des répertoires de fichiers temporaires différents.
+  * "-m" ou "--mysql" : doit être utilisé avec --init_project ou -i pour informer ora2pg qu'il faut travailler sur un format MySQL
+  * "-T" ou "--temp_dir" : option à utiliser pour avoir plusieurs exécutions d'ora2pg en parallèle et utiliser des répertoires de fichiers temporaires différents.
   * "--audit_user" : option pour définir le ou les nom d'utilisateur du filtre utilisé pour les traces dans la table AUDIT_TRAIL (oracle) ou general_log table (mysql). Cette option active l'analyse et l'estimation de l'effort de migration sur les requêtes contenues dans ces tables.
   * "--dump_as_sheet" et "--print_header" sont des options pour obtenir un fichier CSV avec tous les rapports d'estimation de migration d'un parc d'instances Oracle ou MySQL par lignes.
   * "--dump_as_csv" est une option pour générer le rapport d'évaluation de la migration dans un fichier CSV. Cela n'inclut pas les commentaires ni les détails, mais seulement les types d'objets, leur nombre et le coût estimé.
