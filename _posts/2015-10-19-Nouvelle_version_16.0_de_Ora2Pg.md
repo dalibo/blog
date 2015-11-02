@@ -63,7 +63,7 @@ Compatibilité arrière :
 
 Cette version ajoute aussi un certain nombre de directives ou variables de configuration :
 
-  * MYSQL_PIPES_AS_CONCAT: à activer si le double pipe & le double ampersand (|| et &&) ne doivent pas être pris comme équivalent du OR et du AND.
+  * MYSQL_PIPES_AS_CONCAT: à activer si le double pipe et le double ampersand (\|\| et &&) ne doivent pas être pris comme équivalent du OR et du AND.
   * MYSQL_INTERNAL_EXTRACT_FORMAT: à activer si vous voulez que le remplacement d'EXTRACT() utilise le format interne retournant un integer.
   * AUDIT_USER: option pour définir le ou les noms d'utilisateur du filtre utilisé pour les traces dans la table AUDIT_TRAIL (oracle) ou general_log table (mysql). Cette option active l'analyse et l'estimation de l'effort de migration sur les requêtes contenues dans ces tables.
   * REPLACE_ZERO_DATE: les "zero" dates : 0000-00-00 00:00:00 sont normalement remplacées par un NULL, utilisez cette directive pour donner une date de votre choix en lieu et place du NULL. -INFINITY est aussi supporté.
