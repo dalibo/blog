@@ -13,13 +13,12 @@ Le catalogue 2016 de nos formations est sorti !
 
 Soixante sessions inters dédiées à trois cursus : le cursus DBA regroupant cinq formations, de l'administration aux sauvegardes; cinq formations consacrées à la maîtrise du langage SQL, et enfin, les deux formations liées à PostGIS.
 
-Découvrez ci-après notre calendrier de formations inter pour le premier semestre 2016.
-
-Et notre catalogue 2016 : [http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf](http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf)
-
 
 <!--MORE-->
 
+Découvrez ci-après notre calendrier de formations inter pour le premier semestre 2016.
+
+Et notre catalogue 2016 : [http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf](http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf)
 
 N'hésitez pas à nous contacter pour vous y inscrire ou obtenir des renseignements complémentaires : [formation@dalibo.com](formation@dalibo.com)
 
