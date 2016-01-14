@@ -39,7 +39,7 @@ Profil Recherché :
   * Connaissances requises: SQL, PL/PGSQL, bash ;
   * Ouverture à l'Open-Source ;
  
- Plus significatifs :
+Plus significatifs :
 
   * Connaissance d'un ou plusieurs SGBD propriétaires ;
   * Connaissance du C (et techniques de patchs) ;
