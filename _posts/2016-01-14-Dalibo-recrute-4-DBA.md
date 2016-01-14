@@ -38,10 +38,11 @@ Profil Recherché :
   * Expérience concrète d'administration d'environnements de production utilisant PostgreSQL ;
   * Connaissances requises: SQL, PL/PGSQL, bash ;
   * Ouverture à l'Open-Source ;
-  * Plus significatifs :
-          * Connaissance d'un ou plusieurs SGBD propriétaires ;
-          * Connaissance du C (et techniques de patchs) ;
-          * Connaissance de Python et/ou Perl ;
-          * Participation bénévole à des évènements, organisations ou projets Open-Source. 
+ 
+ Plus significatifs :
+  * Connaissance d'un ou plusieurs SGBD propriétaires ;
+  * Connaissance du C (et techniques de patchs) ;
+  * Connaissance de Python et/ou Perl ;
+  * Participation bénévole à des évènements, organisations ou projets Open-Source. 
 
 Merci d'adresser votre lettre de motivation, accompagnée de votre CV à [recrutement@dalibo.com](recrutement@dalibo.com)
