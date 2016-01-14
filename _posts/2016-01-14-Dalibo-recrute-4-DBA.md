@@ -40,6 +40,7 @@ Profil Recherché :
   * Ouverture à l'Open-Source ;
  
  Plus significatifs :
+
   * Connaissance d'un ou plusieurs SGBD propriétaires ;
   * Connaissance du C (et techniques de patchs) ;
   * Connaissance de Python et/ou Perl ;
