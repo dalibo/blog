@@ -46,6 +46,7 @@ Toutes les propositions doivent nous parvenir avant le 29 février 2016.
 Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](call-for-paper@postgresql-sessions.org), en précisant les informations suivantes :
 
 Nom et Prénom
+
   * Compte twitter (le cas échéant)
   * Société
   * Biographie et contributions à la communauté PostgreSQL 
