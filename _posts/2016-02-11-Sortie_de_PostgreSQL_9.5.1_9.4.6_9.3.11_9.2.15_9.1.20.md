@@ -15,16 +15,16 @@ Le PostgreSQL Global Development Group a publié une mise à jour de toutes les 
 
 ## Correction d'un problème de sécurité dans les expressions régulières, PL/Java
 
-Cette publication clos la faille de sécurité CVE-2016-0773, un problème avec l'analyse d'expressions régulières (regex). Le code précédent permettait à l'utilisateur de passer dans les expressions des valeurs en dehors de l'intervalle de caractères unicodes, déclenchant l’arrêt brutal du backend. Ce problème est critique pour les systèmes PostgreSQL avec des utilisateurs non approuvés (untrusted) ou qui génère des regex basées sur une entrée utilisateur.
+Cette publication clos la faille de sécurité CVE-2016-0773, un problème avec l'analyse d'expressions régulières (regex). Le code précédent permettait à l'utilisateur de passer dans les expressions des valeurs en dehors de l'intervalle de caractères unicodes, déclenchant l’arrêt brutal du backend. Ce problème est critique pour les systèmes PostgreSQL avec des utilisateurs non approuvés (untrusted) ou qui génèrent des regex basées sur une entrée utilisateur.
 
 Cette mise à jour corrige aussi CVE-2016-0766, un problème d'élévation de privilège pour les utilisateurs de PL/Java. Certains paramètres de configuration particuliers (GUCS) pour le PL/Java sont maintenant seulement modifiables par le super-utilisateur de la base de données.
 
 ## Autres correction et améliorations
 
-En plus des corrections indiquées ci-dessus, de nombreuses corrections rapportés par les utilisateurs ces derniers mois ont été inclues. Ceci inclut notamment de nombreuses corrections sur les nouvelles fonctionnalités introduites en version 9.5.0, ainsi que la réécriture de pg_dump pour éliminer des problèmes chroniques dans la sauvegarde des extensions. Parmi eux il y a :
+En plus des corrections indiquées ci-dessus, de nombreuses corrections de problèmes rapportés par les utilisateurs ces derniers mois ont été inclues. Ceci inclut notamment de nombreuses corrections sur les nouvelles fonctionnalités introduites en version 9.5.0, ainsi que la réécriture de pg_dump pour éliminer des problèmes chroniques dans la sauvegarde des extensions. Parmi eux il y a :
 
 
-* Correction de nombreux problème dans pg_dump avec certains type d'objets
+* Correction de nombreux problèmes dans pg_dump avec certains types d'objets
 * Prévention de l'affaissement over-eager des clauses HAVING pour les GROUPING SETS
 * Correction de la transformation en chaine de caractère des erreurs avec les clauses ON CONFLICT ... WHERE
 * Correction d'erreurs de tableoid pour postgres_fdw
