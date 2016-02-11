@@ -9,8 +9,6 @@ tags: [PostgreSQL, sécurité, upgrade]
 ---
 *Paris, le 11 février 2016*
 
-## Mises à jour mineures de PostgreSQL : 9.5.1, 9.4.6, 9.3.11, 9.2.15 et 9.1.20
-
 Le PostgreSQL Global Development Group a publié une mise à jour de toutes les versions supportées du SGBD, incluant les versions 9.5.1, 9.4.6, 9.3.11, 9.2.15 et 9.1.20. Ces versions mineures corrigent deux problèmes de sécurité, ainsi qu'un certain nombre de problèmes découverts sur les quatre derniers mois. Les utilisateurs vulnérables aux problèmes de sécurité doivent mettre à jour leur installation immédiatement; les autres doivent planifier la mise à jour dès que possible.
 
 <!--MORE-->
