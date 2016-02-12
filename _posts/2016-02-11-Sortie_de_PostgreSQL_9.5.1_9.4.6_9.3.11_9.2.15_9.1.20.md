@@ -15,18 +15,18 @@ Le PostgreSQL Global Development Group a publié une mise à jour de toutes les 
 
 ## Correction d'un problème de sécurité dans les expressions régulières, PL/Java
 
-Cette publication clos la faille de sécurité CVE-2016-0773, un problème avec l'analyse d'expressions régulières (regex). Le code précédent permettait à l'utilisateur de passer dans les expressions des valeurs en dehors de l'intervalle de caractères unicodes, déclenchant l’arrêt brutal du backend. Ce problème est critique pour les systèmes PostgreSQL avec des utilisateurs non approuvés (untrusted) ou qui génèrent des regex basées sur une entrée utilisateur.
+Cette publication clôt la faille de sécurité CVE-2016-0773, un problème avec l'analyse d'expressions régulières (regex). Le code précédent permettait à l'utilisateur de passer dans les expressions des valeurs en dehors de l'intervalle de caractères unicodes, déclenchant l’arrêt brutal du backend. Ce problème est critique pour les systèmes PostgreSQL avec des utilisateurs non approuvés (untrusted) ou qui génèrent des regex basées sur une entrée utilisateur.
 
 Cette mise à jour corrige aussi CVE-2016-0766, un problème d'élévation de privilège pour les utilisateurs de PL/Java. Certains paramètres de configuration particuliers (GUCS) pour le PL/Java sont maintenant seulement modifiables par le super-utilisateur de la base de données.
 
-## Autres correction et améliorations
+## Autres corrections et améliorations
 
 En plus des corrections indiquées ci-dessus, de nombreuses corrections de problèmes rapportés par les utilisateurs ces derniers mois ont été inclues. Ceci inclut notamment de nombreuses corrections sur les nouvelles fonctionnalités introduites en version 9.5.0, ainsi que la réécriture de pg_dump pour éliminer des problèmes chroniques dans la sauvegarde des extensions. Parmi eux il y a :
 
 
 * Correction de nombreux problèmes dans pg_dump avec certains types d'objets
 * Prévention de l'affaissement over-eager des clauses HAVING pour les GROUPING SETS
-* Correction de la transformation en chaine de caractère des erreurs avec les clauses ON CONFLICT ... WHERE
+* Correction de la transformation en chaîne de caractères des erreurs avec les clauses ON CONFLICT ... WHERE
 * Correction d'erreurs de tableoid pour postgres_fdw
 * Prévention d'exception sur les floating-point dans pgbench
 * Fait en sorte que \det recherche toujours les noms de tables distantes
@@ -46,12 +46,13 @@ Cette publication contient aussi la version 2016a de tzdata, qui réalise les mi
 
 ## Comment mettre à jour ?
 
-Les utilisateurs des versions 9.4 devront reindexer tout index jsonb_path_ops déjà créé, pour corriger un problème persistent d'entrées manquantes dans ces index.
+Les utilisateurs des versions 9.4 devront reindexer tout index jsonb_path_ops déjà créé, pour corriger un problème persistant d'entrées manquantes dans ces index.
 
 Comme avec les autres versions mineures, les utilisateurs n'ont pas besoin de sauvegarder et restaurer les bases de données ou d'utiliser pg_upgrade pour mettre en place cette mise à jour. Vous pouvez simplement arrêter PostgreSQL, mettre à jour les binaires et le redémarrer. Les utilisateurs qui ont ignoré plusieurs mises à jour mineures peuvent avoir besoin de réaliser des opérations après mise à jour. Voir les notes de version pour les détails.
 
 Liens:
-  * Téléchargement: [[http://postgresql.org/download [^]]]
-  * Notes de version: [[http://www.postgresql.org/docs/current/static/release.html [^]]]
+
+  * Téléchargement: [http://postgresql.org/download](http://postgresql.org/download)
+  * Notes de version: [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs/current/static/release.html)
 
 
