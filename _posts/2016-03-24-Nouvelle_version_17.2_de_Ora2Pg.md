@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouvelle version 17.0 d'Ora2Pg !
+title: Nouvelle version 17.2 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
