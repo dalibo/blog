@@ -9,7 +9,7 @@ tags: [PostgreSQL, postgis, SIG]
 ---
 *Paris, le 30 mars 2016*
 
-Dalibo a participé en février au Code Sprint OSGeo, [https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016](https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016), ayant eu lieu dans les locaux de Mozilla à Paris. 
+Dalibo a participé en février au Code Sprint OSGeo, ayant eu lieu dans les locaux de Mozilla à Paris. 
 Petit retour sur l'évènement.
 
 
@@ -17,7 +17,7 @@ Petit retour sur l'évènement.
 
 ## Organisation
 
-Tout d'abord, un grand merci à l'OSGeo et à Oslandia de nous avoir conviés à cet évènement. Celui-ci avait lieu dans les prestigieux locaux de la fondation Mozilla, qu'elle avait gracieusement mis à disposition.
+Tout d'abord, un grand merci à l'OSGeo et à Oslandia de nous avoir conviés à cet évènement, [https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016](https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016). Celui-ci avait lieu dans les prestigieux locaux de la fondation Mozilla, qu'elle avait gracieusement mis à disposition.
 
 Une cinquantaine de développeurs venus principalement d'Europe et d'Amérique du Nord étaient présents, pour collaborer sur de nombreuses problématiques liées aux logiciels de SIG open-source.
 
