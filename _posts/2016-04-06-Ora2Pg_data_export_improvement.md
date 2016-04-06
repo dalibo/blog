@@ -60,12 +60,6 @@ Just to know, pg_test_fsync returns:
 
 ```
 /usr/pgsql-9.4/bin/pg_test_fsync
-5 seconds per test
-O_DIRECT supported on this platform for open_datasync and open_sync.
-
-Compare file sync methods using one 8kB write:
-(in wal_sync_method preference order, except fdatasync
-is Linux's default)
         open_datasync                     11788.099 ops/sec      85 usecs/op
         fdatasync                         11855.279 ops/sec      84 usecs/op
         fsync                             10594.905 ops/sec      94 usecs/op
