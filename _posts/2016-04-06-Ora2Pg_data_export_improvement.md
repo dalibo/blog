@@ -9,7 +9,7 @@ tags: [Oracle, PostgreSQL, migration]
 ---
 *Paris, April 6th 2016*
 
-Last week I received a patch from Svetlana Shorina (PostgresPro.ru) about
+Last week I received a patch from Svetlana Shorina [PostgresPro.ru](https://postgrespro.ru/) about
 regular expressions and conditions checks in the function responsible of
 data formating. Following their Oracle source and PostgreSQL destination
 types, data need to be transformed before being inserted into PostgreSQL.
@@ -217,7 +217,7 @@ really helpful to reduce the migration downtime.
 
 ## Conclusion
 
-I want to express all my recognition to Svetlana Shorina and PostgreSQL Professional
+I want to express all my recognition to Svetlana Shorina and [PostgreSQL Professional](https://postgrespro.ru/)
 for this patch. It has already been applied in github development code and will
 be available in next coming v17.4 release.
 
