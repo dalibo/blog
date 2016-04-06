@@ -103,7 +103,7 @@ Here are the duration results in seconds:
 |-J 2 -j 6 |  3314 |  3064  |   8% |
 |-J 4 -j 3 |  2585 |  2341  |  10% |
 
-![Results table_test1]({{ site.url }}(/assets/media/Ora2Pg_data_export_improvement_table_test1.png)
+<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test1.png" title="Results table_test1"/>
 
 With this kind of table and data types, the speed gain is from 8 to 10 percent.
 At a maximum speed (447 tuples/sec) it took around 0h45 without the patch and
