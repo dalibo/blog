@@ -102,13 +102,13 @@ Here are the duration results in seconds:
 
 |Cores     | V17.3 | V17.4b | Gain |
 |: ------- | ----: | -----: | ---: |
-|-j 8      |  5445 |  5045  |   8% |
+|-j 8      |  5445 |  5045  |   7% |
 |-J 2 -j 6 |  3314 |  3064  |   8% |
 |-J 4 -j 3 |  2585 |  2341  |  10% |
 
 <img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test1.png" title="Results table_test1"/>
 
-With this kind of table and data types, the speed gain is from 8 to 10 percent.
+With this kind of table and data types, the speed gain is from 7 to 10 percent.
 At a maximum speed (447 tuples/sec) it took around 0h45 without the patch and
 0h40 with Svetlana's patch. As expected when you are exporting a table with LOB
 the gain is not really important but significant enough to be interesting. In
@@ -192,13 +192,13 @@ SQL> DESC TABLE_TEST3
 
 |Cores     | V17.3 | V17.4b | Gain |
 |: ------- | ----: | -----: | ---: |
-|-j 8      |   304 |   207  |  47% |
-|-J 2 -j 6 |   276 |   165  |  67% |
-|-J 4 -j 3 |   276 |   152  |  82% |
+|-j 8      |   304 |   207  |  32% |
+|-J 2 -j 6 |   276 |   165  |  40% |
+|-J 4 -j 3 |   276 |   152  |  45% |
 
 <img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test3.png" title="Results table_test3"/>
 
-The speed gain is from 47% up to 82% at full speed. The more parallelizing we
+The speed gain is from 32% up to 45% at full speed. The more parallelizing we
 set, the more speed gain we have. Obviously I was not expecting such a gain,
 this is really a good news.
 
@@ -211,8 +211,8 @@ and -j 3 parallelization.
 The result is 2h38 (avg: 6059 tuples/sec) with the v17.3 release and only 0h57
 (avg: 8183 tuples/sec) with Svetlana's patch.
 
-This is 35% of time saved for a total of 57,500,000 tuples! This is something
-really good to reduce the migration downtime.
+This is 26% of time saved for a total of 57,500,000 tuples! This is something
+really helpful to reduce the migration downtime.
 
 
 ## Conclusion
