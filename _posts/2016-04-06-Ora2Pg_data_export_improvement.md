@@ -9,27 +9,27 @@ tags: [Oracle, PostgreSQL, migration]
 ---
 *Paris, April 6th 2016*
 
-Last week I received a patch from Svetlana Shorina [PostgresPro.ru](https://postgrespro.ru/) about
-regular expressions and conditions checks in the function responsible of
-data formating. Following their Oracle source and PostgreSQL destination
-types, data need to be transformed before being inserted into PostgreSQL.
+Last week I received a patch from Svetlana Shorina [PostgresPro](https://postgrespro.ru/) about
+regular expressions and conditions checks in the function responsible for
+data formatting. Following their Oracle source and PostgreSQL destination
+types, data needs to be transformed before being inserted into PostgreSQL.
 
-I knew that this part would gain has to be optimized but I always though
+I knew that this part would benefit from being optimized but I always thought
 that this was a waste of time because, in my experience, most of the migration
-duration is taken by the BLOB/CLOB escaping and this is something that can
-not really be optimized. This is why I've never done this optimisation work
-and I was wrong.
+time is taken by the BLOB/CLOB escaping and this is something that cannot
+really be optimized. This is why I've never done this optimisation work and I
+was wrong.
 
-Well I decided to review my position and to make some benchmark on different
-kind of tables and data. I was really surprised, here are the results.
+Well I decided to reconsider and to make some benchmarks on different kinds of
+tables and data. I was really surprised, here are the results.
 
 <!--MORE-->
 
 ## Benchmark environment
 
-The benchmarks was done on a good old server that have made his time with 16 CPUs
+The benchmarks was done on a good old server that has had his time with 16 CPUs
 Intel(R) Xeon(R) CPU E5620 @ 2.40GHz (2 sockets x 4 cores HT). Do not expect
-huge speed on the results, the number of tuples per seconds can be 2 or 3 time
+huge speed on the results, the number of tuples per seconds can be 2 or 3 times
 faster or more on modern hardware.
 
 Here are the Ora2Pg settings relative to data export:
@@ -38,16 +38,16 @@ Here are the Ora2Pg settings relative to data export:
 * DATA_LIMIT = 30000 (export will be done by bulk of 30,000 tuples)
 * BLOB_LIMIT = 100 (BLOB and CLOB will be exported by bulk of 100 tuples only)
 
-data are exported to files. The tests will be done using different parallelizing
-mode:
+Data is exported to files. The tests will be done using different parallelizing
+modes:
 
-* -j 8: height process to write data to file
-* -J 2 -j 4: two process to extract data from Oracle and four process to write data to file
-* -J 4 -j 3: four process to extract data from Oracle and three process to write data to file
+* -j 8: eight processes to write data to file
+* -J 2 -j 4: two processes to extract data from Oracle and four processes to write data to file
+* -J 4 -j 3: four processes to extract data from Oracle and three processes to write data to file
 
-Tests are run on last release v17.3 and then on same release with Svetlana's patch.
+Tests are run on the latest release v17.3 and then on same release with Svetlana's patch.
 
-A simple disk write test of 2 GB give the following result:
+A simple disk write test of 2 GB gave the following results:
 
 ```
 dd if=/dev/zero of=toto bs=8k count=244140
@@ -67,7 +67,7 @@ Just to know, pg_test_fsync returns:
         open_sync                         11160.430 ops/sec      90 usecs/op
 ```
 
-we will not import data into PostgreSQL. Also note that Oracle, Ora2Pg and
+We will not import data into PostgreSQL. Also note that Oracle, Ora2Pg and
 output files are on the same server and same disks, this is clearly not the
 best architecture to migrate at full speed but we just want a preview of the
 speed improvement.
@@ -158,7 +158,7 @@ SQL> DESC TABLE_TEST2
  COL32                                     NOT NULL NUMBER(1)
 ```
 
-and the benchmark results:
+And the benchmark results:
 
 |Cores     | V17.3 | V17.4b | Gain |
 |: ------- | ----: | -----: | ---: |
@@ -168,14 +168,14 @@ and the benchmark results:
 
 <img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test2.png" title="Results table_test2"/>
 
-Most of the data are numerics and the majority of data size stay in the
+Most of the data are numerics and the majority of data size resides in the
 CLOB fields. In this case, the patch doesn't help at all or we need to
-have a lot more rows to be really visible.
+have a lot more rows to have a noticeable effect.
 
 
 ## Table with millions of rows
 
-So until now, there's nothing really impressive. But now take a look to the
+So until now, there's nothing really impressive. But now take a look at the
 results on the following table, which have 28,500,000 rows for just 2.8 GB
 of data.
 
@@ -200,12 +200,12 @@ SQL> DESC TABLE_TEST3
 
 The speed gain is from 32% up to 45% at full speed. The more parallelizing we
 set, the more speed gain we have. Obviously I was not expecting such a gain,
-this is really a good news.
+this is a really good news.
 
 ## Full migration test
 
 I have made a full test on a 500 GB database (380 GB without indexes) where
-these tables are extracted. This last benchmark have only be done using -J 4
+these tables are extracted. This last benchmark has only been done using -J 4
 and -j 3 parallelization.
 
 The result is 2h38 (avg: 6059 tuples/sec) with the v17.3 release and only 0h57
@@ -217,13 +217,13 @@ really helpful to reduce the migration downtime.
 
 ## Conclusion
 
-I want to express all my recognition to Svetlana Shorina and [PostgreSQL Professional](https://postgrespro.ru/)
+I want to express all my gratitude to Svetlana Shorina and [PostgreSQL Professional](https://postgrespro.ru/)
 for this patch. It has already been applied in github development code and will
 be available in next coming v17.4 release.
 
-Of course the more CPUs you can use, the speediest you can migrate your data, especially
-for Tera byte database. I think that full database migration performances can be improved
+Of course the more CPUs you can use, the fastest you can migrate your data, especially
+for terabytes databases. I think that full database migration performances can be improved
 by allowing parallel table export (-P) together with parallel data export (-J) for a single
-table. This is not the case at now, but still in the TODO list.
+table. This is not the case for now, but it is in the TODO list.
 
 
