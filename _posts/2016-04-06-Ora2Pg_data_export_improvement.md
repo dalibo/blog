@@ -67,7 +67,10 @@ Just to know, pg_test_fsync returns:
         open_sync                         11160.430 ops/sec      90 usecs/op
 ```
 
-we will not import data into PostgreSQL.
+we will not import data into PostgreSQL. Also note that Oracle, Ora2Pg and
+output files are on the same server and same disks, this is clearly not the
+best architecture to migrate at full speed but we just want a preview of the
+speed improvement.
 
 
 ## Huge LOB export
@@ -163,7 +166,7 @@ and the benchmark results:
 |-J 2 -j 6 |   195 |   195  |   0% |
 |-J 4 -j 3 |   113 |   116  |  -3% |
 
-![Results table_test2]({{ site.url }}(/assets/media/Ora2Pg_data_export_improvement_table_test2.png)
+<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test2.png" title="Results table_test2"/>
 
 Most of the data are numerics and the majority of data size stay in the
 CLOB fields. In this case, the patch doesn't help at all or we need to
@@ -193,7 +196,7 @@ SQL> DESC TABLE_TEST3
 |-J 2 -j 6 |   276 |   165  |  67% |
 |-J 4 -j 3 |   276 |   152  |  82% |
 
-![Results table_test3]({{ site.url }}(/assets/media/Ora2Pg_data_export_improvement_table_test3.png)
+<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test3.png" title="Results table_test3"/>
 
 The speed gain is from 47% up to 82% at full speed. The more parallelizing we
 set, the more speed gain we have. Obviously I was not expecting such a gain,
