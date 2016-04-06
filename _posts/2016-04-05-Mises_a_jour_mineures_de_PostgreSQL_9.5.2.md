@@ -1,8 +1,12 @@
 ---
 layout: post
+<<<<<<< HEAD:_posts/2016-04-05-Mises_a_jour_mineures_de_PostgreSQL.md
 title: Mises à jour mineures de PostgreSQL - 9.5.2, 9.4.7, 9.3.12, 9.2.16 et 9.1.21
+=======
+title: Mises à jour mineures de PostgreSQL 9.5.2, 9.4.7, 9.3.12, 9.2.16 et 9.1.21
+>>>>>>> 3f9b446305525155c7c3065b68bff578a0d3f00d:_posts/2016-04-05-Mises_a_jour_mineures_de_PostgreSQL_9.5.2.md
 author: Julien Tachoires
-twitter_id: julmon  
+twitter_id: _julmon_  
 github_id: julmon
 tags: [PostgreSQL, annonce]
 
