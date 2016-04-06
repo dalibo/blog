@@ -208,7 +208,7 @@ I have made a full test on a 500 GB database (380 GB without indexes) where
 these tables are extracted. This last benchmark has only been done using -J 4
 and -j 3 parallelization.
 
-The result is 2h38 (avg: 6059 tuples/sec) with the v17.3 release and only 0h57
+The result is 2h38 (avg: 6059 tuples/sec) with the v17.3 release and only 1h57
 (avg: 8183 tuples/sec) with Svetlana's patch.
 
 This is 26% of time saved for a total of 57,500,000 tuples! This is something
