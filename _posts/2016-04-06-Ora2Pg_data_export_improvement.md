@@ -56,8 +56,7 @@ A simple disk write test of 2 GB give the following result:
 1999994880 bytes (2.0 GB) copied, 1.9143 s, 1.0 GB/s
 ```
 
-We will not import data into PostgreSQL, but, just to know, pg_test_fsync
-returns:
+Just to know, pg_test_fsync returns:
 
 ```
 /usr/pgsql-9.4/bin/pg_test_fsync
@@ -73,6 +72,8 @@ is Linux's default)
         fsync_writethrough                              n/a
         open_sync                         11160.430 ops/sec      90 usecs/op
 ```
+
+we will not import data into PostgreSQL.
 
 
 ## Huge LOB export
