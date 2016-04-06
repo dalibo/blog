@@ -74,6 +74,7 @@ is Linux's default)
         open_sync                         11160.430 ops/sec      90 usecs/op
 ```
 
+
 ## Huge LOB export
 
 First benchmark is done on a huge table with 216 GB of data and 1,050,006 rows
@@ -114,6 +115,7 @@ At a maximum speed (447 tuples/sec) it took around 0h45 without the patch and
 0h40 with Svetlana's patch. As expected when you are exporting a table with LOB
 the gain is not really important but significant enough to be interesting. In
 this case, the more you can parallelize the data export the more you gain speed.
+
 
 ## Small rows, small size
 
@@ -172,6 +174,7 @@ Most of the data are numerics and the majority of data size stay in the
 CLOB fields. In this case, the patch doesn't help at all or we need to
 have a lot more rows to be really visible.
 
+
 ## Table with millions of rows
 
 So until now, there's nothing really impressive. But now take a look to the
@@ -212,6 +215,7 @@ The result is 2h38 (avg: 6059 tuples/sec) with the v17.3 release and only 0h57
 
 This is 35% of time saved for a total of 57,500,000 tuples! This is something
 really good to reduce the migration downtime.
+
 
 ## Conclusion
 
