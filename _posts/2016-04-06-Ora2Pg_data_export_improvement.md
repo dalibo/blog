@@ -73,7 +73,7 @@ best architecture to migrate at full speed but we just want a preview of the
 speed improvement.
 
 
-## Huge LOB export
+## Huge data export
 
 First benchmark is done on a huge table with 216 GB of data and 1,050,006 rows
 with the following Oracle definition:
