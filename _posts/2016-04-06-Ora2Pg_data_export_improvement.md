@@ -50,10 +50,10 @@ Tests are run on last release v17.3 and then on same release with Svetlana's pat
 A simple disk write test of 2 GB give the following result:
 
 ```
--bash-4.1$ dd if=/dev/zero of=toto bs=8k count=244140
-244140+0 records in
-244140+0 records out
-1999994880 bytes (2.0 GB) copied, 1.9143 s, 1.0 GB/s
+dd if=/dev/zero of=toto bs=8k count=244140
+	244140+0 records in
+	244140+0 records out
+	1999994880 bytes (2.0 GB) copied, 1.9143 s, 1.0 GB/s
 ```
 
 Just to know, pg_test_fsync returns:
@@ -72,6 +72,7 @@ output files are on the same server and same disks, this is clearly not the
 best architecture to migrate at full speed but we just want a preview of the
 speed improvement.
 
+##
 
 ## Huge data export
 
