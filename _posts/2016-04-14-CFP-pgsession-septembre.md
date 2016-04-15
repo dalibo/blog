@@ -22,20 +22,20 @@ Chaque intervention doit durer 30 minutes (en comptant les éventuelles question
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive):
 
 Pour PostgreSQL :
-  * Nouveautés de PostgreSQL 
-  * Retour d'expérience
-  * Migration vers PostgreSQL
-  * Optimisations 
-  * Sauvegarde et Restauration
-  * Haute-Disponibilité
-  * Entrepots de données / Big Data
+* Nouveautés de PostgreSQL 
+* Retour d'expérience
+* Migration vers PostgreSQL
+* Optimisations 
+* Sauvegarde et Restauration
+* Haute-Disponibilité
+* Entrepots de données / Big Data
 
 Pour PostGIS :
-  * Analyse spatiale avancée et/ou métier avec PostGIS
-  * Données PointCloud et/ou 3D avec PostgreSQL/PostGIS
-  * GéoDataScience avec PostgreSQL/PostGIS 
-  * Considérations et améliorations de performance avec PostgreSQL/PostGIS 
-  * Intégration de PostgreSQL/PostGIS dans son SI (aspects techniques, données et organisationnels)
+* Analyse spatiale avancée et/ou métier avec PostGIS
+* Données PointCloud et/ou 3D avec PostgreSQL/PostGIS
+* GéoDataScience avec PostgreSQL/PostGIS 
+* Considérations et améliorations de performance avec PostgreSQL/PostGIS 
+* Intégration de PostgreSQL/PostGIS dans son SI (aspects techniques, données et organisationnels)
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… 
 
