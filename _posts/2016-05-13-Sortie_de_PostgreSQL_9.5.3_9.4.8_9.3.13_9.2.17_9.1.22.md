@@ -18,12 +18,14 @@ Le PostgreSQL Global Development Group a publié une mise à jour de toutes les 
 ## Corrections de bugs et améliorations
 
 Cette mise à jour corrige plusieurs problèmes qui provoquent des indisponibilités pour les utilisateurs :
+
 * Suppression de la file d'erreur OpenSSL avant un appel à OpenSSL, pour éviter des erreurs sur les connexions SSL, en particulier en utilisant les wrappers OpenSSL Python, Ruby ou PHP
 * Correction de l'optimiseur pour éviter des erreurs de type "failed to build N-way joins"
 * Correction sur la gestion des équivalences dans des plans d'exécution utilisant plusieurs Nested Loop, qui peuvent retourner des lignes qui ne correspondaient pas à la clause WHERE
 * Correction de deux fuites mémoires lors de l'utilisation d'index GIN, dont une pouvant potentiellement entraîner des corruptions d'index
 
 Cette mise à jour inclut également des corrections pour des problèmes reportés, dont la plupart affectent toutes les versions supportées :
+
 * Correction d'erreurs de parsing lorsque le paramètre operator_precedence_warning est activé
 * Correction d'un possible mauvais comportement de la fonction to_timestamp() avec les codes TH, th et Y,YYY
 * Correction de l'export des vues et des règles qui utilisent ANY (array) dans un sous-SELECT
