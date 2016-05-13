@@ -17,6 +17,7 @@ Plus que quelques jours encore pour nous soumettre vos propositions d'interventi
 Chaque intervention, de 30 minutes environ, en anglais ou en français, pourra porter notamment sur les thématiques suivantes :
 
 Pour PostgreSQL :
+
   * Nouveautés de PostgreSQL 
   * Retour d'expérience
   * Migration vers PostgreSQL
@@ -26,6 +27,7 @@ Pour PostgreSQL :
   * Entrepots de données / Big Data
 
 Pour PostGIS :
+
   * Analyse spatiale avancée et/ou métier avec PostGIS
   * Données PointCloud et/ou 3D avec PostgreSQL/PostGIS
   * GéoDataScience avec PostgreSQL/PostGIS 
