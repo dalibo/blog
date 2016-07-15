@@ -21,8 +21,8 @@ Au programme cette année :
   * Tachoires Julien - Dalibo - Temboard: supervision, administration, dashboard et bien plus
   * Ludovic Delauné - Oslandia - Point Clouds: modèles, chargement, stockage et manipulation de données
   * Tom van Tilburg - Geodan - From Pointclouds and vectordata to 3D models with the help of postgres
-  * Giuseppe Broccolo - 2ndQuadrant Italia - BRIN indexes on geospatial database
-  * Giulio Calacoci - 2ndQuadrant Italia - Step up and face the disaster!
+  * Giuseppe Broccolo - 2ndQuadrant - BRIN indexes on geospatial database
+  * Giulio Calacoci - 2ndQuadrant - Step up and face the disaster!
   * Nicolas Ribot - Consultant indépendant - Traitements spatiaux parallélisés pour les gros volumes de données
   * Olivier Courtin - Oslandia - De l'analyse spatiale avancée à la GéoDataScience en environnement PostgreSQL / PostGIS
 
