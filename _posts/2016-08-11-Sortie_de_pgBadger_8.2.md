@@ -23,7 +23,7 @@ de logs volumineux, et quelques nouvelles fonctionnalités intéressantes :
 Pour la liste complète des améliorations et corrections, consultez la note de la nouvelle version :
 [https://github.com/dalibo/pgbadger/blob/master/ChangeLog](https://github.com/dalibo/pgbadger/blob/master/ChangeLog)
 
-###Liens & Remerciements
+Liens & Remerciements
 
 DALIBO souhaite remercier les développeurs ayant soumis des patchs et les utilisateurs ayant remonté des bugs et des demandes, notamment Thomas Reiss, tom__b, brafaeloliveira, Glyn Astill, Robert Vargason et Komeda Shinji.
 
