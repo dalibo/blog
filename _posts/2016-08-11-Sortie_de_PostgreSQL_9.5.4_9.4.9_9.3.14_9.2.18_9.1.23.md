@@ -21,9 +21,9 @@ Deux failles de sécurité ont été corrigées dans cette version:
 
 
 * CVE-2016-5423: certaines imbrications d'expressions CASE peuvent déclencher un crash serveur
-* CVE-2016-5424: les noms de base ou de rôle contenant des caractères spéciaux peuvent permettre l'inejction de code durant les commandes administratives comme pg_dumpall.
+* CVE-2016-5424: les noms de base ou de rôle contenant des caractères spéciaux peuvent permettre l'injection de code durant les commandes administratives comme pg_dumpall.
 
-Le correctif du second problème jaroute aussi une option, --reuse-previous, à la commande \connect de psql. pg_dumpall refusera par ailleurs les nombs de base ou de rôle contenant des retours de chariot après cette mise à jour. Pour plus d'information sur ces problèmes et en quoi elles affectent la compatibilité ascendante, voyez les notes de version.
+Le correctif du second problème ajoute aussi une option, --reuse-previous, à la commande \connect de psql. pg_dumpall refusera par ailleurs les nombs de base ou de rôle contenant des retours de chariot après cette mise à jour. Pour plus d'information sur ces problèmes et en quoi ils affectent la compatibilité ascendante, voyez les notes de version.
 
 ## Correctifs de bug et améliorations
 
@@ -31,8 +31,8 @@ Cette mise à jour corrige aussi un certain nombre de bugs rapportés sur les de
 
 * Correction de comportements erronés sur IS NULL/IS NOT NULL avec des valeurs composites
 * Correction de trois cas où INSERT ... ON CONFLICT ne fonctionnait pas correctement avec d'autres fonctionnalités SQL
-* INET et CIDR rejettent maintenant les valeurs IPv6 nicorrectes
-* Correction d'un chas dans l'opérateur "point ## lseg" pour une entréen NaN
+* INET et CIDR rejettent maintenant les valeurs IPv6 incorrectes
+* Correction d'un crash dans l'opérateur "point ## lseg" pour une entrée NaN
 * Correction d'un possible crash dans pg_get_expr()
 * Correction de plusieurs lectures d'un octet surnuméraire sur des tampons dans to_number()
 * Économie de la planification d'une requête si WITH NO DATA est spécifié
@@ -50,7 +50,7 @@ Cette mise à jour corrige aussi un certain nombre de bugs rapportés sur les de
 * Correction d'une boucle infinie dans la création d'un index GiST avec des valeurs NaN
 * Correction d'un crash possible durant un indexscan «nearest-neighbor» (plus proches voisins d'une valeur)
 * Correction de l'erreur "PANIC: failed to add BRIN tuple"
-* Correction d'un possible crash durant l'arrêt du background worker
+* Correction d'un possible crash durant l'arrêt d'un background worker
 * Nombreuses corrections pour des problèmes dans pg_dump et pg_restore en mode parallèle
 * pg_basebackup accepte maintenant -Z 0 comme "pas de compression"
 * Les tests de non-régression sont maintenant sûrs pour les locales Danoise et Galloise
