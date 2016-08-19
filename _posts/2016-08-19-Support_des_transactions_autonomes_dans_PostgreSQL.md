@@ -38,7 +38,7 @@ Voici un exemple de fonction Oracle utilisant une transaction
 autonome pour tracer indépendamment toutes les actions réalisées
 sur une base, peu importe le résultat de la transaction.
 
-```sql
+```
 CREATE PROCEDURE log_action (username VARCHAR2, event_date DATE, msg VARCHAR2)
 IS
    PRAGMA AUTONOMOUS_TRANSACTION;
@@ -77,7 +77,7 @@ En reprenant l'exemple de transaction autonome sous Oracle, Ora2Pg
 va d'abord transformer cette fonction et la renommer avec le suffix
 `_atx' comme suit :
 
-```sql
+```
 CREATE OR REPLACE FUNCTION log_action_atx (
 	username text, event_date timestamp, msg text
 ) RETURNS VOID AS
@@ -93,7 +93,7 @@ LANGUAGE PLPGSQL
 puis il créé la fonction de substitution ou wrapper, qui sera appelée
 par l'applicatif :
 
-```sql
+```
 --
 -- dblink wrapper to call function log_action as an autonomous transaction
 --
@@ -135,7 +135,7 @@ ordres SQL de manière autonome.
 Si l'on reprend l'exemple précédent, voici ce que Ora2Pg exporte en
 utilisant l'extension *pg_background* dans sa version 17.5 a venir.
 
-```sql
+```
 --
 -- pg_background wrapper to call function log_action as an autonomous transaction
 --
@@ -170,7 +170,7 @@ LANGUAGE PLPGSQL
 Ici il s'agit de conversion automatique de code PL/SQL Oracle, mais le
 plus simple est certainement d'appeler directement la fonction :
 
-```sql
+```
 CREATE OR REPLACE FUNCTION log_action (
 	username text, event_date timestamp, msg text
 ) RETURNS text AS
@@ -187,7 +187,7 @@ LANGUAGE plpgsql;
 
 Si l'on veut attendre ou stocker le résultat :
 
-```sql
+```
 SELECT * FROM pg_background_result(pg_background_launch('SELECT log_action(...)')) AS p (ret text);
 ```
 
@@ -196,7 +196,7 @@ la fonction en arrière plan, la transaction principale peut alors
 continuer sans attendre le retour de la transaction autonome lancée
 en arrière plan :
 
-```sql
+```
 SELECT pg_background_launch('SELECT log_action(...)');
 ```
 
@@ -205,7 +205,7 @@ tard, il faut stocker le pid et faire appel ensuite à la fonction
 *pg_background_result* :
 
 
-```sql
+```
 CREATE OR REPLACE FUNCTION test_autonomous_transaction (
 	username text, msg text
 ) RETURNS text AS
@@ -223,7 +223,7 @@ END;
 
 Voici un exemple complet en utilisant les fonctions générées par Ora2Pg :
 
-```sql
+```
 CREATE TABLE table_tracking ( id integer, username text, event_date timestamp, msg text);
 
 CREATE SEQUENCE log_seq START 1;
