@@ -18,10 +18,10 @@ indépendamment de la transaction appelante.
 Le cas le plus classique est l'inscription dans une table d'audit
 de toutes les opérations réalisées sur la base que la transaction
 ait réussie ou échouée. Dans PostgreSQL tout ce qui a été fait
-dans une transaction en échec est annulé. Pour la même raison,
-en cas d'échec de la transaction autonome, aucune exception n'est
-remontée à la transaction principale, elle ne pourra pas être
-annulée pour cette raison. 
+dans une transaction en échec est annulé. Pour cette même raison,
+en cas d'échec de la transaction autonome, aucune exception ne doit
+être remontée à la transaction principale, ainsi cette dernière ne
+sera pas annulée suite à cet échec. 
 
 On peut considérer les transactions autonomes comme des unités
 indépendantes de travail, comme s'il s'agissait d'ordres SQL
