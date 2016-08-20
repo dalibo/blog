@@ -420,3 +420,10 @@ Cette capacité à exécuter des transactions autonomes en tache de fond
 permet notamment de dépasser une limitation de PostgreSQL qui ne
 permet pas d'exécuter des ordres *CREATE INDEX CONCURRENTLY*.
 
+Attention toutefois, même si il faut être super utilisateur pour
+pouvoir créer cette extension, une fois l'extension créée, n'importe
+quel utilisateur ayant accès à la base de données aura la possibilité
+d'utiliser les fonctions *pg_background_...()*. Même si les ACL sur les
+objets sont préservées, il est impératif d'être extrêmement attentif
+aux accès à la base et de mener des audits réguliers.
+
