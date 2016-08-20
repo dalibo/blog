@@ -419,3 +419,23 @@ This ability to execute autonomous transactions in background
 allow you to bypass some PostgreSQL limitation like running
 *CREATE INDEX CONCURRENTLY* order in a transaction.
 
+Warning: if you need to be superuser to create this extension,
+once it is created, any user who have access to the database will
+be granted to execute those *pg_background_...()* function. Even
+if object's ACLs are preserved it is mandatory to be careful on
+database access and to regularly audit the database. The best thing
+to do to prevent all users to execute these functions is to relocate
+the extension on a dedicated schema where only authorized users will
+be granted usage privilege. This can be done using the following
+command:
+
+```
+CREATE SCHEMA bgw_schema;
+ALTER EXTENSION pg_background SET SCHEMA bgw_schema;
+GRANT USAGE ON SCHEMA bgw_schema TO <authorized user>;
+```
+
+Using SECURITY DEFINER attribute in functions created by the
+authorized user and using the *bgw_schema.pg_background_...()*
+functions will help to control the security risk.
+

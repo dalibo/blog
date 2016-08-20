@@ -425,5 +425,20 @@ pouvoir créer cette extension, une fois l'extension créée, n'importe
 quel utilisateur ayant accès à la base de données aura la possibilité
 d'utiliser les fonctions *pg_background_...()*. Même si les ACL sur les
 objets sont préservées, il est impératif d'être extrêmement attentif
-aux accès à la base et de mener des audits réguliers.
+aux accès à la base et de mener des audits réguliers. Le mieux pour
+éviter l'exécution de ces fonctions par des utilisateurs non duement
+autorisés est de déplacer l'extension dans un schéma particulier
+et de ne donner le droit d'usage qu'aux utilisateurs pouvant exécuter
+ces fonctions. Cela se fait simplement par la commande :
+
+```
+CREATE SCHEMA bgw_schema;
+ALTER EXTENSION pg_background SET SCHEMA bgw_schema;
+GRANT USAGE ON SCHEMA bgw_schema TO <authorized user>;
+```
+
+En positionnant l'attribut SECURITY DEFINER dans la déclaration des
+fonctions créées par l'utilisateur autorisé et utilisant les fonctions
+*bgw_schema.pg_background_...()*, cela devrait permettre un meilleur
+controle des risques de sécurité.
 
