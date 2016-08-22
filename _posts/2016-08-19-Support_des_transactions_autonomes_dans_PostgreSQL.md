@@ -324,7 +324,7 @@ gilles=# SELECT * FROM table_tracking;
 ----+----------+------------+-----
 (0 ligne)
 
-gilles=# SELECT * FROM pg_background_result(pg_background_launch(E'SELECT log_action(\'gilles\',\'now\',\'Add autonomous_transaction article\')')) AS p (result text);
+gilles=# SELECT * FROM pg_background_result(pg_background_launch($$SELECT log_action('gilles','now','Add autonomous_transaction article')$$)) AS p (result text);
                      result                      
 -------------------------------------------------
  Message inserted into table_tracking with id: 1
@@ -341,7 +341,7 @@ gilles=# SELECT * FROM table_tracking;
   1 | gilles   | 2016-08-19 14:00:12.573144 | Add autonomous_transaction article
 (1 ligne)
 
-gilles=# SELECT pg_background_launch(E'SELECT log_action(\'gilles\',\'now\',\'Add autonomous_transaction article\');');
+gilles=# SELECT pg_background_launch($$SELECT log_action('gilles','now','Add autonomous_transaction article');$$);
  pg_background_launch 
 ----------------------
                 25968
@@ -376,7 +376,7 @@ gilles=# SELECT * FROM table_tracking;
   2 | gilles   | 2016-08-19 14:01:20.83565  | Add autonomous_transaction article
 (2 lignes)
 
-gilles=# SELECT pg_background_launch(E'SELECT pg_sleep(30); SELECT log_action(\'gilles\',\'now\',\'Add autonomous_transaction article\');');
+gilles=# SELECT pg_background_launch($$SELECT pg_sleep(30); SELECT log_action('gilles','now','Add autonomous_transaction article');$$);
  pg_background_launch 
 ----------------------
                 26170
