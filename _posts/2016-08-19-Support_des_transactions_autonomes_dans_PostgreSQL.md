@@ -79,7 +79,7 @@ va d'abord transformer cette fonction et la renommer avec le suffix
 
 ```
 CREATE OR REPLACE FUNCTION log_action_atx (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 BEGIN
@@ -98,7 +98,7 @@ par l'applicatif :
 -- dblink wrapper to call function log_action as an autonomous transaction
 --
 CREATE OR REPLACE FUNCTION log_action (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 DECLARE
@@ -108,7 +108,7 @@ DECLARE
 
 BEGIN
         v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
-		 ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
+ |  |  ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
         PERFORM * FROM dblink(v_conn_str, v_query) AS p (ret boolean);
 
 END;
@@ -140,7 +140,7 @@ utilisant l'extension *pg_background* dans sa version 17.5 a venir.
 -- pg_background wrapper to call function log_action as an autonomous transaction
 --
 CREATE OR REPLACE FUNCTION log_action (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 DECLARE
@@ -148,7 +148,7 @@ DECLARE
 
 BEGIN
         v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
-		',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
+ |  | ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
         PERFORM * FROM pg_background_result(pg_background_launch(v_query)) AS p (ret boolean);
 END;
 $body$
@@ -156,7 +156,7 @@ LANGUAGE plpgsql SECURITY DEFINER;
 
 
 CREATE OR REPLACE FUNCTION log_action_atx (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 BEGIN
@@ -172,7 +172,7 @@ plus simple est certainement d'appeler directement la fonction :
 
 ```
 CREATE OR REPLACE FUNCTION log_action (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS text AS
 $body$
 DECLARE
@@ -207,17 +207,17 @@ tard, il faut stocker le pid et faire appel ensuite à la fonction
 
 ```
 CREATE OR REPLACE FUNCTION test_autonomous_transaction (
-	username text, msg text
+ | username text, msg text
 ) RETURNS text AS
 $body$
 DECLARE
-	at_pid		integer;
-	at_result	text;
+ | at_pid | 	integer;
+ | at_result | text;
 BEGIN
-	SELECT INTO at_pid pg_background_launch('SELECT log_action('||username||','||now()||','||msg)');
-	... do something ...
-	SELECT INTO at_result * FROM pg_background_result(at_pid) as (result text);
-	RETURN at_result;
+ | SELECT INTO at_pid pg_background_launch('SELECT log_action('||username||','||now()||','||msg)');
+ | ... do something ...
+ | SELECT INTO at_result * FROM pg_background_result(at_pid) as (result text);
+ | RETURN at_result;
 END;
 ```
 
@@ -229,7 +229,7 @@ CREATE TABLE table_tracking ( id integer, username text, event_date timestamp, m
 CREATE SEQUENCE log_seq START 1;
 
 CREATE OR REPLACE FUNCTION log_action_atx (i
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 BEGIN
@@ -239,7 +239,7 @@ $body$
 LANGUAGE PLPGSQL ;
 
 CREATE OR REPLACE FUNCTION log_action (
-	username text, event_date timestamp, msg text
+ | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
 DECLARE
@@ -442,3 +442,78 @@ fonctions créées par l'utilisateur autorisé et utilisant les fonctions
 *bgw_schema.pg_background_...()*, cela devrait permettre un meilleur
 controle des risques de sécurité.
 
+Performances dblink vs pg_background :
+--------------------------------------
+
+Il est interessant de comparer les performances entre ces deux extensions,
+*dblink* et *pg_background*. Les benchmarks ont été réalisés sur mon PC de
+bureau avec 1 CPU AMD FX(tm)-8350 - 8 coeurs, d'où le peu de performances
+mais cela donne un ordre d'idée. 
+
+<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background.png" title="Results dblink vs pg_background"/>
+
+Sur ce premier test avec les fonctions générées par Ora2Pg, on peut constater
+que les performances sont équivalentes jusqu'à 10 clients en parallèle. Ensuite
+l'extension *pg_background* prend clairement l'avantage.
+
+Sur le test suivant j'ai utilisé des appels asynchrones tant coté *dblink*
+que *pg_background*. Voici les résultats mais le problème est que je suis
+très vite arrivé aux limites de ma machine avec *pg_background*. Je me suis
+donc limité à un test sur 8 clients en parallèle.
+
+<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
+
+En mode asynchrone *pg_background*, est clairement beaucoup plus performant mais
+on atteind très vite les limites de ma machine concernant l'allocation dynamique
+des segments de mémoire partagée, ce dès 6 clients en parallèle :
+```
+ERROR:  unable to map dynamic shared memory segment
+```
+Cela donne tout de même une idée des performances que l'on peut attendre de ces
+deux modules pour la gestion des transactions autonomes. Si l'applicatif utilise
+intensivement les transactions autonomes, *pg_background* peut en améliorer les
+performances en plus de simplifier la gestion de ces transactions.
+
+Pour le mode asynchrone voici la fonction utilisée avec *dblink* :
+
+```
+CREATE OR REPLACE FUNCTION log_action (
+        username text, event_date timestamp, msg text
+) RETURNS VOID AS
+$body$
+DECLARE
+        -- Change this to reflect the dblink connection string
+        v_conn_str  text := 'port=5432 dbname=gilles host=localhost user=gilles password=gilles';
+        v_connect   text;
+        v_query     text;
+
+BEGIN
+        SELECT INTO v_connect pg_backend_pid()::text;
+        v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
+                 ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
+        PERFORM dblink_connect(v_connect, v_conn_str);
+        PERFORM dblink_send_query(v_connect, v_query);
+        PERFORM dblink_disconnect(v_connect);
+END;
+$body$
+LANGUAGE plpgsql SECURITY DEFINER;
+```
+
+et pour *pg_background* :
+
+```
+CREATE OR REPLACE FUNCTION log_action (
+        username text, event_date timestamp, msg text
+) RETURNS VOID AS
+$body$
+DECLARE
+        v_query     text;
+
+BEGIN
+        v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
+                ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
+        PERFORM pg_background_launch(v_query);
+END;
+$body$
+LANGUAGE plpgsql SECURITY DEFINER;
+```
