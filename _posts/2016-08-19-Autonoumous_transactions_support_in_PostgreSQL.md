@@ -121,7 +121,7 @@ function code. Performances are not optimal too.
 "New" : use dynamic background workers:
 ---------------------------------------
 
-Hopefully since the commit of *background workers* and most of all
+Hopefully since the addition of *dynamic background workers* and most of all
 the work of Robert Haas, it is now possible since PostgreSQL v9.5
 to use the [pg_background](https://github.com/vibhorkum/pg_background) extension to create
 autonomous transaction. This extension offer some other advantages, but
