@@ -17,20 +17,20 @@ indépendamment de la transaction appelante.
 
 Le cas le plus classique est l'inscription dans une table d'audit
 de toutes les opérations réalisées sur la base que la transaction
-ait réussie ou échouée. Dans PostgreSQL tout ce qui a été fait
+ait réussi ou échoué. Dans PostgreSQL, tout ce qui a été fait
 dans une transaction en échec est annulé. Pour cette même raison,
 en cas d'échec de la transaction autonome, aucune exception ne doit
-être remontée à la transaction principale, ainsi cette dernière ne
+être remontée à la transaction principale. Ainsi, cette dernière ne
 sera pas annulée suite à cet échec. 
 
 On peut considérer les transactions autonomes comme des unités
 indépendantes de travail, comme s'il s'agissait d'ordres SQL
-exécutés dans une autre session. De ce fait les opérations non
+exécutés dans une autre session. De ce fait, les opérations non
 validées (commit) dans la transaction principale ne sont pas
 visibles de la transaction autonome tant que la transaction
 principale n'est pas terminée et validée. Les opérations SQL
-réalisées par la transaction autonome sont elles visibles par
-la transaction principale dans le mesure bien sur où elles ont
+réalisées par la transaction autonome sont visibles par
+la transaction principale dans la mesure, bien sûr, où elles ont
 été validées et que le niveau d'isolation de la transaction n'est
 pas SERIALIZABLE ou REPEATABLE READ.
 
@@ -48,9 +48,9 @@ BEGIN
 END log_action;
 ```
 
-Ce n'est pas possible nativement avec PostgreSQL, tout ce qui est
+Ce n'est pas possible nativement avec PostgreSQL. Tout ce qui est
 fait dans une transaction est annulé ou validé avec la transaction.
-Cependant il existe des solutions depuis longtemps, mais surtout
+Cependant, il existe des solutions depuis longtemps, mais surtout
 depuis la version 9.5 de PostgreSQL. La solution historique est
 de passer par une connexion indépendante en utilisant *dblink* par
 exemple. La solution depuis la version 9.5 est d'utiliser l'extension
@@ -60,21 +60,21 @@ autonomes dans le cœur de PostgreSQL.
 "Old school": connexion indépendante :
 --------------------------------------
 
-Pour avoir le comportement d'une transaction autonome sous PostgreSQL
+Pour avoir le comportement d'une transaction autonome sous PostgreSQL,
 il suffit d'ouvrir une autre connexion à la base dans une transaction
 et d'exécuter les ordres SQL dans cette nouvelle session.
 
-Pour cela on utilise depuis longtemps les modules *dblink* ou *PL/proxy*,
-avec lesquels on créer une nouvelle connexion au serveur PostgreSQL
+Pour cela, on utilise depuis longtemps les modules *dblink* ou *PL/proxy*,
+avec lesquels on crée une nouvelle connexion au serveur PostgreSQL
 pour exécuter de manière autonomes des requêtes SQL.
 
-Par exemple, Ora2Pg jusqu'à la version 17.4, converti les procédures
+Par exemple, Ora2Pg, jusqu'à la version 17.4, convertit les procédures
 Oracle avec le PRAGMA AUTONOMOUS_TRANSACTION en créant un wrapper à
 base de *dblink*. Ce wrapper prend le nom de la fonction et appelle
 la fonction d'origine renommée avec le suffix `_atx`.
 
 En reprenant l'exemple de transaction autonome sous Oracle, Ora2Pg
-va d'abord transformer cette fonction et la renommer avec le suffix
+va d'abord transformer cette fonction et la renommer avec le suffixe
 `_atx' comme suit :
 
 ```
@@ -116,7 +116,7 @@ $body$
 LANGUAGE plpgsql SECURITY DEFINER;
 ```
 
-Cette méthode fonctionne très bien mais nécessite de l'édition pour
+Cette méthode fonctionne très bien mais nécessite une modification manuelle pour
 positionner les paramètres *dblink* de connexion, sans compter ici la
 présence du mot de passe dans la fonction. Les performances ne sont
 pas non plus idéales.
@@ -125,15 +125,15 @@ pas non plus idéales.
 "New" : utiliser les background workers :
 -----------------------------------------
 
-Heureusement depuis la présence des *background workers* et surtout
-du travail de Robert Haas, il est maintenant possible, depuis la
-version 9.5, d'utiliser l'extension [pg_background](https://github.com/vibhorkum/pg_background) pour créer des
-transactions autonomes. Cette extension à bien d'autres avantages,
+Heureusement, depuis la présence des *background workers* et surtout
+du travail de Robert Haas, il est possible depuis la
+version 9.5 d'utiliser l'extension [pg_background](https://github.com/vibhorkum/pg_background) pour créer des
+transactions autonomes. Cette extension a bien d'autres avantages,
 Cet article se limite à expliquer comment appeler des fonctions ou
 ordres SQL de manière autonome.
 
 Si l'on reprend l'exemple précédent, voici ce que Ora2Pg exporte en
-utilisant l'extension *pg_background* dans sa version 17.5 a venir.
+utilisant l'extension *pg_background* dans sa version 17.5 à venir.
 
 ```
 --
@@ -167,7 +167,7 @@ LANGUAGE PLPGSQL
 ;
 ```
 
-Ici il s'agit de conversion automatique de code PL/SQL Oracle, mais le
+Ici, il s'agit de conversion automatique de code PL/SQL Oracle, mais le
 plus simple est certainement d'appeler directement la fonction :
 
 ```
@@ -289,9 +289,9 @@ gilles=# SELECT * from table_tracking;
 On constate bien que, malgré le ROLLBACK, la ligne est bien présente
 dans la table *table_tracking*.
 
-Comme expliqué plus haut il est possible de simplifier ces appels
+Comme expliqué plus haut, il est possible de simplifier ces appels
 en utilisant directement l'appel à la fonction. Dans l'exemple
-suivant le type de retour de la fonction a été modifié pour montrer
+suivant, le type de retour de la fonction a été modifié pour montrer
 l'utilisation des différentes fonctions de l'extension *pg_background*.
 
 ```
@@ -362,7 +362,7 @@ gilles=# SELECT * FROM pg_background_result(25968) as p (result text);
 
 ```
 
-Dans ce dernier exemple, on peut constater qu'il est tout a fait
+Dans ce dernier exemple, on peut constater qu'il est tout à fait
 possible de faire autre chose dans la transaction en attendant que
 la transaction autonome soit finie :
 
@@ -409,10 +409,10 @@ gilles=# ROLLBACK;
 ROLLBACK
 ```
 
-Ici on ajoute une temporisation de 30 secondes (`SELECT pg_sleep(30);`)
+Ici, on ajoute une temporisation de 30 secondes (`SELECT pg_sleep(30);`)
 dans la transaction autonome. La table *table_tracking* n'a toujours
 pas reçue d'insertion juste après la création du background worker
-mais 30 secondes plus tard on constate la présence de la nouvelle
+mais 30 secondes plus tard, on constate la présence de la nouvelle
 ligne. On peut alors récupérer le résultat de la transaction s'il y
 en a un.
 
@@ -426,7 +426,7 @@ quel utilisateur ayant accès à la base de données aura la possibilité
 d'utiliser les fonctions *pg_background_...()*. Même si les ACL sur les
 objets sont préservées, il est impératif d'être extrêmement attentif
 aux accès à la base et de mener des audits réguliers. Le mieux pour
-éviter l'exécution de ces fonctions par des utilisateurs non duement
+éviter l'exécution de ces fonctions par des utilisateurs non dûment
 autorisés est de déplacer l'extension dans un schéma particulier
 et de ne donner le droit d'usage qu'aux utilisateurs pouvant exécuter
 ces fonctions. Cela se fait simplement par la commande :
@@ -445,27 +445,27 @@ controle des risques de sécurité.
 Performances dblink vs pg_background :
 --------------------------------------
 
-Il est interessant de comparer les performances entre ces deux extensions,
+Il est intéressant de comparer les performances entre ces deux extensions,
 *dblink* et *pg_background*. Les benchmarks ont été réalisés sur mon PC de
-bureau avec 1 CPU AMD FX(tm)-8350 - 8 coeurs, d'où le peu de performances
+bureau avec 1 CPU AMD FX(tm)-8350 - 8 cœurs, d'où le peu de performances
 mais cela donne un ordre d'idée. 
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background.png" title="Results dblink vs pg_background"/>
 
 Sur ce premier test avec les fonctions générées par Ora2Pg, on peut constater
-que les performances sont équivalentes jusqu'à 10 clients en parallèle. Ensuite
+que les performances sont équivalentes jusqu'à 10 clients en parallèle. Ensuite,
 l'extension *pg_background* prend clairement l'avantage.
 
-Sur le test suivant j'ai utilisé des appels asynchrones tant coté *dblink*
+Sur le test suivant, j'ai utilisé des appels asynchrones tant du côté *dblink*
 que *pg_background*. Voici les résultats mais le problème est que je suis
 très vite arrivé aux limites de ma machine avec *pg_background*. Je me suis
 donc limité à un test sur 8 clients en parallèle.
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
 
-En mode asynchrone *pg_background*, est clairement beaucoup plus performant mais
-on atteind très vite les limites de ma machine concernant l'allocation dynamique
-des segments de mémoire partagée, ce dès 6 clients en parallèle :
+En mode asynchrone, *pg_background* est clairement beaucoup plus performant mais
+on atteint très vite les limites de ma machine concernant l'allocation dynamique
+des segments de mémoire partagée, et ce dès 6 clients en parallèle :
 ```
 ERROR:  unable to map dynamic shared memory segment
 ```
@@ -474,7 +474,7 @@ deux modules pour la gestion des transactions autonomes. Si l'applicatif utilise
 intensivement les transactions autonomes, *pg_background* peut en améliorer les
 performances en plus de simplifier la gestion de ces transactions.
 
-Pour le mode asynchrone voici la fonction utilisée avec *dblink* :
+Pour le mode asynchrone, voici la fonction utilisée avec *dblink* :
 
 ```
 CREATE OR REPLACE FUNCTION log_action (
