@@ -228,7 +228,7 @@ CREATE TABLE table_tracking ( id integer, username text, event_date timestamp, m
 
 CREATE SEQUENCE log_seq START 1;
 
-CREATE OR REPLACE FUNCTION log_action_atx (i
+CREATE OR REPLACE FUNCTION log_action_atx (
  | username text, event_date timestamp, msg text
 ) RETURNS VOID AS
 $body$
