@@ -453,17 +453,35 @@ performances are quite the same up to 10 concurrent clients. The *pg_background*
 extension is clearly much interesting with lot of parallel sessions.
 
 In the next test, I have used the asynchronous mode of the two extensions.
-Here are the results, but the problem is that I've quickly reached the limit
-of my computer with *pg_background*, so I just used up to 8 concurrent clients.
+In this mode *pg_background* seems really much more performant:
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
 
-In asynchronous mode, *pg_background* has obviously better performance than *dblink*
-but you quickly reach the limit of the dynamic shared memory allocation. Errors
-start to appear with just 6 concurrent clients:
+but the problem is that most of the transactions failed to allocate
+shared memory segment:
+
 ```
 ERROR:  unable to map dynamic shared memory segment
 ```
+
+This problem comes from the fact that, in this use case, the parent process
+ends before that the background work was able to attach the share memory segment
+used for communication between the two process. As the calling process dies before
+there's no more process attached to the share memory segment and in this case the
+system automatically drop the allocated shared memory. Then when the background worker
+want to attach this dsm segment it can't find it and the previous error is returned.
+
+This test case is quite unusual because we can think that the asynchronous mode is
+used most of the time to quickly perform some additional tasks after launching the
+background worker. This let the time to the bgworker to attach the shared memory
+segment. Here, the fact to execute the query asynchronously without taking care
+of the result without having anything else to execute is an extrem case.
+
+To be able to compare the same behavior between *dblink* and *pg_background* I have
+add a call to `pg_sleep(0.005)` just after the call to `pg_background_launch()`, which
+gives the following result:
+
+<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous using pg_sleep(0.005)"/>
 
 Even if this is not realistic of a production use, this give you an idea
 of what can be expected with these both extensions with autonomous transactions.
@@ -510,6 +528,8 @@ BEGIN
         v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
                 ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
         PERFORM pg_background_launch(v_query);
+	-- you need to do something here to avoid ERROR:  unable to map dynamic shared memory segment
+	PERFORM pg_sleep(0.005);
 END;
 $body$
 LANGUAGE plpgsql SECURITY DEFINER;

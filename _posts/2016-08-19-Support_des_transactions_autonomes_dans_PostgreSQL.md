@@ -457,22 +457,41 @@ que les performances sont équivalentes jusqu'à 10 clients en parallèle. Ensui
 l'extension *pg_background* prend clairement l'avantage.
 
 Sur le test suivant, j'ai utilisé des appels asynchrones tant du côté *dblink*
-que *pg_background*. Voici les résultats mais le problème est que je suis
-très vite arrivé aux limites de ma machine avec *pg_background*. Je me suis
-donc limité à un test sur 8 clients en parallèle.
+que *pg_background*. En mode asynchrone, *pg_background* semble beaucoup plus
+performant :
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
 
-En mode asynchrone, *pg_background* est clairement beaucoup plus performant mais
-on atteint très vite les limites de ma machine concernant l'allocation dynamique
-des segments de mémoire partagée, et ce dès 6 clients en parallèle :
+mais le problème est que la plupart des transactions sont interrompues en erreur
+concernant l'allocation des segments de mémoire partagée :
+
 ```
 ERROR:  unable to map dynamic shared memory segment
 ```
-Cela donne tout de même une idée des performances que l'on peut attendre de ces
-deux modules pour la gestion des transactions autonomes. Si l'applicatif utilise
-intensivement les transactions autonomes, *pg_background* peut en améliorer les
-performances en plus de simplifier la gestion de ces transactions.
+
+Le problème vient du fait que, dans ce cas de test, le processus appelant se termine
+avant que le background worker ait pu s'attacher au segment de mémoire partagée créé
+pour la communication entre les deux processus. Comme le processus appelant se termine
+avant, il n'y a plus d'attachement à ce segment de mémoire partagée et ce dernier est
+détruit automatiquement par le système. Lorsque le background worker cherche à
+se l'attacher il ne le trouve évidement pas. 
+ 
+Ce cas de test est un peu particulier car on peut penser que généralement le mode
+asynchrone est utilisé pour pouvoir exécuter d'autres requêtes pendant ce temps.
+Ceci qui fait que pendant ce laps de temps le background worker aura le temps
+de s'attacher la mémoire partagée. Ici, le fait d'exécuter la requête en asynchrone
+sans se préoccuper du retour et sans avoir rien d'autre à exécuter est un cas
+extrême qui ne peut pas être réalisé avec l'extension *pg_background*. Pour pouvoir
+réaliser la comparaison j'ai rajouté un appel à `pg_sleep(0.005)` juste après l'appel
+à `pg_background_launch()`, ce qui donne les résultats suivants:
+
+<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous with timing"/>
+
+Même le cas d'usage utilisé ici n'est pas très réaliste, cela donne tout de même
+une idée des performances que l'on peut attendre de ces deux modules pour la gestion
+des transactions autonomes. Si l'applicatif utilise intensivement les transactions
+autonomes, *pg_background* peut en améliorer les performances en plus de simplifier
+la gestion de ces transactions.
 
 Pour le mode asynchrone, voici la fonction utilisée avec *dblink* :
 
@@ -513,6 +532,8 @@ BEGIN
         v_query := 'SELECT true FROM log_action_atx ( ' || quote_nullable(username) ||
                 ',' || quote_nullable(event_date) || ',' || quote_nullable(msg) || ' )';
         PERFORM pg_background_launch(v_query);
+	-- you need to do something here to avoid ERROR:  unable to map dynamic shared memory segment
+	PERFORM pg_sleep(0.005);
 END;
 $body$
 LANGUAGE plpgsql SECURITY DEFINER;
