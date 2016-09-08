@@ -8,16 +8,16 @@ tags: [PostgreSQL, autonomous, transaction, ora2pg]
 ---
 
 I've talked about two different implementations of Autonomous transaction
-with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). August 31th Peter Eisentraut submit
-a [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) to implement PRAGMA AUTONOMOUS_TRANSACTION a la Oracle into the
-core of PostgreSQL. Lets see how well it performs.
+with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). August 31st Peter Eisentraut submitted
+a [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) to implement PRAGMA AUTONOMOUS_TRANSACTION à la Oracle into the
+core of PostgreSQL. Let's see how well it performs.
 
 <!--MORE-->
 
 Here is a very simple example of a patched PostgreSQL using a function
-with the pragma of autonomous transaction. It logs independently all
-actions performed in the database whatever is the end result of the
-transaction.
+with the autonomous transaction pragma. It logs independently all
+actions performed in the database, no matter what the end result of the
+transaction is.
 
 ```
 CREATE OR REPLACE FUNCTION log_action_atx (
@@ -54,31 +54,32 @@ LANGUAGE PLPGSQL;
 Here is a benchmark comparing performances of autonomous transaction
 implemented using *dblink*, *pg_background* and the pragma patch.
 Benchmark was built on my personal desktop computer with 1 CPU
-AMD FX(tm)-8350 - 8 cores. Do not take care of the level of transactions
-per second, this is expected on this kind of hardware but this will give
-you an idea of the performances you can expect following the solution.
+AMD FX(tm)-8350 - 8 cores. Do not pay attention to the level of transactions
+per second, these values expected on this kind of hardware but it will give
+you an idea of the performance you can expect from these solutions.
 
 <img src="http://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Results dblink vs pg_background vs pragma autonomous"/>
 
 In this test we can see that *pg_background* and *pragma autonomous_transaction*
-have the same performances. This is not surprising because the *pragma autonomous_transaction*
-patch also use background workers to create a dedicated session.
+have about the same performance. This is not surprising because the *pragma
+autonomous_transaction* patch also uses background workers to create a
+dedicated session.
 
-If this patch increase the simplification in the use of autonomous transaction,
-it doesn't allow the asynchronous mode yet. This is clearly a great advantage
-of *dblink* or *p_gbackground*, in asynchronous mode they clearly outperform
-the *pragma autonomous_transaction* patch.
+If this patch allows a simpler use of autonomous transactions, it doesn't allow
+the asynchronous mode yet. This is clearly a great advantage of *dblink* or
+*p_gbackground*, in asynchronous mode they clearly outperform the *pragma
+autonomous_transaction* patch.
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous"/>
 
-Note that other SGBD implementing autonomous transaction doesn't have an
-asynchronous mode too, at least for what I know.
+Note that as far as I know, other DBMSs implementing autonomous transaction
+don't have an asynchronous mode either.
 
-Anyway, if this patch is committed in this form or modified, you will have
-three way to create autonomous transaction in PostgreSQL which is a wealth.
+Anyway, if this patch is committed (as is or not), you will have three ways to
+create autonomous transactions in PostgreSQL, which is a wealth.
 The problem is that solutions that build autonomous transaction through a background worker
 are creating a new process each time such a transaction is called. This
-has a performance cost of some milliseconds each time and create additional
-context switches. Having some kind of sub transaction committed before and
-independently of the main transaction would be a better solution.
+has a performance cost of some milliseconds each time and induces
+additional context switches. Having some kind of sub transaction committed
+before and independently of the main transaction would be a better solution.
 

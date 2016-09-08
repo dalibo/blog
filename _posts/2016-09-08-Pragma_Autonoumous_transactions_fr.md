@@ -16,8 +16,8 @@ Voyons voir ses performances.
 
 Voici un exemple très simple d'un PostgreSQL patché utilisant une
 fonction avec le pragma de déclaration d'une transaction autonome.
-Cet exemple trace independament certaines actions réalisées dans
-la base  quelle que soit le résultat final de la transaction en cours.
+Cet exemple trace indépendamment certaines actions réalisées dans
+la base  quel que soit le résultat final de la transaction en cours.
 
 ```
 CREATE OR REPLACE FUNCTION log_action_atx (
@@ -52,7 +52,7 @@ LANGUAGE PLPGSQL;
 ```
 
 Voici un benchmark comparant les performances des transactions autonomes
-implémentées en utilisant *dblink*, *pg_background* et le patch pragma.
+implémentées en utilisant *dblink*, *pg_background*, et le patch pragma.
 Le benchmark a été réalisé sur mon PC personnel avec 1 CPU AMD FX(tm)-8350
 et 8 coeurs. Ne faites pas attention aux niveaux de transactions par seconde,
 c'est tout à fait attendu sur ce type de matériel mais cela vous donnera
@@ -78,11 +78,11 @@ pas non plus de mode asynchrone, tout au moins à ma connaissance.
 
 Mais peu importe, si ce patch est intégré dans cette forme ou une autre,
 vous aurez à disposition trois solutions pour gérer vos transactions autonomes,
-ce qui est une vrai richesse. Le problème c'est que les solutions qui
+ce qui est une vraie richesse. Le problème est que les solutions qui
 construisent les transactions autonomes sur la base des background workers,
 provoquent la création d'un nouveau processus à chaque fois qu'une telle transaction
 est appelée. Ceci a un coût de performance de quelques millisecondes à
-chaque fois et cela génère aussi un surcout de context switches. S'il
+chaque fois et cela génère aussi un surcoût de context switches. S'il
 était question de sous transactions commitées avant et indépendamment
 de la transaction appelante, nous aurions une bien meilleure solution.
 
