@@ -7,7 +7,7 @@ github_id:
 tags: [PostgreSQL, autonomous, transaction, ora2pg]
 ---
 
-I've talked about two differents implementation of Autonomous transaction
+I've talked about two different implementations of Autonomous transaction
 with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). August 31th Peter Eisentraut submit
 a [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) to implement PRAGMA AUTONOMOUS_TRANSACTION a la Oracle into the
 core of PostgreSQL. Lets see how well it performs.
