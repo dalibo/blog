@@ -18,6 +18,7 @@ Voici un exemple très simple d'un PostgreSQL patché utilisant une
 fonction avec le pragma de déclaration d'une transaction autonome.
 Cet exemple trace independament certaines actions réalisées dans
 la base  quelle que soit le résultat final de la transaction en cours.
+
 ```
 CREATE OR REPLACE FUNCTION log_action_atx (
 	username text, event_date timestamp, msg text
