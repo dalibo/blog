@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PRAGMA AUTONOMOUS TRANSACTION in PostgreSQL
+title: Pragma autonomous_transaction in PostgreSQL
 author: Gilles Darold
 twitter_id: ora2pg
 github_id:
@@ -8,7 +8,7 @@ tags: [PostgreSQL, autonomous, transaction, ora2pg]
 ---
 
 I've talked about two differents implementation of Autonomous transaction
-with PostgreSQL in my [http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html] (previous post on August 19th). August 31th Peter Eisentraut submit
+with PostgreSQL in my [previous post on August 19th] (http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). August 31th Peter Eisentraut submit
 a patch to implement PRAGMA AUTONOMOUS_TRANSACTION a la Oracle into the
 core of PostgreSQL. Lets see how well it performs.
 
