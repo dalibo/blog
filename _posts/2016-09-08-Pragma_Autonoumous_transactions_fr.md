@@ -8,7 +8,7 @@ tags: [PostgreSQL, autonomous, transaction, ora2pg]
 ---
 
 J'ai parlé de deux différentes implémentations des transactions autonomes
-avec PostgreSQL dans mon [article précédent du 19 Août](http://blog.dalibo.com/2016/08/19/Support_des_transactions_autonomes_dans_PostgreSQL.html). Le 31 Août Peter Eisentraut a soumis un patch pour intégrer la syntaxe
+avec PostgreSQL dans mon [article précédent du 19 Août](http://blog.dalibo.com/2016/08/19/Support_des_transactions_autonomes_dans_PostgreSQL.html). Le 31 Août Peter Eisentraut a soumis un [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) pour intégrer la syntaxe
 PRAGMA AUTONOMOUS_TRANSACTION à la Oracle dans le coeur de PostgreSQL.
 Voyons voir ses performances.
 
