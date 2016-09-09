@@ -8,8 +8,8 @@ layout: null
 		<author>{{ site.author.name }}</author>
 		<description>Posts categorized as 'PGFR'</description>
 		<link>{{ site.production_url }}</link>
-		<atom:link href="{{ site.production_url }}/feed.pgfr.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.tags.pgfr %}
+		<atom:link href="{{ site.production_url }}/feed.planetpgfr.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.tags.planetpgfr %}
 			<item>
 				<title>{{ post.title }}</title>
 				<author>{{ post.author.name }}</author>
