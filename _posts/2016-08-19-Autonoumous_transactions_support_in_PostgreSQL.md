@@ -4,7 +4,7 @@ title: Autonomous transaction support in PostgreSQL
 author: Gilles Darold
 twitter_id: ora2pg
 github_id:
-tags: [PostgreSQL, autonomous, transaction, ora2pg]
+tags: [PostgreSQL, autonomous, transaction, ora2pg, planetpg ]
 ---
 
 An autonomous transaction is a transaction started from
