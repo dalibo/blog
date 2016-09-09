@@ -7,8 +7,8 @@ github_id:
 tags: [PostgreSQL, autonomous, transaction, ora2pg]
 ---
 
-I've talked about two different implementations of Autonomous transaction
-with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). August 31st Peter Eisentraut submitted
+I've talked about two different implementations of Autonomous Transaction
+with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). On August 31st, Peter Eisentraut submitted
 a [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) to implement PRAGMA AUTONOMOUS_TRANSACTION à la Oracle into the
 core of PostgreSQL. Let's see how well it performs.
 
@@ -51,35 +51,35 @@ $body$
 LANGUAGE PLPGSQL;
 ```
 
-Here is a benchmark comparing performances of autonomous transaction
+This benchmark compares performances of autonomous transaction
 implemented using *dblink*, *pg_background* and the pragma patch.
-Benchmark was built on my personal desktop computer with 1 CPU
+It ran on my personal desktop computer with 1 CPU
 AMD FX(tm)-8350 - 8 cores. Do not pay attention to the level of transactions
-per second, these values expected on this kind of hardware but it will give
+per second, these values are expected on this kind of hardware but it will give
 you an idea of the performance you can expect from these solutions.
 
 <img src="http://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Results dblink vs pg_background vs pragma autonomous"/>
 
-In this test we can see that *pg_background* and *pragma autonomous_transaction*
-have about the same performance. This is not surprising because the *pragma
+In this test, we can see that *pg_background* and *pragma autonomous_transaction*
+have approximately the same performance. This is not surprising because the *pragma
 autonomous_transaction* patch also uses background workers to create a
 dedicated session.
 
 If this patch allows a simpler use of autonomous transactions, it doesn't allow
-the asynchronous mode yet. This is clearly a great advantage of *dblink* or
-*p_gbackground*, in asynchronous mode they clearly outperform the *pragma
+the asynchronous mode yet. This is clearly a big advantage of *dblink* and
+*pg_background*, as in asynchronous mode, they clearly outperform the *pragma
 autonomous_transaction* patch.
 
 <img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous"/>
 
-Note that as far as I know, other DBMSs implementing autonomous transaction
+Note that, as far as I know, other DBMSes implementing autonomous transaction
 don't have an asynchronous mode either.
 
 Anyway, if this patch is committed (as is or not), you will have three ways to
-create autonomous transactions in PostgreSQL, which is a wealth.
+create autonomous transactions in PostgreSQL, which is a real good thing.
 The problem is that solutions that build autonomous transaction through a background worker
 are creating a new process each time such a transaction is called. This
 has a performance cost of some milliseconds each time and induces
-additional context switches. Having some kind of sub transaction committed
-before and independently of the main transaction would be a better solution.
+additional context switches. Having some kind of sub-transaction committed
+before and independently of the main transaction would be a much better solution.
 
