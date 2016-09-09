@@ -4,7 +4,7 @@ title: Support des transactions autonomes dans PostgreSQL
 author: Gilles Darold
 twitter_id: ora2pg
 github_id:
-tags: [PostgreSQL, autonomous, transaction, ora2pg, pgfr ]
+tags: [PostgreSQL, autonomous, transaction, ora2pg, planetpgfr ]
 ---
 
 Une transaction autonome est une transaction exécutée à partir
