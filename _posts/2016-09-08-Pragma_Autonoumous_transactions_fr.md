@@ -4,7 +4,7 @@ title: Pragma autonomous_transaction dans PostgreSQL
 author: Gilles Darold
 twitter_id: ora2pg
 github_id:
-tags: [PostgreSQL, autonomous, transaction, ora2pg]
+tags: [PostgreSQL, autonomous, transaction, ora2pg, pgfr ]
 ---
 
 J'ai parlé de deux différentes implémentations des transactions autonomes
