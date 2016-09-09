@@ -1,0 +1,23 @@
+---
+layout: null 
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ site.name }} - PGFR</title>
+		<author>{{ site.author.name }}</author>
+		<description>Posts categorized as 'PGFR'</description>
+		<link>{{ site.production_url }}</link>
+		<atom:link href="{{ site.production_url }}/feed.planetpg.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.tags.planetpg %}
+			<item>
+				<title>{{ post.title }}</title>
+				<author>{{ post.author.name }}</author>
+				<description>{{ post.content | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.production_url }}/{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.production_url }}/{{ post.url }}</guid>
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
