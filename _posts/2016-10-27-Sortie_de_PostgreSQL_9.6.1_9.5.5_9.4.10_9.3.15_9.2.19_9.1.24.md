@@ -17,7 +17,7 @@ Le PostgreSQL Global Development Group a publié une mise à jour pour toutes le
 
 ## Enregistrement dans les WAL des relations tronquées
 
-Cette mise à jour corrige l'enregistrement dans les journaux de transaction (WAL) des relations tronquées, et assure maintenant que la carte des epaces libres (Free Space Map ou FSM ) est elle aussi tronquée lorsqu'une commande TRUNCATE est envoyée, qui conduisait à la corruption de données. Si la FSM n'était pas tronquée, une base PostgreSQL en mode réparation (recovery) pouvait retourner une page qui avait déjà été tronquées et retourner une erreur du type :
+Cette mise à jour corrige l'enregistrement dans les journaux de transaction (WAL) des relations tronquées, et assure maintenant que la carte des epaces libres (Free Space Map ou FSM ) est elle aussi tronquée lorsqu'une commande TRUNCATE est envoyée, qui conduisait à la corruption de données. Si la FSM n'était pas tronquée, une base PostgreSQL en mode réparation (recovery) pouvait retourner une page qui avait déjà été tronquée et retourner une erreur du type :
 
 	ERROR:  could not read block 28991 in file "base/16390/572026": read only 0 of 8192 bytes
 
