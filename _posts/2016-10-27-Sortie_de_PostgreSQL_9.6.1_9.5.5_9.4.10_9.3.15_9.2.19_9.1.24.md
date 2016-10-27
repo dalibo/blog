@@ -30,7 +30,7 @@ Ce problème est présent dans les séries 9.3, 9.4, 9.5 et 9.6 des publications
 Sur les machines big-endian (ex : plusieurs architectures non-Intel), pg_upgrade pourrait écrire de manière incorrecte les octets de la carte de visibilité conduisant pg_upgrade à l'échec.
 
 Ce problème est présent uniquement dans les versions 9.6.0 de PostgreSQL.
- 
+
 ## Correctifs de bug et améliorations
 
 En plus de ce qui énoncé ci-dessus, cette mise à jour corrige aussi un certain nombre de bugs rapportés sur les derniers mois. Certains problèmes ne touchent que la version 9.6, mais certains touchent toutes les versions supportées. Il y a plus de 50 correctifs dans cette version, incluant :
@@ -67,13 +67,13 @@ Dans cette mise à jour, AMT n'est plus montrée comme étant en cours d'utilisa
 
 ## Notification d'EOL (End Of Life, fin de vie) pour la version 9.1.
 
-PostgreSQL 9.1 est maintenant en fin de vie (EOL). Le projet prévoit de ne plus sortir aucune version supplémentaire pour cette version. Nous encourageons fortement les utilisateurs à commencer à planifier une mise à jour vers une version plus récente dès que possible. Voyez la politique de version pour plus d'informations
+PostgreSQL 9.1 est maintenant en fin de vie (EOL). Le projet prévoit de ne plus sortir aucune version supplémentaire pour cette version. Nous encourageons fortement les utilisateurs à commencer à planifier une mise à jour vers une version plus récente dès que possible. Voyez la [https://www.postgresql.org/support/versioning/](politique de version) pour plus d'informations
 
 ## Mise à jour
 
 Toutes les mises à jour de PostgreSQL sont cumulatives. Comme pour les autres versions mineures, les utilisateurs n'ont pas besoin d'exporter et réimporter leur base, ni d'utiliser pg_upgrade pour appliquer cette mise à jour. Vous pouvez simplement éteindre PostgreSQL et mettre à jour les binaires.
 
-Si votre système était affecté par le bug pg_upgrade sur big-endian, merci de lire https://wiki.postgresql.org/wiki/Visibility_Map_Problems et suivez les instructions sur comment corriger ce problème sur vos instances PostgreSQL.
+Si votre système était affecté par le bug pg_upgrade sur big-endian, merci de lire [https://wiki.postgresql.org/wiki/Visibility_Map_Problems](https://wiki.postgresql.org/wiki/Visibility_Map_Problems) et suivez les instructions sur comment corriger ce problème sur vos instances PostgreSQL.
 
 Les utilisateurs qui ont sauté une ou plusieurs mises à jour mineures pourraient avoir besoin de lancer des étapes supplémentaires après la mise à jour; merci de consulter les notes de version des versions précédentes pour plus de détails.
 
@@ -81,6 +81,6 @@ Les utilisateurs qui ont sauté une ou plusieurs mises à jour mineures pourraie
 
 
 * Téléchargement: [http://postgresql.org/download](http://postgresql.org/download)
-* Notes de version: [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs
-/current/static/release.html)
-
+* Notes de version: [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs/current/static/release.html)
+* Page sur la sécurité : [http://www.postgresql.org/support/security/](http://www.postgresql.org/support/security/)
+* Politique de versionnement : [https://www.postgresql.org/support/versioning/](https://www.postgresql.org/support/versioning/)
