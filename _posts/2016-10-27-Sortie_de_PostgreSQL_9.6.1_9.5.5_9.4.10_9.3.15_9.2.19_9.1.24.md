@@ -67,7 +67,7 @@ Dans cette mise à jour, AMT n'est plus montrée comme étant en cours d'utilisa
 
 ## Notification d'EOL (End Of Life, fin de vie) pour la version 9.1.
 
-PostgreSQL 9.1 est maintenant en fin de vie (EOL). Le projet prévoit de ne plus sortir aucune version supplémentaire pour cette version. Nous encourageons fortement les utilisateurs à commencer à planifier une mise à jour vers une version plus récente dès que possible. Voyez la [https://www.postgresql.org/support/versioning/](politique de version) pour plus d'informations
+PostgreSQL 9.1 est maintenant en fin de vie (EOL). Le projet prévoit de ne plus sortir aucune version supplémentaire pour cette version. Nous encourageons fortement les utilisateurs à commencer à planifier une mise à jour vers une version plus récente dès que possible. Voyez la [politique de versionnement](https://www.postgresql.org/support/versioning/) pour plus d'informations
 
 ## Mise à jour
 
