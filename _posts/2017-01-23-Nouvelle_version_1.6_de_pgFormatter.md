@@ -19,17 +19,21 @@ recherche de code à ne pas formater.
 <!--MORE-->
 
 Par exemple, une requête contenant des zones remplacées dynamiquement comme :
+
 ```
 SELECT * FROM projects WHERE projectnumber
 	IN <<internalprojects>> AND username = <<loginname>>;
 ```
+
 va provoquer le formatage des zones `<<...>>` et donc modifier le code.
 Pour éviter cela on peut maintenant utiliser une expression régulière
 Perl pour informer pgFormatter de garder ces zones de la requête non
 modifiées. Par exemple :
+
 ```
 $ pg_format samples/ex9.sql -p '<<(?:.*)?>>'
 ```
+
 instruira pgFormatter de ne pas formater les opérateurs de décalage de bit
 tel qu'utilisés dans la requêtes comme zone modifiable dynamiquement.
 
