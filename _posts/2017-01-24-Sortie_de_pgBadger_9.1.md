@@ -18,8 +18,8 @@ et quelques améliorations de fonctionnalités :
   * Mise à jour du formatage SQL à partir de la version v1.6 de pgFormatter.
   * Amélioration de la normalisation des messages d'erreur.
   * Ajout de l'option `--normalized-only` pour la génération d'un fichier texte contenant toutes les requêtes normalisées trouvées dans les traces ainsi que leur nombre.
-  * Autorise l'utilisation de `%c` (id de session) en remplacement de `%p` (le pid) comme identifiant unique de session indeispensable au bon fonctionnement de pgBadger.
-  * Les messages `waiting for lock` sont maintenant remontés dans le rapport des événements pour pouvoir être visualisé si l'option `-w` ou `--watch-mode` est utilisée.
+  * Autorise l'utilisation de `%c` (id de session) en remplacement de `%p` (le pid) comme identifiant unique de session indispensable au bon fonctionnement de pgBadger.
+  * Les messages `waiting for lock` sont maintenant remontés dans le rapport des événements pour pouvoir être visualisés si l'option `-w` ou `--watch-mode` est utilisée.
   * Ajout de l'option `--start-monday` pour commencer les semaines le lundi sur l'index du mode incrémental au lieu du dimanche.
 
 Pour la liste complète des améliorations et corrections, consultez la note de la nouvelle version :
