@@ -35,7 +35,7 @@ $ pg_format samples/ex9.sql -p '<<(?:.*)?>>'
 ```
 
 instruira pgFormatter de ne pas formater les opérateurs de décalage de bit
-tel qu'utilisés dans la requêtes comme zone modifiable dynamiquement.
+tels qu'utilisés dans la requête comme zone modifiable dynamiquement.
 
 pgFormatter v1.6 est aussi disponible comme service en ligne gratuit pour
 formater des requêtes allant jusqu'à 100 KB. Pour voir un exemple de
