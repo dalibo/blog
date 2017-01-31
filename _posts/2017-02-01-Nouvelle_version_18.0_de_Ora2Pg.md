@@ -31,6 +31,7 @@ La nouvelle version 18.0 d'Ora2Pg vient d'être publiée. Il s'agit d'une versio
   * Création automatique de la configuration full text search lorsque la directive
     USE_UNACCENT est activée en utilisant la détection automatique de la langue
     des lexèmes dans Oracle. Par exemple :
+
 ```
   	CREATE TEXT SEARCH CONFIGURATION fr (COPY = french);
     	ALTER TEXT SEARCH CONFIGURATION fr ALTER MAPPING FOR
@@ -38,6 +39,7 @@ La nouvelle version 18.0 d'Ora2Pg vient d'être publiée. Il s'agit d'une versio
     	CREATE INDEX place_notes_cidx ON places
     			USING gin(to_tsvector('fr', place_notes));
 ```
+
     La directive FTS_CONFIG permet maintenant de forcer cette valeur.
 
 <!--MORE-->
