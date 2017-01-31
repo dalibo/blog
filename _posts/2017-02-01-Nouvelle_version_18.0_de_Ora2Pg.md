@@ -67,7 +67,7 @@ Changements et incompatibilités avec les versions précédentes :
     suffisant.
   * Suppression de l'utilisation de setweigth() sur les index FTS
     basés sur une seule colonne.
-  * La majorité du focntionnement de l'export des index FTS dans
+  * La majorité du fonctionnement de l'export des index FTS dans
     Ora2Pg a changé, reportez vous à la documentation pour plus
     de détail.
 
@@ -82,13 +82,13 @@ directives de configuration ont été ajoutées :
     outer join (+) d'Oracle dans les cas où le code généré serait incorrect.
   * USE_UNACCENT et USE_LOWER_UNACCENT pour l'utilisation de l'extension
     unaccent dans les index FTS à base de pg_trgm.
-  * FTS_INDEX_ONLY, Ora2Pg créé une colonne tsvector supplémentaire
+  * FTS_INDEX_ONLY, Ora2Pg crée une colonne tsvector supplémentaire
     avec un trigger dédié pour les index FTS. L'activation de cette
     directive permet l'utilisation d'un index fonctionnel simple :
     `CREATE INDEX ON t_document USING gin(to_tsvector('pg_catalog.english', title));`
     par défaut cette directive est maintenant activée.
   * FTS_CONFIG, utilisez cette directive pour forcer l'utilisation d'un
-    language particulier pour les lexèmes utilisés avec les index FTS.
+    langage particulier pour les lexèmes utilisés avec les index FTS.
     Par exemple, on peut positionner FTS_CONFIG à pg_catalog.english ou
     pg_catalog.french pour forcer leur utilisation.
 
