@@ -7,7 +7,7 @@ github_id: darold
 tags: [PostgreSQL, migration, oracle]
 
 ---
-*Paris, le 1 Fevrier 2017*
+*Paris, le 31 Janvier 2017*
 
 La nouvelle version 18.0 d'Ora2Pg vient d'être publiée. Il s'agit d'une version majeure apportant beaucoup de nouveautés, notamment :
 
