@@ -9,7 +9,7 @@ tags: [PostgreSQL, sécurité, upgrade]
 ---
 
 ---
-*Paris, le 09 février octobre 2017*
+*Paris, le 09 février 2017*
 
 Le PostgreSQL Global Development Group a publié une mise à jour pour de toutes
 les versions supportées de notre système de base de données, les versions
