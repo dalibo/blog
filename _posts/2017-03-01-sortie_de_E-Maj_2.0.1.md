@@ -11,7 +11,7 @@ La version 2.0.1 de l'extension PostgreSQL E-Maj vient de sortir.
 
 Cette version mineure corrige essentiellement un bug dans la procédure d'upgrade de la version précédente. 
 
-Mais la "vraie" nouveauté touche à la documentation. Celle-ci est maintenant disponible en ligne, en français comme en anglais, sur [https://http://emaj.readthedocs.io/fr/latest/index.html](https://http://emaj.readthedocs.io/fr/latest/index.html).
+Mais la "vraie" nouveauté touche à la documentation. Celle-ci est maintenant disponible en ligne, en français comme en anglais, sur [https://emaj.readthedocs.io/fr/latest/index.html](https://emaj.readthedocs.io/fr/latest/index.html).
 
 <!--MORE-->
 
