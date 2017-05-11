@@ -2,7 +2,7 @@
 layout: post
 title:  Mise à jour de sécurité 2017-05-11
 author: Léo Cossic
-twitter_id: LeoRenK
+twitter_id: Dalibo
 github_id: Dalibo
 tags: [PostgreSQL, release, update, fix, security, issue]
 
