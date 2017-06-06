@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sortie de check_pgactivity 2.2"
+title: Sortie de check_pgactivity 2.2
 author: Léo Cossic
 twitter_id: @dalibolabs
 github_id: OPMDG
@@ -11,6 +11,7 @@ tags: [release, sortie, check_pgactivity]
 
 check_pgactivity 2.2 est sortie
 ===================
+
 L'OPMDG sort enfin la version 2.2 de check\_pgactivity . Une grande partie des
 modifications ont été implémentées il y a quelques temps déjà, mais cette
 version apporte enfin du support officiel pour PostgreSQL 9.6.
