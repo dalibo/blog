@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sortie de check_pgactivity"
+title: "Sortie de check_pgactivity 2.2"
 author: Léo Cossic
 twitter_id: "@dalibolabs"
 github_id: 
