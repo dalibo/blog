@@ -2,10 +2,9 @@
 layout: post
 title: "Sortie de check_pgactivity 2.2"
 author: Léo Cossic
-twitter_id: "@dalibolabs"
-github_id: 
-description: "Détails de la sortie de check_pgactivity 2.2"
-tags: [release] [sortie] [check_pgactivity]
+twitter_id: @dalibolabs
+github_id: OPMDG
+tags: [release, sortie, check_pgactivity]
 ---
 *Paris, le 06 juin 2017*
 ---
