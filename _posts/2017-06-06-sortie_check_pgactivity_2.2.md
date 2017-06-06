@@ -7,6 +7,8 @@ github_id:
 description: "Détails de la sortie de check_pgactivity 2.2"
 tags: [release] [sortie] [check_pgactivity]
 ---
+*Paris, le 06 juin 2017*
+---
 
 check_pgactivity 2.2 est sortie
 ===================
@@ -14,7 +16,8 @@ L'OPMDG sort enfin la version 2.2 de check\_pgactivity . Une grande partie des
 modifications ont été implémentées il y a quelques temps déjà, mais cette
 version apporte enfin du support officiel pour PostgreSQL 9.6.
 
-----------
+<!--MORE-->
+
 Cette version apporte quelques nouvelles fonctionnalités:
 
 * support pour PostgreSQL 9.6
