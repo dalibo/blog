@@ -66,6 +66,6 @@ Cependant, il est maintenant très simple d'étendre check\_pgactivity pour ajou
 
 ## Téléchargement
 
-**Toutes les versions peuvent être téléchargée sur github**: https://github.com/OPMDG/check_pgactivity/releases
+**Toutes les versions peuvent être téléchargée sur github**: <https://github.com/OPMDG/check_pgactivity/releases>
 
-**La page du projet**: https://github.com/OPMDG/check_pgactivity
+**La page du projet**: <https://github.com/OPMDG/check_pgactivity>
