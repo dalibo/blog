@@ -13,8 +13,8 @@ Vous souhaitez découvrir les nouvelles fonctionnalités de **PostgreSQL 10** ? 
 
 <!--MORE-->
 
-En cette rentrée scolaire 2017, nous serons heureux de vous accueillir dans nos locaux parisiens pour vous présenter la dernière version de PostgreSQL, rejoignez nous pour une journée d'ateliers pratiques, accompagné d'un de nos experts PostgreSQL.
-Cette journée vous permettra aussi d'échanger avec d'autres professionnels de votre domaine. Partagez vos bonnes pratiques et difficultés et apprenez des expériences des expériences de vos pairs.
+En cette rentrée scolaire 2017, nous serons heureux de vous accueillir dans nos locaux parisiens pour vous présenter la dernière version de PostgreSQL. Rejoignez nous pour une journée d'ateliers pratiques, accompagné d'un de nos experts PostgreSQL.
+Cette journée vous permettra aussi d'échanger avec d'autres professionnels de votre domaine. Partagez vos bonnes pratiques et difficultés et apprenez des expériences de vos pairs.
 
 Au cours de ce Workshop, vous seront proposez: des démos, TP et séance de questions/réponses, afin de comprendre, concrètement, ce que PostgreSQL 10 peut apporter à votre entreprise ou vos clients.
 
