@@ -20,4 +20,4 @@ Au cours de ce Workshop, vous seront proposés: des démos, TP et séances de qu
 
 Si vous souhaitez participer à cette journée **gratuite**, nous vous invitons à réserver votre place rapidement.
 
-Pour toute réservation (dans la limite d'une inscription par société) ou demande, contactez nous à l'adresse : **workshop.jourdan@dalibo.com**
+Pour toute réservation (dans la limite d'une inscription par société) ou demande, contactez nous à l'adresse : **workshop@dalibo.com**
