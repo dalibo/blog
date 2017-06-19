@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop PostgreSQL 10 - 8 Septembre 2017
+title: Workshop PostgreSQL 10 - le 8 Septembre 2017
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
