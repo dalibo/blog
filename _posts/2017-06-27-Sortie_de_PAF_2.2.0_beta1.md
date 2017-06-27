@@ -24,6 +24,8 @@ N'hésitez pas à tester et rapporter tout problème rencontré sur github: http
 **/!\ NE PAS UTILISER EN PRODUCTION**
 
 ------
+
+
 __Modifications depuis la version 2.1:__
 
     nouveauté: supporte PostgreSQL 10
