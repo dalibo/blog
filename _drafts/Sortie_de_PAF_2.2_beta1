@@ -1,0 +1,39 @@
+---
+layout: post
+title: Workshop PostgreSQL 10 - le 8 Septembre 2017
+author: Léo Cossic
+twitter_id: dalibo
+github_id: dalibo
+tags: [workshop, postgresql, postgresql10, septembre, atelier]
+
+---
+*Paris, le 19 juin 2017*
+
+Vous souhaitez découvrir les nouvelles fonctionnalités de **PostgreSQL 10** ? Participez au prochain Workshop de Dalibo à Paris, le **8 septembre** prochain !
+
+<!--MORE-->
+
+
+This is a beta version of the next release of PAF v2.2.0.
+
+WARNING: This version is only compatible with at least Pacemaker 1.1.13 using a corosync 2.x stack.
+
+Please test and report any issue on github: https://github.com/dalibo/PAF/issues
+
+DO NOT USE IN PRODUCTION
+
+Changelog since 2.1:
+
+    new: support PostgreSQL 10
+    new: add the maxlag parameter to exclude lagging slaves from promotion, Thomas Reiss
+    new: support for multiple pgsqlms resources in the same cluster
+    new: provide comprehensive error messages to crm_mon
+    fix: follow the resource agent man page naming policy and section
+    fix: add documentation to the pgsqlms man page
+    fix: do not rely on crm_failcount, suggested on the clusterlabs lists
+    misc: improve the RPM packaging
+    misc: check Pacemaker compatibility and resource setup
+    misc: improve the election process by including timelines comparison
+    misc: various code cleanup, factorization and module improvement
+
+See http://dalibo.github.io/PAF/documentation.html
