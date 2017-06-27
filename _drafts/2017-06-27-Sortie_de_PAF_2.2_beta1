@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Workshop PostgreSQL 10 - le 8 Septembre 2017
+title: Sortie de la beta de PAF v2.2.0
 author: Léo Cossic
-twitter_id: dalibo
+twitter_id: dalibolabs
 github_id: dalibo
-tags: [workshop, postgresql, postgresql10, septembre, atelier]
+tags: [PAF, postgresql, automatic, failover, release, dalibolabs]
 
 ---
 *Paris, le 27 juin 2017*
@@ -15,11 +15,8 @@ Le 26 juin 2017, est sortie une version beta de l'outil PAF v2.2.0, lisez l'arti
 
 Attention: Cette version est uniquement compatible avec Pacemaker version 1.1.13 au minimum, en utilisant un paquet corosync version 2.x.
 
-Testez et rapportez tout problème rencontré sur github: https://github.com/dalibo/PAF/issues
+N'hésitez pas à tester et rapporter tout problème rencontré sur github: https://github.com/dalibo/PAF/issues
 
-Please test and report any issue on github: https://github.com/dalibo/PAF/issues
-
-DO NOT USE IN PRODUCTION
 /!\ NE PAS UTILISER EN PRODUCTION
 
 Modifications depuis v2.1:
@@ -33,7 +30,7 @@ Modifications depuis v2.1:
     Correction: ne s'appuie/dépend plus sur crm_failcount, suggéré sur les listes clusterlabs
     Divers: amélioration du packaging RPM
     Divers: vérification de la compatibilité Pacemaker et de l'assemblage des ressources
-    Divers: improve the election process by including timelines comparison
-    Divers: various code cleanup, factorization and module improvement
+    Divers: amélioration du processus d'élection en y incluant la comparaison des timelines
+    Divers: différents nétoyages du code, factorisation et amélioration des modules
 
-See http://dalibo.github.io/PAF/documentation.html
+Consultez la documentation à l'adresse suivante: [[http://dalibo.github.io/PAF/documentation.html]]
