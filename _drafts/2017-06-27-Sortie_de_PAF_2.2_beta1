@@ -7,33 +7,33 @@ github_id: dalibo
 tags: [workshop, postgresql, postgresql10, septembre, atelier]
 
 ---
-*Paris, le 19 juin 2017*
+*Paris, le 27 juin 2017*
 
-Vous souhaitez découvrir les nouvelles fonctionnalités de **PostgreSQL 10** ? Participez au prochain Workshop de Dalibo à Paris, le **8 septembre** prochain !
+Le 26 juin 2017, est sortie une version beta de l'outil PAF v2.2.0, lisez l'article pour en apprendre davantage sur ce release.
 
 <!--MORE-->
 
+Attention: Cette version est uniquement compatible avec Pacemaker version 1.1.13 au minimum, en utilisant un paquet corosync version 2.x.
 
-This is a beta version of the next release of PAF v2.2.0.
-
-WARNING: This version is only compatible with at least Pacemaker 1.1.13 using a corosync 2.x stack.
+Testez et rapportez tout problème rencontré sur github: https://github.com/dalibo/PAF/issues
 
 Please test and report any issue on github: https://github.com/dalibo/PAF/issues
 
 DO NOT USE IN PRODUCTION
+/!\ NE PAS UTILISER EN PRODUCTION
 
-Changelog since 2.1:
+Modifications depuis v2.1:
 
-    new: support PostgreSQL 10
-    new: add the maxlag parameter to exclude lagging slaves from promotion, Thomas Reiss
-    new: support for multiple pgsqlms resources in the same cluster
-    new: provide comprehensive error messages to crm_mon
-    fix: follow the resource agent man page naming policy and section
-    fix: add documentation to the pgsqlms man page
-    fix: do not rely on crm_failcount, suggested on the clusterlabs lists
-    misc: improve the RPM packaging
-    misc: check Pacemaker compatibility and resource setup
-    misc: improve the election process by including timelines comparison
-    misc: various code cleanup, factorization and module improvement
+    nouveauté: supporte PostgreSQL 10
+    nouveauté: ajout du paramètre maxlag pour exclure les esclaves lents de la production, Thomas Reiss
+    nouveauté: support pour plusieurs ressources pgsqlms dans le même cluster
+    nouveauté: prévoit des messages d'erreur compréhensifs au crm_mon
+    Correction: suit la règle de dénomination  de la page MAN de l'agent ressource
+    Correction: ajout de documentation à la page MAN de pgsqlms
+    Correction: ne s'appuie/dépend plus sur crm_failcount, suggéré sur les listes clusterlabs
+    Divers: amélioration du packaging RPM
+    Divers: vérification de la compatibilité Pacemaker et de l'assemblage des ressources
+    Divers: improve the election process by including timelines comparison
+    Divers: various code cleanup, factorization and module improvement
 
 See http://dalibo.github.io/PAF/documentation.html
