@@ -11,7 +11,7 @@ tags: [PAF, postgresql, automatic, failover, release, dalibolabs]
 *Paris, le 27 juin 2017*
 
 
-Le 26 juin 2017, est sortie une version beta de l'outil PAF v2.2.0, lisez l'article pour en apprendre davantage sur ce release.
+Le 26 juin 2017, est sortie une version beta de l'outil opensource PostgreSQL Automatic Failover (PAF) v2.2.0, lisez l'article pour en apprendre davantage sur ce release.
 
 
 <!--MORE-->
