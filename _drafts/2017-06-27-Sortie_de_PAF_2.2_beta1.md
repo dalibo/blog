@@ -10,9 +10,12 @@ tags: [PAF, postgresql, automatic, failover, release, dalibolabs]
 
 *Paris, le 27 juin 2017*
 
-Le 26 juin 2017, est sortie une version beta de l'outil PAF v2.2.0, lisez l'article pour en apprendre davantage sur ce release.
+
+Le 26 juin 2017, est sortie une version beta de l'outil opensource PostgreSQL Automatic Failover (PAF) v2.2.0, lisez l'article pour en apprendre davantage sur ce release.
+
 
 <!--MORE-->
+
 
 Attention: Cette version est uniquement compatible avec Pacemaker version 1.1.13 au minimum, en utilisant un paquet corosync version 2.x.
 
@@ -20,7 +23,10 @@ N'hésitez pas à tester et rapporter tout problème rencontré sur github: http
 
 **/!\ NE PAS UTILISER EN PRODUCTION**
 
-Modifications depuis la version 2.1:
+------
+
+
+__Modifications depuis la version 2.1:__
 
     nouveauté: supporte PostgreSQL 10
     nouveauté: ajout du paramètre maxlag pour exclure les esclaves lents de la production, Thomas Reiss
@@ -34,4 +40,4 @@ Modifications depuis la version 2.1:
     Divers: amélioration du processus d'élection en y incluant la comparaison des timelines
     Divers: différents nétoyages du code, factorisation et amélioration des modules
 
-Consultez la documentation à l'adresse suivante: [[http://dalibo.github.io/PAF/documentation.html]]
+Consultez la documentation à l'adresse suivante: http://dalibo.github.io/PAF/documentation.html
