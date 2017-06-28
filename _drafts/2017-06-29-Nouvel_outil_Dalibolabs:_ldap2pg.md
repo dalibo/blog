@@ -80,4 +80,4 @@ sync_map:
       LOGIN: yes
 ```
 
-...
+Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs !
