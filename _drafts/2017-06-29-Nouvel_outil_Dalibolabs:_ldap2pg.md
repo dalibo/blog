@@ -4,43 +4,78 @@ title: Nouvel outil Dalibo Labs - ldap2pg
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [Ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs]
+tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs]
 
 ---
 
 *Paris, le 29 juin 2017*
 
-Étienne, un des développeurs de notre "agence dev", a prit l'initiative, pour répondre au besoin d'un client, de créer un outil permettant de synchroniser les ACL Postgres depuis LDAP.
+Étienne, un des développeurs de notre "agence dev", a codé un nouveau projet pour répondre au besoin d'un client Dalibo. Le client a besoin d'exprimer finement les règles de synchronisation des rôles et des ACLs de Postgres depuis un annuaire Active Directory. Ainsi est né `ldap2pg` !
 
 
 <!--MORE-->
 
 
-Ldap2pg est un couteaux suisse permettant de synchroniser les listes de contôles des accès depuis n'importe quel répertoire LDAP.
+`ldap2pg` est votre couteau-suisse pour synchroniser les rôles depuis n'importe quel répertoire LDAP.
 
-Fonctionnalités:
+Fonctionnalités de la version 1.0:
 
-    Créé et dépose les rôles PostgreSQL depuis les requêtes Ldap
-    Gère les options des rôles (Crée et modifie)
-    Lancement sec
-    Enregistre les requêtes Ldap comme commandes ldapsearch
-    Enregistre toutes les requêtes SQL
-    Lit les parametres depuis le fichier de configuration YAML
-    
-    Creates and drops PostgreSQL roles from LDAP queries.
-    Manage role options (CREATE and ALTER).
-    Dry run.
-    logs LDAP queries as ldapsearch commands.
-    logs every SQL queries.
-    Reads settings from YAML config file.
+- Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP
+- Gérer les options des rôles (en création et en modification).
+- Exécution en mode audit (*dry run*).
+- Affiche les requêtes LDAP comme commandes ldapsearch.
+- Affiche **toutes** les requêtes SQL.
+- Configurable depuis un fichier YAML.
+- Compatible Python 3 et python 2.7.
 
-## Versions
+*ldap2pg* est disponible sous Licence PostgreSQL sur PyPI. La version 2.0 gèrera les ACL (*GRANT* et *REVOKE*).
 
-Consultez les versions ldap2pg.yml pour plus d'options: https://github.com/dalibo/ldap2pg/blob/master/ldap2pg.yml
+### Installation
 
-## Installation
+*ldap2pg* est testé sur CentOS7 avec OpenLDAP et Postgres 9.6. Installer simplement via pip.
 
-Installez le grâce à l'archive GitHub: pip install https://github.com/dalibo/ldap2pg/archive/master.zip
+``` console
+# pip install ldap2pg
+```
 
+Il faut ensuite adapter la configuration selon la structure de votre annuaire.
 
-*ldap2pg est sous licence PostgreSQL.*
+### Configuration
+
+Le [fichier de configuration proposé dans le projet](https://github.com/dalibo/ldap2pg/blob/master/ldap2pg.yml) est largement commenté.
+
+La première partie contient les options de connexions. Vous pouvez aussi configurer les connexions depuis des variables d'environnement. Attention, si le fichier contient des mots de passe, il doit être en accès limité (`0600`) !
+
+``` yaml
+ldap:
+  host: ldap2pg.local
+  port: 389
+  bind: cn=admin,dc=ldap2pg,dc=local
+  password: SECRET
+
+postgres:
+  dsn: postgres://user:SECRET@host:port/dbname
+```
+
+La deuxième partie décris la carte de synchronisation : il s'agit d'une liste de de requêtes LDAP, avec pour chaque requête une ou plusieurs règles d'extraction de rôle Postgres.
+
+``` yaml
+sync_map:
+- ldap:
+    base: cn=dba,ou=groups,dc=ldap2pg,dc=local
+    filter: "(objectClass=groupOfNames)"
+    attribute: member
+  role:
+    name_attribute: member.cn
+    options: LOGIN SUPERUSER NOBYPASSRLS
+- ldap:
+    base: ou=groups,dc=ldap2pg,dc=local
+    filter: "(&(objectClass=groupOfNames)(cn=app*))"
+    attributes: [cn, member]
+  - name_attribute: cn
+    members_attribute: member.cn
+    options: [NOLOGIN]
+  - name_attribute: member.cn
+    options:
+      LOGIN: yes
+```
