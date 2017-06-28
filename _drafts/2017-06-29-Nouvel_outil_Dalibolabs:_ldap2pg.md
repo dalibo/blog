@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie de la beta de PAF v2.2.0
+title: Nouvel outil Dalibo Labs: ldap2pg
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
@@ -16,12 +16,14 @@ tags: [Ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs]
 <!--MORE-->
 
 
-Continuous Integration report Code coverage report
-
 Ldap2pg est un couteaux suisse permettant de synchroniser les listes de contôles des accès depuis n'importe quel répertoire LDAP.
 
 Fonctionnalités:
 
+    Créé et dépose les rôles PostgreSQL depuis les requêtes Ldap
+    Gère les options des rôles (Crée et modifie)
+    Lancement sec
+    
     Creates and drops PostgreSQL roles from LDAP queries.
     Manage role options (CREATE and ALTER).
     Dry run.
@@ -29,26 +31,11 @@ Fonctionnalités:
     logs every SQL queries.
     Reads settings from YAML config file.
 
-$ cat ldap2pg.yml
-sync_map:
-  ldap:
-    base: ou=people,dc=ldap2pg,dc=local
-    filter: "(objectClass=organizationalRole)"
-    attribute: cn
-  role:
-    name_attribute: cn
-$ ldap2pg
- INFO Starting ldap2pg 0.1.
- INFO Creating new role alice.
-WARNI Dropping existing role toto.
- INFO Synchronization complete.
-$
 
-See versionned ldap2pg.yml for further options.
-Installation
+Consultez les versions ldap2pg.yml pour plus d'options: See versionned ldap2pg.yml for further options: https://github.com/dalibo/ldap2pg/blob/master/ldap2pg.yml
 
-Install it from GitHub tarball:
+=== Installation ===
 
-pip install https://github.com/dalibo/ldap2pg/archive/master.zip
+Installez le grâce à l'archive GitHub: pip install https://github.com/dalibo/ldap2pg/archive/master.zip
 
-ldap2pg is licensed under PostgreSQL license.
+ldap2pg est sous licence PostgreSQL.
