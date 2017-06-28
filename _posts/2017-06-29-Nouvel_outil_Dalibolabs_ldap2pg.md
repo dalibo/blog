@@ -21,6 +21,5 @@ tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs]
 La livraisons de la version 1.0 avec la gestions des rôles est imminente. La suite du programme est la gestions des ACL elles-mêmes : `GRANT` et `REVOKE`.
 
 
-
- ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites ! Il suffit de faire une PR sur GitHub. Également, `ldap2pg` s'intègre dans la famille des outils open source Dalibo Labs ! 
+`ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites ! Il suffit de faire une PR sur GitHub. Également, `ldap2pg` s'intègre dans la famille des outils open source Dalibo Labs ! 
  Affaire à suivre, bientôt le release de la version 1.0 !
