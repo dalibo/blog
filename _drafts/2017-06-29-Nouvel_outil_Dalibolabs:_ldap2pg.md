@@ -23,6 +23,9 @@ Fonctionnalités:
     Créé et dépose les rôles PostgreSQL depuis les requêtes Ldap
     Gère les options des rôles (Crée et modifie)
     Lancement sec
+    Enregistre les requêtes Ldap comme commandes ldapsearch
+    Enregistre toutes les requêtes SQL
+    Lit les parametres depuis le fichier de configuration YAML
     
     Creates and drops PostgreSQL roles from LDAP queries.
     Manage role options (CREATE and ALTER).
