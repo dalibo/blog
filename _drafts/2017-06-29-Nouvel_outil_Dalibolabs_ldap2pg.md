@@ -14,10 +14,12 @@ tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs]
 
 
 <!--MORE-->
-
+---
 
 `ldap2pg` est votre couteau-suisse pour synchroniser les rôles depuis n'importe quel répertoire LDAP. Le projet est initié sur GitHub avec tests unitaires et tests fonctionnels exécutés par CircleCI. Le projet est testé sur CentOS 7.
 
 La livraisons de la version 1.0 avec la gestions des rôles est imminente. La suite du programme est la gestions des ACL elles-mêmes : `GRANT` et `REVOKE`.
+
+
 
  ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites ! Il suffit de faire une PR sur GitHub.
