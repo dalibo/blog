@@ -39,4 +39,5 @@ Consultez les versions ldap2pg.yml pour plus d'options: https://github.com/dalib
 
 Installez le grâce à l'archive GitHub: pip install https://github.com/dalibo/ldap2pg/archive/master.zip
 
+
 *ldap2pg est sous licence PostgreSQL.*
