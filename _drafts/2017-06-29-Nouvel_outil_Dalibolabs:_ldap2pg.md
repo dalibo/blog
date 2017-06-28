@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouvel outil Dalibo Labs: ldap2pg
+title: Nouvel outil Dalibo Labs - ldap2pg
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
@@ -31,11 +31,12 @@ Fonctionnalités:
     logs every SQL queries.
     Reads settings from YAML config file.
 
+## Versions
 
-Consultez les versions ldap2pg.yml pour plus d'options: See versionned ldap2pg.yml for further options: https://github.com/dalibo/ldap2pg/blob/master/ldap2pg.yml
+Consultez les versions ldap2pg.yml pour plus d'options: https://github.com/dalibo/ldap2pg/blob/master/ldap2pg.yml
 
-=== Installation ===
+## Installation
 
 Installez le grâce à l'archive GitHub: pip install https://github.com/dalibo/ldap2pg/archive/master.zip
 
-ldap2pg est sous licence PostgreSQL.
+*ldap2pg est sous licence PostgreSQL.*
