@@ -23,8 +23,8 @@ PGConf.EU  est une chance unique pour les utilisateurs et développeurs de Postg
 
 Les conférences couvre un large panels de sujets allant des questions concernant le développement jusqu'au problématiques d'utilisation. Les conférences seront accessible à tout type de spectateurs, et tous niveaux techniques:
 ```   
-Administrateurs de base de données utilisant PostgreSQL ou considérant le faire.
+      Administrateurs de base de données utilisant PostgreSQL ou considérant le faire.
       Développeurs de tous types d'applications
       Contributeurs - code, documentation, support, traduction
       Amateurs d'open source en général 
-      ```
+      
