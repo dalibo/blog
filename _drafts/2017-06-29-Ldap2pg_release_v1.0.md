@@ -20,10 +20,8 @@ tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs, re
  
  
 Fonctionnalités de la version 1.0:
-La livraisons de la version 1.0 avec la gestions des rôles est imminente. La suite du programme est la gestions des ACL elles-mêmes : `GRANT` et `REVOKE`.
  
- 
-Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP:
+- Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP
 - Gérer les options des rôles (en création et en modification).
 - Exécution en mode audit (*dry run*).
 - Affiche les requêtes LDAP comme commandes ldapsearch.
