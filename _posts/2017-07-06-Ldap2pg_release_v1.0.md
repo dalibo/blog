@@ -5,7 +5,6 @@ author: Étienne Bersac, Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
 tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs, release]
-
 ---
 
 *Paris, le 06 juillet 2017*
