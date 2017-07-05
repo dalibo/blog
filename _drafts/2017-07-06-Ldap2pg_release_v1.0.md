@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ldap2pg: release v1.0
-author: Léo Cossic
+author: Étienne Bersac, Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
 tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs, release]
