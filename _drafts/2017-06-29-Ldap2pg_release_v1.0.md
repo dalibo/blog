@@ -10,13 +10,11 @@ tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs, re
 
 *Paris, le 29 juin 2017*
 
-[Étienne](https://github.com/bersace), un des développeurs de notre Agence dev, a commencé un nouveau projet pour répondre au besoin d'un client Dalibo. Le client a besoin d'exprimer finement les règles de synchronisation des rôles et des ACLs de Postgres depuis un annuaire Active Directory. Ainsi est né `ldap2pg` !
+`ldap2pg` est votre couteau-suisse pour synchroniser les rôles depuis n'importe quel répertoire LDAP. La version 1.0 avec la gestion complète des rôles est livrée. 
 
 
 <!--MORE-->
----
 
-`ldap2pg` est votre couteau-suisse pour synchroniser les rôles depuis n'importe quel répertoire LDAP. La livraison de la version 1.0 avec la gestion complète des rôles est imminente. La suite du programme est la gestion des ACL : `GRANT` et `REVOKE`.
 
 `ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites !  Le projet est publié sur GitHub avec tests unitaires et tests fonctionnels exécutés par CircleCI. Le projet est testé sur CentOS 7, pour python2.7 et python3.4.
  
@@ -25,8 +23,7 @@ Fonctionnalités de la version 1.0:
 La livraisons de la version 1.0 avec la gestions des rôles est imminente. La suite du programme est la gestions des ACL elles-mêmes : `GRANT` et `REVOKE`.
  
  
-Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP
-+ ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites ! Il suffit de faire une PR sur GitHub.
+Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP:
 - Gérer les options des rôles (en création et en modification).
 - Exécution en mode audit (*dry run*).
 - Affiche les requêtes LDAP comme commandes ldapsearch.
@@ -86,4 +83,4 @@ sync_map:
     LOGIN: yes
 ```
 
-Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs ! À suivre donc, bientôt le release de la version 1.0 !
+Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs ! Ldap2pg est développé par [Étienne](https://github.com/bersace), développeur à Dalibo.
