@@ -22,7 +22,7 @@ Pour cette neuvième édition, l'évènement annuel PGConf.EU europe aura lieu a
 PGConf.EU  est une chance unique pour les utilisateurs et développeurs de PostgreSQL d'en apprendre plus sur l'outil et la communauté PostgreSQL. L'occasion de construire ou consolider son réseau de professionnels et de faire des rencontres enrichissantes au sein de la communauté. 
 
 Les conférences couvre un large panels de sujets allant des questions concernant le développement jusqu'au problématiques d'utilisation. Les conférences seront accessible à tout type de spectateurs, et tous niveaux techniques:
-      Administrateurs de base de données utilisant PostgreSQL ou considérant le faire.
+```      Administrateurs de base de données utilisant PostgreSQL ou considérant le faire.
       Développeurs de tous types d'applications
       Contributeurs - code, documentation, support, traduction
       Amateurs d'open source en général
