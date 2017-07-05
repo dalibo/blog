@@ -25,7 +25,7 @@ Fonctionnalités de la version 1.0:
 La livraisons de la version 1.0 avec la gestions des rôles est imminente. La suite du programme est la gestions des ACL elles-mêmes : `GRANT` et `REVOKE`.
  
  
--- Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP
+Créer et supprimer les rôles PostgreSQL depuis les requêtes LDAP
 + ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites ! Il suffit de faire une PR sur GitHub.
 -- Gérer les options des rôles (en création et en modification).
 -- Exécution en mode audit (*dry run*).
@@ -67,7 +67,7 @@ La livraisons de la version 1.0 avec la gestions des rôles est imminente. La su
 -
 -``` yaml
 -sync_map:
--- ldap:
+- ldap:
 -    base: cn=dba,ou=groups,dc=ldap2pg,dc=local
 -    filter: "(objectClass=groupOfNames)"
 -    attribute: member
@@ -83,7 +83,7 @@ La livraisons de la version 1.0 avec la gestions des rôles est imminente. La su
 -    options: [NOLOGIN]
 -  - name_attribute: member.cn
 -    options:
--      LOGIN: yes
--```
--
--Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs ! À suivre donc, bientôt le release de la version 1.0 !
+-    LOGIN: yes
+
+
+Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs ! À suivre donc, bientôt le release de la version 1.0 !
