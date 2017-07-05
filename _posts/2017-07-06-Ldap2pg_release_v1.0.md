@@ -24,4 +24,5 @@ Un fichier de configuration en YAML, [copieusement documentée](https://ldap2pg
 
 `ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites !  Le projet est [publié sur GitHub](https://github.com/dalibo/ldap2pg) avec tests unitaires et tests fonctionnels exécutés par CircleCI. Le projet est particulièrement testé sur CentOS 7, pour python2.7 et python3.4.
 
-La prochaine étape majeure de `ldap2pg` est de gérer les ACLs: nettoyer les ACLs avant de supprimer un rôle, s'assurer qu'un rôle a tout ses accès et pas plus, etc. Une mécanique complexe mais pas insolvable, qui simplifiera beaucoup le travail d'intégration de PostgreSQL dans votre infrastructure et améliorera la confiance dans votre gestion des accès à vos données.
+---
+La **prochaine étape majeure** de `ldap2pg` est de gérer les ACLs: nettoyer les ACLs avant de supprimer un rôle, s'assurer qu'un rôle a tout ses accès et pas plus, etc. Une mécanique complexe mais pas insolvable, qui simplifiera beaucoup le travail d'intégration de PostgreSQL dans votre infrastructure et améliorera la confiance dans votre gestion des accès à vos données.
