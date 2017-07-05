@@ -67,7 +67,7 @@ La deuxième partie décris la carte de synchronisation : il s'agit d'une liste 
 
 ``` yaml
 sync_map:
- ldap:
+ - ldap:
     base: cn=dba,ou=groups,dc=ldap2pg,dc=local
     filter: "(objectClass=groupOfNames)"
     attribute: member
@@ -84,6 +84,6 @@ sync_map:
   - name_attribute: member.cn
     options:
     LOGIN: yes
-
+```
 
 Avec sa license libre, sa configurabilité et sa batterie de tests, `ldap2pg` s'intègre bien dans la famille des outils Dalibo Labs ! À suivre donc, bientôt le release de la version 1.0 !
