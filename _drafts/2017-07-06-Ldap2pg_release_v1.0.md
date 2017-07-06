@@ -27,12 +27,12 @@ Starting ldap2pg 1.0.
 Running in dry mode. Postgres will be untouched.
 Inspecting Postgres...
 Querying LDAP cn=people,dc=ldap2pg,dc=local...
-Create bar.
-Create baz.
-Create bob.
-Create foo.
-Update options of alice.
-Drop spurious.
+Would create alan.
+Would create david.
+Would create dave.
+Would create daniel.
+Would update options of alice.
+Would drop oscar.
 Synchronization complete.
 $
 ```
