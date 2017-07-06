@@ -19,9 +19,9 @@ Cette neuvième édition se déroulera du 24 au 27 octobre 2017 à Varsovie et r
 ### Qu'est ce que PGConf.EU ?
 PGConf.EU  est une chance unique pour les utilisateurs et développeurs de PostgreSQL d'en apprendre plus sur l'outil et la communauté PostgreSQL. L'occasion de construire ou consolider son réseau de professionnels et de faire des rencontres enrichissantes au sein de la communauté. 
 
-Les [conférences](https://2017.pgconf.eu/callforpapers/) couvriront un large panel de sujets allant des questions concernant le développement jusqu'aux problématiques d'utilisation. Les conférences seront accessible à tout type de spectateurs, et tous niveaux techniques:
+Les [conférences](https://2017.pgconf.eu/callforpapers/) couvriront un large panel de sujets allant des questions concernant le développement jusqu'aux problématiques d'utilisation. Les conférences seront accessibles à tout type de spectateurs, et tous niveaux techniques:
  
-   - Administrateurs de base de données utilisant PostgreSQL ou considérant le faire.
+   - Administrateurs de base de données utilisant PostgreSQL ou considérant le faire
    - Développeurs de tous types d'applications
    - Contributeurs - code, documentation, support, traduction
    - Amateurs d'open source en général 
