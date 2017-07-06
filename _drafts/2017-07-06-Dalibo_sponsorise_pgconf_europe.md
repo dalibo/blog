@@ -11,7 +11,7 @@ tags: [warsaw, poland, pologne, varsovie, opensource, postgresql, pgconf, dalibo
 *Paris, le 06 juillet 2017*
 
 Dalibo est fière d'annoncer que, cette année encore, nous sommes sponsor Silver de l'évènement international ["PostgreSQL Conference Europe"](https://2017.pgconf.eu/).
-Cette neuvième édition se déroulera du 24 au 27 octobre 2017 à Varsovie. Celle-ci réunira comme chaque année la plupart des acteurs de la communauté PostgreSQL européenne, en donnant la parole à un grand nombre de ses contributeurs. 
+Cette neuvième édition se déroulera du 24 au 27 octobre 2017 à Varsovie et réunira comme chaque année la plupart des acteurs de la communauté PostgreSQL européenne, en donnant la parole à un grand nombre de ses contributeurs. 
 
 
 <!--MORE-->
