@@ -18,7 +18,25 @@ Dalibo annnonce la première version officielle de son dernier projet [`ldap2pg`
 
 Les administrateurs de bases de donnée et les administrateurs système le savent : l'authentification de [PostgreSQL s'intègre bien avec LDAP](https://www.postgresql.org/docs/current/static/auth-methods.html#AUTH-LDAP). Le postulat est seulement que les rôles soient déjà définis dans l'instance Postgres. C'est là que `ldap2pg` se rend utile : il synchronise les rôles dans Postgres à partir de requêtes LDAP.
 
-Cette première version apporte une gestion complète des rôles: création et suppression, définition des options et mise-à-jour des rôles existant, gestion de l'héritage des rôles. Par défaut, `ldap2pg` fonctionne en mode audit et permet de visualiser le opérations à faire et de présenter les requêtes exactes qui seront exécutée.
+Cette première version apporte une gestion complète des rôles: création et suppression, définition des options et mise-à-jour des rôles existant, gestion de l'héritage des rôles. Par défaut, `ldap2pg` fonctionne en mode audit et permet de visualiser le opérations à réaliser pour synchroniser l'instance.
+
+``` console
+$ ldap2pg
+Using ~/ldap2pg.yml.
+Starting ldap2pg 1.0.
+Running in dry mode. Postgres will be untouched.
+Inspecting Postgres...
+Querying LDAP cn=people,dc=ldap2pg,dc=local...
+Create bar.
+Create baz.
+Create bob.
+Create foo.
+Update options of alice.
+Drop spurious.
+Synchronization complete.
+$
+```
+
 
 Un fichier de configuration en YAML, [copieusement documentée](https://ldap2pg.readthedocs.org/en/latest/config/), permet de déclarer de manière expressive la carte de synchronisation des entrées de l'annuaire avec les rôles de Postgres: comment est représenté l'héritage, quelles options attacher à un rôle, etc.
 
