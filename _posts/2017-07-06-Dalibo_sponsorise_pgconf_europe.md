@@ -28,3 +28,4 @@ Les [conférences](https://2017.pgconf.eu/callforpapers/) couvriront un large pa
 
 ---  
 Une partie de **l'équipe de Dalibo** sera **présente** durant l'événement, **rendez-vous à Varsovie** !
+
