@@ -18,27 +18,47 @@ Dalibo annnonce la première version officielle de son dernier projet [`ldap2pg`
 
 Les administrateurs de bases de donnée et les administrateurs système le savent : l'authentification de [PostgreSQL s'intègre bien avec LDAP](https://www.postgresql.org/docs/current/static/auth-methods.html#AUTH-LDAP). Le postulat est seulement que les rôles soient déjà définis dans l'instance Postgres. C'est là que `ldap2pg` se rend utile : il synchronise les rôles dans Postgres à partir de requêtes LDAP.
 
-Cette première version apporte une gestion complète des rôles: création et suppression, définition des options et mise-à-jour des rôles existant, gestion de l'héritage des rôles. Par défaut, `ldap2pg` fonctionne en mode audit et permet de visualiser le opérations à réaliser pour synchroniser l'instance.
-
-``` console
-$ ldap2pg
-Using ~/ldap2pg.yml.
-Starting ldap2pg 1.0.
-Running in dry mode. Postgres will be untouched.
-Inspecting Postgres...
-Querying LDAP cn=people,dc=company,dc=lan...
-Would create alan.
-Would create david.
-Would create dave.
-Would create daniel.
-Would update options of alice.
-Would drop oscar.
-Synchronization complete.
-$
-```
 
 
-Un fichier de configuration en YAML, [copieusement documentée](https://ldap2pg.readthedocs.org/en/latest/config/), permet de déclarer de manière expressive la carte de synchronisation des entrées de l'annuaire avec les rôles de Postgres: comment est représenté l'héritage, quelles options attacher à un rôle, etc.
+
+
+2.0.4 (WIP)
+
+    Do not install docs anymore (Ronan Dunklau)
+    Add a workaround for sampling problems with getrusage(), new parameter pg_stat_kcache.linux_hz is added. By default, this parameter is discovered at server startup (Ronan Dunklau).
+    Fix issue when concurrently created entries for the same user, db and queryid could lost some execution counters (Mael Rimbault)
+
+3.1.1 (WIP)
+
+    Bugfix:
+        Make sure we wait at least powa.frequency between two snapshot (Marc Cousin and Julien Rouhaud)
+        Fix win32 portability of compute_powa_frequeny() (Julien Rouhaud)
+        Don't try to read dbentry->tables if it's NULL (Julien Rouhaud)
+        Fix compilation for platform with HAVE_CLOCK_GETTIME (Julien Rouhaud, reported by Maxence Ahlouche)
+    Miscellaneous:
+        Add pg10 Compatibility (Julien Rouhaud)
+        Only execute once the powa_stat functions (Julien Rouhaud)
+1.0.3:
+  Bugfix:
+    - Fix a missing call to InstrEndLoop (Tomas Vondra)
+    - Sample all nested queries when top level statement is sampled (Julien
+      Rouhaud)
+    - Make sure hash keys can be compared using memcmp (Julien Rouhaud)
+    - Fix behavior with parallel queries (Julien Rouhaud based on a patch by
+      Tomas Vondra)
+    - Fix bug on TEXTCONST not being byval (Ronan Dunklau)
+    - Fix 64bits counters on pass-by-ref float8 architectures (Julien Rouhaud)
+    - Fix bug in pg_qualstats_names (Ronan Dunklau)
+    - Fix bug in const position (Julien Rouhaud)
+    - Fix pg_qualstats_pretty to use text instead of regoper, allowing usage of
+      pg_upgrade when pg_qualstats is installed (Julien Rouhaud)
+  Miscellaneous:
+    - Add pg 10 compatibility (Julien Rouhaud)
+- Do not install docs anymore (Ronan Dunklau)
+
+
+
+
 
 `ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites !  Le projet est [publié sur GitHub](https://github.com/dalibo/ldap2pg) avec tests unitaires et tests fonctionnels exécutés par CircleCI. Le projet est particulièrement testé sur CentOS 7, pour python2.7 et python3.4.
 
