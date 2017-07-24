@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ldap2pg - release v1.0
+title: ldap2pg - release v1.0
 author: Étienne Bersac, Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
