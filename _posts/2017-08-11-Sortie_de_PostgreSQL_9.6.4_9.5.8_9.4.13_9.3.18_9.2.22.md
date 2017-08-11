@@ -11,7 +11,7 @@ tags: [PostgreSQL, sécurité, upgrade]
 ---
 *Paris, le 10 août 2017*
 
-stgreSQL Global Development Group » a sorti une mise à
+Le « PostgreSQL Global Development Group » a sorti une mise à
 jour pour toutes les versions de nos systèmes de bases de données
 incluant les versions 9.6.4, 9.5.8, 9.4.13, 9.3.18 et 9.2.22. Cette mise à jour
 corrige trois failles de sécurité.
@@ -23,10 +23,11 @@ mois.
 Les utilisateurs qui sont affectés par les failles de sécurité ci-dessous
 devraient mettre à jour aussi rapidement que possible. Les utilisateurs
 affectés par la CVE-2017-7547
-(https://access.redhat.com/security/cve/CVE-2017-7547) devront effectuer des
-manipulations supplémentaires après la mise à jour pour corriger le problème.
-Les autres utilisateurs devraient profiter de la prochaine maintenance prévue
-impliquant un arrêt de la base pour effectuer la mise à jour.
+([https://access.redhat.com/security/cve/CVE-2017-7547](https://access.redhat.com/security/cve/CVE-2017-7547))
+devront effectuer des manipulations supplémentaires après la mise à jour pour
+corriger le problème.  Les autres utilisateurs devraient profiter de la
+prochaine maintenance prévue impliquant un arrêt de la base pour effectuer la
+mise à jour.
 
 Failles de sécurité:
 --------------------
@@ -39,9 +40,8 @@ _Trois failles de sécurité ont été fermées grâce à cette mise à jour :_
     passe aux utilisateurs n'ayant pas les privilèges serveur appropriés
     CVE-2017-7548 : la fonction `lo_put()` ignore les ACL
 
-CVE-2017-7546 : mots de passe vides acceptés avec certaines méthodes
-d'authentification
--------------------------------------------------------------------
+**CVE-2017-7546** : mots de passe vides acceptés avec certaines méthodes d'authentification
+----------------------------------------------------------------------------------------
 
 La bibliothèque libpq, et par extension tout programme l'utilisant pour gérer les
 connexions, ignore les mots de passe vides et ne les transmet pas au serveur.
@@ -58,9 +58,8 @@ dernière est basée sur des mots de passe. Le serveur rejettera aussi toute
 utilisation de mot de passe vide.
 
 
-CVE-2017-7547 : la vue du catalogue pg_user_mappings dévoile des mots de
-passe aux utilisateurs n'ayant pas les privilèges serveur appropriés
---------------------------------------------------------------------------
+**CVE-2017-7547** : la vue du catalogue pg_user_mappings dévoile des mots de passe aux utilisateurs n'ayant pas les privilèges serveur appropriés
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 Ce correctif a trait à l'utilisation des Foreign Data Wrapper dans SQL/MED,
 et plus spécifiquement au User Mapping.
@@ -76,12 +75,14 @@ Le correctif modifie ce comportement uniquement pour les instances nouvellement
 créées avec initdb.
 Pour corriger ce problème sur les systèmes existants, il est nécessaire de
 procéder aux actions décrites ci-après. Pour plus de détails, merci de vous
-référer aux notes de version :
-https://www.postgresql.org/docs/current/static/release-9-6-4.html
+référer aux [notes de
+version](https://www.postgresql.org/docs/current/static/release-9-6-4.html).
 
 1.  Dans le fichier postgresql.conf, ajouter la ligne suivante :
 
+```
     allow_system_table_mods = true
+```
 
 2.  Après avoir ajouté la ligne, il est nécessaire de redémarrer l'instance
     PostgreSQL.
@@ -147,15 +148,17 @@ commande suivante :
 
 5.  Retirer la ligne suivante du fichier postgresql.conf :
 
+```
     allow_system_table_mods = false
+```
 
 6.  Redémarrer l'instance PostgreSQL
 
-Pour davantage de détails, merci de vous référer aux notes de version :
-https://www.postgresql.org/docs/current/static/release-9-6-4.html
+Pour davantage de détails, merci de vous référer aux [notes de
+version](https://www.postgresql.org/docs/current/static/release-9-6-4.html).
 
-CVE-2017-7548 : la fonction `lo_put()` ignore les ACL
----------------------------------------------------
+**CVE-2017-7548** : la fonction `lo_put()` ignore les ACL
+-----------------------------------------------------
 
 La fonction `lo_put()` devrait nécessiter les mêmes permissions que
 `lowrite()`, mais l'absence d'une vérification de permissions pourrait
