@@ -17,7 +17,6 @@ Nous lançons donc un appel à conférenciers, et vous remercions de nous envoye
 
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive):
 
-Pour PostgreSQL :
   * Nouveautés de PostgreSQL 
   * Retour d'expérience
   * Migration vers PostgreSQL
