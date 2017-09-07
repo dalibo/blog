@@ -27,9 +27,9 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… 
 
-Toutes les propositions doivent nous parvenir avant le 30 septembre 2017. 
+Toutes les propositions doivent nous parvenir avant le 30 septembre 2017.
 
-Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](call-for-paper@postgresql-sessions.org), en précisant les informations suivantes :
+Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](mailtp://call-for-paper@postgresql-sessions.org), en précisant les informations suivantes :
 
   * Nom et Prénom
   * Compte twitter (le cas échéant)
