@@ -39,7 +39,7 @@ Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql
   * Résumé
   * Demandes spécifiques
 
-Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-ND 3.0 ou compatible. 
+Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-ND 3.0 ou compatible, afin qu'ils puissent être accessibles sur le site des PostgreSQL Sessions à la suite de l'événement.
 Cette journée sera filmée, et toutes les sessions seront enregistrées et publiées après la Session. En envoyant une proposition, vous acceptez d’être enregistré et renoncez à tout droit de compensation pour cela.
 
 Les speakers sélectionnés ne résidant pas en France se verront rembourser une nuit d’hôtel et leurs frais de transport.
