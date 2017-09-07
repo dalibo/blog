@@ -29,7 +29,7 @@ Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Pr
 
 Toutes les propositions doivent nous parvenir avant le 30 septembre 2017.
 
-Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](mailto://call-for-paper@postgresql-sessions.org), en précisant les informations suivantes :
+Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](mailto:call-for-paper@postgresql-sessions.org), en précisant les informations suivantes :
 
   * Nom et Prénom
   * Compte twitter (le cas échéant)
