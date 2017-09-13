@@ -17,7 +17,7 @@ Son objectif principal est de tracer une ligne claire entre l'administration de 
 
 Attention: Cette version est uniquement compatible avec la v1.1.13+ de Pacemaker en utilisant un paquet corosync 2.x. 
 
-Changelog depuis la version 2.1:
+**Changelog depuis la version 2.1:**
 
 * nouveau: supporte PostgreSQL 10
 * nouveau: ajout des paramètres maxlag pour exclure les esclaves lents de toute promotion, Thomas Reiss
@@ -31,7 +31,7 @@ Changelog depuis la version 2.1:
 * divers: amélioration du processus d'élection en y incluant la comparaison des timelines
 * divers: différents nétoyages du code, factorisation et amélioration des modules
 
-Vous trouverez la documentation, des procédures et le support communautaire à ces liens:
+__Vous trouverez la documentation, des procédures et le support communautaire à ces liens:__
 
 * Consultez la documentation: http://dalibo.github.io/PAF/documentation.html
 * Installez PAF: http://dalibo.github.io/PAF/ 
