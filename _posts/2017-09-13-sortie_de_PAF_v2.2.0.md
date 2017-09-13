@@ -2,13 +2,13 @@
 layout: post
 title: Sortie de PAF version 2.2.0 
 author: Jehan-Guillaume de Rorthais, Léo Cossic
-twitter_id: @Dalibo
-github_id: @Dalibo
+twitter_id: Dalibo
+github_id: Dalibo
 tags: [PostgreSQL, Automatic, Failover, PAF, sortie, release]
 
 ---
 
-
+---
 *Lyon, 13 septembre 2017*
 
 PostgreSQL Automatic Failover (PAF) est un outil de haute disponibilité pour PostgreSQL, reposant sur Pacemaker et Corosync.
