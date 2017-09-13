@@ -9,7 +9,7 @@ tags: [PostgreSQL, Automatic, Failover, PAF, sortie, release]
 ---
 
 ---
-*Lyon, 13 septembre 2017*
+*Lyon, le 13 septembre 2017*
 
 PostgreSQL Automatic Failover (PAF) est un outil de haute disponibilité pour PostgreSQL, reposant sur Pacemaker et Corosync.
 L’outil est capable de détecter des erreurs sur différents services et décider de manière automatique de basculer la ressource défaillante vers un autre nœud lorsque c’est possible.
