@@ -5,6 +5,7 @@ author: Jehan-Guillaume de Rorthais, Léo Cossic
 twitter_id: @Dalibo
 github_id: @Dalibo
 tags: [PostgreSQL, Automatic, Failover, PAF, sortie, release]
+
 ---
 
 
