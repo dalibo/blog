@@ -17,7 +17,7 @@ Ldap2pg est un outils de synchronisation des rôles et des ACL dans PostgreSQL �
 
 La configuration est simple et puissante. Ldap2pg permet également d’auditer une instance PostgreSQL. Ldap2pg facilite l’intégration et la sécurisation de PostgreSQL dans votre infrastructure.
 
-**Changelog depuis la version 2.0:**
+**Changements depuis la version 2.0:**
 
 Cette version change le formatage des requêtes SQL des ACL pour utiliser le format `{}` de Python plutôt que le style printf, moins pratique avec SQL.
 
