@@ -11,7 +11,7 @@ tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
 ---
 *Lyon, le 14 septembre 2017*
 
-Ldap2pg est un outils de synchronisation des rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. 
+Ldap2pg est un outils de synchronisation des rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. Une nouvelle version 3.0 vient de sortir avec quelques correctifs et améliorations particulièrement autour des ACL.
 
 <!--MORE-->
 
@@ -19,21 +19,17 @@ La configuration est simple et puissante. Ldap2pg permet également d’auditer 
 
 **Changelog depuis la version 2.0:**
 
-    Breakage: Use Python {} format string for ACL queries instead of named printf style.
-    Supporte les outils d'installation.
-    Fix undefined LDAP password traceback.
-    Fix case sensitivity in grant rule.
-    ACL inspect query should now return a new column indicating partial grant.
-    Allow to customize query to inspect roles in cluster.
-    Add check mode: exits with 1 if changes. Juste like diff.
-    Add --quiet option.
-    Add __all__ schema wildcard for looping all schema in databases.
-    Add ACL group to ease managing complex ACL setup.
-    Add Cookbook in documentation.
+Cette version change le formatage des requêtes SQL des ACL pour utiliser le format `{}` de Python plutôt que le style printf, moins pratique avec SQL.
+
+Point important, on peut désormais surcharger la requête SQL d'inspection des rôles. Cela permet de séparer de manière logique des rôles ou même de désactiver la gestions des rôles pour ne faire que les ACLs.
+
+Lors de la définiton d'ACL, cela peut être pénible d'automatiser l'application d'ACL sur *tout* les schémas. `ldap2pg` gère maintenant un pseudo-schéma `__all__` dans le YAML qui demande d'appliquer les `GRANT` ou `REVOKE` à chaque schéma. En outre, les ACLs complexe peuvent être groupée en ACL simple. Cela facilite l'écriture de requête d'introspection des ACL.
+
+Pour faciliter l'intégration avec la supervision ou l'audit, `ldap2pg` a désormais un mode de contrôle avec l'option `--check`. Dans ce mode, `ldap2pg` retourne un code d'erreur `1` si la base n'est pas synchronisée. Couplée avec l'option `--dry`, il permet de faire un rapport et de lever une erreur en cas de base non synchronisée. Cela facilite la surveillance de rôles ou de `GRANT` surnuméraires.
 
 __Vous trouverez la documentation, des procédures et le support communautaire à ces liens:__
 
-* Consultez la documentation: http://ldap2pg.readthedocs.io/en/latest/
-* Installez ldap2pg: https://github.com/dalibo/ldap2pg
+* Consultez la documentation : http://ldap2pg.readthedocs.io/en/latest/
+* Le projet sur GitHub : https://github.com/dalibo/ldap2pg
 
-Pour toute question technique, le projet recommande d'utiliser l'adresse: 
+Pour toute question technique, le projet recommande d'utiliser la page du projet sur GitHub.
