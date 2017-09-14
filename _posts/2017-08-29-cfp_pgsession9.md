@@ -44,6 +44,8 @@ Cette journée sera filmée, et toutes les sessions seront enregistrées et publ
 
 Les speakers sélectionnés ne résidant pas en France se verront rembourser une nuit d’hôtel et leurs frais de transport.
 
+Vous pouvez retrouver l'ensemble de ces informations sur le site web des PostgreSQL Sessions: http://www.postgresql-sessions.org/9/start
+
 Dans l'attente de vos propositions, nous vous donnons rendez-vous à Paris en novembre !
 
 
