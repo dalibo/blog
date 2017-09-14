@@ -9,6 +9,7 @@ tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
 ---
 
 ---
+
 *Lyon, le 14 septembre 2017*
 
 `ldap2pg` est un outils de synchronisation des rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. Une nouvelle version 3.0 vient de sortir avec quelques correctifs et améliorations particulièrement autour des ACL.
