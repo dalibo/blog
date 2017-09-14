@@ -11,7 +11,7 @@ tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
 ---
 *Lyon, le 14 septembre 2017*
 
-`ldap2pg` est un outils de synchronisation des rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. Une nouvelle version 3.0 vient de sortir avec quelques correctifs et améliorations particulièrement autour des ACL.
+`ldap2pg` est un outil de synchronisation des rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. Une nouvelle version 3.0 vient de sortir avec quelques correctifs et améliorations particulièrement autour des ACL.
 
 La configuration est simple et puissante, via un fichier YAML. Ldap2pg permet également d’auditer une instance PostgreSQL. Ldap2pg facilite l’intégration et la sécurisation de PostgreSQL dans votre infrastructure.
 
@@ -32,4 +32,4 @@ __Vous trouverez la documentation, des procédures et le support communautaire �
 * Consultez la documentation : http://ldap2pg.readthedocs.io/en/latest/
 * Le projet sur GitHub : https://github.com/dalibo/ldap2pg
 
-La documentation contient désormais des exemples réels d'intégration et de requêtes d'intropsection des ACLs. Pour toute question technique, le projet recommande d'utiliser la page du projet sur GitHub.
+La documentation contient désormais des exemples réels d'intégration et de requêtes d'introspection des ACLs. Pour toute question technique, le projet recommande d'utiliser la page du projet sur GitHub.
