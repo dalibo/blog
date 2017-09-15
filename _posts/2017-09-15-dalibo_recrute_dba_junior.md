@@ -8,7 +8,7 @@ tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base 
 ---
 
 ---
-*Lyon, 15 septembre 2017*
+*Paris, 15 septembre 2017*
 
 Nous recherchons des profils administrateurs de bases de données , avec des connaissances en administration système, pour plusieurs postes à Paris.
 
