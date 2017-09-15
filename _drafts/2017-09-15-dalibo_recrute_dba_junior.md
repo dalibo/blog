@@ -18,10 +18,10 @@ Poste
 ---
 Nous sommes à la recherche d'administrateurs PostgreSQL. Les principales missions seront :
 
-    Installer et administrer des serveurs PostgreSQL, sur site et à distance;
-    Participer à notre plate-forme support PostgreSQL (traitements d'incidents, maintenance pro-active);
-    Participer aux projets de R&D sur nos outils Open-Source (pgBadger, Temboard, PoWA, etc.);
-    S'investir au sein de la communauté PostgreSQL.
+   * Installer et administrer des serveurs PostgreSQL, sur site et à distance;
+   * Participer à notre plate-forme support PostgreSQL (traitements d'incidents, maintenance pro-active);
+   * Participer aux projets de R&D sur nos outils Open-Source (pgBadger, Temboard, PoWA, etc.);
+   * S'investir au sein de la communauté PostgreSQL.
 
 Type de contrat
 ---
@@ -37,16 +37,16 @@ DALIBO est une société coopérative (SCOP). Après un certain temps passé dan
 
 Profil Recherché
 ---
-    H/F bac+4, débutants acceptés ;
-    Expérience d'administration système ;
-    Connaissances requises: SQL, bash ;
-    Ouverture à l'Open-Source ;
-    Autonomie et force de proposition ;
-    Plus significatifs :
-    Connaissance d'un ou plusieurs SGBD ;
-    Connaissance d'un langage de script comme Perl ou Python ;
-    Connaissance du C (et techniques de patchs) ;
-    Participation bénévole à des événements, organisations ou projets Open-Source.
+   * H/F bac+4, débutants acceptés ;
+   * Expérience d'administration système ;
+   * Connaissances requises: SQL, bash ;
+   * Ouverture à l'Open-Source ;
+   * Autonomie et force de proposition ;
+   * Plus significatifs :
+   * Connaissance d'un ou plusieurs SGBD ;
+   * Connaissance d'un langage de script comme Perl ou Python ;
+   * Connaissance du C (et techniques de patchs) ;
+   * Participation bénévole à des événements, organisations ou projets Open-Source.
 
 Société
 ---
@@ -54,8 +54,8 @@ DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, d
 
 Pour plus d'informations :
 
-    http://www.dalibo.com
-    http://dalibo.github.io
+http://www.dalibo.com
+http://dalibo.github.io
 
 Candidatures
 ---
