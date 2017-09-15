@@ -34,6 +34,7 @@ Des déplacements sont à prévoir, en région parisienne et province.
 Chaque salarié de la société peut consacrer une partie de son temps de travail (jusqu'à 20 %) à un projet Open-Source de la communauté PostgreSQL : ce qui inclut la traduction, le développement, l'aide aux utilisateurs, la présence dans des salons Open-Source, etc.
 
 DALIBO est une société coopérative (SCOP). Après un certain temps passé dans l'entreprise, chaque salarié/e peut devenir associé/e et prendre part aux décisions de la société.
+
 Profil Recherché
 ---
     H/F bac+4, débutants acceptés ;
