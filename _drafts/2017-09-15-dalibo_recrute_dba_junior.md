@@ -2,8 +2,8 @@
 layout: post
 title: Dalibo recrute des DBA Junior !
 author: Virginie Jourdan, Léo Cossic
-twitter_id: @Dalibo
-github_id: @Dalibo
+twitter_id: Dalibo
+github_id: Dalibo
 tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base de données, PostgreSQL]
 ---
 
@@ -44,10 +44,10 @@ Profil Recherché
     Ouverture à l'Open-Source ;
     Autonomie et force de proposition ;
     Plus significatifs :
-        Connaissance d'un ou plusieurs SGBD ;
-        Connaissance d'un langage de script comme Perl ou Python ;
-        Connaissance du C (et techniques de patchs) ;
-        Participation bénévole à des événements, organisations ou projets Open-Source.
+    Connaissance d'un ou plusieurs SGBD ;
+    Connaissance d'un langage de script comme Perl ou Python ;
+    Connaissance du C (et techniques de patchs) ;
+    Participation bénévole à des événements, organisations ou projets Open-Source.
 
 Société
 ---
