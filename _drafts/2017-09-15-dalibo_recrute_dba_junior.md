@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dalibo recrute des DBA Junior !
+title: Dalibo recrute des DBA juniors !
 author: Virginie Jourdan, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
@@ -9,8 +9,6 @@ tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base 
 
 ---
 *Lyon, 15 septembre 2017*
-
-Dalibo recrute des DBA juniors !
 
 Nous recherchons des profils administrateurs de bases de données , avec des connaissances en administration système, pour plusieurs postes à Paris.
 
