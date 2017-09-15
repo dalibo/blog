@@ -6,16 +6,18 @@ twitter_id: @Dalibo
 github_id: @Dalibo
 tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base de données, PostgreSQL]
 ---
+
+---
 *Lyon, 15 septembre 2017*
 
 Dalibo recrute des DBA juniors !
-==
+
 Nous recherchons des profils administrateurs de bases de données , avec des connaissances en administration système, pour plusieurs postes à Paris.
 
 <!--MORE-->
 
 Poste
-==
+---
 Nous sommes à la recherche d'administrateurs PostgreSQL. Les principales missions seront :
 
     Installer et administrer des serveurs PostgreSQL, sur site et à distance;
@@ -24,7 +26,7 @@ Nous sommes à la recherche d'administrateurs PostgreSQL. Les principales missio
     S'investir au sein de la communauté PostgreSQL.
 
 Type de contrat
-
+---
 Nous proposons des postes en CDI exclusivement avec une période d'essai de 3 mois renouvelable une seule fois.
 
 Les locaux de la société sont situés à Paris, au 10, rue d'Uzès, dans le 2ème arrondissement.
@@ -48,17 +50,16 @@ Profil Recherché
         Participation bénévole à des événements, organisations ou projets Open-Source.
 
 Société
-
+---
 DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
 
 Pour plus d'informations :
 
     http://www.dalibo.com
-    http://www.dalibo.org
     http://dalibo.github.io
 
 Candidatures
-
+---
 Merci d'adresser votre lettre de motivation, accompagnée de votre CV à recrutement@dalibo.com
 drh/recrutement/annonce_dba_postgresql_debutant_2018.txt · Dernière modification: 2017/09/07 10:43 par nicolas
 Outils de la page
@@ -68,5 +69,3 @@ Outils de la page
     Liens vers cette page
     Haut de page
     Export ODT
-
-Donate Powered by PHP Valid HTML5 Valid CSS Driven by DokuWiki
