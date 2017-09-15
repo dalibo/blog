@@ -42,6 +42,7 @@ Profil Recherché
    * Connaissances requises: SQL, bash ;
    * Ouverture à l'Open-Source ;
    * Autonomie et force de proposition ;
+
 Plus significatifs :
    * Connaissance d'un ou plusieurs SGBD ;
    * Connaissance d'un langage de script comme Perl ou Python ;
