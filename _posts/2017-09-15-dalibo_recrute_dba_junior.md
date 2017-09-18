@@ -61,4 +61,4 @@ Pour plus d'informations :
 
 Candidatures
 ---
-Merci d'adresser votre lettre de motivation, accompagnée de votre CV à recrutement@dalibo.com
+Merci d'adresser votre lettre de motivation, accompagnée de votre CV à [recrutement@dalibo.com](mailto:recrutement@dalibo.com)
