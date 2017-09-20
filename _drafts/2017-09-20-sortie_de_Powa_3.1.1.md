@@ -10,21 +10,26 @@ tags: [PostgreSQL, Workload, analyser, release, sortie, version]
 ---
 *Paris, le 20 septembre 2017*
 
-PoWA est un extension PostgreSQL d'analyse de charge (similaire à AWR pour Oracle). PoWA collecte et stocke les données sur l’utilisation de vos bases et permet de mettre en relation les requêtes effectuées avec les ressources utilisées.
+PoWA est une extension PostgreSQL permettant de collecter et échantillonner des
+données sur l'utilisation de vos base, afin de vous fournir une analyse en temps
+réelle de la charge de votre instance, quelles sont les ressources consommés et
+proposer des optimisations des requêtes les plus consommatrices.
 
 <!--MORE-->
 
 Correction de bug:
 
-  * Correction de codes risqué grâce à sighup handler (Andreas Seltenreich, Julien Rouhaud)
-  * Vérification de l'attente de powa.frequency entre deux apperçus (Marc Cousin, Julien Rouhaud)
-  * Correction de la portabilité vers win32 de compute_powa_frequency (Julien Rouhaud)
-  * Ne pas essayer de lire dbentry->tables si c'est NULL (Julien Rouhaud)
-  * Correction de la compilation pour les platformes avec HAVE_CLOCK_GETTIME (Julien Rouhaud, signalé par Maxence Ahlouche)
+  * Correction d'un bug sur le gestionnaire de signal sighup (Andreas Seltenreich, Julien Rouhaud)
+  * Vérification que la fréquence d'échantillonnage est réspecté entre deux snapshots (Marc Cousin, Julien Rouhaud)
+  * Correction de la portabilité vers win32 de la fonction compute_powa_frequency
+  * Vérification que dbentry->tables est valué avant de le lire
+  * Correction de la compilation pour les platformes avec HAVE_CLOCK_GETTIME (signalé par Maxence Ahlouche)
 
-Miscellaneous
+Divers
 
-  * Ajout de la compatibilité PostgreSQL 10 (Julien Rouhaud)
-  * Une seule éxécution des fonctions powa_stat (Julien Rouhaud)
+  * Ajout de la compatibilité pour PostgreSQL 10
+  * N'exécute qu'une seule fois les fonctions powa_stat par échantillonnage
 
-Pour signaler un problème, utilisez le système de correction de bug disponible sur la page github du projet: [https://github.com/dalibo/powa](https://github.com/dalibo/powa)
+Pour signaler un problème, utilisez le système de correction de bug disponible
+sur la page github du projet:
+[https://github.com/dalibo/powa](https://github.com/dalibo/powa)
