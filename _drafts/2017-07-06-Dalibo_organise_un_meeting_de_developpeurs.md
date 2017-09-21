@@ -20,6 +20,8 @@ Le "PostgreSQL Graphic Tools Developer Meeting" (PGTDM) est une rencontre d'envi
 
 *UI = User Interface (Interface utilisateur) - UX = User Experience (Expérience Utilisateur)
 
+### Qui sera présent ?
+
 Les développeurs présents sont à l'origines d'outils pour PostgreSQL tels que (par ordre d'inscription):
   * KEXI
   * Postico (PostgreSQL GUI for macOS)
@@ -35,6 +37,8 @@ Les développeurs présents sont à l'origines d'outils pour PostgreSQL tels que
   * Patroni
 
 Du côté de **Dalibo**, trois développeurs d'outils pour PostgreSQL seront présents: Gilles Darold (pgBadger, Ora2pg, pgCluu..), Julien Tachoires (temBoard, pg_activity), Pierre Giraud (temBoard, PoWA's UI). Seront également présents, Damien Clochard et Léo Cossic, initiateurs et organisateurs de la rencontre. 
+
+### Et pour la suite ?
 
 Dalibo est fière d'être à l'origine de cette initiative, et espère que celle-ci débouchera sur davantages de collaborations entre les projets et les entreprises de l'éco-système PostgreSQL. Cette rencontre ne sera que la première d'une longue série, et nous espérons que les développeurs des différents projets reprendrons cette initiative pour prolonger les relations entre développeurs, et ce, dans différents pays et régions du monde.
 
