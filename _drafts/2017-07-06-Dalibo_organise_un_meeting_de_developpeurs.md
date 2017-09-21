@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dalibo sponsorise l'évènement PgConf Europe !
+title: Dalibo organise un meeting de développeurs, à Varsovie !
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
