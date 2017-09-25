@@ -37,6 +37,7 @@ Les développeurs présents sont à l'origines d'outils pour PostgreSQL tels que
   * [temBoard](http://temboard.io/)
   * [pg_activity](https://github.com/julmon/pg_activity)
   * [PoWA](http://dalibo.github.io/powa/)
+  * [Ora2Pg](http://ora2pg.darold.net/)
 
 Du côté de **Dalibo**, trois développeurs d'outils pour PostgreSQL seront présents: Gilles Darold (pgBadger, Ora2pg, pgCluu..), Julien Tachoires (temBoard, pg_activity), Pierre Giraud (temBoard, PoWA). Seront également présents, Damien Clochard (PostgreSQL Dashboard) et Léo Cossic, initiateurs et organisateurs de la rencontre. 
 
