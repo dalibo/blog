@@ -19,7 +19,7 @@ tags: [warsaw, poland, opensource, postgresql, pgconf, dalibo, conference, europ
 The "PostgreSQL Graphic Tools Developer Meeting" (PGTDM) is a meeting of approximately 20 developers from more than 15 different projects. The main goal of this meeting is to approach user interface ([UI](https://en.wikipedia.org/wiki/User_interface_design)) and user experience ([UX](https://fr.wikipedia.org/wiki/Exp%C3%A9rience_utilisateur)) issues in PostgreSQL tools.
 By sharing every needs and ideas of different developers, this meeting could lead to very some interesting colaborations between developers from different project and companies.
 
-### 20 développeurs et une quinzaine d'outils représentés
+### 20 developers and around 15 projects united:
 
 The registered developers are involved in PostgreSQL tools such as:
   * [KEXI](http://www.kexi-project.org/about.html)
