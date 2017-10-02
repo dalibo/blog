@@ -36,9 +36,9 @@ The registered developers are involved in PostgreSQL tools such as:
   * [temBoard](http://temboard.io/)
   * [pg_activity](https://github.com/julmon/pg_activity)
   * [PoWA](http://dalibo.github.io/powa/)
-  * [PGFormatter](https://github.com/darold/pgFormatter)
+  * [pgFormatter](https://github.com/darold/pgFormatter)
 
-On Dalibo's side, three PostgreSQL tool developers will be attending the meeting: Gilles Darold (PgBadger, PGFormatter, pgCluu...), Julien Tachoires (temBoard, pgactivity), Pierre Giraud (temBoard, PoWA). Also, Damien Clochard (PostgreSQL Dashboard, Dalibo cofounder) and Léo Cossic: both organizers of the meeting.
+On Dalibo's side, three PostgreSQL tool developers will be attending the meeting: Gilles Darold (PgBadger, pgFormatter, pgCluu...), Julien Tachoires (temBoard, pg_activity), Pierre Giraud (temBoard, PoWA). Also, Damien Clochard (PostgreSQL Dashboard, Dalibo cofounder) and Léo Cossic: both organizers of the meeting.
 
 ### What's next?
 Dalibo is proud to initiate this first (of many) meeting, and hope it'll lead to more collaborations between different projects and companies of the PostgreSQL ecosystem. This meeting will hopefully be a success and encourage more developers to initiate those kind of meetings and extend relations and exchanges between developer in the PostgreSQL community.
