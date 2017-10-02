@@ -10,7 +10,7 @@ tags: [warsaw, poland, opensource, postgresql, pgconf, dalibo, conference, europ
 ---
 *Paris, October 2nd 2017*
 
-[Dalibo](https://dalibo.com) organizes, with support from the [European PostgreSQL association](https://www.postgresql.eu), a developer meeting, with the goal to talk about graphic tools in PostgreSQL. This event will take place in Warsaw, on October 24th, during the first day of [PGConfEU](https://2017.pgconf.eu/), a major event for the European and international PostgreSQL community.
+[Dalibo](https://dalibo.com) organizes, with support from the [European PostgreSQL association](https://www.postgresql.eu), a developer meeting, to talk about graphic tools in PostgreSQL. This event will take place in Warsaw, on October 24th, during the first day of [PGConfEU](https://2017.pgconf.eu/), a major event for the European and international PostgreSQL community.
 
 <!--MORE-->
 
