@@ -10,25 +10,38 @@ tags: [PostgreSQL, hypothetical, indexes, index, hypothétiques, sortie, version
 ---
 *Paris, le 04 octobre 2017*
 
-HypoPG est une extension PostgreSQL ajoutant des fonctionnalités d’index hypothétique. Un index hypothétique, ou virtuel, n’existe pas réellement, donc ne consomme aucune ressource ou CPU pour être créé. Ils sont utiles pour savoir si des index peuvent améliorer les performances de requêtes problématiques, car on peut savoir si PostgreSQL utiliserait ces index ou non, sans dépenser de ressources pour les créer.
+HypoPG est une extension pour PostgreSQL ajoutant la fonctionnalité d’index
+hypothétique. Les index hypothétiques, ou virtuels, n’existent pas réellement,
+donc ne consomment aucune ressource disque ou CPU pour être créés. Ils sont
+utiles pour savoir si des index peuvent améliorer les performances de requêtes
+problématiques, car on peut savoir si PostgreSQL utiliserait ces index ou non,
+sans dépenser de ressources pour les créer.
 
 <!--MORE-->
 
 ### Version 1.1.0:
 
 **Nouvelles fonctionnalités:**
-   * ajout du support des indexes hypothétiques en expression
-   * ajout d'une fonction hypopg_get_indexdef() pour obtenir la définition d'un index hypothétique classé
-  
+
+   * ajout du support des index hypothétiques sur expression
+   * ajout d'une fonction `hypopg_get_indexdef()` pour obtenir la définition
+     d'un index hypothétique précédemment créé
+
 **Correction de bug:**
-    
-   * n'accepte plus les indexes hypothétiques à une ou plusieur colonnes si le AM ne le supporte pas
-   * n'accepte plus les indexes hypothétiques sur les "system columns" (excepté OID)
-   * correction des indexes utilisant les close DESC et l'ordre par default NULLS (merci à Andrew Kane pour l'avertissement et le test)
-   * correction du support de PostgreSQL 9.6+ (merci à Rob Stolarz pour le signalement)
+
+   * ol n'est plus possible de créer des index hypothétiques uniques, ou sur
+     plusieurs colonnes si le type d'index ne le supporte pas
+   * tout comme pour les index standard, il n'est plus possible de créer des
+     index hypothétiques sur les colonnes systèmes (à l'exception d'OID)
+   * correction des index utilisant une clause de tri DESC avec un ordre des
+     valeurs NULL par default NULLS (merci à Andrew Kane pour le rapport de bug
+     et le cas de test)
+   * correction du support de PostgreSQL 9.6+ (merci à Rob Stolarz pour le
+     rapport de bug)
 
 **Divers:**
-   * ajout du support de la version 10 de PostgreSQL
+
+   * ajout du support pour la version 10 de PostgreSQL
 
 
 
