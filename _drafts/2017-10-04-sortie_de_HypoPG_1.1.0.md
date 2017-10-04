@@ -14,7 +14,7 @@ HypoPG est une extension PostgreSQL ajoutant des fonctionnalités d’index hypo
 
 <!--MORE-->
 
-###Version 1.1.0:
+### Version 1.1.0:
 
 Nouvelles fonctionnalités:
     * ajout du support des indexes hypothétiques en expression
