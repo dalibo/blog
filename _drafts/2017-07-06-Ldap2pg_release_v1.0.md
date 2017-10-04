@@ -10,56 +10,34 @@ tags: [ldap, ldap2pg, postgresql, tool, opensource, dalibolabs, dalibo, labs, re
 
 *Paris, le 29 juin 2017*
 
-Dalibo annnonce la première version officielle de son dernier projet [`ldap2pg`](https://ldap2pg.readthedocs.org), votre couteau-suisse pour synchroniser les rôles depuis n'importe quel annuaire LDAP. La version 1.0 apporte la gestion complète des rôles.
+
 
 
 <!--MORE-->
 
-
-Les administrateurs de bases de donnée et les administrateurs système le savent : l'authentification de [PostgreSQL s'intègre bien avec LDAP](https://www.postgresql.org/docs/current/static/auth-methods.html#AUTH-LDAP). Le postulat est seulement que les rôles soient déjà définis dans l'instance Postgres. C'est là que `ldap2pg` se rend utile : il synchronise les rôles dans Postgres à partir de requêtes LDAP.
-
-
+Le version 10 de notre Système de Gestion de Base de Donnée (SGBD) préféré PostgreSQL est sortie. Après plusieurs mois de tests, PostgreSQL 10 sort officiellement, pour le plus grand plaisir de nos experts, mais également de nos clients.
+Ce que nous voulons savoir maintenant, ce sont les différences entre cette nouvelle version et l'ancienne (9.6). C'est pourquoi nous vous avons concocté un résumé des principales nouvelles fonctionnalité de cette version.
 
 
+  * Nouveau système de numérotation des versions
 
-2.0.4 (WIP)
+Jusqu'à maintenant, la version majeure était exprimée sur 2 nombres (8.4, 9.5), on passe avec la 10 en version majeure sur un seul nombre
+Ce point est important car un changement de version majeure implique une migration des données. Une opération beaucoup plus lourde que la seule mise à jour des exécutables !
 
-    Do not install docs anymore (Ronan Dunklau)
-    Add a workaround for sampling problems with getrusage(), new parameter pg_stat_kcache.linux_hz is added. By default, this parameter is discovered at server startup (Ronan Dunklau).
-    Fix issue when concurrently created entries for the same user, db and queryid could lost some execution counters (Mael Rimbault)
+  * Le partitionnement déclaratif : le partitionnement est dorénavant intégré au moteur pour une administration simplifiée et de bien meilleures performances qu'avec le partitionnement par héritage.
 
-3.1.1 (WIP)
+  * Réplication logique : la réplication logique est possible depuis longtemps... mais grâce à des logiciels externes. Elle est désormais intégrée dans le coeur de PostgreSQL !
 
-    Bugfix:
-        Make sure we wait at least powa.frequency between two snapshot (Marc Cousin and Julien Rouhaud)
-        Fix win32 portability of compute_powa_frequeny() (Julien Rouhaud)
-        Don't try to read dbentry->tables if it's NULL (Julien Rouhaud)
-        Fix compilation for platform with HAVE_CLOCK_GETTIME (Julien Rouhaud, reported by Maxence Ahlouche)
-    Miscellaneous:
-        Add pg10 Compatibility (Julien Rouhaud)
-        Only execute once the powa_stat functions (Julien Rouhaud)
-1.0.3:
-  Bugfix:
-    - Fix a missing call to InstrEndLoop (Tomas Vondra)
-    - Sample all nested queries when top level statement is sampled (Julien
-      Rouhaud)
-    - Make sure hash keys can be compared using memcmp (Julien Rouhaud)
-    - Fix behavior with parallel queries (Julien Rouhaud based on a patch by
-      Tomas Vondra)
-    - Fix bug on TEXTCONST not being byval (Ronan Dunklau)
-    - Fix 64bits counters on pass-by-ref float8 architectures (Julien Rouhaud)
-    - Fix bug in pg_qualstats_names (Ronan Dunklau)
-    - Fix bug in const position (Julien Rouhaud)
-    - Fix pg_qualstats_pretty to use text instead of regoper, allowing usage of
-      pg_upgrade when pg_qualstats is installed (Julien Rouhaud)
-  Miscellaneous:
-    - Add pg 10 compatibility (Julien Rouhaud)
-- Do not install docs anymore (Ronan Dunklau)
+  * Performances : après les deux fonctionnalitées phares, les performances ne sont pas en reste avec entre autre 4 nouvelles opérations parallélisables, des gains sur les tris, sur les FDW, l'apparition des statistiques multi-colonnes, la journalisation des index hash.
+
+  * Changements de nommage : attention, avec cette nouvelle version le mot 'xlog' est transformé en 'wal' dans les noms de fichiers et de fonctions. De même 'clog' devient 'xact'. Le fichier de log applicatif 'pg_log' est renommé en 'log'.
+
+  * Pour encore plus de sécurité, le protocole SCRAM-SHA-256 fait son apparition dans la liste des méthodes d'authentification 
 
 
 
+N'ayez craintes, les outils Dalibo et communautaires seront tous compatible avec cette nouvelle version, d'ailleurs, bon nombre d'entre eux le sont déjà, entre autres: PoWA, HypoPG, PAF, check_pgactivity, ldap2pg, pgBadger, pgcluu, ora2pg et pg_activity.
 
+Et maintenant, c'est fini ?
+Evidemment que non, le projet a encore de nombreuses pistes d'améliorations (https://wiki.postgresql.org/wiki/Todo et https://wiki.postgresql.org/wiki/PostgreSQL11_Roadmap) et un certain nombre d'entre elles seront dans la future version 11 qui sortira dans 12 mois.
 
-`ldap2pg` est sous license Postgres, toutes contributions sont les bienvenues, même et surtout les plus petites !  Le projet est [publié sur GitHub](https://github.com/dalibo/ldap2pg) avec tests unitaires et tests fonctionnels exécutés par CircleCI. Le projet est particulièrement testé sur CentOS 7, pour python2.7 et python3.4.
-
-La prochaine étape majeure de `ldap2pg` est de gérer les ACLs: nettoyer les ACLs avant de supprimer un rôle, s'assurer qu'un rôle a tout ses accès et pas plus, etc. Une mécanique complexe mais pas insolvable, qui simplifiera beaucoup le travail d'intégration de PostgreSQL dans votre infrastructure et améliorera la confiance dans votre gestion des accès à vos données.
