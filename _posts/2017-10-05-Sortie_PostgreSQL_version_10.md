@@ -26,7 +26,7 @@ Le partitionnement est dorénavant intégré au moteur pour une administration s
   * [Réplication logique](https://blog.anayrat.info/2017/07/29/postgresql-10-et-la-replication-logique-fonctionnement/) (par Adrien Nayrat) : 
 La réplication logique est possible depuis longtemps... mais grâce à des logiciels externes. Elle est désormais intégrée dans le coeur de PostgreSQL !
 
-  * Performances : 
+  * [Performances](https://blog.anayrat.info/2017/10/04/postgresql-10-amelioration-des-performances/) (par Adrien Nayrat) : 
 après les deux fonctionnalitées phares, les performances ne sont pas en reste avec entre autre 4 nouvelles opérations parallélisables, des gains sur les tris, sur les FDW, l'apparition des statistiques multi-colonnes, la journalisation des index hash.
 
   * Changements de nommage : 
@@ -39,4 +39,4 @@ N'ayez craintes, les outils Dalibo et communautaires seront tous compatible avec
 
 Et maintenant, c'est fini ?
 Evidemment que non, le projet a encore de nombreuses [pistes d'améliorations](https://wiki.postgresql.org/wiki/Todo) ([Voir également ici](https://wiki.postgresql.org/wiki/PostgreSQL11_Roadmap)) et un certain nombre d'entre elles seront dans la future version 11 qui sortira dans 12 mois.
-Un article plus complet sera poster plus tard aujourd'hui, dès que PostgreSQL 10 sera disponible.
+Un article plus complet sera posté plus tard aujourd'hui, dès que PostgreSQL 10 sera disponible.
