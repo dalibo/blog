@@ -48,7 +48,10 @@ L'authentification SCRAM (Salted Challenge Response Authentication Mechanism) d�
 
 ## Liens
 
-* [Téléchargements](https://www.postgresql.org/downloads) * [Dossier de presse](https://www.postgresql.org/about/press/presskit10) * [Notes de version](https://www.postgresql.org/docs/current/static/release-10.html) * [Les nouveautés de la version 10](https://wiki.postgresql.org/wiki/New_in_postgres_10)
+* [Téléchargements](https://www.postgresql.org/downloads)
+* [Dossier de presse](https://www.postgresql.org/about/press/presskit10)
+* [Notes de version](https://www.postgresql.org/docs/current/static/release-10.html)
+* [Les nouveautés de la version 10](https://wiki.postgresql.org/wiki/New_in_postgres_10)
 
 ## À propos de PostgreSQL
 
