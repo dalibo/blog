@@ -10,7 +10,7 @@ tags: [sgbd, postgresql, version, 10, release, sgbdr, note, sortie, v10, 10]
 
 *Paris, le 05 octobre 2017*
 
-Le PostgreSQL Global Development Group annonce ce jour la sortie de PostgreSQL 10, dernière version du système libre de gestion de bases de données SQL de référence.
+Le **PostgreSQL Global Development Group** annonce ce jour la sortie de PostgreSQL 10, dernière version du système libre de gestion de bases de données SQL de référence.
 
 <!--MORE-->
 
