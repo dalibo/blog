@@ -39,4 +39,4 @@ N'ayez craintes, les outils Dalibo et communautaires seront tous compatible avec
 
 Et maintenant, c'est fini ?
 Evidemment que non, le projet a encore de nombreuses [pistes d'améliorations](https://wiki.postgresql.org/wiki/Todo) ([Voir également ici](https://wiki.postgresql.org/wiki/PostgreSQL11_Roadmap)) et un certain nombre d'entre elles seront dans la future version 11 qui sortira dans 12 mois.
-Un article plus complet sera poster plus tard aujourd'hui, en attendant, bonne
+Un article plus complet sera poster plus tard aujourd'hui, dès que PostgreSQL 10 sera disponible.
