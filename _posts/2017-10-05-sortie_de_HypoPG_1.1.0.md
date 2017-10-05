@@ -8,7 +8,7 @@ tags: [PostgreSQL, hypothetical, indexes, index, hypothétiques, sortie, version
 ---
 
 ---
-*Paris, le 04 octobre 2017*
+*Paris, le 05 octobre 2017*
 
 HypoPG est une extension pour PostgreSQL ajoutant la fonctionnalité d’index
 hypothétique. Les index hypothétiques, ou virtuels, n’existent pas réellement,
