@@ -38,4 +38,5 @@ attention, avec cette nouvelle version le mot 'xlog' est transformé en 'wal' da
 N'ayez craintes, les outils Dalibo et communautaires seront tous compatible avec cette nouvelle version, d'ailleurs, bon nombre d'entre eux le sont déjà, entre autres: PoWA, HypoPG, PAF, check_pgactivity, ldap2pg, pgBadger, pgcluu, ora2pg et pg_activity.
 
 Et maintenant, c'est fini ?
-Evidemment que non, le projet a encore de nombreuses [pistes d'améliorations](https://wiki.postgresql.org/wiki/Todo et https://wiki.postgresql.org/wiki/PostgreSQL11_Roadmap) et un certain nombre d'entre elles seront dans la future version 11 qui sortira dans 12 mois.
+Evidemment que non, le projet a encore de nombreuses [pistes d'améliorations](https://wiki.postgresql.org/wiki/Todo) ([Voir également ici](https://wiki.postgresql.org/wiki/PostgreSQL11_Roadmap)) et un certain nombre d'entre elles seront dans la future version 11 qui sortira dans 12 mois.
+Un article plus complet sera poster plus tard aujourd'hui, en attendant, bonne
