@@ -26,7 +26,7 @@ Le partitionnement est dorénavant intégré au moteur pour une administration s
   * [Réplication logique](https://blog.anayrat.info/2017/07/29/postgresql-10-et-la-replication-logique-fonctionnement/) : 
 La réplication logique est possible depuis longtemps... mais grâce à des logiciels externes. Elle est désormais intégrée dans le coeur de PostgreSQL !
 
-  * Performances : 
+  * (Performances)[https://blog.anayrat.info/2017/10/04/postgresql-10-amelioration-des-performances/] : 
 après les deux fonctionnalitées phares, les performances ne sont pas en reste avec, entre autres, 4 nouvelles opérations parallélisables, des gains sur les tris, sur les FDW, l'apparition des statistiques multi-colonnes, la journalisation des index hash.
 
   * (Changements de nommage)[http://paquier.xyz/postgresql-2/postgres-10-incompatible-changes/] : 
