@@ -20,10 +20,10 @@ Ce que nous voulons savoir maintenant, ce sont les différences entre cette nouv
   * [Nouveau système de numérotation des versions](http://www.databasesoup.com/2016/05/changing-postgresql-version-numbering.html) (par Josh Berkus) :
 Jusqu'à maintenant, la version majeure était exprimée sur 2 nombres (8.4, 9.5), on passe avec la 10 en version majeure sur un seul nombre. Ce point est important car un changement de version majeure implique une migration des données. Une opération beaucoup plus lourde que la seule mise à jour des exécutables !
 
-  * [Le partitionnement déclaratif](http://pgday.fr/slides/darold_pgday_2017_partitionnement.pdf)(par Gilles Darold) : 
+  * [Le partitionnement déclaratif](http://pgday.fr/slides/darold_pgday_2017_partitionnement.pdf) (par Gilles Darold) : 
 Le partitionnement est dorénavant intégré au moteur pour une administration simplifiée et de bien meilleures performances qu'avec le partitionnement par héritage.
 
-  * [Réplication logique](https://blog.anayrat.info/2017/07/29/postgresql-10-et-la-replication-logique-fonctionnement/)(par Adrien Nayrat) : 
+  * [Réplication logique](https://blog.anayrat.info/2017/07/29/postgresql-10-et-la-replication-logique-fonctionnement/) (par Adrien Nayrat) : 
 La réplication logique est possible depuis longtemps... mais grâce à des logiciels externes. Elle est désormais intégrée dans le coeur de PostgreSQL !
 
   * Performances : 
@@ -32,7 +32,7 @@ après les deux fonctionnalitées phares, les performances ne sont pas en reste 
   * Changements de nommage : 
 attention, avec cette nouvelle version le mot 'xlog' est transformé en 'wal' dans les noms de fichiers et de fonctions. De même 'clog' devient 'xact'. Le fichier de log applicatif 'pg_log' est renommé en 'log'.
 
-  * Pour encore plus de sécurité, le [protocole SCRAM-SHA-256 fait son apparition](http://paquier.xyz/postgresql-2/postgres-10-scram-authentication/)(par Michael Paquier) dans la liste des méthodes d'authentification.
+  * Pour encore plus de sécurité, le [protocole SCRAM-SHA-256 fait son apparition](http://paquier.xyz/postgresql-2/postgres-10-scram-authentication/) (par Michael Paquier) dans la liste des méthodes d'authentification.
 
 
 N'ayez craintes, les outils Dalibo et communautaires seront tous compatible avec cette nouvelle version, d'ailleurs, bon nombre d'entre eux le sont déjà, entre autres: PoWA, HypoPG, PAF, check_pgactivity, ldap2pg, pgBadger, pgcluu, ora2pg et pg_activity.
