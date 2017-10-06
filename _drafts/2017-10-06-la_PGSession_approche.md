@@ -5,7 +5,6 @@ author: Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
 tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
-
 ---
 
 ---
