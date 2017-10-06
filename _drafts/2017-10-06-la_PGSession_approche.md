@@ -10,7 +10,7 @@ tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
 ---
 *Paris, le 6 octobre 2017*
 
-La PostgreSQL Session approche ! En effet, le 17 novembre prochain se tiendra la [PGSession #9](http://www.postgresql-sessions.org/9/start), à Paris. Les inscription seront lancée très bientôt, donc soyez attentifs, les places s'écoulent en un temps record chaque année !
+La PostgreSQL Session approche ! En effet, le 17 novembre prochain se tiendra la [PGSession #9](http://www.postgresql-sessions.org/9/start), à Paris. Les inscriptions seront lancées très bientôt, donc soyez attentifs, les places s'écoulent en un temps record chaque année !
 
 <!--MORE-->
 
@@ -30,3 +30,5 @@ Chaque conférence durera environs 30 minutes (questions comprises), et de nombr
 
 En attendant, si vous n'avez pas assité aux dernières PGSessions, voici une conférence de Gilles Darold durant la PGSession #8: [Gilles Darold - Oracle, comment s'en passer?](https://www.youtube.com/watch?v=AYeQ2loAFaM)
 Et si vous souhaitez en regarder davantage, n'hésitez pas à consulter notre [chaine Youtube](https://www.youtube.com/channel/UCX2aUZmMYLdGntOsxmk-ZFw/videos) où vous trouverez l'ensemble des conférences des deux dernières PGSessions.
+
+Et surtout, tenez vous prêts, les inscription à cette PGSession commenceront sous peu !
