@@ -28,8 +28,5 @@ Chaque conférence durera environs 30 minutes (questions comprises), et de nombr
   * Haute-Disponibilité
   * Entrepôts de données / Big Data
 
-En attendant, si vous n'avez pas assité aux dernières PGSessions, voici une conférence de Gilles Darold de la PGSession #8: [Gilles Darold - Oracle, comment s'en passer?](https://www.youtube.com/watch?v=AYeQ2loAFaM)
-
-
-
-
+En attendant, si vous n'avez pas assité aux dernières PGSessions, voici une conférence de Gilles Darold durant la PGSession #8: [Gilles Darold - Oracle, comment s'en passer?](https://www.youtube.com/watch?v=AYeQ2loAFaM)
+Et si vous souhaitez en regarder davantage, n'hésitez pas à consulter notre [chaine Youtube](https://www.youtube.com/channel/UCX2aUZmMYLdGntOsxmk-ZFw/videos) où vous trouverez l'ensemble des conférences des deux dernières PGSessions.
