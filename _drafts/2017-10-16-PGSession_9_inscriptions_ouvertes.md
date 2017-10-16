@@ -27,6 +27,8 @@ Cette année, nous bénéficions de la présence d'acteurs emblématiques de la 
 
 Bloquez votre journée du 16 novembre et réservez votre place dès l'ouverture des inscriptions, aujourd'hui, lundi 16 octobre, à 10 heures, sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
 
-Plus d'informations ici : [http://www.postgresql-sessions.org/9/start](http://www.postgresql-sessions.org/9/start)
+Bloquez votre journée du 16 novembre et réservez votre place dès maintenant, les inscriptions sont ouvertes !!!
+Rendez-vous sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
+) les places sont limitées ... 
 
-A bientôt pour l'annonce de la programmation finale !
+Plus d'informations ici : [http://www.postgresql-sessions.org/](http://www.postgresql-sessions.org/9/start) avec l'annonce de la programmation finale pour très bientôt !
