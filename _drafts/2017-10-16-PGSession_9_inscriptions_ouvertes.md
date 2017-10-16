@@ -23,10 +23,10 @@ Vous aurez notamment l'opportunité d'assister aux conférences suivantes :
    * Thomas Poindessous [SKALE-5](https://www.skale-5.com/en/) - PostgreSQL en DBaaS : comparatif des offres Cloud Public
    * Etienne Bersac [Dalibo](www.dalibo.com)- Synchroniser les rôles depuis LDAP avec ldap2pg
 
-Cette année, nous avons le plaisir d'accueillir des acteurs emblématiques de la communauté PostgreSQL : nos invités spéciaux, les experts PostgreSQL de la société Russe PostgresPro: **Oleg Bartunov**, **Alexander Korotkov** et **Ivan Panchenko**, développeurs et commiters de longue date et membres de la “Core Team PostgreSQL” qui nous font l'honneur de donner une conférence cette année.
+Cette année, nous bénéficions de la présence d'acteurs emblématiques de la communauté, nos invités spéciaux, les  experts PostgreSQL de la société Russe PostgresPro: Oleg Bartunov, Alexander Korotkov et Ivan Panchenko, développeurs et commiters de longue date et membres de la “Core Team  PostgreSQL” qui nous font l'honneur de donner une conférence cette  année.
 
 Bloquez votre journée du 16 novembre et réservez votre place dès l'ouverture des inscriptions, aujourd'hui, lundi 16 octobre, à 10 heures, sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
 
-Plus d'informations ici : [http://www.postgresql-sessions.org/9/start](http://www.postgresql-sessions.org/7/start)
+Plus d'informations ici : [http://www.postgresql-sessions.org/9/start](http://www.postgresql-sessions.org/9/start)
 
 A bientôt pour l'annonce de la programmation finale !
