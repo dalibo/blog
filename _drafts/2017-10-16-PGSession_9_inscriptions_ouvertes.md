@@ -16,7 +16,7 @@ Les inscriptions à notre neuvième PGSession, réunissant près de dix interven
 
 Vous aurez notamment l'opportunité d'assister aux conférences suivantes :
 
-   * Olivier Courtin, de [Data Pink](http://www.datapink.com/company.html) - Python DataScience Frameworks integration with PostgreSQL 
+   * Olivier Courtin [[Data Pink]](http://www.datapink.com/company.html) - Python DataScience Frameworks integration with PostgreSQL 
    * Thibaut Madelaine, de [Dalibo](https://www.dalibo.com) - Mixons les nouveautés PostgreSQL 10 : partitionnement déclaratif et réplication logique 
    * Fabien Coelho, de [CRI, Mines ParisTech](https://www.cri.ensmp.fr/) - Pgbench WIP 
    * Laeticia Avrot de, [LoxoData](https://www.loxodata.com) - Sauvez le monde avec PITR
