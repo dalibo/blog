@@ -10,20 +10,20 @@ tags: [opensource, postgresql, session, pgsession, dalibo, conference]
 ---
 *Paris, le 16 octobre 2017*
 
-Les inscriptions à notre neuvième PostgreSQL Session, réunissant 7 conférences et 2 keynotes sur des sujets variés, sont ouvertes depuis ce matin !
+Les inscriptions à notre neuvième PGSession, réunissant près de dix interventions dédiées à PostgreSQL, sont ouvertes depuis ce  matin !
 
 <!--MORE-->
 
- L'intégralité du programme n'a pas encore encore été déterminé. Malgré tout, nous savons que vous aurez l'opportunité d'assister aux conférences suivantes :
+Vous aurez notamment l'opportunité d'assister aux conférences suivantes :
 
-   * Olivier Courtin - Python DataScience Frameworks integration with PostgreSQL 
-   * Thibaut Madelaine: Mixons les nouveautés PostgreSQL 10 : partitionnement déclaratif et réplication logique 
-   * Fabien Coelho - Pgbench WIP 
-   * Laeticia Avrot - Sauvez le monde avec PITR
-   * Thomas Poindessous - PostgreSQL en DBaaS : comparatif des offres Cloud Public
-   * Etienne Bersac - Synchroniser les rôles depuis LDAP avec ldap2pg
+   * Olivier Courtin [Data Pink](http://www.datapink.com/company.html) - Python DataScience Frameworks integration with PostgreSQL 
+   * Thibaut Madelaine [Dalibo](www.dalibo.com): Mixons les nouveautés PostgreSQL 10 : partitionnement déclaratif et réplication logique 
+   * Fabien Coelho [CRI, Mines ParisTech](https://www.cri.ensmp.fr/) - Pgbench WIP 
+   * Laeticia Avrot [LoxoData](www.loxodata.com)- Sauvez le monde avec PITR
+   * Thomas Poindessous [SKALE-5](https://www.skale-5.com/en/) - PostgreSQL en DBaaS : comparatif des offres Cloud Public
+   * Etienne Bersac [Dalibo](www.dalibo.com)- Synchroniser les rôles depuis LDAP avec ldap2pg
 
-Deux temps forts lors de cette session, grâce à la présence d'acteurs emblématiques de la communauté PostgreSQL : nos invités spéciaux, les experts PostgreSQL de la société Russe PostgresPro: **Oleg Bartunov**, **Alexander Korotkov** et **Ivan Panchenko**, développeurs et commiters de longue date et membres de la “Core Team PostgreSQL” qui nous font l'honneur de donner une conférence cette année.
+Cette année, nous avons le plaisir d'accueillir des acteurs emblématiques de la communauté PostgreSQL : nos invités spéciaux, les experts PostgreSQL de la société Russe PostgresPro: **Oleg Bartunov**, **Alexander Korotkov** et **Ivan Panchenko**, développeurs et commiters de longue date et membres de la “Core Team PostgreSQL” qui nous font l'honneur de donner une conférence cette année.
 
 Bloquez votre journée du 16 novembre et réservez votre place dès l'ouverture des inscriptions, aujourd'hui, lundi 16 octobre, à 10 heures, sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
 
