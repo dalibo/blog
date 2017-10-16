@@ -10,7 +10,7 @@ tags: [opensource, postgresql, session, pgsession, dalibo, conference]
 ---
 *Paris, le 16 octobre 2017*
 
-Les inscriptions à notre neuvième PostgreSQL Session, réunissant 8 conférences sur des sujets variés, sont ouvertes depuis ce matin !
+Les inscriptions à notre neuvième PostgreSQL Session, réunissant 7 conférences et 2 keynotes sur des sujets variés, sont ouvertes depuis ce matin !
 
 <!--MORE-->
 
@@ -23,7 +23,7 @@ Les inscriptions à notre neuvième PostgreSQL Session, réunissant 8 conférenc
    * Thomas Poindessous - PostgreSQL en DBaaS : comparatif des offres Cloud Public
    * Etienne Bersac - Synchroniser les rôles depuis LDAP avec ldap2pg
 
-Deux temps forts lors de cette session, grâce à la présence d'acteurs emblématiques de la communauté PostgreSQL : nos invités spéciaux, les experts PostgreSQL de la société Russe PostgresPro: **Oleg Bartunov** et **Alexander Korotkov**, développeurs et commiters de longue date et membres de la “Core Team PostgreSQL” qui nous font l'honneur de donner une conférence cette année.
+Deux temps forts lors de cette session, grâce à la présence d'acteurs emblématiques de la communauté PostgreSQL : nos invités spéciaux, les experts PostgreSQL de la société Russe PostgresPro: **Oleg Bartunov**, **Alexander Korotkov** et **Ivan Panchenko**, développeurs et commiters de longue date et membres de la “Core Team PostgreSQL” qui nous font l'honneur de donner une conférence cette année.
 
 Bloquez votre journée du 16 novembre et réservez votre place dès l'ouverture des inscriptions, aujourd'hui, lundi 16 octobre, à 10 heures, sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
 
