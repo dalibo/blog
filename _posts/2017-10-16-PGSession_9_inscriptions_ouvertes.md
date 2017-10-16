@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Session PostgreSQL 9 du 17 novembre, les inscriptions sont ouvertes !
+title: Session PostgreSQL 9, les inscriptions sont ouvertes !
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
