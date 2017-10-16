@@ -19,7 +19,7 @@ Vous aurez notamment l'opportunité d'assister aux conférences suivantes :
    * Olivier Courtin [[Data Pink]](http://www.datapink.com/company.html) - Python DataScience Frameworks integration with PostgreSQL 
    * Thibaut Madelaine [[Dalibo]](https://www.dalibo.com) - Mixons les nouveautés PostgreSQL 10 : partitionnement déclaratif et réplication logique 
    * Fabien Coelho [[CRI, Mines ParisTech]](https://www.cri.ensmp.fr/) - Pgbench WIP 
-   * Laeticia Avrot [[LoxoData]](https://www.loxodata.com) - Sauvez le monde avec PITR
+   * Læticia Avrot [[Loxodata]](https://www.loxodata.com) - Sauvez le monde avec PITR
    * Thomas Poindessous [[SKALE-5]](https://www.skale-5.com/en/) - PostgreSQL en DBaaS : comparatif des offres Cloud Public
    * Etienne Bersac [[Dalibo]](https://www.dalibo.com) - Synchroniser les rôles depuis LDAP avec ldap2pg
 
