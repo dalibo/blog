@@ -25,8 +25,6 @@ Vous aurez notamment l'opportunité d'assister aux conférences suivantes :
 
 Cette année, nous bénéficions de la présence d'acteurs emblématiques de la communauté, nos invités spéciaux, les  experts PostgreSQL de la société Russe PostgresPro: Oleg Bartunov, Alexander Korotkov et Ivan Panchenko, développeurs et commiters de longue date et membres de la “Core Team  PostgreSQL” qui nous font l'honneur de donner une conférence cette  année.
 
-Bloquez votre journée du 16 novembre et réservez votre place dès l'ouverture des inscriptions, aujourd'hui, lundi 16 octobre, à 10 heures, sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
-
 Bloquez votre journée du 16 novembre et réservez votre place dès maintenant, les inscriptions sont ouvertes !!!
 Rendez-vous sur le site: [https://www.eventbrite.fr](https://www.eventbrite.fr/e/billets-postgresql-session-9-37721988483)
 ) les places sont limitées ... 
