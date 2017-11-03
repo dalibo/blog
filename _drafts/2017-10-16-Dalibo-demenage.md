@@ -14,7 +14,9 @@ Vous souhaitez découvrir les nouvelles fonctionnalités de PostgreSQL 10 ? Part
 
 <!--MORE-->
 
-En cette din d'année 2017, nous serons heureux de vous accueillir dans nos **nouveaux locaux parisiens** pour vous présenter la dernière version de PostgreSQL (43 rue du Faubourg Montmartre, 75009, Paris). Rejoignez nous pour une journée d’ateliers pratiques, accompagné d’un de nos consultants PostgreSQL, Thibaut Madelaine. Cette journée vous permettra aussi d’échanger avec d’autres professionnels de votre domaine. Partagez vos bonnes pratiques et difficultés et apprenez des expériences de vos pairs !
+
+En cette fin d'année 2017, nous serons heureux de vous accueillir dans nos **nouveaux locaux parisiens** pour vous présenter la dernière version de PostgreSQL (43 rue du Faubourg Montmartre, 75009, Paris). 
+Rejoignez nous pour une journée d’ateliers pratiques, accompagné d’un de nos consultants PostgreSQL, Thibaut Madelaine. Cette journée vous permettra aussi d’échanger avec d’autres professionnels de votre domaine. Partagez vos bonnes pratiques et difficultés et apprenez des expériences de vos pairs !
 
 Au cours de ce Workshop, vous seront proposés: des démos, TP et séances de questions/réponses, afin de comprendre, concrètement, ce que PostgreSQL 10 peut apporter à votre entreprise ou vos clients.
 
