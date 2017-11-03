@@ -15,5 +15,5 @@ Le programme de la neuvième édition de notre PGSession est enfin disponible, v
 <!--MORE-->
 
 
-![Cliquez ici pour accéder au programme](https://github.com/dalibo/blog/blob/gh-pages/Programme-PGSession9.pdf)
+![Cliquez ici pour accéder au programme](blob:null/d320b0fd-6fd8-40e5-98b5-0201f49c01e1)
 
