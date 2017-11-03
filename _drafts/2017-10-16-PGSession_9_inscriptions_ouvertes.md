@@ -16,8 +16,10 @@ Le 9 novembre prochain, Dalibo déménage ! Basés jusqu’alors au 10 rue d’U
 
 Notre nouveau “Quartier Général” est situé à moins de 10 minutes à pied de l'ancien, plus précisément, au 43 rue du Faubourg Montmartre, dans le 9ème arrondissement. Seule notre adresse postale change, toutes les autres coordonnées restent inchangées : http://www.dalibo.com/
 
+![Image-demenagement](https://github.com/dalibo/blog/blob/gh-pages/demenagement.png?raw=true)
+
 Cette nouvelle localisation est rapidement accessible des stations de métro suivantes : Le Peletier, Notre-Dame-de-Lorette, Grands Boulevards et Pigalle. Ainsi, pour nos clients ou stagiaires en formation, l’accessibilité à nos locaux reste inchangée.
 
 Nous vous invitons donc à modifier notre adresse sur vos outils, afin d'éviter toute confusion durant les tous prochains mois.
 
-![Image-demenagement](https://github.com/dalibo/blog/blob/gh-pages/demenagement.png?raw=true)
+
