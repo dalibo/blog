@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGSession #9: La programmation!
+title: PGSession 9: La programmation!
 author: Virginie Jourdan, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
