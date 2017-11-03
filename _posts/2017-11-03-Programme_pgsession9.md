@@ -8,7 +8,7 @@ tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base 
 ---
 
 ---
-*Lyon, 3 novembre 2017*
+*Paris, le 3 novembre 2017*
 
 Le programme de la neuvième édition de notre PGSession est enfin disponible, vous y retrouverez l'ordre et les intitulés des différentes conférences.
 
