@@ -23,7 +23,11 @@ Seule notre adresse postale change, toutes les autres coordonnées restent incha
 Cette nouvelle localisation est rapidement accessible des stations de métro suivantes : Le Peletier, Notre-Dame-de-Lorette, Grands Boulevards et Pigalle. Ainsi, pour nos clients ou stagiaires en formation, l’accessibilité à nos locaux reste inchangée.
 
 Nous vous invitons donc à modifier notre adresse sur vos outils, afin d'éviter toute confusion durant les tous prochains mois.
- ---
+
+
+---
+**English version**
+
 
 On November 9th, Dalibo is moving out of its current headquarters, located in "10 rue d'Uzès, 75002, Paris". We're moving to a new place, much bigger and very well adapted to our needs, in order to offer you quality training, audits and support.
 
