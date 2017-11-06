@@ -23,3 +23,12 @@ Seule notre adresse postale change, toutes les autres coordonnées restent incha
 Cette nouvelle localisation est rapidement accessible des stations de métro suivantes : Le Peletier, Notre-Dame-de-Lorette, Grands Boulevards et Pigalle. Ainsi, pour nos clients ou stagiaires en formation, l’accessibilité à nos locaux reste inchangée.
 
 Nous vous invitons donc à modifier notre adresse sur vos outils, afin d'éviter toute confusion durant les tous prochains mois.
+ ---
+
+On November 9th, Dalibo is moving out of its current headquarters, located in "10 rue d'Uzès, 75002, Paris". We're moving to a new place, much bigger and very well adapted to our needs, in order to offer you quality training, audits and support.
+
+Our new headquarters are located in "43 rue du Faubourg Montmartre, 75009, Paris", less then 10 minutes walk from the old location. Also, you don't have to worry about any other change, only our location changes, everything else stays how it is.
+
+This new place is very near from several subway stations, such as: Le Peletier, Notre-Dame-de-Lorette, Grands Boulevards et Pigalle.
+
+Please make sure you change our address in every tool you use to avoid any issue during the following months.
