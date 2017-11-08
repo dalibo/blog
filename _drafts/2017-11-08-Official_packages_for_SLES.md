@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouveaux paquets RPM officiels pour SUSE SLES
+title: New Official RPM packages for SUSE SLES
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
