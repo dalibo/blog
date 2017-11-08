@@ -47,6 +47,7 @@ From now on, PostgreSQL community will offer a RPM packet repository for SUSE SL
 This new repo contains packets for version 9.5, 9.6 adn 10 of PostgreSQL, as well as multiple associated tools such as pgAdmin4, PostGIS, etc.
 
 For years, PostgreSQL community offered official DEB packets for Debian and Ubuntu via <https://apt.postgresql.org> and RPM packets for RedHat and centOS on <https://yum.postgresql.org>.
+
 This additionnal SLES repo contains almost every packet one can find on the YUM repo: versions 10, 9.6 and 9.5 are supported as well as around a hundred addiotionnal pieces of software and tools: for instance, tools produiced or supported by Dalibo such as [pgBadger](http://dalibo.github.io/pgbadger/), 
 [PoWA](http://dalibo.github.io/powa/), 
 [emaj](https://github.com/beaud76/emaj), 
@@ -54,6 +55,8 @@ This additionnal SLES repo contains almost every packet one can find on the YUM 
 [pg_activity](https://github.com/julmon/pg_activity).
 The complete list of tools is available here: <https://zypp.postgresql.org/news-packagelist.php>
 
+
 To use these SLES repos, you can rely on this ["How To"](https://zypp.postgresql.org/howtozypp.php).
+
 
 These new packets and this SLES repo are maintained by [Devrim Gündüz](https://twitter.com/devrimgunduz), with support of [EnterpriseDB](https://www.enterprisedb.com/). We all thank him a lot for all the work he has done to offer RPM packets to the PostgreSQL community.
