@@ -48,7 +48,7 @@ This new repo contains packages for version 9.5, 9.6 and 10 of PostgreSQL, as we
 
 For years, PostgreSQL community offered official DEB packages for Debian and Ubuntu via <https://apt.postgresql.org> and RPM packages for RedHat and centOS on <https://yum.postgresql.org>.
 
-This additional SLES repo contains almost every package one can find on the YUM repo: versions 10, 9.6 and 9.5 are supported as well as about a hundred additionnal pieces of software and tools: for instance, tools produiced or supported by Dalibo such as [pgBadger](http://dalibo.github.io/pgbadger/), 
+This additional SLES repo contains almost every package one can find on the YUM repo: versions 10, 9.6 and 9.5 are supported as well as about a hundred additionnal pieces of software and tools: for instance, tools produced or supported by Dalibo such as [pgBadger](http://dalibo.github.io/pgbadger/), 
 [PoWA](http://dalibo.github.io/powa/), 
 [emaj](https://github.com/beaud76/emaj), 
 [HypoPG](http://dalibo.github.io/hypopg/) and 
