@@ -5,9 +5,10 @@ author: Damien clochard
 twitter_id: daamien
 github_id: daamien
 tags: [postgresql, Linux, SUSE, SLES]
+---
 
 ---
-Paris, le 8 novembre 2017
+*Paris, le 8 novembre 2017*
 
 
 La communauté PostgreSQL propose désormais un dépôt de paquets RPM pour la
