@@ -33,7 +33,7 @@ La liste complète des logiciels distribués est disponible ici:
 <https://zypp.postgresql.org/news-packagelist.php>
 
 Pour utiliser ce dépôt SLES, vous pouvez vous reporter à un 
-[How To détaillé](https://zypp.postgresql.org/howtozypp.php) .
+["How To" détaillé](https://zypp.postgresql.org/howtozypp.php) .
 
 Ces nouveaux paquets et ce dépot SLES sont maintenus par 
 [Devrim Gündüz](https://twitter.com/devrimgunduz) avec le soutien 
