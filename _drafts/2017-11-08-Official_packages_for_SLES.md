@@ -5,9 +5,10 @@ author: Damien clochard
 twitter_id: daamien
 github_id: daamien
 tags: [postgresql, Linux, SUSE, SLES]
+---
 
 ---
- Paris, November 8th 2017 
+*Paris, November 8th 2017* 
 
 
 From now on, PostgreSQL community will offer a RPM package repository for SUSE SLES 12 distribution on <https://zypp.postgresql.org/>.
