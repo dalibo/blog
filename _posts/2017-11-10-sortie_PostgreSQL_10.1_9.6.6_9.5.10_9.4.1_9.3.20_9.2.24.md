@@ -17,7 +17,7 @@ Tous les utilisateurs de PostgreSQL doivent appliquer cette mise à jour dès qu
 
 <!--MORE-->
 
-Si vous utilisez les index BRIN ou le module contrib "start-scripts", consultez les notes de versions et pour connaître les actions supplémentaires à effectuer après la mise à jour. 
+Si vous utilisez les index BRIN ou le module contrib "start-scripts", consultez les notes de versions pour connaître les actions supplémentaires à effectuer après la mise à jour. 
 
 ## Problèmes de sécurité
 
