@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Migrer vers PostgreSQL 10 : les points à surveiller 
+title: "Migrer vers PostgreSQL 10 : les points à surveiller "
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
 tags: [postgresql, upgrade ]
 ---
 
----
 *Paris, le 16 novembre 2017*
 
 
@@ -86,7 +85,7 @@ Enfin plusieurs outils en ligne de commande ont été renommés :
   * `pg_basebackup` a une option `--wal-method` au lieu de `--xlog-method`
 
 
-=== Numérotation des versions ===
+## Numérotation des versions
 
 À partir de la version 10, PostgreSQL remplace les noms de version à 3 nombres
 par des noms de version à 2 nombres. En conséquence :
