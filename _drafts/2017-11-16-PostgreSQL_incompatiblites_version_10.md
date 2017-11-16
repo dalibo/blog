@@ -4,10 +4,10 @@ title: "Migrer vers PostgreSQL 10 : les points à surveiller "
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, upgrade ]
+tags: [postgresql, 10, upgrade, nouvelle, version, incompatibilités, MàJ, mise à jour]
 ---
 
-*Paris, le 16 novembre 2017*
+*Paris, le 20 novembre 2017*
 
 
 A chaque nouvelle version de PostgreSQL 10, des changements majeurs peuvent
@@ -202,7 +202,7 @@ recherche plein-texte. La recherche plein texte est parfaitement intégrée dans
 PostgresQL depuis des années et ce module était conservé pour maintenir la
 compatibilité avec les anciennes installations. Ce module est désormais supprimé
 et ne sera plus distribué avec PostgreSQL. Les utilisateurs qui utilisent ce
-module depuis la version 8.3 doivent désormais compiler tsearch2 par eux-même ou
+module depuis la version 8.3 doivent désormais compiler tsearch2 par eux-mêmes ou
 de préférence utiliser les fonctions de recherche plein texte intégrées dans
 PostgreSQL 10.
 
