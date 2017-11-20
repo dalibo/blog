@@ -7,9 +7,6 @@ github_id: daamien
 tags: [postgresql, 10, upgrade, nouvelle, version, incompatibilités, MàJ, mise à jour]
 ---
 
-*Paris, le 20 novembre 2017*
-
-
 A chaque nouvelle version de PostgreSQL 10, des changements majeurs peuvent
 provoquer des incompatibilités avec les versions précédentes.
 
@@ -121,7 +118,7 @@ chiffres qui sera plus simple d'usage :
     une montée de version avec `pg_upgrade`. Un script est fourni pour le
    faire.
 
-  * Les fonctions retournant des ensembles (//set-returning functions//) sont
+  * Les fonctions retournant des ensembles (`set-returning functions`) sont
     désormais évaluées avant l'évaluation des expressions scalaires dans la
     liste des `SELECT`, comme si elles étaient placées dans une clause `LATERAL`
     `FROM`. Voir la section [37.4.8](https://docs.postgresql.fr/10/xfunc-sql.html#XFUNC-SQL-FUNCTIONS-RETURNING-SET)
@@ -135,7 +132,7 @@ chiffres qui sera plus simple d'usage :
     comme `NOT NULL`, le changement est maintenant propagé à toutes les tables
     filles également.
 
-  * Les triggers au niveau requête (//statement-level triggers//) ne peuvent
+  * Les triggers au niveau requête (`statement-level triggers`) ne peuvent
     plus être executés plus d'une fois par requête. Dans les versions
     précédentes des cas très particuliers impliquant des requêtes CTE mettant à jour
     la même table ou une requête CTE lancée par un trigger `BEFORE STATEMENT` ou
