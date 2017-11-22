@@ -143,7 +143,7 @@ chiffres qui sera plus simple d'usage :
 
 ## Arrêt du support de timestamps flottants
 
-Les timestamps flottants (//floating-point timestamps//) était activables via
+Les timestamps flottants (`floating-point timestamps`) était activables via
 une option de compilation spécifique et dans les faits ils semblaient très peu
 utilisés. Si vous faites partie des utilisateurs de cette option, il est
 impératif de faire une montée de version par sauvegarde/restauration (pas de
@@ -242,4 +242,4 @@ Augmentation de la taille par défaut des paramètres OpenSSL DH à 2048 bits.
   * Le format de sortie de la commande `\d` dans l'outil `psql` a été
     entièrement revu
   * Fin du support de la convention d'appel « version 0 » pour les fonctions en
-    C (voir : https://docs.postgresql.fr/10/xfunc-c.html)
+    C (voir : <https://docs.postgresql.fr/10/xfunc-c.html>)
