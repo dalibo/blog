@@ -11,7 +11,7 @@ La neuvième édition de notre PGSession c'est déroulée le vendredi 17 novembr
 
 <!--MORE-->
 
-Cette journée annuelle de conférence organisé par Dalibo fut un réel succès. Les sept conférences ont suscité beaucoup d'intéret de la part de l'auditoire, les conférences ont été très bien accueillit et les questions nombreuses.
+Cette journée annuelle de conférence organisée par Dalibo fut un réel succès. Les sept conférences ont suscité beaucoup d'intéret de la part de l'auditoire et les questions ont été nombreuses.
 
 Voici en image, un résumé de l'événement:
 
