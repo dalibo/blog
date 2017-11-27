@@ -26,7 +26,7 @@ Changelog :
 
 Vous pouvez retrouver le changelog en version anglophone sur le lien suivant: [release Github](https://github.com/OPMDG/check_pgactivity/releases/tag/REL2_3)
 
-Downloads
+Retrouvez ci-dessous l'ensemble des liens nécessaires pour utiliser, étudier et contribuer à `check_pgactivity`:
 
   * [check_pgactivity-2.3.tgz](https://github.com/OPMDG/check_pgactivity/releases/download/REL2_3/check_pgactivity-2.3.tgz)
   * [nagios-plugins-pgactivity-2.3-1.noarch.rpm](https://github.com/OPMDG/check_pgactivity/releases/download/REL2_3/nagios-plugins-pgactivity-2.3-1.noarch.rpm)
