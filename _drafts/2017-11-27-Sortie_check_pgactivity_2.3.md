@@ -4,7 +4,7 @@ title: Sortie de check_pgactivity versio 2.3
 author: Thomas Reiss, Léo Cossic
 twitter_id: dalibo 
 github_id: dalibo
-tags: [postgresql, check_pgactivity, release, sortie]
+tags: [postgresql, check_pgactivity, release, sortie, sonde, nagios, plugin]
 ---
 
 ---
@@ -24,7 +24,7 @@ Changelog :
     Correction de bug dans le service de backend_status
     Correction de plusieurs "issues"
 
-Vous pouvez retrouver le changelog en version anglophone sur le lien suivant: [release Github](https://github.com/OPMDG/check_pgactivity/releases/tag/REL2_3)
+Vous pouvez retrouver le changelog en **version anglophone** sur le lien suivant: [release Github](https://github.com/OPMDG/check_pgactivity/releases/tag/REL2_3)
 
 Retrouvez ci-dessous l'ensemble des liens nécessaires pour **utiliser, étudier et contribuer à `check_pgactivity`**:
 
