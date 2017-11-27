@@ -26,11 +26,16 @@ Changelog :
 
 Vous pouvez retrouver le changelog en **version anglophone** sur le lien suivant: [release Github](https://github.com/OPMDG/check_pgactivity/releases/tag/REL2_3)
 
+----
+
 Retrouvez ci-dessous l'ensemble des liens nécessaires pour **utiliser, étudier et contribuer à `check_pgactivity`**:
 
   * [check_pgactivity-2.3.tgz](https://github.com/OPMDG/check_pgactivity/releases/download/REL2_3/check_pgactivity-2.3.tgz)
   * [nagios-plugins-pgactivity-2.3-1.noarch.rpm](https://github.com/OPMDG/check_pgactivity/releases/download/REL2_3/nagios-plugins-pgactivity-2.3-1.noarch.rpm)
   * [Source code (zip)](https://github.com/OPMDG/check_pgactivity/archive/REL2_3.zip)
   * [Source code (tar.gz)](https://github.com/OPMDG/check_pgactivity/archive/REL2_3.tar.gz)
-    
+   
+   
+   
+Enfin, vous trouverez davantage de précision sur `check_pgactivity` en consultat l'article de Thomas Reiss, contributeur majeur de cet outil: [Supervision de PostgreSQL 10 avec check_pgactivity, par Thomas Reiss](http://blog.frosties.org/post/2017/10/11/Supervision-de-PostgreSQL-10-avec-check_pgactivity)
     
