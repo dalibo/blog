@@ -14,7 +14,7 @@ tags: [postgresql, check_pgactivity, release, sortie]
 
 <!--MORE-->
 
-**Important: notez que la sonde `check_pgactivity` intègre désormais le suport de la version 10 de PostgreSQL**
+**Important:** notez que la sonde `check_pgactivity` intègre désormais le suport de la version 10 de PostgreSQL
 
 Changelog :
 
