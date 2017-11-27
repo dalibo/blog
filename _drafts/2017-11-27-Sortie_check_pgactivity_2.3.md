@@ -18,7 +18,7 @@ tags: [postgresql, check_pgactivity, release, sortie, sonde, nagios, plugin]
 
 
 
-**Changelog :**
+**Nouveautés de cette version :**
 
     Ajout du support complet pour PostgreSQL version 10, incluant les fonctionnalités de monitoring non-priviligié
     Ajout de documentation pour aider les nouveaux contributeurs
