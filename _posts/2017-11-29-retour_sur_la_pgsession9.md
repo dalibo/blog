@@ -15,9 +15,6 @@ Cette journée fut un réel succès, les conférences ont suscité beaucoup d'in
 
 Voici en images, un petit aperçu de l'événement:
 
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO0ureJWkAAx439.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1P2mHWAAA18hs.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1-WFxWkAA5qiN.jpg" width="300" height="180" /> 
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1H0bGXUAEQGp7.jpg" width="300" height="180" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO05tEKX0AE8bzc.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1drwyXcAAyFk4.jpg" width="300" height="200" />
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1roeeXcAAN7Yq.jpg" width="300" height="180" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1yVKwXkAAbK2s.jpg" width="300" height="180" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO2LqMyXkAAnSqA.jpg" width="300" height="180" />
 
 Nous avons aussi eu la chance de voir les experts russes de la société [PostgresPro](https://postgrespro.com/) donner une conférence et une keynote, sur les contributions de leur entreprise à PostgreSQL. Cela a été l'occasion pour les participants de rencontrer certains des plus gros contributeurs au SGBDR PostgreSQL. 
 
