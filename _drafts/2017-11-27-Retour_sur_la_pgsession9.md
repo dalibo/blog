@@ -15,9 +15,9 @@ Cette journée annuelle de conférence organisée par Dalibo fut un réel succè
 
 Voici en image, un résumé de l'événement:
 
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO0ureJWkAAx439.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO05tEKX0AE8bzc.jpg" width="300" height="200" />
+<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO0ureJWkAAx439.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1P2mHWAAA18hs.jpg" width="300" height="200" />
 <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1-WFxWkAA5qiN.jpg" width="300" height="180" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1H0bGXUAEQGp7.jpg" width="300" height="180" />
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1P2mHWAAA18hs.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1drwyXcAAyFk4.jpg" width="300" height="200" />
+<img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO05tEKX0AE8bzc.jpg" width="300" height="200" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1drwyXcAAyFk4.jpg" width="300" height="200" />
 <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1roeeXcAAN7Yq.jpg" width="300" height="180" /> <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO1yVKwXkAAbK2s.jpg" width="300" height="180" />
 <img src="https://github.com/dalibo/blog/blob/gh-pages/img/DO2LqMyXkAAnSqA.jpg" width="300" height="180" />
 
