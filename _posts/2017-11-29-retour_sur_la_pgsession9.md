@@ -14,7 +14,7 @@ La neuvième édition de nos PGSessions s'est déroulée le vendredi 17 novembre
 Cette journée fut un réel succès, les conférences ont suscité beaucoup d'intéret de la part de l'auditoire et les questions ont été nombreuses.
 
 Voici en images, un petit aperçu de l'événement:
-
+![imagepgsession](https://github.com/dalibo/blog/blob/gh-pages/img/montage-photo-blog.png)
 
 Nous avons aussi eu la chance de voir les experts russes de la société [PostgresPro](https://postgrespro.com/) donner une conférence et une keynote, sur les contributions de leur entreprise à PostgreSQL. Cela a été l'occasion pour les participants de rencontrer certains des plus gros contributeurs au SGBDR PostgreSQL. 
 
