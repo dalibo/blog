@@ -22,3 +22,4 @@ A l'occasion de cette troisième édition du Paris OSS, Philippe Beaudoin, consu
 
 Vous pouvez télécharger le support de conférence grâce au lien ci-dessous, celle-ci est disponible sous licence CC0 (creative commons: pas de restriction) : 
 ![Philippe Beaudoin - NoSQL et PostgreSQL](https://github.com/dalibo/blog/blob/gh-pages/img/Quand_utiliser_les_fonctionnalit%C3%A9s_NoSQL_de_PostgreSQL.pdf)
+
