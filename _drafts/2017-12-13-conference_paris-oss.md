@@ -16,9 +16,9 @@ Les 6 & 7 décembre, Dalibo a participé au salon Paris OSS, événement majeur 
 
 <!--MORE-->
  
-Ce salon réunit plus de 150 exposants, entreprises ou associations pour deux jours de conférences et rencontres entre professionnels et militants du secteur. Ce salon est le fruit de la fusion de Solutions Linux et de l’Open World Forum, deux événements emblématiques du Libre et l’Open Source.
+Ce salon réunit plus de 150 exposants, entreprises ou associations pour deux jours de conférences et rencontres entre professionnels et militants du secteur. Ce salon est le fruit de la fusion de Solutions Linux et de l’Open World Forum, deux événements emblématiques du Libre et l’Open Source en France.
     
-A l'occasion de cette troisième édition du Paris OSS, Philippe Beaudoin, responsable avant-vente chez Daibo a donné une conférence sur "Quand utiliser les fonctionnalités NoSQL de PostgreSQL?". Une conférence très bien reçu par son auditoire et *insert something about the conf*
+A l'occasion de cette troisième édition du Paris OSS, Philippe Beaudoin, consultant avant-vente chez Dalibo a donné une conférence sur le thème "Quand utiliser les fonctionnalités NoSQL de PostgreSQL ?". Cette conférence, très bien reçue par son auditoire, a donné un aperçu des capacités, souvent peu connues, de PostgreSQL de gérer des données complexes et peu structurées.
 
 Vous pouvez télécharger le support de conférence grâce au lien ci-dessous, celle-ci est disponible sous licence CC0 (creative commons: pas re restriction) : 
 ![Philippe Beaudoin - NoSQL et PostgreSQL](https://github.com/dalibo/blog/blob/gh-pages/img/Quand_utiliser_les_fonctionnalit%C3%A9s_NoSQL_de_PostgreSQL.pdf)
