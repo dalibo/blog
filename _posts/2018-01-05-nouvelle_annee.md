@@ -28,10 +28,10 @@ En parallèle, Dalibo continuera tout au long de l'année à proposer des **work
 
 De plus, nous profitons de cette nouvelle année pour vous annoncer **la bonne résolution Dalibo : libérer les supports de ses workshops et formations** pour en faire profiter la communauté.
 
-En effet, nous avons décidé de rendre public l'ensemble de ces documents (présentations, exercices, etc) sur github, afin de favoriser l'adoption et la formation autour de PostgreSQL. 
-Bien évidemment, il est possible de contribuer à la correction et la diffusion de ces supports. Cette démarche est expliquée sur le page github des Workshops de Dalibo : https://github.com/dalibo/workshops.
+En effet, nous avons décidé de **rendre public** l'ensemble de ces documents (présentations, exercices, etc) sur github, afin de **favoriser l'adoption et la formation autour de PostgreSQL**. 
+Bien évidemment, il est possible de **contribuer** à la correction et la diffusion de ces supports. Cette démarche est expliquée sur le page github des Workshops de Dalibo : https://github.com/dalibo/workshops.
 
-Pour le moment seul le workshop est disponible, mais nous prévoyons aussi de diffuser nos supports de formation. Cette initiative sera annoncée en détail d'ici quelques semaines.
+Pour le moment seul le workshop est disponible, mais nous prévoyons aussi de diffuser nos **supports de formation**. Cette initiative sera annoncée en détail d'ici quelques semaines.
 
 Nous sommes heureux de travailler à vos côtés pour cette année 2018, et vous souhaitons de grandes réussites pour vos projets, autour de PostgreSQL et ailleurs.
 
