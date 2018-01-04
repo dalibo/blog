@@ -21,6 +21,7 @@ Voici une liste des **événements à ne pas rater** pour l'année **2018** :
   * PGDay France : à Marseille, date à venir
   * PGConf Europe : à Lisbonne : 23-26 octobre 
   * PGSession (10ème édition): à Paris, le 23 novembre
+
 ---
 
 En parallèle, Dalibo continuera tout au long de l'année à proposer des **workshops** pour présenter les différentes fonctionnalités des nouvelles versions de PostgreSQL. Les prochaines dates pour la version 10 sont : le 25 janvier (déjà complet) et le 12 avril.
