@@ -23,6 +23,6 @@ Vous trouverez une vidéo de présentation ainsi que l'ensemble des informations
 
 Vous pouvez également installer un environnement de test complet grâce à docker, en suivant le guide QUICKSTART détaillé.
 
-Pour une installation complète sur vos instances, suivez le Guide d'installation fournit: [http://temboard.readthedocs.io/en/latest/installation/](http://temboard.readthedocs.io/en/latest/installation/)
+Pour une installation complète sur vos instances, suivez le Guide d'installation fournit: [readthedocs](http://temboard.readthedocs.io/en/latest/installation/)
 
 `temBoard` est développé principalement par Julien Tachoires, Étienne Bersac et Pierre Giraud.
