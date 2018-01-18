@@ -10,7 +10,7 @@ tags: [temboard, opensource, postgresql, instances, administration, gestion, man
 ---
 *Paris, le 18 janvier 2018*
 
-`temBoard` est un outil de gestion puissant pour PostgreSQL. Ce dernier permet de centraliser la supervision et l'administration d'un parc d'instances PostgreSQL. Grâce à cet outil, gérez vos bases de données simplement et de manière centralisée.
+`temBoard` est un **outil de gestion puissant pour PostgreSQL**. Ce dernier permet de centraliser la **supervision et l'administration** d'un parc d'instances PostgreSQL. Grâce à cet outil, gérez vos bases de données simplement et de manière centralisée.
 
 <!--MORE-->
 
