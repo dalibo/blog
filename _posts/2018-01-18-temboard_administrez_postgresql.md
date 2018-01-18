@@ -21,7 +21,7 @@ L'outil est composé de 2 éléments distincts:
  
 Vous trouverez une vidéo de présentation ainsi que l'ensemble des informations concernant `temBoard` sur le site du projet : [http://temboard.io/](http://temboard.io/)
 
-Vous pouvez également installer un environnement de test complet grâce à docker, en suivant le guide QUICKSTART détaillé.
+Vous pouvez également installer un environnement de test complet grâce à docker, en suivant le guide [QUICKSTART](https://github.com/dalibo/temboard/blob/master/QUICKSTART.md) détaillé.
 
 Pour une installation complète sur vos instances, suivez le Guide d'installation fournit: [readthedocs](http://temboard.readthedocs.io/en/latest/installation/)
 
