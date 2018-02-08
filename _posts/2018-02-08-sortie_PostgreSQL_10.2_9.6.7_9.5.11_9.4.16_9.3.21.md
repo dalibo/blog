@@ -2,9 +2,9 @@
 layout: post
 title: Sortie de PostgreSQL 10.2, 9.6.7, 9.5.11, 9.4.16, 9.3.21
 author: Christophe Courtois
-twitter_id: Dalibo
-github_id: Dalibo
-tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 10.2]
+twitter_id: dalibo
+github_id: dalibo
+tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 10]
 ---
 
 ---
@@ -12,6 +12,9 @@ tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 10.2]
 *Paris, le 08 février 2018*
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de PostgreSQL, à savoir : 10.2, 9.6.7, 9.5.11, 9.4.16 et 9.3.21.
+
+<!--MORE-->
+
 Cette mise à jour inclut deux mises à jour de sécurité. Elle règle aussi des problèmes avec le VACUUM, les index GIN et hash pouvant mener à des corruptions de données, ainsi que des correctifs pour les requêtes parallélisées et la réplication logique.
 
 Il est conseillé à tous les utilisateurs de PostgreSQL d'appliquer cette mise à jour dès que possible. Voir les notes sur la "Mise à jour" plus bas pour les éventuelles étapes d'après-mise à jour.
