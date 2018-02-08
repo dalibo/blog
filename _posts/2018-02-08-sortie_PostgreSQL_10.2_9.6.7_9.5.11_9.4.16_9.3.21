@@ -69,7 +69,7 @@ Si votre installation est affectée par un des problèmes suivants, vous pouvez 
 
 * Les utilisateurs affectés par les problèmes sur les index hash et GIN devraient penser à les reconstuire ;
 * Les utilisateurs ayant recopié l'exemple de fonction INSTR de la documentation PostgreSQL devraient analyser leur code pour savoir s'il faut appliquer le correctif de l'exemple ;
-* Les index et vues matérialisées utilisant l'opérateur "~>" de la contrib "cube" devront être respectivement réindexées et rafraîchies. Ce changement casse la compatbilité avec les versions précédentes, testez donc tout code utilisant cet opérateur avant passage en production.
+* Les index et vues matérialisées utilisant l'opérateur "~>" de la contrib "cube" devront être respectivement réindexés et rafraîchies. Ce changement casse la compatbilité avec les versions précédentes, testez donc tout code utilisant cet opérateur avant passage en production.
 
 
 Les utilisateurs n'ayant pas appliqué une ou plusieurs des mises à jour précédentes peuvent avoir besoin d'appliquer d'autres étapes post-mise à jour ; voir les notes des versions précédentes pour les détails.
