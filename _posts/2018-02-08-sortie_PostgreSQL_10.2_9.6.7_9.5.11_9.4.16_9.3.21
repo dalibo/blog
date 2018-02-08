@@ -32,7 +32,7 @@ Cette mise à jour corrige plus de 60 bugs signalés ces derniers mois. Certains
 * Correction d'un crash et d'une potentielle révélation de mémoire de processus d'arrière-plan lors du traitement de clés de partition contenant plusieurs expressions
 * Correction d'une faille pouvant révéler des fichiers temporaires créés par pg_upgrade et contenant des mots de passe, en ne permettant pas à ces fichiers d'être lisibles par tous
 * Correction de cas où le VACUUM ne supprime pas des lignes mortes qui avaient été mises à jour alors qu'elles étaient verrouillées avec KEY SHARE, pouvant ainsi mener à de la corruption de données
-* Correction sur les index GIN pour prévenir le bloat, en s'assurant que la liste des insertions en attente est nettoyée par VACUUM
+* Correction sur les index GIN pour prévenir la fragmentation, en s'assurant que la liste des insertions en attente est nettoyée par VACUUM
 * Correction d'une potentielle corruption des index hash suite à des métapages ne pouvant être marquées "dirty"
 * Correction de plusieurs scénarios avec des requêtes parallélisées menant à de possibles arrêts brutaux, dont le cas d'un bitmap heap scan ne pouvant allouer de mémoire
 * Correction de plusieurs plantages dans les requêtes parallélisées, dont l'échec au démarrage d'un worker parallèle
@@ -45,7 +45,7 @@ Cette mise à jour corrige plus de 60 bugs signalés ces derniers mois. Certains
 * Correction pour les contraintes de partitionnement par liste pour les clés de partition de types booléen et tableau (array).
 * Correction de plan incorrects pour des requêtes UPDATE et DELETE lorsqu'une table a des tables filles à la
 fois par héritage normal et comme tables étrangères
-* Correction de résultats incorrects dans des cas impliquant GROUPING SETS et des sous-requêtes imbriquées 
+* Correction de résultats incorrects dans des cas impliquant GROUPING SETS et des sous-requêtes déplacées dans la requête principale 
 * Correction pour UNION/INTERSECT/EXCEPT sur zéro colonnes, par exemple "SELECT UNION SELECT;"
 * Plusieurs correctifs pour des sous-reqûetes au sein d'une sous-requête LATERAL
 * Plusieurs améliorations de l'estimation de la planification de requête
