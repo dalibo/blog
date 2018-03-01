@@ -12,6 +12,8 @@ tags: [opensource, postgresql, release, mineure, dalibo]
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de PostgreSQL, à savoir : 10.3, 9.6.8, 9.5.12, 9.4.17 et 9.3.22.
 
+<!--MORE-->
+
 Le but de cette version est de corriger la vulnérabilité CVE-2018-1058, qui décrit comment un utilisateur peut créer des objets du même nom dans différents schémas qui peuvent modifier le comportement des requêtes d'autres utilisateurs et provoquer un comportement inattendu ou malveillant, également connu sous le nom d'attaque « cheval de Troie ». Une grande partie de cette version est centrée sur de la documentation supplémentaire décrivant le problème et comment prendre des mesures pour atténuer l'impact sur les bases de données PostgreSQL.
 
 Nous encourageons fortement tous nos utilisateurs à consulter [A Guide to CVE-2018-1058: Protect Your Search Path](https://wiki.postgresql.org/wiki/A_Guide_to_CVE-2018-1058:_Protect_Your_Search) pour une explication détaillée du CVE-2018-1058 et pour savoir comment protéger vos installations PostgreSQL.
