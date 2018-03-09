@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publication de nos manuels de formations
+title: Publication des manuels de formations Dalibo !
 author: Léo Cossic, Damien Clochard
 twitter_id: dalibo
 github_id: dalibo
