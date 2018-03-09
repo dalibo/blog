@@ -17,6 +17,7 @@ En ce début d'année 2018, Dalibo a décidé de concrétiser l'une de ses bonne
 En effet, un des objectifs majeurs de la SCOP Dalibo est de favoriser l'adoption du SGBDR PostgreSQL par le plus grand nombre. Pour cela, nous pensons que des supports de formation de qualité doivent être accessibles facilement et gratuitement, afin que tous puissent se former à l'aide d'une documentation complète et à jour.
 
 ![manuels de formation](https://github.com/dalibo/blog/blob/gh-pages/img/DQ_7yIrXcAAT6g0.jpg)
+**Plus de 2000 pages de cours dédiés à PostgreSQL !**
 
 Les supports de formations seront disponibles au format PDF, EPUB sur le site web de Dalibo: [dalibo.com/formation](www.dalibo.com/formations), sous licence [Creative Commons](http://creativecommons.fr/) CC BY NC SA, ce qui signifie que les supports peuvent être utilisés et modifiés, à condition d'en citer l'auteur (Société Dalibo) et de les rediffuser selon les mêmes conditions (non commercial, licence identique).
 
