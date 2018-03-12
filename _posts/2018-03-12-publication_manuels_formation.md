@@ -20,7 +20,7 @@ En effet, un des objectifs majeurs de la SCOP Dalibo est de favoriser l'adoption
 
 **Plus de 2000 pages de cours dédiés à PostgreSQL !**
 
-Les supports de formations seront disponibles au format PDF, EPUB sur le site web de Dalibo: [dalibo.com](http://dalibo.com/formations), sous licence [Creative Commons](http://creativecommons.fr/) CC BY NC SA, ce qui signifie que les supports peuvent être utilisés et modifiés, à condition d'en citer l'auteur (Société Dalibo) et de les rediffuser selon les mêmes conditions (non commercial, licence identique).
+Les supports de formations seront disponibles au format PDF, EPUB sur le site web de Dalibo: [dalibo.com](http://dalibo.com/formations), sous licence [Creative Commons](http://creativecommons.fr/) CC BY NC SA, ce qui signifie que les supports peuvent être utilisés et modifiés, à condition d'en citer l'auteur (Société Dalibo) et de les rediffuser selon les mêmes conditions (non commercial, licence identique). Toutes les formations Dalibo sont concernée : les 5 formations Admin ainsi que les 5 formations du cursus Développement. Les formations SIG ne sont pas concernée car celles-ci sont dispensées par la société [Oslandia](http://oslandia.com/fr/home/).
 
 Nos formations comportent également beaucoup de "Travaux Pratiques", ce qui explique la présence d'exercices nécessitant parfois l'intervention d'un formateur.
 
