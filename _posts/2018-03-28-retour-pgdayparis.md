@@ -28,6 +28,7 @@ Elle nous a ensuite présenté la manière à laquelle sont validés les patchs 
 
 _Will Leinweber_, Ingénieur a Citus Data nous a présenté les bonnes pratiques d'utilisation des contraintes.
 Will nous a parlé de différents types de données pas souvent utilisé, mais qui sont pourtant très utiles tels uuid , macaddr, net et de contraintes très pratiques telles que **CHECK**, **PERCENT** et **EXCLUSION**
+
 La principale motivation pour bien préparer ces contraintes est de se dire que le type de données est la dernière ligne de défense de la base (**Datatype are last line of defense**).
 
 
@@ -38,9 +39,9 @@ Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulul
 Louise nous a expliqué l'importance de **comprendre pourquoi notre filtre est lent**.
 Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie.
 Les logs peuvent être trouvés via les commandes suivantes :
-<code>show log_directory
-show config_file </code>
-La fonction EXPLAIN renvoi le plan d’exécution choisi par le query planner
+  * <code>show log_directory
+  * show config_file </code>
+  * La fonction EXPLAIN renvoi le plan d’exécution choisi par le query planner
 
 
 
@@ -64,14 +65,14 @@ _Hannu Valtonner_, Co- fondateur de la société Aiven, nous à parler de la man
 Hannu nous a parlé des différences entre les moyens utilisés avant ( pg_dump tout les soirs, outils ETL...)
 et les possibilités aujourd'hui (Logical decoding, Réplication)
 Il nous a expliqué la manière de créer les réplications.
+
 Postgresql.conf :
-<code>
+  * <code>
 wal_level = logical
 max_rep_slots = 10
 max_sender = 10
 </code>
-
-<code>CREATE ROLE foo REPLICATION LOGIN</code>
+  * <code>CREATE ROLE foo REPLICATION LOGIN</code>
 
 
 
@@ -85,7 +86,9 @@ Il nous explique dans un premier temps les raisons du choix d'un conteneur :
 
 Il nous dévoile pourquoi Bla Bla Car a choisi Rkt (Rocket) au lieu de Docker.
 Un des principes suivi pour mettre en place tout cela :
+
 **Connais tes besoins**
+
 Prochaine étape : Docker ? Cloud ?
 
 
