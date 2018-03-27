@@ -67,12 +67,13 @@ et les possibilités aujourd'hui (Logical decoding, Réplication)
 Il nous a expliqué la manière de créer les réplications.
 
 Postgresql.conf :
-  * <code>
-wal_level = logical
-max_rep_slots = 10
-max_sender = 10
-</code>
-  * <code>CREATE ROLE foo REPLICATION LOGIN</code>
+  <code>
+  wal_level = logical
+  max_rep_slots = 10
+  max_sender = 10
+  </code>
+
+  <code>CREATE ROLE foo REPLICATION LOGIN</code>
 
 
 
@@ -85,9 +86,7 @@ Il nous explique dans un premier temps les raisons du choix d'un conteneur :
   * Rapidité de développement
 
 Il nous dévoile pourquoi Bla Bla Car a choisi Rkt (Rocket) au lieu de Docker.
-Un des principes suivi pour mettre en place tout cela :
-
-**Connais tes besoins**
+Un des principes suivi pour mettre en place tout cela : **Connais tes besoins**
 
 Prochaine étape : Docker ? Cloud ?
 
