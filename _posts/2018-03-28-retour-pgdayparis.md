@@ -39,8 +39,8 @@ Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulul
 Louise nous a expliqué l'importance de **comprendre pourquoi notre filtre est lent**.
 Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie.
 Les logs peuvent être trouvés via les commandes suivantes :
-  * <code> show log_directory
-  * show config_file </code>
+    * <code> show log_directory
+    * show config_file </code>
   * La fonction EXPLAIN renvoi le plan d’exécution choisi par le query planner
 
 
