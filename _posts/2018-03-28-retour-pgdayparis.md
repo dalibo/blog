@@ -11,7 +11,7 @@ tags: [opensource, postgresql, pgday, paris, 2018, conférences, france]
 *Paris, le 28 mars 2018*
 
 
-### 9h10 Titre de la conférence : De-mystifying contributing to PostgreSQL
+### 9h10 : De-mystifying contributing to PostgreSQL
 
 _Laetitia Avrot_, DBA PostgreSQL depuis dix ans chez Loxodata nous a animé une conférence sur la manière dont chacun peut contribuer au développement et à l’amélioration de PostgreSQL.
 Laetitia nous a d’abord présenté les différents acteurs de la communauté PostgreSQL :
@@ -24,7 +24,7 @@ Elle nous a ensuite présenté la manière à laquelle sont validés les patchs 
 
 
 
-### 10h15 Titre de la conférence : Constraints: a Developer's Secret Weapon
+### 10h15 : Constraints: a Developer's Secret Weapon
 
 _Will Leinweber_, Ingénieur a Citus Data nous a présenté les bonnes pratiques d'utilisation des contraintes.
 Will nous a parlé de différents types de données pas souvent utilisé, mais qui sont pourtant très utiles tels uuid , macaddr, net et de contraintes très pratiques telles que **CHECK**, **PERCENT** et **EXCLUSION**
@@ -32,7 +32,7 @@ La principale motivation pour bien préparer ces contraintes est de se dire que 
 
 
 
-### 11h10 Titre de la conférence : Being a better developer with Explain
+### 11h10 : Being a better developer with Explain
 
 Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulule, nous explique la manière dont nous pouvons optimiser nos requêtes.
 Louise nous a expliqué l'importance de **comprendre pourquoi notre filtre est lent**.
@@ -45,7 +45,7 @@ La fonction EXPLAIN renvoi le plan d’exécution choisi par le query planner
 
 
 
-### 13 h 15 Titre de la conférence : Triggers - Friends To Handle With Care =====
+### 13 h 15 : Triggers - Friends To Handle With Care
 
 _Charles Clavadetscher_, DBA Sénior chez KOF, nous a expliqué la manière dont fonctionne les TRIGGERS.
 Les Triggers sont un code procédural éxécuté en réponse a certains éventements.
@@ -58,7 +58,7 @@ Charles nous propose plusieurs recommandation a la création et l’utilisation 
 
 
 
-### 14 h 10 Titre de la conférence : Change Data Capture for a brave new world
+### 14 h 10 : Change Data Capture for a brave new world
 
 _Hannu Valtonner_, Co- fondateur de la société Aiven, nous à parler de la manière dont nous pouvons conserver une trace des changements dans les bases de données.
 Hannu nous a parlé des différences entre les moyens utilisés avant ( pg_dump tout les soirs, outils ETL...)
