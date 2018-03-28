@@ -12,7 +12,9 @@ tags: [opensource, postgresql, pgday, paris, 2018, conférences, france]
 
 Le pgDay Paris s'est déroulé le 16 mars dernier, dans le 3ème arrondissement de Paris. 
 <!--MORE-->
-Pour la quatrième édition de cet événement, les organisateurs nous ont proposé 7 conférences, ainsi qu'une session de "Lightning Talks" (micro ouvert - présentations éclairs). Cette édition fut une réussite, c'est pourquoi nous avons décidé de vous faire un court résumé des différentes conférences.
+Pour la quatrième édition de cet événement, les organisateurs nous ont proposé 7 conférences, ainsi qu'une session de "Lightning Talks" (micro ouvert - présentations éclairs).
+
+Cette édition fut une réussite, c'est pourquoi nous avons décidé de vous faire un court résumé des différentes conférences.
 
 ![photo](https://github.com/dalibo/blog/blob/gh-pages/img/DYULcEtX0AANMlv.jpg:large.jpg?raw=true)
 
@@ -67,11 +69,11 @@ Hannu nous a parlé des différences entre les moyens utilisés avant (pg_dump t
 Il nous a également expliqué la manière de créer les réplications.
 
 Postgresql.conf :
-   * wal_level = logical
-   * max_rep_slots = 10
-   * max_sender = 10
+   * `wal_level = logical`
+   * `max_rep_slots = 10`
+   * `max_sender = 10`
 
-   * <code>CREATE ROLE foo REPLICATION LOGIN</code>
+   * `CREATE ROLE foo REPLICATION LOGIN`
 
 
 
