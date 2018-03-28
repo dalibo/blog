@@ -107,4 +107,5 @@ Il nous a montré dans quels domaines seront orientés les nouvelles fonctionnal
   * Performances (Amélioration du parallélisme, Amélioration Partitionnement)
 
 
-Nous espérons que cet article vous aura encouragé à vous rendre à la prochaine édition du pgDay Paris. En attendant la prochaine édition, nous vous invitons à vous rendre au pdDay France 2018, qui aura lieu à Marseille, le 26 juin 2018.
+Nous espérons que cet article vous aura encouragé à vous rendre à la prochaine édition du pgDay Paris. 
+En attendant la prochaine édition, nous vous invitons à vous rendre au pdDay France 2018, qui aura lieu à Marseille, le 26 juin 2018.
