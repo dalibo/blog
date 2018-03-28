@@ -25,6 +25,7 @@ Laetitia nous a d’abord présenté les différents acteurs de la communauté P
   * La **Core Team**
   * Les **Commiters**
   * Les **développers et reviewers**
+
 Elle nous a présenté le fonctionnement du **Commitfest**, puis a enchainé sur la manière par laquelle sont validés les patchs PostgreSQL en prenant comme exemple sa propre contribution.
 
 
@@ -39,9 +40,9 @@ Il nous explique enfin que le type de données est la dernière ligne de défens
 
 ### 11h10 : Being a better developer with Explain
 
-Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulule, nous explique la manière dont nous pouvons optimiser nos requêtes.
-Louise nous a expliqué l'importance de : **comprendre pourquoi notre filtre est lent**.
-Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie.
+Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulule, nous explique la manière dont nous pouvons optimiser nos requêtes. 
+Louise nous a expliqué l'importance de : **comprendre pourquoi notre filtre est lent**. 
+Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie. 
 Les logs peuvent être trouvés via les commandes suivantes :
     * `show log_directory`
     * `show config_file`
