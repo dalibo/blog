@@ -12,6 +12,8 @@ tags: [opensource, postgresql, pgday, paris, 2018, conférences, france]
 
 Le pgDay Paris s'est déroulé le 16 mars dernier, dans le 3ème arrondissement de Paris. Pour la quatrième édition de cet événement, les organisateurs nous ont proposé 7 conférences, ainsi qu'une session de "Lightning Talks" (micro ouvert - présentations éclairs). Cette édition fut une réussite, c'est pourquoi nous avons décidé de vous faire un court résumé des différentes conférences.
 
+![photo](https://github.com/dalibo/blog/blob/gh-pages/img/DYULcEtX0AANMlv.jpg:large.jpg?raw=true)
+
 ### 9h10 : De-mystifying contributing to PostgreSQL
 
 _Laetitia Avrot_, DBA PostgreSQL depuis dix ans, aujourd'hui chez Loxodata, a animé une conférence traitant de la manière dont chacun peut contribuer au développement et à l’amélioration de PostgreSQL.
