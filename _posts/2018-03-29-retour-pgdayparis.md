@@ -41,8 +41,11 @@ Il nous explique enfin que le type de données est la dernière ligne de défens
 ### 11h10 : Being a better developer with Explain
 
 Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulule, nous explique la manière dont nous pouvons optimiser nos requêtes. 
+
 Louise nous a expliqué l'importance de : **comprendre pourquoi notre filtre est lent**. 
+
 Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie. 
+
 Les logs peuvent être trouvés via les commandes suivantes :
 
    * `show log_directory`
@@ -53,7 +56,9 @@ Les logs peuvent être trouvés via les commandes suivantes :
 ### 13 h 15 : Triggers - Friends To Handle With Care
 
 _Charles Clavadetscher_, DBA Sénior chez KOF, nous a expliqué la manière dont fonctionne les TRIGGERS.
-Les Triggers sont un code procédural éxécuté en réponse a certains éventements. Il est conseillé de donner explicitement a un utilisateur les permissions sur les TRIGGERS. La permission sur la modifcation des données alloue automatiquement la permisson sur les TRIGGERS.
+Les Triggers sont un code procédural éxécuté en réponse a certains éventements. Il est conseillé de donner explicitement a un utilisateur les permissions sur les TRIGGERS. 
+La permission sur la modifcation des données alloue automatiquement la permisson sur les TRIGGERS. 
+
 Charles nous propose plusieurs recommandation a la création et l’utilisation des TRIGGERS :
   *  En prendre particulièrement soin
   *  Effectuer un babkup avant la mise en production
@@ -92,7 +97,8 @@ Prochaine étape pour Bla Bla Car : Docker ? Cloud ?
 ### 16 h 10 Titre de la conférence : A look at the Elephants trunk - PostgreSQL 11
 
 Magnus Hagander est un membre de la Core Team de PostgreSQL et un commiter. Il est aussi président de PostgreSQL Europe.
-Lors de cette conférence, Magnus nous a donné des informations sur les nouveautés à prévoir dans PostgreSQL 11. Il nous a montré dans quels domaines seront orientés les nouvelles fonctionnalités de PostgreSQL11 :
+Lors de cette conférence, Magnus nous a donné des informations sur les nouveautés à prévoir dans PostgreSQL 11. 
+Il nous a montré dans quels domaines seront orientés les nouvelles fonctionnalités de PostgreSQL11 :
 
   * Administration DBA (WAL segment size configurable,
   * SQL (RANGE BETWEEN)
