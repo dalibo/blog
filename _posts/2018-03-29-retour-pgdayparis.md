@@ -41,9 +41,7 @@ Il nous explique enfin que le type de données est la dernière ligne de défens
 ### 11h10 : Being a better developer with Explain
 
 Au cours de cette conférence, _Louise Grandjonc_, développeur python chez Ulule, nous explique la manière dont nous pouvons optimiser nos requêtes. 
-
 Louise nous a expliqué l'importance de : **comprendre pourquoi notre filtre est lent**. 
-
 Elle nous à expliqué le fonctionnement des INDEX en le comparant avec une table des matières d'une encyclopédie. 
 
 Les logs peuvent être trouvés via les commandes suivantes :
@@ -70,7 +68,10 @@ Charles nous propose plusieurs recommandation a la création et l’utilisation 
 ### 14 h 10 : Change Data Capture for a brave new world
 
 _Hannu Valtonner_, Co-fondateur de la société Aiven, nous a parlé de la manière dont nous pouvons conserver une trace des changements dans les bases de données.
-Hannu nous a parlé des différences entre les moyens utilisés avant (pg_dump tout les soirs, outils ETL...) et les possibilités offertes par PostgreSQL aujourd'hui, telles que : le Logical decoding ou la Réplication.
+Hannu nous a parlé des différences entre les moyens utilisés avant (pg_dump tout les soirs, outils ETL...) et les possibilités offertes par PostgreSQL aujourd'hui, telles que : 
+   * le Logical decoding
+   * la Réplication.
+
 Il nous a également expliqué la manière de créer les réplications.
 
 Postgresql.conf :
