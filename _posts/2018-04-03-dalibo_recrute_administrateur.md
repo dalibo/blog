@@ -33,7 +33,7 @@ Impliqués dans le projet PostgreSQL depuis ces débuts, nous sommes engagés au
 
 Le poste de DBA pourra être exercé au choix dans nos locaux parisiens, et/ou en _remote_ (télé-travail). Nous organisons également des coworkings, ateliers et réunions régulièrement, à Paris ainsi que dans d'autres villes de France (Lyon et Nantes principalement, mais pas que).
  
- 
+ ---
  
 **Pour plus d’informations :** 
 Veuillez consulter la fiche de poste visible ici -> [fiche de poste](https://cloud.dalibo.com/p/fiche-de-poste.pdf)
