@@ -14,7 +14,7 @@ tags: [opensource, postgresql, recrutement, administrateur, base, données, cons
 
 <!--MORE-->
 
-En tant que **consultant(e) PostgreSQL**, vous intégrerez une équipe d'administrateurs de bases de données expérimentés, répartie sur l'ensemble du territoire français et belge. Aux côtés des équipes Dalibo, vous assurerez le service de support à distance, les audits et conseils en entreprises ainsi que l'animation des formations administration et développement autour de PostgreSQL.
+En tant que **consultant(e) PostgreSQL**, vous intégrerez une équipe d'administrateurs de bases de données expérimentés, répartie sur l'ensemble du territoire français et belge. Aux côtés des **équipes Dalibo**, vous assurerez le service de support à distance, les audits et conseils en entreprises ainsi que l'animation des formations administration et développement autour de PostgreSQL.
 
 ## À propos de nous :
 Dalibo est le spécialiste français de PostgreSQL. Composée d'une trentaine de salariés dont une majorité d'administrateurs de bases de données, la société propose un cursus de formation complet ainsi qu'une offre de support spécialement conçue pour s'adapter aux besoins des entreprises en matière de sécurité, performance et pérennité.
