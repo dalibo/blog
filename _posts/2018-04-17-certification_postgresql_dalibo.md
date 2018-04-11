@@ -21,8 +21,8 @@ Le **programme de certification** est composé de **deux niveaux** : Essential e
 
 La certification est adressée à toute personne exerçant ou souhaitant exercer une activité professionnelle impliquant PostgreSQL (Administrateurs ou consultants PostgreSQL), ou à toute entreprise souhaitant certifier les compétences de leur salariés sur PostgreSQL. Il s'agit donc de faire valider et reconnaître vos compétences par des experts du domaine, et ainsi d'obtenir une garantis qu'une entreprise ou un salarié à les compétences adéquats aux missions qui lui sont demandées autour de PostgreSQL.
 
-Les certifications Dalibo peuvent être préparées en autoformation grâce à nos manuels de formation disponibles en téléchargement sur https://dalibo.com/formations. Pour le moment, seule la certification “Dalibo Essential Postgres” est disponible. Nous attendrons de certifier suffisamment de “Dalibo Essential Professional” avant d'ouvrir des sessions d'examen pour la certification “Dalibo Advanced Postgres”.
+Les certifications Dalibo peuvent être préparées en autoformation grâce à nos manuels de formation disponibles en téléchargement sur https://dalibo.com/formations. Pour le moment, seule la certification “[Dalibo Essential Postgres](https://certification.dalibo.com/infos/essential/)” est disponible. Nous attendrons de certifier suffisamment de “Dalibo Essential Professional” avant d'ouvrir des sessions d'examen pour la certification “[Dalibo Advanced Postgres](https://certification.dalibo.com/infos/advanced/)”.
 
-Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : https://certification.dalibo.com
+Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : **https://certification.dalibo.com**
 
 **Les dates des premières sessions d'examen seront annoncée le XX mai 2018 !**
