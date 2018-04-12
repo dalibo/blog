@@ -31,5 +31,5 @@ Si les certifications Dalibo peuvent être préparées en autoformation grâce �
 ---
 Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : **https://certification.dalibo.com**
 
-**Les dates des premières sessions d'examen seront annoncées le XX mai 2018 !** </p>
+**Les dates des premières sessions d'examen seront annoncées prochainement !** </p>
 
