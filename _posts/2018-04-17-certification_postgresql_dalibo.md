@@ -11,7 +11,7 @@ tags: [opensource, postgresql, postgres, formations, formation, certification, c
 
 *Paris, le 17 avril 2018*
 
-Notre système de gestion de base de données préféré : PostgreSQL, voit sa popularité et son utilisation croître d'année en année. En 2017, il a également été élu SGBD de l'année par le site DB-Engines. Dans un tel cadre de croissance, **[Dalibo](https://www.dalibo.com) souhaite élargir l'offre de services autour des formations PostgreSQL**.
+Notre système de gestion de base de données préféré : PostgreSQL, voit sa popularité et son utilisation croître d'année en année. En 2017, il a également été élu SGBD de l'année par le site DB-Engines. Dans un tel cadre de croissance, ** [Dalibo](https://www.dalibo.com) souhaite élargir l'offre de services autour des formations PostgreSQL **.
 
 <!--MORE-->
 
@@ -30,3 +30,4 @@ Si les certifications Dalibo peuvent être préparées en autoformation grâce �
 Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : **https://certification.dalibo.com**
 
 **Les dates des premières sessions d'examen seront annoncées le XX mai 2018 !**
+
