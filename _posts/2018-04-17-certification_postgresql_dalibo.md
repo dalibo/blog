@@ -28,7 +28,7 @@ La certification s'adresse à toute personne exerçant ou souhaitant exercer une
 Si les certifications Dalibo peuvent être préparées en autoformation grâce à nos manuels de formation disponibles en téléchargement sur https://dalibo.com/formations, il est évidemment préférable de venir suivre les [formations](https://www.dalibo.com/formations) en présentiel. Pour le moment, seule la certification “[Dalibo Essential Postgres](https://certification.dalibo.com/infos/essential/)” est disponible. Nous attendrons de certifier suffisamment de “Dalibo Essential Professional” avant d'ouvrir des sessions d'examen pour la certification “[Dalibo Advanced Postgres](https://certification.dalibo.com/infos/advanced/)”.
 
 ---
-Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : **https://certification.dalibo.com**
+Nous vous invitons à consulter le Site web des certifications Dalibo pour en apprendre plus sur celles-ci : **[https://certification.dalibo.com](https://certification.dalibo.com)**
 
 **Les dates des premières sessions d'examen seront annoncées prochainement !**
 
