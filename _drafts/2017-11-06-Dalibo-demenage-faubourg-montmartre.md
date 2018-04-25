@@ -18,8 +18,8 @@ Aujourd'hui, ce sont les premières dates d'examen qui sont annoncées publiquem
 
 **Sans plus tardez, voici les premières dates d'examen :**
 
-   * Matinée Certification : Vendredi 15 juin (9h30-12h)
-   * Journée Workshop PostgreSQL 10 & Certification : Jeudi 21 juin (9h-17h)
+   * Matinée Certification : **Vendredi 15 juin** (9h30-12h)
+   * Journée Workshop PostgreSQL 10 & Certification : **Jeudi 21 juin** (9h-17h)
 
 ![Image-certif](https://github.com/dalibo/blog/blob/gh-pages/img/Certif_DALIBO.png)
 
