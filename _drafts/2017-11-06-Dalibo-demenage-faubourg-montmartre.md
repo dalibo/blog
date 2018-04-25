@@ -31,5 +31,5 @@ Pour information, le programme de certification Dalibo n’engage pas la communa
 
 
 
-[Image-certif](https://github.com/dalibo/blog/img/Certif DALIBO.png)
+[Image-certif](https://github.com/dalibo/blog/blob/gh-pages/img/Certif_DALIBO.png)
 
