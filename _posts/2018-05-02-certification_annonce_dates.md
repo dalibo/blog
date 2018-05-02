@@ -23,7 +23,7 @@ Les sessions d'examen se déroulent exclusivement dans nos locaux, au 43 rue du 
    * Matinée Certification : **Vendredi 15 juin** (9h30-12h)
    * Journée Workshop PostgreSQL 10 & Certification : **Jeudi 21 juin** (9h-17h)
 
-![Image-certif](https://github.com/dalibo/blog/blob/gh-pages/img/Certif_DALIBO.png)
+![Image-certif](https://github.com/dalibo/blog/blob/gh-pages/img/Certif_DALIBO.png?raw=true)
 
 La certification "[Dalibo Essential Postgres](https://certification.dalibo.com/infos/essential/)" couvre les programmes de formation [DBA1](https://dali.bo/dba1), [DBA2](https://dali.bo/dba2) et [SQL1](https://dali.bo/sql1). Nous vous invitons ainsi à vous préparer sérieusement au passage de cette certification en relisant nos manuels de formation ([accessibles sur notre site](https://dalibo.com/formations)).
 
