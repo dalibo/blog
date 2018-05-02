@@ -29,7 +29,7 @@ La certification "[Dalibo Essential Postgres](https://certification.dalibo.com/i
 
 Pour information, le programme de certification Dalibo n’engage pas la communauté PostgreSQL, ce dernier est un produit Dalibo.
 
-Pour plus d'informations sur le programme de certification Dalibo, veuillez consulter notre site dédié : [https://certification.dalibo.com](https://certification.dalibo.com), et enfin, pour vous inscrire, c'est ici : [certification@dalibo.com](certification@dalibo.com)
+Pour plus d'informations sur le programme de certification Dalibo, veuillez consulter notre site dédié : [certification.dalibo.com](https://certification.dalibo.com), et enfin, pour vous inscrire, c'est ici : [certification@dalibo.com](mailto:certification@dalibo.com)
 
 A bientôt,
 
