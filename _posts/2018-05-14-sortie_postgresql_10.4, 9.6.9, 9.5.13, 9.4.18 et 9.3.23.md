@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie de PostgreSQL 10.3, 9.6.8, 9.5.12, 9.4.17, 9.3.22
+title: Sortie de PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 et 9.3.23
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
