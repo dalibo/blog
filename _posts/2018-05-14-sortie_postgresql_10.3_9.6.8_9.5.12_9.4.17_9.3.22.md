@@ -66,6 +66,7 @@ Merci de voir également la note "Étapes après mise à jour pour le marquage d
 Les utilisateurs n'ayant pas appliqué une ou plusieurs des mises à jour précédentes peuvent avoir besoin d'appliquer d'autres étapes post-mise à jour ; voir les notes des versions précédentes pour les détails.
  
 **Étapes après mise à jour pour la CVE-2018-1115**
+
 Si vous avez installé "adminpack" sur une version 9.6 ou 10 de PostgreSQL, il sera nécessaire que l'administrateur de bases de données exécute la commande suivante sur toutes les bases de données dans lesquelles "adminpack" est installé :
  
    * ALTER EXTENSION adminpack UPDATE;
