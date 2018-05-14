@@ -95,7 +95,7 @@ Fonctions qui devraient être marquées "parallel-unsafe" :
    * ts_rewrite
    * ts_stat
  
-Si vous utilisez l'une des fonctions ci-dessus, vous pouvez mettre à jour le marquage en passant par l'une des méthodes suivantes :
+**Si vous utilisez l'une des fonctions ci-dessus, vous pouvez mettre à jour le marquage en passant par l'une des méthodes suivantes :**
  
 _Option 1 :_ Mettre à jour les marquages manuellement dans la table "pg_proc" de chaque base de données qui utilisent ces fonctions. Les commandes suivantes exécutées en tant que super-utilisateur permettent de réaliser cela :
    
