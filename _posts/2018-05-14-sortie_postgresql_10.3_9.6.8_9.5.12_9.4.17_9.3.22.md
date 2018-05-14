@@ -28,7 +28,7 @@ Merci de noter que PostgreSQL a changé son système de numérotation avec la so
 
 Une vulnérabilité a été corrigée par cette mise à jour :
 
-   * CVE-2018-1115 : Access Control List trop permissive sur la fonction "pg_logfile_rotate()"
+   * [CVE-2018-1115](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1115) : Access Control List trop permissive sur la fonction "pg_logfile_rotate()"
 
 Voir la section "Mise à jour" plus bas pour les étapes d'après mise à jour.
  
