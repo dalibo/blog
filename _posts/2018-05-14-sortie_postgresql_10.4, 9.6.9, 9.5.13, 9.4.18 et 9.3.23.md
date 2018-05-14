@@ -9,7 +9,7 @@ tags: [opensource, postgresql, postgres, release, maj, dalibo]
 
 ---
 
-*Paris, le 15 mai 2018*
+*Paris, le 14 mai 2018*
 
 
 
