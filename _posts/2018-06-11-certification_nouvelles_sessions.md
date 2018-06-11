@@ -28,6 +28,6 @@ Retrouvez sur le site de notre [programme de certification](https://certificatio
    * Vendredi 16 novembre (matinée)
    * Vendredi 7 décembre (après-midi)
 
-Seules 8 places sont disponible par session d'examen, nous vous invitons donc à **prendre des renseignements** ou à **vous inscrire rapidement** en nous contactant à l'adresse :  [certification@dalibo.com](mailto:certification@dalibo.com)
+Seules 8 places sont disponibles par session d'examen, nous vous invitons donc à **prendre des renseignements** ou à **vous inscrire rapidement** en nous contactant à l'adresse :  [certification@dalibo.com](mailto:certification@dalibo.com)
 
 Vous retrouverez l'ensemble des informations nécessaires à la préparation et l'organisation de votre session d'examen sur la page suivante: [infos pratiques](https://certification.dalibo.com/infos/).
