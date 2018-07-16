@@ -11,15 +11,16 @@ tags: [opensource, postgresql, postgres, gerance, scop, dalibo, libre, autogesti
 
 *Paris, le 16 juillet 2018*
 
-Virginie Jourdan, jusqu'alors responsable de la communication, prends les rennes en tant que co-gérante de Dalibo aux côté de Jean-Paul Argudo, gérant historique de la société, devenue SCOP en 2011.
+Virginie Jourdan, jusqu'alors responsable de la communication de Dalibo, devient cogérante de Dalibo aux côtés de Jean-Paul Argudo, gérant historique de la société, devenue SCOP en 2011.
 
 <!--MORE-->
 
-Étant responsable des relations internes et externes de Dalibo, Virginie joue un rôle essentiel dans l'organisation de la vie de la société. En effet, en interne elle s’assure du bien être et de la culture d’entreprise, organisant les différents événements rythmant la vie et le travail chez Dalibo. En externe, elle s'occupe de la coordination des formations, conférences et workshops. Investie dans de nombreux événements de la communauté PostgreSQL et du logiciel libre en général (PG Conf Europe, FOSDEM, PG Day et le FOSS4G.fr par exemple), Virginie partage avec sincérité les valeurs chères et propres à Dalibo et à l'open source. 
-Virginie a prouvé années après années avoir toutes les qualités managériales et humaines pour prendre en main une partie de la gestion de la société.
+Étant responsable des relations internes et externes de Dalibo, Virginie joue un rôle essentiel dans l'organisation de la vie de la société. En interne, elle s’assure du bien être et de la culture d’entreprise, organisant les différents événements rythmant la vie et le travail chez Dalibo. En externe, elle s'occupe de la coordination des formations, conférences et *workshops*. Investie dans de nombreux événements de la communauté PostgreSQL et du Logiciel Libre en général (PostgreSQL Conference Europe, FOSDEM, PG Day et le FOSS4G.fr par exemple), Virginie partage avec sincérité les valeurs chères et propres à Dalibo et à l'Open Source.
 
-Il est donc aujourd'hui question de rendre cette bonne nouvelle officielle, et de le célébrer tous ensemble. En tant que co-gérante, Virginie Jourdan sera en charge de ....
+Virginie a démontré, année après année, toutes les qualités managériales et humaines requises pour assurer une partie de la gestion de la société aux côtés de Jean-Paul.
 
-Damien Clochard, le précédent co-gérant de Dalibo, transmet ses pouvoirs et devoirs à Virginie Jourdan avec beaucoup de joie et d'émotions, il a écrit un article à ce sujet sur son blog personnel: lien
+Il est donc aujourd'hui question de rendre cette bonne nouvelle officielle, et de la célébrer tous ensemble. En tant que cogérante, Virginie Jourdan assure désormais la Direction des Ressources Humaines, et reste en charge de la communication et de l'organisation du travail.
 
-Nous souhaitons à Virginie les plus grandes réussite en tant que co-gérante la SCOP, et avons hâte de la voir s'épanouir dans sa nouvelle position.
+Damien Clochard, le précédent cogérant de Dalibo, transmet ses pouvoirs et devoirs à Virginie Jourdan avec beaucoup de joie et d'émotion, il a écrit un article à ce sujet sur son blog personnel: lien
+
+Nous souhaitons à Virginie la plus grande réussite en tant que cogérante la SCOP. Nous avons tous hâte de la voir s'épanouir dans ses nouvelles missions.
