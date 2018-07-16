@@ -11,7 +11,7 @@ tags: [opensource, postgresql, postgres, gerance, scop, dalibo, libre, autogesti
 
 *Paris, le 16 juillet 2018*
 
-Virginie Jourdan, jusqu'alors responsable de la communication chez Dalibo, prends les rennes en tant que co-gérante aux côté de Jean-Paul Argudo, gérant historique de la société, devenue SCOP en 2011.
+Virginie Jourdan, jusqu'alors responsable de la communication, prends les rennes en tant que co-gérante de Dalibo aux côté de Jean-Paul Argudo, gérant historique de la société, devenue SCOP en 2011.
 
 <!--MORE-->
 
