@@ -23,4 +23,4 @@ Il est donc aujourd'hui question de rendre cette bonne nouvelle officielle, et d
 
 Damien Clochard, le précédent cogérant de Dalibo, transmet ses pouvoirs et devoirs à Virginie Jourdan avec beaucoup de joie et d'émotion, il a écrit un article à ce sujet sur son blog personnel : [Article Damien Clochard](https://dali.bo/damien_transmission) 
 
-Nous souhaitons à Virginie la plus grande réussite en tant que cogérante la SCOP. Nous avons tous hâte de la voir s'épanouir dans ses nouvelles missions.
+Nous souhaitons à Virginie la plus grande réussite en tant que cogérante de la SCOP. Nous avons tous hâte de la voir s'épanouir dans ses nouvelles missions.
