@@ -31,9 +31,10 @@ Merci de noter que PostgreSQL a changé son système de numérotation avec la so
 Deux vulnérabilités ont été corrigées par cette mise à jour :
 
   * [CVE-2018-10915](https://access.redhat.com/security/cve/CVE-2018-10915) : Certains paramètres des connexions clients mettent à mal les défenses de sécurité côté client.
-libpq est l'API de connexion cliente pour PostgreSQL. Elle est également utilisée par d'autres librairies pour gérer les connexions. libpq comportait un problème de sécurité : toutes ses variables d'état de la connexion n'étaient pas réinitialisées lorsqu'une tentative de reconnexion était effectuée. En particulier, la variable d'état qui déterminait si oui ou non un mot de passe devait être demandé pour une connexion n'était pas réinitialisée. Cela pouvait permettre aux utilisateurs de fonctionnalités utilisant la libpq, telles les extensions [dblink]-https://www.postgresql.org/docs/current/static/dblink.html) ou [postgres_fdw](https://www.postgresql.org/docs/current/static/postgres-fdw.html), de se connecter à des serveurs auxquels ils n'auraient pas dûs avoir accès.
+libpq est l'API de connexion cliente pour PostgreSQL. Elle est également utilisée par d'autres librairies pour gérer les connexions. libpq comportait un problème de sécurité : toutes ses variables d'état de la connexion n'étaient pas réinitialisées lorsqu'une tentative de reconnexion était effectuée. En particulier, la variable d'état qui déterminait si oui ou non un mot de passe devait être demandé pour une connexion n'était pas réinitialisée. Cela pouvait permettre aux utilisateurs de fonctionnalités utilisant la libpq, telles les extensions [dblink](https://www.postgresql.org/docs/current/static/dblink.html) ou [postgres_fdw](https://www.postgresql.org/docs/current/static/postgres-fdw.html), de se connecter à des serveurs auxquels ils n'auraient pas dûs avoir accès.
 
 Vous pouvez vérifier si votre base de données a l'une ou l'autre de ces extensions installées en lançant la commande suivante à partir de votre terminal PostgreSQL (psql) :
+
 ```sql
 \dx dblink|postgres_fdw
 ```
