@@ -15,7 +15,7 @@ Virginie Jourdan, jusqu'alors responsable de la communication de Dalibo, devient
 
 <!--MORE-->
 
-Étant responsable des relations internes et externes de Dalibo, Virginie joue un rôle essentiel dans l'organisation de la vie de la société. En interne, elle s’assure du bien être et de la culture d’entreprise, organisant les différents événements rythmant la vie et le travail chez Dalibo. En externe, elle s'occupe de la coordination des formations, conférences et *workshops*. Investie dans de nombreux événements de la communauté PostgreSQL et du Logiciel Libre en général (PostgreSQL Conference Europe, FOSDEM, PG Day et le FOSS4G.fr par exemple), Virginie partage avec sincérité les valeurs chères et propres à Dalibo et à l'Open Source.
+Étant responsable des relations internes et externes de Dalibo, Virginie  joue un rôle essentiel dans l’organisation de la vie de la société. En  interne, elle s’assure du bien être et de la culture d’entreprise,  organisant les différents événements rythmant la vie et le travail chez  Dalibo. En externe, elle participe aussi à l'organisation des conférences et workshops. Investie dans de nombreux événements  de la communauté PostgreSQL et du Logiciel Libre en général (PostgreSQL  Conference Europe, FOSDEM et le FOSS4G.fr par exemple), Virginie  partage avec sincérité les valeurs chères et propres à Dalibo et à  l’Open Source.
 
 Virginie a démontré, année après année, toutes les qualités managériales et humaines requises pour assurer une partie de la gestion de la société aux côtés de Jean-Paul.
 
