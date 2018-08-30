@@ -28,7 +28,11 @@ Les thèmes des workshops seront dévoilés dans deux semaines, ainsi que le pro
 
 ### Le 22 novembre 2018, chez Mozilla Paris, Paris 9ème
 Une journée de conférences, couronnée par une table ronde impliquant différents acteurs de la communauté PostgreSQL et PostGIS. 
-Cette année, nous aurons l'honneur d'accueillir trois développeurs de la communauté PostgreSQL, à l'origine d'outils tels que patroni, postgres-operator ou encore pg_view.
+Cette année, nous aurons l'honneur d'accueillir trois développeurs de la communauté PostgreSQL : 
+   * Alexander Kukushkin
+   * Jan Mussler
+   * Oleksii Kliukin
+Ces développeurs sont à l'origine d'outils tels que patroni, postgres-operator, PGObserver ou encore pg_view.
 L'ensemble de la journée sera filmée et rediffusée en live sur nos [réseaux sociaux](https://twitter.com/dalibo) et sur notre [chaîne Youtube](https://www.youtube.com/c/dalibo/), ce qui permettra à davantage de personne d'assister aux conférences et à la table ronde. 
 
 L'appel à conférenciers (Call For Paper) sera ouvert à partir du mardi 4 septembre, jusqu'au vendredi 5 octobre.
