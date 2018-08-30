@@ -13,10 +13,9 @@ tags: [dalibo, postgresql, sessions, session, pgsession, 10, event, événement,
 
 Pour sa dixième édition, la PostgreSQL Session grandit et change de format !
 
-Pour célébrer son dixième anniversaire, Dalibo et Oslandia offrent à la PostgreSQL Session une nouvelle allure ! Cette année, la PGSession se déroulera sur deux jours et alliera Workshops, conférences et table ronde.
-
-
 <!--MORE-->
+
+Cette année, organisée par Dalibo et Oslandia, la PGSession se déroulera sur deux jours et alliera Workshops, conférences et table ronde.
 
 Les 21 et 22 novembre prochain se déroulera la PGSession 10, à Paris. Divisé en deux parties, le nouveau format prendra la forme suivante.
 
