@@ -22,7 +22,8 @@ Les 21 et 22 novembre prochain se déroulera la PGSession 10, à Paris. Divisé 
 ### Le 21 novembre 2018, à l'espace La Rochefoucauld, Paris 9ème 
 Une journée workshops, vous permettant de participer à deux workshop, sur des thèmes variés granvitant autour de PostgreSQL et PostGIS.
 Les places pour la journée entière seront tarifée à 80€ TTC, comprenant également le déjeuner ainsi que les pauses cafés/en-cas.
-Les thèmes des workshops seront dévoilés dans deux semaines. Les inscriptions ne sont pas encore ouverte.
+Les thèmes des workshops seront dévoilés dans deux semaines, ainsi que le programme complet de la journée. 
+**Les inscriptions ne sont pas encore ouverte.**
 
 
 ### Le 22 novembre 2018, chez Mozilla Paris, Paris 9ème
@@ -30,3 +31,4 @@ Une journée de conférences, couronnée par une table ronde impliquant différe
 Cette année, nous aurons l'honneur d'accueillir trois développeurs de la communauté PostgreSQL, à l'origine d'outils tels que patroni, postgres-operator ou encore pg_view.
 L'ensemble de la journée sera filmée et rediffusée en live sur nos [réseaux sociaux](https://twitter.com/dalibo) et sur notre [chaîne Youtube](https://www.youtube.com/c/dalibo/), ce qui permettra à davantage de personne d'assister aux conférences et à la table ronde. 
 
+L'appel à conférenciers (Call For Paper) sera ouvert à partir du mardi 4 septembre, jusqu'au vendredi 5 octobre.
