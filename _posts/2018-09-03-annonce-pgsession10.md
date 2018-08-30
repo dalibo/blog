@@ -33,6 +33,7 @@ Cette année, nous aurons l'honneur d'accueillir trois développeurs de la commu
    * Jan Mussler
    * Oleksii Kliukin
 Ces développeurs sont à l'origine d'outils tels que patroni, postgres-operator, PGObserver ou encore pg_view.
+
 L'ensemble de la journée sera filmée et rediffusée en live sur nos [réseaux sociaux](https://twitter.com/dalibo) et sur notre [chaîne Youtube](https://www.youtube.com/c/dalibo/), ce qui permettra à davantage de personne d'assister aux conférences et à la table ronde. 
 
 L'appel à conférenciers (Call For Paper) sera ouvert à partir du mardi 4 septembre, jusqu'au vendredi 5 octobre.
