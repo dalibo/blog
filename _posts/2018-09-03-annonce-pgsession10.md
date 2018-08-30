@@ -29,9 +29,9 @@ Les thèmes des workshops seront dévoilés dans deux semaines, ainsi que le pro
 ### Le 22 novembre 2018, chez Mozilla Paris, Paris 9ème
 Une journée de conférences, couronnée par une table ronde impliquant différents acteurs de la communauté PostgreSQL et PostGIS. 
 Cette année, nous aurons l'honneur d'accueillir trois développeurs de la communauté PostgreSQL : 
-   * Alexander Kukushkin
-   * Jan Mussler
-   * Oleksii Kliukin
+   * [Alexander Kukushkin](https://github.com/CyberDem0n)
+   * [Jan Mussler](https://github.com/Jan-M)
+   * [Oleksii Kliukin](https://github.com/alexeyklyukin)
 
 Ces développeurs sont à l'origine d'outils tels que patroni, postgres-operator, PGObserver ou encore pg_view.
 
