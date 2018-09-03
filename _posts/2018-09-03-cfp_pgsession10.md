@@ -23,13 +23,12 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
 
 | **Pour PostgreSQL** | **Pour PostGIS / QGIS** |
 |---|---|
-| Nouveautés de PostgreSQL | Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences |
-| Retour d'expérience | Utilisations avancées de PostGIS |
+| Nouveautés de PostgreSQL | Cas d'application concrets de PostGIS (et QGIS éventuellement) |
+| Retour d'expérience |  |
 | Migration vers PostgreSQL | Traitement de données spatiales à forte volumétrie |
 | Optimisations | Couplage de PostGIS avec d'autres outils et extensions |
-| Sauvegarde et Restauration |  |
+| Sauvegarde et Restauration | Utilisations avancées de PostGIS |
 | Haute-Disponibilité |  |
-| Entrepôts de données / Big Data |  |
 
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
@@ -45,7 +44,7 @@ Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-
   * Demandes spécifiques
 
 
-Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-SA 3.0 ou compatible. Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalibo, puis rediffusée après la Session. En envoyant une proposition, vous acceptez d’être enregistré et renoncez à tout droit de compensation pour cela. 
+Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-SA 3.0 ou compatible. Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalibo, puis rediffusée après la Session. En envoyant une proposition, vous acceptez d’être enregistré et renoncez à tout droit de compensation pour cela.
 
 
 **À propos des PostgreSQL Sessions :**
