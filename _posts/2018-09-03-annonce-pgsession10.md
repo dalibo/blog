@@ -22,7 +22,7 @@ Cette année, organisée par Dalibo et Oslandia, la PGSession se déroulera sur 
 Les 21 et 22 novembre prochain se déroulera la PGSession 10, à Paris. Divisé en deux parties, le nouveau format prendra la forme suivante.
 
 ### Le 21 novembre 2018, à l'espace La Rochefoucauld, Paris 9ème 
-Une journée workshops, vous permettant de participer à deux workshop, sur des thèmes variés granvitant autour de PostgreSQL et PostGIS.
+Une journée workshops, vous permettant de participer à deux workshops, sur des thèmes variés gravitant autour de PostgreSQL et PostGIS.
 Les places pour la journée entière seront tarifée à 80€ TTC, comprenant également le déjeuner ainsi que les pauses cafés/en-cas.
 Les thèmes des workshops seront dévoilés dans deux semaines, ainsi que le programme complet de la journée. 
 **Les inscriptions ne sont pas encore ouverte.**
