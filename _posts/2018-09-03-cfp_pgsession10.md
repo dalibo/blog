@@ -24,10 +24,10 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
 | **Pour PostgreSQL** | **Pour PostGIS / QGIS** |
 |---|---|
 | Nouveautés de PostgreSQL | Cas d'application concrets de PostGIS (et QGIS éventuellement) |
-| Retour d'expérience |  |
+| Retour d'expérience | Utilisations avancées de PostGIS |
 | Migration vers PostgreSQL | Traitement de données spatiales à forte volumétrie |
 | Optimisations | Couplage de PostGIS avec d'autres outils et extensions |
-| Sauvegarde et Restauration | Utilisations avancées de PostGIS |
+| Sauvegarde et Restauration |  |
 | Haute-Disponibilité |  |
 
 
