@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annonce PGSession 10 - Call for Paper
+title: Annonce PGSession 10 - Call for Papers
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
