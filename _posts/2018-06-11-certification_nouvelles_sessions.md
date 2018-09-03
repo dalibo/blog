@@ -16,14 +16,10 @@ La certification Dalibo annonce déjà sa rentrée ! Afin de vous permettre **d'
 
 <!--MORE-->
 
-Retrouvez sur le site de notre [programme de certification](https://certification.dalibo.com/infos/essential/) l'ensemble des créneaux de "Demi-journée de certification" et de "Journée Workshop + Certification" agendés dans nos locaux parisiens, pour les mois de septembre à décembre 2018 :
-
-**Journées Workshop PostgreSQL 10 & Certification, de 9h à 17h :**
-   * Jeudi 20 septembre
-   * Jeudi 4 octobre
+Retrouvez sur le site de notre [programme de certification](https://certification.dalibo.com/infos/essential/) l'ensemble des créneaux agendés, dans nos locaux parisiens, pour les mois de septembre à décembre 2018 :
 
 **Examens Certification, de 9h30 à 12h ou 14h à 16h30 :**
-   * Vendredi 14 septembre (matinée)
+
    * Vendredi 12 octobre (après-midi)
    * Vendredi 16 novembre (matinée)
    * Vendredi 7 décembre (après-midi)
