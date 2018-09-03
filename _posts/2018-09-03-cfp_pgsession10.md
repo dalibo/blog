@@ -15,9 +15,9 @@ Pour sa dixième édition, la PostgreSQL Session grandit et change de format !
 
 <!--MORE-->
 
-Pour la dixième édition de la PostgreSQL Session, nous avons décidé de marquer le coup, en proposant un événement plus ambitieux. Organisée en partenariat avec Oslandia, la PGSession 10 se déroulera cette année sur deux jours, les 21 et 22 novembre prochains. Une journée de Workshops scindée en 4 slots d'ateliers, puis une journée de conférence, couronnée par une table ronde impliquant différents acteurs des communautés PostgreSQL et PostGIS. Ces deux journées seront axées autours de PostgreSQL et PostGIS. 
+Pour la dixième édition de la PostgreSQL Session, nous avons décidé de marquer le coup, en proposant un événement plus ambitieux. Consultez notre [article concernant ce nouveau format](https://dali.bo/pgsession-annonce).
 
-En ce qui concerne la conférence du 22 novembre, elle se déroulera cette année dans les locaux de Mozilla, à Paris (Grands Boulevards), de 9h à 17h30. Nous lançons donc un appel à conférenciers, et vous remercions de nous envoyer vos propositions d'intervention. Chaque intervention doit durer 30 minutes (en comptant les éventuelles questions). 
+La journée de conférences du 22 novembre se déroulera dans les locaux de Mozilla, à Paris (Grands Boulevards), de 9h à 17h00. Nous lançons donc un appel à conférenciers, et vous remercions de nous envoyer vos propositions d'intervention. Chaque intervention doit durer 30 minutes (en comptant les éventuelles questions). 
 
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive): 
 
@@ -30,7 +30,6 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
   * Haute-Disponibilité
   * Entrepôts de données / Big Data
 
-
 **Pour PostGIS / QGIS :**
   * Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences
   * Utilisations avancées de PostGIS
@@ -40,26 +39,25 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
 
-Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en précisant les informations suivantes : 
+Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en **précisant les informations suivantes** :
 
-   * Nom et Prénom
-   * Compte twitter (le cas échéant)
-   * Société
-   * Biographie et contributions à la communauté PostgreSQL
-   * Titre de la conférence
-   * Résumé
-   * Demandes spécifiques
+  * Nom et Prénom
+  * Compte twitter (le cas échéant)
+  * Société
+  * Biographie et contributions à la communauté PostgreSQL
+  * Titre de la conférence
+  * Résumé
+  * Demandes spécifiques
 
 
 Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-SA 3.0 ou compatible. Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalibo, puis rediffusée après la Session. En envoyant une proposition, vous acceptez d’être enregistré et renoncez à tout droit de compensation pour cela. 
 
-Les speakers sélectionnés ne résidant pas en France se verront rembourser une nuit d’hôtel et leurs frais de transport.
-Dans l'attente de vos propositions, nous vous donnons rendez-vous à Paris en Novembre ! 
 
-**À propos des PostgreSQL Sessions**
-La PGSession est un événement organisé par Dalibo et Oslandia. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer les communautés PostgreSQL et PostGIS. Chaque session est une journée composée de conférences, organisée autour d'un thème précis et d'un invité de marque. Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet, Directeurs informatique,… 
-**À propos de Dalibo**
-Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de ses clients son savoir-faire dans le domaine des bases de données. La société propose ses services aux entreprises et aux institutionnels : formation PostgreSQL, hébergement, migration Oracle vers PostgreSQL, développements, audit de performance et support PostgreSQL. 
-**À propos d'Oslandia**
+**À propos des PostgreSQL Sessions :**
+La PGSession est un événement organisé par Dalibo et Oslandia. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer les communautés PostgreSQL et PostGIS. Chaque session est une journée composée de conférences, organisée autour d'un thème précis et d'un invité de marque. Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet, Directeurs informatique,…
+
+**À propos de [Dalibo](https://dalibo.com/) :**
+Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de ses clients son savoir-faire dans le domaine des bases de données. La société propose ses services aux entreprises et aux institutionnels : formation PostgreSQL, hébergement, migration Oracle vers PostgreSQL, développements, audit de performance et support PostgreSQL.
+
+**À propos d'[Oslandia](https://oslandia.com/fr/home/) :**
 Oslandia est une société innovante spécialisée en Systèmes d'informations géographiques Open Source. Elle fournit des prestations de service autour des logiciels Open Source dont ils sont éditeurs ou experts reconnus. Les trois pôles SIG, 3D et DATA leur permettent de traiter des sujets larges autour de la donnée géoréférencée. Oslandia est fortement impliquée dans les communautés Open Source, notamment PostGIS et QGIS, et propose à ses clients le meilleur du service Open Source : conseil, développement, formation, assistance, support.
-
