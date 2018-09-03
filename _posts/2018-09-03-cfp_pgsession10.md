@@ -21,20 +21,15 @@ La journée de conférences du 22 novembre se déroulera dans les locaux de Mozi
 
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive): 
 
-**Pour PostgreSQL :**
-  * Nouveautés de PostgreSQL
-  * Retour d'expérience
-  * Migration vers PostgreSQL
-  * Optimisations
-  * Sauvegarde et Restauration
-  * Haute-Disponibilité
-  * Entrepôts de données / Big Data
-
-**Pour PostGIS / QGIS :**
-  * Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences
-  * Utilisations avancées de PostGIS
-  * Traitement de données spatiales à forte volumétrie
-  * Couplage de PostGIS avec d'autres outils et extensions
+| **Pour PostgreSQL** | **Pour PostGIS / QGIS** |
+|---|---|
+| Nouveautés de PostgreSQL | Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences |
+| Retour d'expérience | Utilisations avancées de PostGIS |
+| Migration vers PostgreSQL | Traitement de données spatiales à forte volumétrie |
+| Optimisations | Couplage de PostGIS avec d'autres outils et extensions |
+| Sauvegarde et Restauration |  |
+| Haute-Disponibilité |  |
+| Entrepôts de données / Big Data |  |
 
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
