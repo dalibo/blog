@@ -22,32 +22,33 @@ En ce qui concerne la conférence du 22 novembre, elle se déroulera cette anné
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive): 
 
 **Pour PostgreSQL :**
-    * Nouveautés de PostgreSQL
-    * Retour d'expérience
-    * Migration vers PostgreSQL
-    * Optimisations
-    * Sauvegarde et Restauration
-    * Haute-Disponibilité
-    * Entrepôts de données / Big Data
+  * Nouveautés de PostgreSQL
+  * Retour d'expérience
+  * Migration vers PostgreSQL
+  * Optimisations
+  * Sauvegarde et Restauration
+  * Haute-Disponibilité
+  * Entrepôts de données / Big Data
 
 
 **Pour PostGIS / QGIS :**
-   * Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences
-   * Utilisations avancées de PostGIS
-   * Traitement de données spatiales à forte volumétrie
-   * Couplage de PostGIS avec d'autres outils et extensions
+  * Cas d'application concrets de PostGIS (et QGIS éventuellement) et retours d'expériences
+  * Utilisations avancées de PostGIS
+  * Traitement de données spatiales à forte volumétrie
+  * Couplage de PostGIS avec d'autres outils et extensions
 
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
+
 Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en précisant les informations suivantes : 
 
-    * Nom et Prénom
-    * Compte twitter (le cas échéant)
-    * Société
-    * Biographie et contributions à la communauté PostgreSQL
-    * Titre de la conférence
-    * Résumé
-    * Demandes spécifiques
+   * Nom et Prénom
+   * Compte twitter (le cas échéant)
+   * Société
+   * Biographie et contributions à la communauté PostgreSQL
+   * Titre de la conférence
+   * Résumé
+   * Demandes spécifiques
 
 
 Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence Creative Commons BY-SA 3.0 ou compatible. Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalibo, puis rediffusée après la Session. En envoyant une proposition, vous acceptez d’être enregistré et renoncez à tout droit de compensation pour cela. 
