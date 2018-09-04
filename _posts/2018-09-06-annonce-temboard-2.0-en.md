@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Release - temboard v2.0 features Alerting
+title: temboard v2.0 introduit l'Alerting
 author: Julien Tachoires, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
@@ -11,21 +11,21 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
 
 *Paris, le 6 septembre 2018*
 
-La nouvelle version de temboard inclut une toute nouvelle fonctionalité, l'Alerting ! 
+La nouvelle version de temboard inclut une toute nouvelle fonctionnalité, l'Alerting ! 
 
 <!--MORE-->
 
 En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/julmon), [Étienne Bersac](https://github.com/bersace) et [Pierre Giraud](https://github.com/pgiraud) sortent la version 2.0 de notre outil de **gestion PostgreSQL** préféré : **temboard**.
 
-**Nouvelle fontionalité : Alerting**
+**Nouvelle fontionnalité : Alerting**
 
 Cette nouvelle version inclut l'alerting, une nouvelle fonctionnalitée très attendue. L'alerting est intégré dans le plugin de `monitoring` de temboard et vous permet de mettre en place des alertes sur vos données sondées par l'agent temboard : dès lors qu'une métrique dépasse un seuil choisit au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
 
 ![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/temboard2.0/img/alerting_dashboard.png)
 
-Cette nouvelle fonctionalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page "Status" vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
+Cette nouvelle fonctionalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
 
-Lorsque temboard vous alerte qu'une donnée sondée dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour visualiser son état passé et courant, grace à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'un problème que vos bases de données peuvent recontrer.
+Lorsque temboard vous alerte qu'une donnée sondée dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour visualiser son état passé et courant, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent recontrer.
 
 
 
