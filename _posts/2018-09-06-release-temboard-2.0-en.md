@@ -9,7 +9,7 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
 
 ---
 
-*Paris, le 6 septembre 2018*
+*Paris, september 6th 2018*
 
 The new version of temboard includes a new feature : **Alerting** ! 
 
