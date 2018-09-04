@@ -15,23 +15,28 @@ Pour sa dixième édition, la PostgreSQL Session grandit et change de format !
 
 <!--MORE-->
 
-Pour la dixième édition de la PostgreSQL Session, nous avons décidé de marquer le coup, en proposant un événement plus ambitieux. Consultez notre [article concernant ce nouveau format](https://dali.bo/pgsession-annonce).
+Cette année, nous avons décidé de marquer le coup, en proposant un événement plus ambitieux. Consultez notre [article concernant ce nouveau format](https://dali.bo/pgsession-annonce).
 
 La journée de conférences du 22 novembre se déroulera dans les locaux de Mozilla, à Paris (Grands Boulevards), de 9h à 17h00. Nous lançons donc un appel à conférenciers, et vous remercions de nous envoyer vos propositions d'intervention. Chaque intervention doit durer 30 minutes (en comptant les éventuelles questions). 
 
 Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive): 
 
-| **Pour PostgreSQL** | **Pour PostGIS / QGIS** |
-|---|---|
-| Nouveautés de PostgreSQL | Cas d'application concrets de PostGIS (et QGIS éventuellement) |
-| Retour d'expérience | Utilisations avancées de PostGIS |
-| Migration vers PostgreSQL | Traitement de données spatiales à forte volumétrie |
-| Optimisations | Couplage de PostGIS avec d'autres outils et extensions |
-| Sauvegarde et Restauration |  |
-| Haute-Disponibilité |  |
+**Pour PostgreSQL** :
+  * Nouveautés de PostgreSQL
+  * Retour d'expérience
+  * Migration vers PostgreSQL
+  * Optimisations
+  * Sauvegarde et Restauration
+  * Haute-Disponibilité
 
+**Pour PostGIS / QGIS** :
+  * Cas d'application concrets de PostGIS (et QGIS éventuellement) et retour d'expérience
+  * Utilisations avancées de PostGIS
+  * Traitement de données spatiales à forte volumétrie
+  * Couplage de PostGIS avec d'autres outils et extensions
 
 Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
+
 
 Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en **précisant les informations suivantes** :
 
