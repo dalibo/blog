@@ -19,16 +19,24 @@ Our developers [Julien Tachoires](https://github.com/julmon), [Étienne Bersac](
 
 ## New feature : Alerting
 
-Cette nouvelle version inclut l'alerting, une nouvelle fonctionnalitée très attendue. L'alerting est intégré dans le plugin de `monitoring` de temboard et vous permet de mettre en place des alertes sur vos données sondées par l'agent temboard : dès lors qu'une métrique dépasse un seuil choisit au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
+This new version includes `alerting`, a very awaited feature. `Alerting` is part of the monitoring plugin, it allows you to compare values for monitored metrics with warning or critical thresholds. It then allows users to get notified if something gets wrong on the Postgres instance.
+When activated, alerting can show some information on the dashboard page. First of all, the current status for the different probes are displayed.
 
 ![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/temboard2.0/img/alerting_dashboard.png)
 
-Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
+This new feature is accompagnied by some user interface improvements. A new `status` page gives a more detailed view on all monitored probes. 
 
-Lorsque temboard vous alerte qu'une **donnée sondée** dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour **visualiser son état passé et courant**, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent recontrer.
+By clicking on probe name, one can also get access to an even more detailed view for each probe. In this view, users will find:
 
-## Liens utiles
+   * the current status,
+   * the thresholds values over time,
+   * the values for the monitored probe over time,
+   * the past alerts (ie. status change),
+   * the time ranges for which the status was warning or critical or if the check was disabled.
 
-   * Retrouvez le "How to Alerting" dans le [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/) du projet temboard
-   * Retrouver le tutoriel vous permettant de faire la mise à jour sur [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-upgrade-1.2-2.0/) également.
-   * Suivez le projet sur [Github](https://github.com/dalibo/temboard) et Twitter en suivant [Dalibo Labs](https://twitter.com/DaliboLabs)
+
+## Useful links
+
+   * Find the "How to Alerting" on the project's [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/) page.
+   * Find the update tutorial to install temboard's new version on the project's [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-upgrade-1.2-2.0/) page.
+   * Follow the project on [Github](https://github.com/dalibo/temboard) and Twitter by following [Dalibo Labs](https://twitter.com/DaliboLabs).
