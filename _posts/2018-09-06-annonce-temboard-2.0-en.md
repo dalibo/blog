@@ -27,7 +27,7 @@ Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de
 
 Lorsque temboard vous alerte qu'une **donnée sondée** dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour **visualiser son état passé et courant**, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent recontrer.
 
-
+## Liens utiles
 
    * Retrouvez le "How to Alerting" dans le [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/) du projet temboard
    * Retrouver le tutoriel vous permettant de faire la mise à jour sur [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-upgrade-1.2-2.0/) également.
