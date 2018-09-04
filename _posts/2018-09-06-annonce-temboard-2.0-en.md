@@ -23,9 +23,9 @@ Cette nouvelle version inclut l'alerting, une nouvelle fonctionnalitée très at
 
 ![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/temboard2.0/img/alerting_dashboard.png)
 
-Cette nouvelle fonctionalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
+Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
 
-Lorsque temboard vous alerte qu'une donnée sondée dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour visualiser son état passé et courant, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent recontrer.
+Lorsque temboard vous alerte qu'une **donnée sondée** dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour **visualiser son état passé et courant**, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent recontrer.
 
 
 
