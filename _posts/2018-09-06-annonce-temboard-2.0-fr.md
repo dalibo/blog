@@ -11,11 +11,9 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
 
 *Paris, le 6 septembre 2018*
 
-La nouvelle version de temboard inclut une toute nouvelle fonctionnalité, l'Alerting ! 
+En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/julmon), [Étienne Bersac](https://github.com/bersace) et [Pierre Giraud](https://github.com/pgiraud) sortent la version 2.0 de notre outil de **gestion PostgreSQL** préféré : **temboard**.
 
 <!--MORE-->
-
-En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/julmon), [Étienne Bersac](https://github.com/bersace) et [Pierre Giraud](https://github.com/pgiraud) sortent la version 2.0 de notre outil de **gestion PostgreSQL** préféré : **temboard**.
 
 ## Nouvelle fontionnalité : Alerting
 
