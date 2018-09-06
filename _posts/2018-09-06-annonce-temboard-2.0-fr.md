@@ -29,4 +29,4 @@ Lorsque temboard vous alerte qu'une **donnée sondée** dépasse (ou a dépassé
 
    * Retrouvez le "How to Alerting" dans le [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/) du projet temboard
    * Retrouver le tutoriel vous permettant de faire la mise à jour sur [ReadTheDocs](https://temboard.readthedocs.io/en/latest/temboard-upgrade-1.2-2.0/) également.
-   * Suivez le projet sur [Github](https://github.com/dalibo/temboard) et Twitter en suivant [Dalibo Labs](https://twitter.com/DaliboLabs)
+   * Suivez temboard sur [Github](https://github.com/dalibo/temboard) et sur le Twitter de [Dalibo Labs](https://twitter.com/DaliboLabs)
