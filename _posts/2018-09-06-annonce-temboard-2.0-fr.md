@@ -17,7 +17,7 @@ En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/
 
 ## Nouvelle fontionnalité : les Alertes
 
-Cette nouvelle version inclut les alertes, une nouvelle fonctionnalitée très attendue. Cette fonction est intégré dans le plugin de `monitoring` de temboard et vous permet de mettre en place des alertes sur vos données sondées par l'agent temboard : dès lors qu'une métrique dépasse un seuil choisit au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
+Cette nouvelle version inclut les alertes, une nouvelle fonctionnalitée très attendue. Cette fonction est intégrée dans le plugin de `monitoring` et vous permet de mettre en place des alertes sur vos données sondées : dès lors qu'une métrique dépasse un seuil choisit au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
 
 ![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/temboard2.0/img/alerting_dashboard.png)
 
