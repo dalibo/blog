@@ -35,7 +35,7 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
   * Traitement de données spatiales à forte volumétrie
   * Couplage de PostGIS avec d'autres outils et extensions
 
-Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 28 septembre 2018. 
+Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… Toutes les propositions doivent nous parvenir avant le 5 octobre 2018. 
 
 
 Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en **précisant les informations suivantes** :

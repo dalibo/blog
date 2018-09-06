@@ -12,7 +12,7 @@ tags: [opensource, postgresql, postgres, formations, formation, certification, c
 *Paris, le 11 juin 2018*
 
 
-La certification Dalibo annonce déjà sa rentrée ! Afin de vous permettre **d'organiser votre calendrier pour cet automne**, Dalibo annonce dors et déjà les prochaines sessions d'examens de certification.
+La certification Dalibo annonce déjà sa rentrée ! Afin de vous permettre **d'organiser votre calendrier pour cet automne**, Dalibo annonce d'ores et déjà les prochaines sessions d'examens de certification.
 
 <!--MORE-->
 
