@@ -31,5 +31,5 @@ DaliboLabs contribue à PostgreSQL en développant des outils open sources, en �
 
 ## Nouveaux liens vers le projet
 
- * Site web : http://pgbadger.darold.net/
- * Code source : https://github.com/darold/pgbadger
+ * Site web : [http://pgbadger.darold.net/](http://pgbadger.darold.net/)
+ * Code source : [https://github.com/darold/pgbadger](https://github.com/darold/pgbadger)
