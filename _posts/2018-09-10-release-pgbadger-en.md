@@ -28,7 +28,7 @@ This release of pgBadger is a major release(**Every one should upgrade**) that a
 ## Changes in status
 pgBadger is no longer part of [DaliboLabs](https://github.com/dalibo). Gilles Darold (the project's creator and maintainer) chose to reclaim the project's repository, management and copyright, to be able to maintain it on his own. The project was considered mature enough to leave the DaliboLabs familly.
 
-DaliboLabs contributes to PostgreSQL by developing tools, writing articles and organizing community events. Once a project is considered mature enough, the major developer or team can ask for the project to become independent.
+DaliboLabs contributes to PostgreSQL by developing tools, writing articles and organizing community events. DaliboLabs benefits different projects by providing experienced developers and support on the tools' promotion. Once a project is considered mature enough, the major developer or team can ask for the project to regain it's total independence.
 
 ## New links to the project
 
