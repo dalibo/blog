@@ -9,7 +9,7 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
 
 ---
 
-*Paris, september 6th 2018*
+*Paris, september 10th 2018*
 
 [Gilles Darold](http://www.darold.net/) released today version 10.0 of pgBadger, the PostgreSQL log analyzer built for speed with fully detailed reports and professional rendering. It outperform any other PostgreSQL log analyzer.
 
