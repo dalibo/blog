@@ -16,7 +16,7 @@ tags: [dalibo, postgresql, pgbadger, foss, floss, version, 10, 10.0, release, gi
 <!--MORE-->
 
 ## Release
-This release of pgBadger is a major release(**Every one should upgrade**) that adds some new features and fix all issues reported by users since last release :
+This release of pgBadger is a major release(**Every one should upgrade**) that adds some new features and fixes all issues reported by users since the last release :
 
   * Add support of pgbouncer syslog log file format.
   * Add support to all auto_explain format (text, xml, json and yaml).
