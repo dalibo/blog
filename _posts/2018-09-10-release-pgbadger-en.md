@@ -26,10 +26,11 @@ This release of pgBadger is a major release(**Every one should upgrade**) that a
   * Replace the SQL formatter/beautify with v3.0 of pgFormatter.
 
 ## Changes in status
-pgBadger is no longer part of [DaliboLabs](https://github.com/dalibo). Gilles Darold (the project's creator and maintainer) chose to reclaim the project's repository, management and copyright, to be able to maintain it on his own. The project was considered mature enough to leave the DaliboLabs familly. 
+pgBadger is no longer part of [DaliboLabs](https://github.com/dalibo). Gilles Darold (the project's creator and maintainer) chose to reclaim the project's repository, management and copyright, to be able to maintain it on his own. The project was considered mature enough to leave the DaliboLabs familly.
+
+DaliboLabs contributes to PostgreSQL by developing tools, writing articles and organizing community events. Once a project is considered mature enough, the major developer or team can ask for the project to become independent.
 
 ## New links to the project
 
  * Web site: http://pgbadger.darold.net/
  * Source code: https://github.com/darold/pgbadger
-
