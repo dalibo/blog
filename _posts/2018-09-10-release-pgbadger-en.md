@@ -15,9 +15,8 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
 
 <!--MORE-->
 
-
-This release of pgBadger is a major release that adds some new features and fix all issues reported by users since last release. Every one should upgrade.
-
+## Release
+This release of pgBadger is a major release(**Every one should upgrade**) that adds some new features and fix all issues reported by users since last release :
 
   * Add support of pgbouncer syslog log file format.
   * Add support to all auto_explain format (text, xml, json and yaml).
@@ -26,22 +25,11 @@ This release of pgBadger is a major release that adds some new features and fix 
     pgbadger will be able to parse the log.
   * Replace the SQL formatter/beautify with v3.0 of pgFormatter.
 
+## Changes in status
+pgBadger is no longer part of [DaliboLabs](https://github.com/dalibo). Gilles Darold (the project's creator and maintainer) chose to reclaim the project's repository, management and copyright, to be able to maintain it on his own. The project was considered mature enough to leave the DaliboLabs familly. 
 
-There is some new command line options:
+## New links to the project
 
-  - Add --prettify-json command line option to prettify JSON output.
-  - Add --log-timezone  +/-XX  command line option to set the number
-    of hours from GMT of the timezone that must be used to adjust
-    date/time read from log file before beeing parsed. Note that you
-    might still need to adjust the graph timezone using -Z when the
-    client has not the same timezone.
-  - Add --include-time option to add the ability to choose times that
-    you want to see, instead of excluding all the times you do not
-    want to see (--exclude-time).
+ * Web site: http://pgbadger.darold.net/
+ * Source code: https://github.com/darold/pgbadger
 
-The pgBadger project and copyrights has been transferred from Dalibo
-to the author and official maintainer of the project. Please update
-your links:
-
-  - Web site: http://pgbadger.darold.net/
-  - Source code: https://github.com/darold/pgbadger
