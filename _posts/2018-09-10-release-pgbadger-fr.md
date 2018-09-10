@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mise à Jour - pgBadger v10.0 et changement de statut
+title: Mise à Jour pgBadger v10.0 - corrections et changement de statut
 author: Léo Cossic, Gilles Darold
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, temboard, foss, floss, version, 2, release, 2018]
+tags: [dalibo, postgresql, temboard, foss, floss, version, 2, sortie, release, 2018]
 ---
 
 ---
 
-*Paris, september 10th 2018*
+*Paris, le 10 septembre 2018*
 
 [Gilles Darold](http://www.darold.net/) publie aujourd'hui la version 10.0 de pgBadger, l'outil pour PostgreSQL qui analyse votre traffic SQL et vous livre un rapport complet avec des graphes dynamiques sur les performances de votre serveur et les axes d'optimisation possibles.
 
@@ -20,9 +20,9 @@ Cette mise à jour est majeure, il vous est conseillé de l'appliquer au plus vi
 
   * ajout du support du format de fichier syslog de pgbouncer.
   * ajout du support de tous les formats auto_explain (text, xml, json et yaml).
-  * ajout du support de %q placeholder in log_line_prefix.
+  * ajout du support du motif %q dans log_line_prefix.
   * ajout du format jsonlog de l'extention de Michael Paquier, avec -f jsonlog pgbadger sera en mesure de parser le log.
-  * remplacer le SQL formatter/beautify grâce à la v3.0 de pgFormatterSQL.
+  * remplacement de SQL formatter/beautify par la v3.0 de pgFormatter.
 
 ## Changement de statut
 pgBadger ne fait plus partit de [DaliboLabs](https://github.com/dalibo). Gilles Darold (le créateur et mainteneur principal du projet) a décidé de s'occuper de la gestion et la maintenance du projet par lui même, et a ainsi récupéré le dépôt et le copyright de se dernier.
