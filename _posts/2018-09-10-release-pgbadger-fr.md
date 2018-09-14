@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Mise à Jour pgBadger v10.0 - corrections et changement de statut
-author: Léo Cossic, Gilles Darold
+title: Annonce - journée Workshops du 21 novembre
+author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, temboard, foss, floss, version, 2, sortie, release, 2018]
+tags: [dalibo, postgresql, session, sessions, 10, conférences, workshops, talk, floss, foss, 2018]
 ---
 
 ---
 
-*Paris, le 10 septembre 2018*
+*Paris, le 17 septembre 2018*
 
 [Gilles Darold](http://www.darold.net/) publie aujourd'hui la version 10.0 de pgBadger, l'outil pour PostgreSQL qui analyse votre trafic SQL et vous livre un rapport complet avec des graphes dynamiques sur les performances de votre serveur et les axes d'optimisation possibles.
 
