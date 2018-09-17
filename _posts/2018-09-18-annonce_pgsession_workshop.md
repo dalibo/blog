@@ -9,7 +9,7 @@ tags: [dalibo, postgresql, session, sessions, 10, conférences, conférence, tal
 
 ---
 
-*Paris, le 17 septembre 2018*
+*Paris, le 18 septembre 2018*
 
 Comme cela a été annoncé il y a deux semaines, la PostgreSQL Session 10 bénéficiera d'un nouveau format, alliant Workshops, conférences et table ronde. Nous annonçons aujourd'hui les thèmes des différents workshops de la journée du 21 novembre 2018.
 
@@ -25,7 +25,7 @@ Comme cela a été annoncé il y a deux semaines, la PostgreSQL Session 10 bén�
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés.
    * Contruire des applications métier avec PostGIS et QGIS
    
-La journée se tiendra au sein de l'espace La Rochafoucauld, dans le 9ème arrondissement de Paris. Il sera demandé une participation de 80€ à l'inscription. La journée de conférence de 22 novembre quant à elle sera gratuite, comme lors des PGSessions précédantes.
-   
+La journée se tiendra au sein de l'espace La Rochefoucauld, dans le 9ème arrondissement de Paris. Il sera demandé une participation de 80€ (pour toute la journée, déjeuner inclus) à l'inscription. La journée de conférence de 22 novembre quant à elle sera gratuite, comme lors des PGSessions précédantes.
+
 **Les inscriptions pour cette journée workshops seront ouverte à la mi-octobre.**
 
