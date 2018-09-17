@@ -29,3 +29,4 @@ La journée se tiendra au sein de l'espace La Rochefoucauld, dans le 9ème arron
 
 **Les inscriptions pour cette journée workshops seront ouvertes à la mi-octobre.**
 
+Rendez vous sur le site des PostgreSQL Sessions pour en apprendre plus sur cet événement annuel : https://www.postgresql-sessions.org
