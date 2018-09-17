@@ -19,7 +19,7 @@ Comme cela a été annoncé il y a deux semaines, la PostgreSQL Session 10 bén�
 
 **Matinée (9H30 - 12H30) :**
    * PostGIS : Mise en Œuvre
-   * Interprétation des métriques de supervision des outils classiques (temboard, check_pgactivity, pgBadger, pgCluu, …)
+   * Interprétation des métriques de supervision des outils classiques (temboard, pgBadger, check_pgactivity…)
 
 **Après-midi (14H00 - 17H00) :**
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés.
