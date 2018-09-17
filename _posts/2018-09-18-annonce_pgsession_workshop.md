@@ -18,14 +18,14 @@ Comme cela a été annoncé il y a deux semaines, la PostgreSQL Session 10 bén�
 ## Les Workshops du 21 novembre 2018
 
 **Matinée (9H30 - 12H30) :**
-   * PostGIS : Mise en Oeuvre
+   * PostGIS : Mise en Œuvre
    * Interprétation des métriques de supervision des outils classiques (temboard, check_pgactivity, pgBadger, pgCluu, …)
 
 **Après-midi (14H00 - 17H00) :**
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés.
-   * Contruire des applications métier avec PostGIS et QGIS
+   * Construire des applications métier avec PostGIS et QGIS
    
-La journée se tiendra au sein de l'espace La Rochefoucauld, dans le 9ème arrondissement de Paris. Il sera demandé une participation de 80€ (pour toute la journée, déjeuner inclus) à l'inscription. La journée de conférence de 22 novembre quant à elle sera gratuite, comme lors des PGSessions précédantes.
+La journée se tiendra au sein de l'espace La Rochefoucauld, dans le 9ème arrondissement de Paris. Il sera demandé une participation de 80€ (pour toute la journée, déjeuner inclus) à l'inscription. La journée de conférence de 22 novembre quant à elle sera gratuite, comme lors des PGSessions précédentes.
 
-**Les inscriptions pour cette journée workshops seront ouverte à la mi-octobre.**
+**Les inscriptions pour cette journée workshops seront ouvertes à la mi-octobre.**
 
