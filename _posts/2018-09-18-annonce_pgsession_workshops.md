@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annonces - thèmes des workshops du 21 novembre 2018
+title: Annonce - thèmes des workshops du 21 novembre 2018
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
