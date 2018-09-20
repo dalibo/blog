@@ -19,9 +19,9 @@ En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/
 
 Cette nouvelle version inclut les alertes, une nouvelle fonctionnalité très attendue. Cette fonction est intégrée dans le plugin de `monitoring` et vous permet de mettre en place des alertes sur vos données sondées : dès lors qu'une métrique dépasse un seuil choisi au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
 
-![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/alerting_dashboard.png)
+![alerting-dashboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard_alerting_dashboard.png)
 
-Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision. 
+Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision.
 
 Lorsque temboard vous alerte qu'une **donnée sondée** dépasse (ou a dépassé) le seuil prévu au préalable, vous pouvez cliquer sur cette dernière pour **visualiser son état passé et courant**, grâce à des graphiques et un historique de l'état de la donnée sondée. Une fonctionnalité très pratique pour déterminer l'origine d'éventuels problèmes que vos bases de données peuvent rencontrer.
 
