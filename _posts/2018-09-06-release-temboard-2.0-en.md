@@ -20,7 +20,7 @@ Our developers [Julien Tachoires](https://github.com/julmon), [Étienne Bersac](
 This new version includes `alerting`, a very awaited feature. `Alerting` is part of the monitoring plugin, it allows you to compare values for monitored metrics with warning or critical thresholds. It then allows users to get notified if something gets wrong on the Postgres instance.
 When activated, alerting can show some information on the dashboard page. First of all, the current status for the different probes are displayed.
 
-![alerting-dashboard]({{ site.BASE_PATH }}/assets/img/temboard_alerting_dashboard.png)
+![alerting-dashboard]({{ site.BASE_PATH }}/img/temboard_alerting_dashboard.png)
 
 This new feature is accompagnied by some user interface improvements. A new `status` page gives a more detailed view on all monitored probes.
 

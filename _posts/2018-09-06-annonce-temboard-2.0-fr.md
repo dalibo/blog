@@ -19,7 +19,7 @@ En cette rentrée 2018, nos développeurs [Julien Tachoires](https://github.com/
 
 Cette nouvelle version inclut les alertes, une nouvelle fonctionnalité très attendue. Cette fonction est intégrée dans le plugin de `monitoring` et vous permet de mettre en place des alertes sur vos données sondées : dès lors qu'une métrique dépasse un seuil choisi au préalable (ou pré-configuré par temboard), la donnée en question apparaitra en Orange ("Warning" = Attention) ou en rouge (Critical = Critique).
 
-![alerting-dashboard]({{ site.BASE_PATH }}/assets/img/temboard_alerting_dashboard.png)
+![alerting-dashboard]({{ site.BASE_PATH }}/img/temboard_alerting_dashboard.png)
 
 Cette nouvelle fonctionnalité s'accompagne de **changements dans l'interface de l'outil**, afin de rendre l'utilisation plus intuitive et efficace pour l'utilisateur. Une page `Status` vous permet désormais de surveiller l'état de l'ensemble de vos données sondées avec davantage de précision.
 
