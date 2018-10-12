@@ -37,7 +37,7 @@ Voici le programme qui vous attend :
 
 ### 22 novembre : journée conférences et table ronde
 
-Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et une table ronde, le tout autour de sujets liés à PostgreSQL et PostGIS. Nous aurons l'honneur d'assister à une conférence de Oleksii Kliukin, développeur des outils patroni et Postgres Operator parmi d'autres. Ce dernier sera accompagné de 
+Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et une table ronde, le tout autour de sujets liés à PostgreSQL et PostGIS. Nous aurons l'honneur d'assister à une conférence de [Oleksii Kliukin](https://github.com/alexeyklyukin), développeur des outils [patroni](https://github.com/zalando/patroni) et [Postgres Operator](https://github.com/zalando-incubator/postgres-operator) parmi d'autres. Ce dernier sera accompagné de [Sergey Dudoladov](https://github.com/zalando/patroni), contributeur majeur du projet [Postgres Operator](https://github.com/zalando-incubator/postgres-operator).
 
 Vous aurez la chance d'assister aux **conférences** suivantes : 
    * [Lightning talk] PostgreSQL 11 : un point sur les nouveautés de cette version
