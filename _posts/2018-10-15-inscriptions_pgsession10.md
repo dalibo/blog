@@ -25,13 +25,13 @@ Voici le programme qui vous attend :
 
 **Matinée (9H30 - 12H30) :**
 
-   * PostGIS : Mise en Œuvre [animé par Sylvain BEORCHIA et Vincent Mora]
-   * Interprétation des métriques de supervision des outils classiques (temboard, pgbadger et d'autres) [animé par Julien Tachoires]
+   * PostGIS : Mise en Œuvre. [Animé par Sylvain BEORCHIA et Vincent Mora]
+   * Interprétation des métriques de supervision des outils classiques (temboard, pgbadger et d'autres). [Animé par Julien Tachoires]
 
 **Après-midi (14H00 - 17H00) :**
 
-   * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [animé par Nicolas Gollet et Franck Boudehen]
-   * Construire des applications métier avec PostGIS et QGIS [animé par Loïc Bartoletti et Régis Haubourg]
+   * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [Animé par Nicolas Gollet et Franck Boudehen]
+   * Construire des applications métier avec PostGIS et QGIS. [Animé par Loïc Bartoletti et Régis Haubourg]
 
 [Réservez votre place dès maintenant !](https://pgsession10-workshops.eventbrite.fr)
 
@@ -40,17 +40,17 @@ Voici le programme qui vous attend :
 Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et une table ronde, le tout autour de sujets liés à PostgreSQL et PostGIS. Nous aurons l'honneur d'assister à une conférence de Oleksii Kliukin, développeur des outils patroni et Postgres Operator parmi d'autres. Ce dernier sera accompagné de 
 
 Vous aurez la chance d'assister aux **conférences** suivantes : 
-    * [Lightning talk] PostgreSQL 11 : un point sur les nouveautés de cette version
-    * Refonte et migration : le cas son-video.com *par Grégoire Hubert*
-    * PostGIS : après 2 voilà 3 *par Vincent Picavet*
-    * PostgreSQL and Kubernetes: database as a service without a vendor lock-in *par Oleksii Kliukin*
-    * DAO et PostGIS *par Jean-Marie Arsac*
-    * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
+   * [Lightning talk] PostgreSQL 11 : un point sur les nouveautés de cette version
+   * Refonte et migration : le cas son-video.com *par Grégoire Hubert*
+   * PostGIS : après 2 voilà 3 *par Vincent Picavet*
+   * PostgreSQL and Kubernetes: database as a service without a vendor lock-in *par Oleksii Kliukin*
+   * DAO et PostGIS *par Jean-Marie Arsac*
+   * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
 Au cours de l'après midi, une table ronde vous sera proposée sur les thématiques suivantes :
-    * Relever le challenge de l'open-source : perrennité et maturité des outils open-source face aux propriétaires.
-    * La contribution à l'open-source : un investissement pour le bien commun
-    * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
+   * Relever le challenge de l'open-source : perrennité et maturité des outils open-source face aux propriétaires.
+   * La contribution à l'open-source : un investissement pour le bien commun
+   * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
 
     
 [Réservez vos places aujourd'hui, elles partent très vite](https://pgsession10-conferences.eventbrite.fr)
