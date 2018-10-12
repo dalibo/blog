@@ -47,6 +47,6 @@ Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et 
    * DAO et PostGIS *par Jean-Marie Arsac*
    * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
-En fin de journée, une **table ronde sur les challenges de l'open-source** vous sera proposées : maturité des outils, stratégies et investissements, transition et gouvernance open-source.
+En fin de journée, une **table ronde sur les challenges de l'open-source** vous sera proposée. Des thématiques telles que la maturité des outils,les stratégies et investissements ou encore la transition et la gouvernance open-source seront évoquées.
     
 [Réservez vos places aujourd'hui, elles partent très vite !](https://pgsession10-conferences.eventbrite.fr)
