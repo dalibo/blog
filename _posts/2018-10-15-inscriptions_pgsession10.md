@@ -21,14 +21,14 @@ Vous souhaitez assister aux workshops du 21 novembre, ou à la journée de conf�
 
 Cette journée vous donnera la chance de participer à deux workshops parmi quatre proposés. Une participation de 90€ vous est demandée pour la journée, incluant les pauses "en-cas" et le déjeuner. 
 
-Voici le **programme** qui vous attend :
+**Voici le programme qui vous attend :**
 
-**Matinée (9H30 - 12H30) :**
+Matinée (9H30 - 12H30) :
 
    * PostGIS : Mise en Œuvre. [Animé par Sylvain BEORCHIA et Vincent Mora]
    * Interprétation des métriques de supervision des outils classiques (temboard, pgbadger et d'autres). [Animé par Julien Tachoires]
 
-**Après-midi (14H00 - 17H00) :**
+Après-midi (14H00 - 17H00) :
 
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [Animé par Nicolas Gollet et Franck Boudehen]
    * Construire des applications métier avec PostGIS et QGIS. [Animé par Loïc Bartoletti et Régis Haubourg]
