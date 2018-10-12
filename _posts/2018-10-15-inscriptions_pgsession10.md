@@ -49,4 +49,4 @@ Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et 
 
 En fin de journée, une **table ronde sur les challenges de l'open-source** vous sera proposée. Des thématiques telles que la maturité des outils, les stratégies et l'investissement ou encore la transition et la gouvernance open-source seront évoquées.
     
-[Réservez vos places aujourd'hui, elles partent très vite !](https://pgsession10-conferences.eventbrite.fr)
+[Réservez votre place aujourd'hui, celles-ci partent très vite !](https://pgsession10-conferences.eventbrite.fr)
