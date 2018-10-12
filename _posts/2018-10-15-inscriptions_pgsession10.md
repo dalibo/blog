@@ -21,7 +21,7 @@ Vous souhaitez assister aux workshops du 21 novembre, ou à la journée de conf�
 
 Cette journée vous donnera la chance de participer à deux workshops parmi quatre proposés. Une participation de 90€ vous est demandée pour la journée, incluant les pauses "en-cas" et le déjeuner. 
 
-Voici le programme qui vous attend :
+Voici le **programme** qui vous attend :
 
 **Matinée (9H30 - 12H30) :**
 
@@ -39,7 +39,7 @@ Voici le programme qui vous attend :
 
 Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et une table ronde, le tout autour de sujets liés à PostgreSQL et PostGIS. Nous aurons l'honneur d'assister à une conférence de [Oleksii Kliukin](https://github.com/alexeyklyukin), développeur des outils [patroni](https://github.com/zalando/patroni) et [Postgres Operator](https://github.com/zalando-incubator/postgres-operator) parmi d'autres. Ce dernier sera accompagné de [Sergey Dudoladov](https://github.com/zalando/patroni), contributeur majeur du projet [Postgres Operator](https://github.com/zalando-incubator/postgres-operator).
 
-Vous aurez la chance d'assister aux **conférences** suivantes : 
+**Programme des conférences** : 
    * [Lightning talk] PostgreSQL 11 : un point sur les nouveautés de cette version
    * Refonte et migration : le cas son-video.com *par Grégoire Hubert*
    * PostGIS : après 2 voilà 3 *par Vincent Picavet*
@@ -47,7 +47,7 @@ Vous aurez la chance d'assister aux **conférences** suivantes :
    * DAO et PostGIS *par Jean-Marie Arsac*
    * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
-Au cours de l'après midi, une **table ronde** vous sera proposée sur les thématiques suivantes :
+**La table ronde traitera les thématiques suivantes :**
    * Relever le challenge de l'open-source : perrennité et maturité des outils open-source face aux propriétaires.
    * La contribution à l'open-source : un investissement pour le bien commun
    * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
