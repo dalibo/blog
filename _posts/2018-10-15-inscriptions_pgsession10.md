@@ -39,7 +39,7 @@ Voici le programme qui vous attend :
 
 Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et une table ronde, le tout autour de sujets liés à PostgreSQL et PostGIS. Nous aurons l'honneur d'assister à une conférence de Oleksii Kliukin, développeur des outils patroni et Postgres Operator parmi d'autres. Ce dernier sera accompagné de 
 
-Vous aurez la chance d'assister aux conférences suivantes : 
+Vous aurez la chance d'assister aux **conférences** suivantes : 
     * [Lightning talk] PostgreSQL 11 : un point sur les nouveautés de cette version
     * Refonte et migration : le cas son-video.com *par Grégoire Hubert*
     * PostGIS : après 2 voilà 3 *par Vincent Picavet*
@@ -47,5 +47,10 @@ Vous aurez la chance d'assister aux conférences suivantes :
     * DAO et PostGIS *par Jean-Marie Arsac*
     * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
+Au cours de l'après midi, une table ronde vous sera proposée sur les thématiques suivantes :
+    * Relever le challenge de l'open-source : perrennité et maturité des outils open-source face aux propriétaires.
+    * La contribution à l'open-source : un investissement pour le bien commun
+    * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
 
-[Réservez vos places aujourd'hui, elles (https://pgsession10-conferences.eventbrite.fr)
+    
+[Réservez vos places aujourd'hui, elles partent très vite](https://pgsession10-conferences.eventbrite.fr)
