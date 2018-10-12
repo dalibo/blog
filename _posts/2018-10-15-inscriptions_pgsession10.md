@@ -33,7 +33,7 @@ Voici le **programme** qui vous attend :
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [Animé par Nicolas Gollet et Franck Boudehen]
    * Construire des applications métier avec PostGIS et QGIS. [Animé par Loïc Bartoletti et Régis Haubourg]
 
-[Réservez votre place dès maintenant !](https://pgsession10-workshops.eventbrite.fr)
+[Inscrivez vous dès maintenant !](https://pgsession10-workshops.eventbrite.fr)
 
 ### 22 novembre : journée conférences et table ronde
 
