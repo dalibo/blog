@@ -53,4 +53,4 @@ Au cours de l'après midi, une **table ronde** vous sera proposée sur les thém
    * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
 
     
-[Réservez vos places aujourd'hui, elles partent très vite](https://pgsession10-conferences.eventbrite.fr)
+[Réservez vos places aujourd'hui, elles partent très vite !](https://pgsession10-conferences.eventbrite.fr)
