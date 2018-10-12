@@ -11,9 +11,9 @@ tags: [dalibo, postgresql, session, sessions, 10, conférences, conférence, tal
 
 *Paris, le 15 octobre 2018*
 
-Vous souhaitez assister aux workshops du 21 novembre, ou à la journée de conférences et table ronde du 22 ? 
+Vous souhaitez assister aux workshops du 21 novembre, ou à la journée de conférences et table ronde du 22 novembre ? 
 
-**C'est ici, et maintenant !**
+**Les inscriptions à la [PGSession10](https://www.postgresql-sessions.org/10/registration_form), c'est ici, et maintenant !**
 
 <!--MORE-->
 
