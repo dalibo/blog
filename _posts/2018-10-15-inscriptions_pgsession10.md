@@ -33,7 +33,7 @@ Voici le programme qui vous attend :
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [animé par Nicolas Gollet et Franck Boudehen]
    * Construire des applications métier avec PostGIS et QGIS [animé par Loïc Bartoletti et Régis Haubourg]
 
-https://pgsession10-workshops.eventbrite.fr
+[Réservez votre place dès maintenant !](https://pgsession10-workshops.eventbrite.fr)
 
 ### 22 novembre : journée conférences et table ronde
 
@@ -48,4 +48,4 @@ Vous aurez la chance d'assister aux conférences suivantes :
     * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
 
-https://pgsession10-conferences.eventbrite.fr
+[Réservez vos places aujourd'hui, elles (https://pgsession10-conferences.eventbrite.fr)
