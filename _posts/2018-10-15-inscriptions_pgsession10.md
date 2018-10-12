@@ -47,7 +47,7 @@ Vous aurez la chance d'assister aux **conférences** suivantes :
    * DAO et PostGIS *par Jean-Marie Arsac*
    * temboard - la supervision de vos instances dans une interface unique *par Pierre Giraud*
 
-Au cours de l'après midi, une table ronde vous sera proposée sur les thématiques suivantes :
+Au cours de l'après midi, une **table ronde** vous sera proposée sur les thématiques suivantes :
    * Relever le challenge de l'open-source : perrennité et maturité des outils open-source face aux propriétaires.
    * La contribution à l'open-source : un investissement pour le bien commun
    * Les enjeux stratégiques de l'open-source : migrer ces outils vers de l'open-source, changer vers une gouvernance open-source. 
