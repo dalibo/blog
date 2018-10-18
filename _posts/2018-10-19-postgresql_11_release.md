@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11 !
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, session, sessions, 10, conférences, conférence, talk, talks, foss, floss, 2018]
+tags: [dalibo, postgresql, 11, 10, release, note, sortie, version, foss, floss, 2018]
 ---
 
 ---
