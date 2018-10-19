@@ -66,15 +66,15 @@ Les améliorations de la base de données relationnelle PostgreSQL ne seraient p
   * Le support de `quit` et `exit` dans l'interface en ligne de commande rendent plus aisée la sortie de l'outil.
 
 
-Pour la liste complète des nouvelles fonctionnalités de cette version, merci de lire les notes associées que trouverez à cette adresse : https://www.postgresql.org/docs/11/static/release-11.html
+Pour la liste complète des nouvelles fonctionnalités de cette version, merci de lire les notes associées que trouverez à cette adresse : [https://www.postgresql.org/docs/11/static/release-11.html](https://www.postgresql.org/docs/11/static/release-11.html)
 
 ### À propos dePostgreSQL
 
 PostgreSQL est le système de gestion de base de données open-source le plus performant au monde, avec une communauté internationale de milliers d'utilisateurs, contributeurs, entreprises et organisations. Le projet PostgreSQL se base sur plus de 30 ans d'ingéniérie informatique, dont le développement a débuté à l'Université de Californie à Berkeley et a depuis continué à une allure incomparable par sa communauté. 
-PostgreSQL possède un ensemble de fonctionnalités matures, qui non seulement est au niveau des meilleures bases de données propriétaires, mais les dépasse dans les fonctionnalités avancées, l'extensibilité, la sécurité et la stabilité. Apprenez-en plus sur PostgreSQL et rejoignez notre communauté sur  https://www.postgresql.org.
+PostgreSQL possède un ensemble de fonctionnalités matures, qui non seulement est au niveau des meilleures bases de données propriétaires, mais les dépasse dans les fonctionnalités avancées, l'extensibilité, la sécurité et la stabilité. Apprenez-en plus sur PostgreSQL et rejoignez notre communauté sur  [https://www.postgresql.org](https://www.postgresql.org).
 
 
-### Liens)
+### Liens
  * Téléchargement : [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
  * Notes de version : [https://www.postgresql.org/docs/11/static/release-11.html](https://www.postgresql.org/docs/11/static/release-11.html)
  * Page sécurité : [https://www.postgresql.org/support/security/](https://www.postgresql.org/support/security/)
