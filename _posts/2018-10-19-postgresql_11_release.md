@@ -74,9 +74,9 @@ PostgreSQL est le système de gestion de base de données open-source le plus pe
 PostgreSQL possède un ensemble de fonctionnalités matures, qui non seulement est au niveau des meilleures bases de données propriétaires, mais les dépasse dans les fonctionnalités avancées, l'extensibilité, la sécurité et la stabilité. Apprenez-en plus sur PostgreSQL et rejoignez notre communauté sur  https://www.postgresql.org.
 
 
-### Liens
- * Téléchargement : https://www.postgresql.org/download/
- * Notes de version : https://www.postgresql.org/docs/11/static/release-11.html
- * Page sécurité : https://www.postgresql.org/support/security/
- * Politique de versionnement : https://www.postgresql.org/support/versioning/
- * Suivez @postgresql sur Twitter: https://twitter.com/postgresql
+### Liens)
+ * Téléchargement : [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
+ * Notes de version : [https://www.postgresql.org/docs/11/static/release-11.html](https://www.postgresql.org/docs/11/static/release-11.html)
+ * Page sécurité : [https://www.postgresql.org/support/security/](https://www.postgresql.org/support/security/)
+ * Politique de versionnement : [https://www.postgresql.org/support/versioning/](https://www.postgresql.org/support/versioning/)
+ * Suivez @postgresql sur Twitter: [https://twitter.com/postgresql](https://twitter.com/postgresql)
