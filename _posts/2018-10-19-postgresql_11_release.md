@@ -11,7 +11,7 @@ tags: [dalibo, postgresql, 11, 10, release, note, sortie, version, foss, floss, 
 
 *Paris, le 19 octobre 2018*
 
-La version 11 de notre Système de Gestion de Base de Donnée (SGBD) préféré PostgreSQL est sortie. Après plusieurs mois de tests, PostgreSQL 11 sort officiellement, pour le plus grand plaisir de nos experts, qui vous ont traduit la "release note".
+**La version 11 de notre Système de Gestion de Base de Donnée (SGBD) préféré PostgreSQL est sortie. Après plusieurs mois de tests, PostgreSQL 11 sort officiellement, pour le plus grand plaisir de nos experts, qui vous ont traduit la "release note".**
 
 <!--MORE-->
 
@@ -19,7 +19,7 @@ Le PostgreSQL Global Development Group a annoncé aujourd'hui la sortie de Postg
 
 PostgreSQL 11 apporte aux utilisateurs une amélioration générale de ses performances, en particulier pour les bases de données de très gros volume ou supportant des charges de calcul importantes. De plus, PostgreSQL 11 améliore significativement le système de partitionnement des tables, ajoute le support des procédures stockées capables de gérer des transactions, améliore la parallélisation des requêtes et de certaines commandes de définition des données et introduit la compilation « à la volée » (JIT, _Just in Time_) afin d'accélérer l'exécution des expressions dans les requêtes.
 
-« Pour PostgreSQL 11, notre communauté de développeurs s'est concentrée sur l'ajout de fonctionnalités qui améliorent la capacité de PostgreSQL à gérer de très grosses bases de données » a déclaré Bruce Momjian, membre de la _Core team_ du PostgreSQL Global Development Group. « En plus de ses performances connues en environnement transactionnel, PostgreSQL 11 permet désormais aux développeurs de créer des applications de _big data_ à grande échelle. »
+*« Pour PostgreSQL 11, notre communauté de développeurs s'est concentrée sur l'ajout de fonctionnalités qui améliorent la capacité de PostgreSQL à gérer de très grosses bases de données » a déclaré Bruce Momjian, membre de la _Core team_ du PostgreSQL Global Development Group. « En plus de ses performances connues en environnement transactionnel, PostgreSQL 11 permet désormais aux développeurs de créer des applications de _big data_ à grande échelle. »*
 
 PostgreSQL bénéficie de plus de 20 ans de développement open source et est devenu la base de données relationnelle open source préférée des développeurs. La reconnaissance du projet continue à s'étendre au sein de l'industrie et il a été désigné comme « DBMS of the Year 2017 » par DB-Engines et dans le SD Times 2018 100.
 
