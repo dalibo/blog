@@ -33,7 +33,7 @@ Après-midi (14H00 - 17H00) :
    * Réplication logique : présentation, exercice pratique de MàJ, difficultés. [Animé par Nicolas Gollet et Franck Boudehen]
    * Construire des applications métier avec PostGIS et QGIS. [Animé par Loïc Bartoletti et Régis Haubourg]
 
-[Inscrivez vous dès maintenant !](https://pgsession10-workshops.eventbrite.fr)
+[**Inscrivez vous dès maintenant !**](https://pgsession10-workshops.eventbrite.fr)
 
 ### 22 novembre : journée conférences et table ronde
 
@@ -49,4 +49,4 @@ Cette journée, fidèle aux précédentes PGSessions, combine 6 conférences et 
 
 En fin de journée, une **table ronde sur les challenges de l'open-source** vous sera proposée. Des thématiques telles que la maturité des outils, les stratégies et l'investissement ou encore la transition et la gouvernance open-source seront évoquées.
     
-[Réservez votre place aujourd'hui, celles-ci partent très vite !](https://pgsession10-conferences.eventbrite.fr)
+[**Réservez votre place aujourd'hui, celles-ci partent très vite !**](https://pgsession10-conferences.eventbrite.fr)
