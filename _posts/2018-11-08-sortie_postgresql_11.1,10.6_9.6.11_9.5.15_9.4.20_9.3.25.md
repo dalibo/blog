@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sortie de PostgreSQL 11.1, 10.6, 9.6.11, 9.5.15, 9.4.20, 9.3.25
-author: 
+author: Thibaud Walkowiak
 twitter_id: dalibo
 github_id: dalibo
 tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 11]
@@ -23,6 +23,7 @@ Veuillez vous reporter aux remarques sur "Mise à jour" ci-dessous pour connaît
 Cette mise à jour marque également la fin de vie de la version PostgreSQL 9.3, qui ne recevra plus aucun correctif de bogue ou de sécurité.
 Si votre environnement utilise toujours la version PostgreSQL 9.3, veuillez planifier une mise à jour vers une version supportée par la communauté dès que possible.
 Veuillez consulter notre politique de [gestion des versions](https://www.postgresql.org/support/versioning/) pour de plus amples informations.
+
 
 ## Problèmes de sécurité
 
@@ -59,6 +60,7 @@ Cette mise à jour corrige plusieurs bugs signalés ces derniers mois. Certains 
 * plusieurs corrections pour Windows
 
 Cette publication contient également la version 2018g de tzdata relative à l'heure d'été au Chili, aux Fidji, au Maroc et en Russie (Volgograd), ainsi que des corrections concernant la Chine, Hawaï, le Japon, Macao et la Corée du Nord.
+
 
 ## Fin de vie pour PostgreSQL 9.3
 
