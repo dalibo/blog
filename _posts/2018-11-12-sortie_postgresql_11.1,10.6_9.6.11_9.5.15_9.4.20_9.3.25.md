@@ -9,7 +9,7 @@ tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 11]
 
 ---
 
-*Paris, le 9 novembre 2018*
+*Paris, le 12 novembre 2018*
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de PostgreSQL, à savoir : 11.1, 10.6, 9.6.11, 9.5.15, 9.4.20 ainsi qu'une dernière mise à jour pour la version 9.3 qui ne sera dorénavant plus supportée par la communauté.
 
