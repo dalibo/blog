@@ -14,6 +14,7 @@ tags: [dalibo, postgresql, oslandia, pgsession, session, sessions, mozilla, conf
 Voici le programme de la journée conférences et table-ronde de la PostgreSQL Session 10, chez Mozilla Paris (16bis boulevard Montmartre, 75009 Paris) le 22 novembre de 9H15 à 17H.
 
 <!--MORE-->
+Il est encore temps de vous incrire ici -> https://pgsession10-conferences.eventbrite.fr
 
 ![Cliquez ici pour accéder au programme](https://github.com/dalibo/blog/blob/gh-pages/img/programme.png?raw=true)
 
