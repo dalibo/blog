@@ -15,6 +15,6 @@ Voici le programme de la journée conférences et table-ronde de la PostgreSQL S
 
 <!--MORE-->
 
-![Cliquez ici pour accéder au programme](https://github.com/dalibo/blog/blob/gh-pages/programme.png?raw=true)
+![Cliquez ici pour accéder au programme](https://github.com/dalibo/blog/blob/gh-pages/img/programme.png?raw=true)
 
 Si vous avez une quelconque question concernant le programme de PGSession10 merci de nous contacter à l'adresse suivante: [contact@postresql-sessions.org](mailto:contact@postresql-sessions.org)
