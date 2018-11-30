@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: E-Maj - présentation de l'extension pour PostgreSQL au CNRS
 author: Philippe Beaudoin, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
