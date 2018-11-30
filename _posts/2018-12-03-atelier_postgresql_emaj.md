@@ -18,7 +18,7 @@ Le 6 novembre dernier, **Philippe Beaudoin**, consultant Dalibo, a été invité
 ## Le Réseau Base de Données :
 Le Réseau Bases de Données est une organisation transverse du CNRS visant à promouvoir les bonnes pratiques autour de l’utilisation des bases de données et à favoriser le partage d’expérience des différentes équipes de recherche en la matière. Au CNRS, PostgreSQL, souvent accompagné de PostGIS, occupe une place centrale dans le paysage SGBD.
 
-Pour ce séminaire, plus de 50 « data scientists » étaient donc regroupés sur différents thèmes, dont celui de la traçabilité.
+Pour ce séminaire, plus de 50 « data scientists » étaient donc regroupés autour de différents thèmes, dont celui de la traçabilité.
 
 ## Présentation de l'extension E-Maj :
 Placé sous la large bannière « DaliboLabs », le logiciel E-Maj est une extension de PostgreSQL qui permet d’enregistrer les mises à jour effectuées sur des ensembles de tables à des fins de consultation, de statistiques et d’annulation. Ses mécanismes permettent ainsi de « faire voyager les données dans le temps ». Il est doté d’une interface web qui en facilite grandement l’usage pour tout type d’utilisateur : développeurs et testeurs d’application, administrateurs, et d’une manière générale toute personne ayant besoin de tracer les évolutions de contenus de données.
