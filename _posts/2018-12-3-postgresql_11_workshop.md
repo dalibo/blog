@@ -26,7 +26,6 @@ Retrouvez notre workshop pour la version 11 de PostgreSQL sur notre compte Githu
 Ce projet contiens différents workshops PostgreSQL, chacuns contenant **cours et exercices**. Ils ont été produit par Dalibo mais son mis à la disposition du public sous [licence PostgreSQL](https://github.com/dalibo/workshops/blob/master/LICENSE.md).
 
 Le contenu y est écrit en **markdown** en utilisant un jeu spécifique de règles de SYNTAX.
-
 Nous utilisons **pandoc** pour les exports sous différents formats. 
 
 Pour le moment, seuls les formats suivants sont supportés :
