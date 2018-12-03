@@ -17,11 +17,10 @@ Retrouvez notre workshop pour la version 11 de PostgreSQL sur notre compte Githu
 
 ## Nouveautés de PostgreSQL 11
 
-  * Source : PostgreSQL 11
-  * Slides : HTML
-  * Handout : PDF
-  * Mobile : EPUB
-
+* Source : [PostgreSQL 11](110-postgresql_11.md)
+* Slides : [HTML](https://cloud.dalibo.com/p/exports/formation/workshops/fr/110-postgresql_11.slides.html)
+* Handout : [PDF](https://cloud.dalibo.com/p/exports/formation/workshops/fr/110-postgresql_11.pdf)
+* Mobile : [EPUB](https://cloud.dalibo.com/p/exports/formation/workshops/fr/110-postgresql_11.epub)
 
 Ce projet contiens différents workshops PostgreSQL, chacuns contenant **cours et exercices**. Ils ont été produit par Dalibo mais son mis à la disposition du public sous [licence PostgreSQL](https://github.com/dalibo/workshops/blob/master/LICENSE.md).
 
