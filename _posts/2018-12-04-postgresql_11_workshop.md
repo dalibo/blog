@@ -22,7 +22,7 @@ Le workshop PostgreSQL 11 de Dalibo est disponible ! Retrouvez le sur notre comp
 
 Pour vous y inscrire (dans la limite d’une inscription par société), contactez nous à l’adresse : workshop@dalibo.com
 
-## Le Workshop Nouveautés de PostgreSQL 11
+**Le Workshop Nouveautés de PostgreSQL 11**
 
 * Source : [PostgreSQL 11](https://github.com/dalibo/workshops/tree/master/fr)
 * Slides : [HTML](https://cloud.dalibo.com/p/exports/formation/workshops/fr/110-postgresql_11.slides.html)
