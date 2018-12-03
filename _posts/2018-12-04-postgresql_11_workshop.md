@@ -20,6 +20,7 @@ Le workshop PostgreSQL 11 de Dalibo est disponible ! Retrouvez le sur notre comp
    * 14 février 2019
    * 21 mars 2019
 
+Pour vous y inscrire (dans la limite d’une inscription par société), contactez nous à l’adresse : workshop@dalibo.com
 
 ## Le Workshop Nouveautés de PostgreSQL 11
 
