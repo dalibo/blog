@@ -16,7 +16,7 @@ Pour fêter les dix éditions de l’événement, les organisateurs ([Dalibo](ht
 Nous avions aussi la chance de recevoir Oleksii Kliukin et Sergey Dudoladov, contributeurs à PostgreSQL et développeurs de solutions pour PostgreSQL dans le cloud ainsi qu’en haute disponibilité. Cela a été l'occasion pour les participants de rencontrer quelques acteurs très impliqués de la communauté PostgreSQL et cela à permis aux consultants et développeurs de Dalibo de profiter d’une journée d’échanges d’expertise très intéressante pour les deux parties.
 
 Voici en images, un petit aperçu de l'événement:
-![image-pgsession](https://github.com/dalibo/blog/blob/gh-pages/img/montage-pgsession10.png?raw=true)
+![image-pgsession](https://github.com/dalibo/blog/blob/pgsession10/img/montage-pgsession10.png?raw=true)
 
 Si vous avez manqué l'événement, nous vous invitons à consulter les supports de présentations des conférenciers, sur le site web des PGSessions: [http://www.postgresql-sessions.org/10/start](http://www.postgresql-sessions.org/10/start)
 
