@@ -7,9 +7,12 @@ github_id: dalibo
 tags: [postgresql, session, sessions, 10, pgsession, pgsession10, event, evenement, conférences, conférence, paris, table, ronde, dalibo, workshops]
 ---
 
-La dixième édition de la PostgreSQL Session s'est déroulée les 21 et 22 novembre 2018, à Paris. L'événement a réuni environ 100 personnes autour d'interventions de qualité traitant à la fois de PostgreSQL, PostGIS mais également du domaine de l’open-source de manière plus générale.
+La dixième édition de la PostgreSQL Session s'est déroulée les 21 et 22 novembre 2018, à Paris. 
 
 <!--MORE-->
+
+L'événement a réuni environ 100 personnes autour d'interventions de qualité traitant à la fois de PostgreSQL, PostGIS mais également du domaine de l’open-source de manière plus générale.
+
 
 Pour fêter les dix éditions de l’événement, les organisateurs ([Dalibo](https://dalibo.com) et [Oslandia](https://oslandia.com)) ont décidé de changer le format pour y intégrer une journée de workshops PostgreSQL et PostGIS, ainsi qu’une table ronde traitant des enjeux de l’open-source pour les fournisseurs comme pour les utilisateurs.
 
