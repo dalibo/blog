@@ -7,6 +7,8 @@ github_id: dalibo
 tags: [postgresql, session, sessions, 10, pgsession, pgsession10, event, evenement, conférences, conférence, paris, table, ronde, dalibo, workshops]
 ---
 
+*Paris, le 11 décembre 2018*
+
 La dixième édition de la PostgreSQL Session s'est déroulée les 21 et 22 novembre 2018, à Paris. 
 
 <!--MORE-->
