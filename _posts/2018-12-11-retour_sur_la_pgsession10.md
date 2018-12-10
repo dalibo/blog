@@ -23,8 +23,7 @@ Nous avions aussi la chance de recevoir **Oleksii Kliukin** et **Sergey Dudolado
 ## Voici en images, un petit aperçu de l'événement:
 ![image-pgsession](https://github.com/dalibo/blog/blob/gh-pages/img/montage-pgsession10.png?raw=true)
 
- 
-
+ ## Quelques liens pour revivre l'événement
 
 Si vous avez manqué l'événement, nous vous invitons à **consulter les supports de présentations des conférenciers**, sur le site web des PGSessions: [http://www.postgresql-sessions.org/10/start](http://www.postgresql-sessions.org/10/start)
 
