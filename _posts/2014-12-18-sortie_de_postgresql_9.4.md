@@ -48,10 +48,10 @@ La version 9.4 apporte de nombreuses améliorations des performances qui permett
 Liens
 -----
 
-  * Downloads: [http://www.postgresql.org/downloads](http://www.postgresql.org/downloads)
+  * Downloads: [https://www.postgresql.org/downloads](https://www.postgresql.org/downloads)
 
-  * Press Kit: [http://www.postgresql.org/about/press/presskit94](http://www.postgresql.org/about/press/presskit94)
+  * Press Kit: [https://www.postgresql.org/about/press/presskit94](https://www.postgresql.org/about/press/presskit94)
 
-  * Release Notes: [http://www.postgresql.org/documentation/current/static/release-9-4](http://www.postgresql.org/documentation/current/static/release-9-4)
+  * Release Notes: [https://www.postgresql.org/documentation/current/static/release-9-4](https://www.postgresql.org/documentation/current/static/release-9-4)
 
   * What's New in 9.4: [https://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.4](https://wiki.postgresql.org/wiki/What%27s_new_in_PostgreSQL_9.4)

@@ -9,7 +9,7 @@ tags: [PostgreSQL, migration, oracle]
 ---
 *Paris, le 26 Mars 2016*
 
-Deux nouvelles versions 17.2 et 17.3 d'Ora2Pg viennent d'être publiées. Il s'agit de versions mineure corrigeant un certain nombre de problèmes remontés par les utilisateurs depuis la version majeure [17.0](http://blog.dalibo.com/2016/02/22/Nouvelle_version_17.0_de_Ora2Pg.html). Elle ajoute aussi deux nouvelles fonctionnalités:
+Deux nouvelles versions 17.2 et 17.3 d'Ora2Pg viennent d'être publiées. Il s'agit de versions mineure corrigeant un certain nombre de problèmes remontés par les utilisateurs depuis la version majeure [17.0](https://blog.dalibo.com/2016/02/22/Nouvelle_version_17.0_de_Ora2Pg.html). Elle ajoute aussi deux nouvelles fonctionnalités:
 
   * La possibilité de transformer à la volée les types NUMBER(x,y) en booléens.
   * La possibilité de relocaliser complètement l'installation d'Ora2Pg dans un répertoire avec la commande `perl Makefile.PL DESTDIR=/opt/ora2pg` avant l'installation par make.
@@ -20,7 +20,7 @@ De nombreux correctifs ont été apportés, pour avoir la liste complète, consu
 
 ## Liens
 
-  * Site Web : [http://ora2pg.darold.net/](http://ora2pg.darold.net/)
+  * Site Web : [https://ora2pg.darold.net/](https://ora2pg.darold.net/)
   * Télécharger : [https://sourceforge.net/projects/ora2pg/](https://sourceforge.net/projects/ora2pg/)
   * Développement : [https://github.com/darold/ora2pg](https://github.com/darold/ora2pg)
 

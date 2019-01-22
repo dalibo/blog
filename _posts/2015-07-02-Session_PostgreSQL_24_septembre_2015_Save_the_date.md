@@ -23,6 +23,6 @@ Un lieu d'exception accueillera cet évènement, et comme chaque année, ce sera
 
 Les inscriptions ne sont pas encore ouvertes, mais nous vous invitons à guetter nos actualités et à réserver d'ores et déjà votre journée !
 
-Plus d'informations ici : [http://www.postgresql-sessions.org/7/start](http://www.postgresql-sessions.org/7/start)
+Plus d'informations ici : [https://www.postgresql-sessions.org/7/start](https://www.postgresql-sessions.org/7/start)
 
 A bientôt pour le programme et l'ouverture des inscriptions.

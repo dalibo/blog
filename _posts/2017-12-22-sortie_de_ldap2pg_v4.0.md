@@ -10,16 +10,16 @@ tags: [PostgreSQL, ldap, ldap2pg, sortie, release]
 ---
 *Paris, le 22 décembre 2017*
 
-[ldap2pg](http://ldap2pg.rtfd.io/en/latest/) est un outil de synchronisation des
+[ldap2pg](https://ldap2pg.rtfd.io/en/latest/) est un outil de synchronisation des
 rôles et des ACL dans PostgreSQL à partir d’un annuaire compatible LDAP. La
 configuration est simple et puissante, via un [fichier
-YAML](http://ldap2pg.rtfd.io/en/latest/config). `ldap2pg` facilite l’intégration
+YAML](https://ldap2pg.rtfd.io/en/latest/config). `ldap2pg` facilite l’intégration
 et la sécurisation de PostgreSQL dans votre infrastructure.
 
 Juste avant les fêtes, [ldap2pg
-4.0](http://ldap2pg.rtfd.io/en/latest/changelog/#ldap2pg-40) arrive avec des
-[ACL prédéfinies](http://ldap2pg.rtfd.io/en/latest/wellknown), le support
-[CentOS 6](http://ldap2pg.rtfd.io/en/latest/install/), la gestion des caractères
+4.0](https://ldap2pg.rtfd.io/en/latest/changelog/#ldap2pg-40) arrive avec des
+[ACL prédéfinies](https://ldap2pg.rtfd.io/en/latest/wellknown), le support
+[CentOS 6](https://ldap2pg.rtfd.io/en/latest/install/), la gestion des caractères
 unicode et son lot de correctifs.
 
 Joyeux Noël !
@@ -27,7 +27,7 @@ Joyeux Noël !
 <!--MORE-->
 
 Fonctionner sur **CentOS 6** demande d'être compatible avec Python 2.6 et
-[Psycopg](http://initd.org/psycopg/docs/) 2.0. Deux bibliothèques
+[Psycopg](https://initd.org/psycopg/docs/) 2.0. Deux bibliothèques
 supplémentaires sont requises pour la compatibilité ascendante :
 [python-logutils](https://pythonhosted.org/logutils/) et
 [python-argparse](https://github.com/ThomasWaldmann/argparse/). Ces
@@ -54,8 +54,8 @@ __ Retrouvez la documentation, des procédures et le support communautaire à ce
 adresses :__
 
 * [Nouveautés de la
-  4.0](http://ldap2pg.rtfd.io/en/latest/changelog/#ldap2pg-40)
-* Documentation en ligne : http://ldap2pg.rtfd.io/en/latest/
+  4.0](https://ldap2pg.rtfd.io/en/latest/changelog/#ldap2pg-40)
+* Documentation en ligne : https://ldap2pg.rtfd.io/en/latest/
 * Le projet sur GitHub : https://github.com/dalibo/ldap2pg
 
 Pour toutes questions techniques, le projet recommande d'utiliser la page du

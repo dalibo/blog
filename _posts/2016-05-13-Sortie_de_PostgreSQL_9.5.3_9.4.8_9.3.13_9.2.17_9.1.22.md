@@ -44,8 +44,8 @@ Les mises à jours mineures sont cumulatives. Comme avec les autres versions min
 
 ## Liens
 
-* Téléchargement: [http://postgresql.org/download](http://postgresql.org/download)
-* Notes de version: [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs
+* Téléchargement: [https://postgresql.org/download](https://postgresql.org/download)
+* Notes de version: [https://www.postgresql.org/docs/current/static/release.html](https://www.postgresql.org/docs
 /current/static/release.html)
 
 

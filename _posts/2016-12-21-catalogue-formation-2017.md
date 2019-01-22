@@ -17,7 +17,7 @@ Cinquante sessions inters dédiées à trois cursus : le cursus DBA, un concentr
 <!--MORE-->
 
 
-Le calendrier de nos sessions est en ligne : [http://www.dalibo.com/formations](http://www.dalibo.com/formations).
+Le calendrier de nos sessions est en ligne : [https://www.dalibo.com/formations](https://www.dalibo.com/formations).
 
 Ainsi que [notre catalogue 2017](https://cloud.dalibo.com/p/dalibo_catalogue_formations_postgresql.pdf), avec programmes, pré-requis et tarifs.
 

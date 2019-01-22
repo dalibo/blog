@@ -15,6 +15,6 @@ C'est parti pour les inscriptions !
 <!--MORE-->
 
 
-Venez assister à notre session PostgreSQL du 24 septembre, le programme [http://www.postgresql-sessions.org/7/start](http://www.postgresql-sessions.org/7/start) vous réserve encore des surprises ...
+Venez assister à notre session PostgreSQL du 24 septembre, le programme [https://www.postgresql-sessions.org/7/start](https://www.postgresql-sessions.org/7/start) vous réserve encore des surprises ...
 
 Les places étant limitées, réservez vite la vôtre pour la journée, mais aussi pour la soirée : [https://www.eventbrite.fr/e/billets-postgresql-session-7-18285710051](https://www.eventbrite.fr/e/billets-postgresql-session-7-18285710051)

@@ -53,7 +53,7 @@ Liens utiles
 * Téléchargement :  https://www.postgresql.org/downloads
 * Press Kit: https://www.postgresql.org/about/press/presskit96
 * Note de Version : https://www.postgresql.org/docs/current/static/release-9-6.html
-* Liste des nouveautés: http://docs.postgresql.fr/9.6/release.html
+* Liste des nouveautés: https://docs.postgresql.fr/9.6/release.html
   https://wiki.postgresql.org/wiki/NewIn96
 
 ----
@@ -63,5 +63,5 @@ Liens utiles
 PostgreSQL est le SGBD open source de référence, soutenu par une communauté internationale comprenant plusieurs milliers d'utilisateurs et des douzaines de sociétés.
 Lancé il y a 25 ans à l'université de Berkeley (Californie), le projet PostgreSQL avance à un rythme de développement inégalé. Au niveau fonctionnel, PostgreSQL est comparable aux SGBD propriétaires et les surpasse en terme d'extensibilité, de sécurité et de stabilité.
 
-Plus d'informations sur PostgreSQL et sa communauté: http://www.postgresql.org/
+Plus d'informations sur PostgreSQL et sa communauté: https://www.postgresql.org/
 

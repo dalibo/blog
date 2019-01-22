@@ -35,9 +35,9 @@ Le Groupe de Développement OPM remercie tous les développeurs ayant contribué
 OPM est un projet ouvert et disponible conformément à la Licence PostgreSQL. Toute contribution pour construire un meilleur outil est la bienvenue. Vous pouvez soumettre vos idées, vos demandes et vos patchs via les outils GitHub ou directement sur contact@opm.io.
 
 
-* Site web : [http://opm.io/](http://opm.io/)
-* Demo : [http://demo.opm.io/](http://demo.opm.io) (login/pass = opm/demo) 
-* Twitter : [@__opm__](http://twitter.com/__opm__)
+* Site web : [https://opm.io/](https://opm.io/)
+* Demo : [https://demo.opm.io/](https://demo.opm.io) (login/pass = opm/demo) 
+* Twitter : [@__opm__](https://twitter.com/__opm__)
 
 ----
 
@@ -45,7 +45,7 @@ OPM est un projet ouvert et disponible conformément à la Licence PostgreSQL. T
 
 Open PostgreSQL Monitoring est un Logiciel Libre conçu pour vous aider à gérer vos serveurs PostgreSQL. C'est un outil flexible qui suivra l'activité de chaque instance. Il peut rassembler des statistiques, des tableaux de bord d'affichage et envoyer des alertes lorsque quelque-chose tourne mal. Le but à long terme du projet est de fournir des fonctions semblables à celles d'Oracle Grid Control ou SQL Server Management Studio, pour PostgreSQL.
 
-Code & Demo sur [http://opm.io/](http://opm.io/)
+Code & Demo sur [https://opm.io/](https://opm.io/)
 
 ##A propos du Groupe de Développement OPM
 

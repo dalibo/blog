@@ -30,6 +30,6 @@ Deux temps forts lors de cette session, grâce à la présence d'acteurs emblém
 
 Bloquez votre journée du 24 septembre et réservez votre place dès l'ouverture des inscriptions début septembre !
 
-Plus d'informations ici : [http://www.postgresql-sessions.org/7/start](http://www.postgresql-sessions.org/7/start)
+Plus d'informations ici : [https://www.postgresql-sessions.org/7/start](https://www.postgresql-sessions.org/7/start)
 
 A bientôt pour l'ouverture des inscriptions.

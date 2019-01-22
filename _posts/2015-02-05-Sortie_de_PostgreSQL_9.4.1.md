@@ -78,15 +78,15 @@ la mise à jour; voyez les notes de mise à jour pour plus de détails.
 * [Sécurité]
 
 
-[Téléchargement]: http://www.postgresql.org/download
-[Notes de version]: http://www.postgresql.org/docs/current/static/release.html
-[Annonce officielle]: http://www.postgresql.org/about/news/1569/
-[Sécurité]: http://www.postgresql.org/support/security/
+[Téléchargement]: https://www.postgresql.org/download
+[Notes de version]: https://www.postgresql.org/docs/current/static/release.html
+[Annonce officielle]: https://www.postgresql.org/about/news/1569/
+[Sécurité]: https://www.postgresql.org/support/security/
 
 
-[CVE-2015-0241]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0241
-[CVE-2015-0242]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0242
-[CVE-2015-0243]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0243
-[CVE-2015-0244]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0244
-[CVE-2014-8161]: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8161 
+[CVE-2015-0241]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0241
+[CVE-2015-0242]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0242
+[CVE-2015-0243]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0243
+[CVE-2015-0244]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-0244
+[CVE-2014-8161]: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-8161 
 

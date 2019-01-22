@@ -42,4 +42,4 @@ __Modifications depuis la version 2.1:__
 * divers: amélioration du processus d'élection en y incluant la comparaison des timelines
 * divers: différents nétoyages du code, factorisation et amélioration des modules
 
-Consultez la documentation à l'adresse suivante: http://dalibo.github.io/PAF/documentation.html
+Consultez la documentation à l'adresse suivante: https://dalibo.github.io/PAF/documentation.html

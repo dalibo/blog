@@ -73,7 +73,7 @@ Toutes les mises à jour de PostgreSQL sont cumulatives. Comme pour les autres v
 
 ## Liens
 
-  * Annonce originale : [http://www.postgresql.org/about/news/1615/](http://www.postgresql.org/about/news/1615/)
-  * Download :  [http://www.postgresql.org/download/](http://www.postgresql.org/download/)
-  * Release Notes :  [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs/current/static/release.html)
-  * Security Page :  [http://www.postgresql.org/support/security/](http://www.postgresql.org/support/security/)
+  * Annonce originale : [https://www.postgresql.org/about/news/1615/](https://www.postgresql.org/about/news/1615/)
+  * Download :  [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
+  * Release Notes :  [https://www.postgresql.org/docs/current/static/release.html](https://www.postgresql.org/docs/current/static/release.html)
+  * Security Page :  [https://www.postgresql.org/support/security/](https://www.postgresql.org/support/security/)

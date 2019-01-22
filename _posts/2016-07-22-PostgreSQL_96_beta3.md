@@ -18,7 +18,7 @@ Si les fonctionnalités disponibles dans cette version vous intéressent, c'est 
 Comment installer cette version ?
 
   * La marche à suivre pour des systèmes à base de Debian/Ubuntu [se trouve ici](https://wiki.postgresql.org/wiki/Apt/FAQ#I_want_to_try_the_beta_version_of_the_next_PostgreSQL_release) ;
-  * Les paquets pour les sytèmes à base de RHEL/Centos [se trouvent ici](http://yum.postgresql.org/repopackages.php#pg96) ;
+  * Les paquets pour les sytèmes à base de RHEL/Centos [se trouvent ici](https://yum.postgresql.org/repopackages.php#pg96) ;
   * Pour des systèmes plus exotiques, le code source peut être [récupéré ici](https://www.postgresql.org/ftp/source/v9.6beta3/).
 
 

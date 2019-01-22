@@ -30,7 +30,7 @@ La nouvelle interface est basée sur la version précédente et elle apporte bea
 
 Screenshot:
 
-![http://powa.readthedocs.org/en/latest/stats_extensions/pg_stat_statements.html#where-is-it-used-in-powa-web](http://powa.readthedocs.org/en/latest/_images/pg_stat_statements.png)
+![https://powa.readthedocs.org/en/latest/stats_extensions/pg_stat_statements.html#where-is-it-used-in-powa-web](https://powa.readthedocs.org/en/latest/_images/pg_stat_statements.png)
 
 ## Statistiques avancées 
 
@@ -40,7 +40,7 @@ Grace à pg_stat_kcache, PoWA est maintenant capable de collecter des statistiqu
 
 Screenshot:
 
-![http://powa.readthedocs.org/en/latest/stats_extensions/pg_stat_kcache.html#where-is-it-used-in-powa-web](http://powa.readthedocs.org/en/latest/_images/pg_stat_kcache_1.png)
+![https://powa.readthedocs.org/en/latest/stats_extensions/pg_stat_kcache.html#where-is-it-used-in-powa-web](https://powa.readthedocs.org/en/latest/_images/pg_stat_kcache_1.png)
 
 ##  Détecteur d'index manquant + Analyseur de clauses WHERE 
 
@@ -48,7 +48,7 @@ Troisième amélioration majeure: avec pg_qualstats, PoWA peut désormais collec
 
 Screenshot:
 
-![http://powa.readthedocs.org/en/latest/stats_extensions/pg_qualstats.html#where-is-it-used-in-powa-web](http://powa.readthedocs.org/en/latest/_images/pg_qualstats.png)
+![https://powa.readthedocs.org/en/latest/stats_extensions/pg_qualstats.html#where-is-it-used-in-powa-web](https://powa.readthedocs.org/en/latest/_images/pg_qualstats.png)
 
 
 ## Des changements radicaux
@@ -73,9 +73,9 @@ POWA est un projet ouvert sous licence PostgreSQL. Toute contribution constructi
 
 Pour PoWA 2.0:
 
-* Téléchargement: [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
-* Démo: [http://demo-powa.dalibo.com](http://demo-powa.dalibo.com)  (login/pass = powa/demo)
-* Doc: [http://powa.readthedocs.org/](http://powa.readthedocs.org/)
+* Téléchargement: [https://dalibo.github.io/powa/](https://dalibo.github.io/powa/)
+* Démo: [https://demo-powa.dalibo.com](https://demo-powa.dalibo.com)  (login/pass = powa/demo)
+* Doc: [https://powa.readthedocs.org/](https://powa.readthedocs.org/)
 * Liste de discussion: [https://groups.google.com/forum/?hl=fr#!forum/powa-users](https://groups.google.com/forum/?hl=fr#!forum/powa-users)
 * Issues: [https://github.com/dalibo/powa/issues](https://github.com/dalibo/powa/issues)
 
@@ -84,7 +84,7 @@ Pour les nouvelles extensions :
 * [pg_stat_kcache](https://github.com/dalibo/pg_stat_kcache)
 * [pg_qualstats](https://github.com/dalibo/pg_qualstats) 
 
-Pour une liste complète des changements, vous pouvez consulter la note de version : [http://powa.readthedocs.org/en/latest/releases/v2.0.html](http://powa.readthedocs.org/en/latest/releases/v2.0.html)
+Pour une liste complète des changements, vous pouvez consulter la note de version : [https://powa.readthedocs.org/en/latest/releases/v2.0.html](https://powa.readthedocs.org/en/latest/releases/v2.0.html)
 
 
 
@@ -94,6 +94,6 @@ Pour une liste complète des changements, vous pouvez consulter la note de versi
 
 PoWA est un analyseur de trafic PostgreSQL qui collecte des statistiques en temps réel et affiche des tableaux et des graphes en temps réel pour vous aider à superviser et optimiser vos instances PostgreSQL. C'est un outil similaire à Oracle AWR ou SQL Server MDW.
 
-Code & Demo sur [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
+Code & Demo sur [https://dalibo.github.io/powa/](https://dalibo.github.io/powa/)
 
-Retrouvez les projets open source de DALIBO sur http://dalibo.github.io
+Retrouvez les projets open source de DALIBO sur https://dalibo.github.io

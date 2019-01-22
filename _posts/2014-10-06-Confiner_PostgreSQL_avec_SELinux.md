@@ -82,5 +82,5 @@ l'autoriser dans la configuration locale de SELinux :
 Enfin, il ne faut pas oublier d'appliquer les contexts aux fichiers
 soit avec `restorecon`, un relabel complet au reboot ou `chcon`.
 
-[github]: http://github.com/dalibo/selinux-pgsql-pgdg
+[github]: https://github.com/dalibo/selinux-pgsql-pgdg
 [chez Red Hat]: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Security-Enhanced_Linux/index.html

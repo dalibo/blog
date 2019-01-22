@@ -20,6 +20,6 @@ Venez pour échanger vos expériences autour de PostgreSQL, et assister à deux 
 
   * Ronan Dunklau, Dalibo : "Rétrospective de 6 ans d'innovations, de la 9.0 à la future 9.6"
 
-Ce [meetup](http://www.meetup.com/fr-FR/PostgreSQL-User-Group-Lyon/events/230034143/?eventId=230034143) aura lieu à partir de 19h, à Lyon, L'envers des Pentes, 112 montée de la grande côte. Inscrivez-vous rapidement (avant le 19 avril, 19h) !
+Ce [meetup](https://www.meetup.com/fr-FR/PostgreSQL-User-Group-Lyon/events/230034143/?eventId=230034143) aura lieu à partir de 19h, à Lyon, L'envers des Pentes, 112 montée de la grande côte. Inscrivez-vous rapidement (avant le 19 avril, 19h) !
 
 De futurs évènements sont appelés à être organisés pour traiter d'autres thèmes, n'hésitez pas à venir pour partager vos suggestions.

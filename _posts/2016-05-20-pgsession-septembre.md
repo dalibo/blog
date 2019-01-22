@@ -23,6 +23,6 @@ Ce sera l'occasion de découvrir et rencontrer les communautés PostgreSQL et Po
 
 Le programme est en construction, les inscriptions ne sont pas encore ouvertes, mais nous vous invitons à guetter nos actualités et à réserver d'ores et déjà votre journée !
 
-Plus d'informations ici : [http://www.postgresql-sessions.org/8/start](http://www.postgresql-sessions.org/8/start)
+Plus d'informations ici : [https://www.postgresql-sessions.org/8/start](https://www.postgresql-sessions.org/8/start)
 
 A bientôt pour le programme et l'ouverture des inscriptions.

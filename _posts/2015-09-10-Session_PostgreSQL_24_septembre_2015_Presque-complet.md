@@ -15,7 +15,7 @@ L'ouverture des inscriptions mardi dernier a débuté en fanfare ! Plus de 30% d
 <!--MORE-->
 
 
-Le programme [http://www.postgresql-sessions.org/7/start](http://www.postgresql-sessions.org/7/start) déjà bien fourni promet encore quelques interventions de qualité !
+Le programme [https://www.postgresql-sessions.org/7/start](https://www.postgresql-sessions.org/7/start) déjà bien fourni promet encore quelques interventions de qualité !
 
 Si vous souhaitez y participer et nous rejoindre pour cette journée, et soirée ! entièrement dédiées à PostgreSQL, n'hésitez plus : [https://www.eventbrite.fr/e/billets-postgresql-session-7-18285710051](https://www.eventbrite.fr/e/billets-postgresql-session-7-18285710051)
 

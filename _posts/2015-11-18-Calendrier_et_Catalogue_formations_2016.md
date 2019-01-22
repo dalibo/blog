@@ -18,7 +18,7 @@ Soixante sessions inters dédiées à trois cursus : le cursus DBA regroupant ci
 
 Découvrez ci-après notre calendrier de formations inter pour le premier semestre 2016.
 
-Et notre catalogue 2016 : [http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf](http://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf)
+Et notre catalogue 2016 : [https://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf](https://www.dalibo.com/_media/dalibo_catalogue_formations_postgresql.pdf)
 
 N'hésitez pas à nous contacter pour vous y inscrire ou obtenir des renseignements complémentaires : [formation@dalibo.com](formation@dalibo.com)
 
@@ -121,4 +121,4 @@ N'hésitez pas à nous contacter pour vous y inscrire ou obtenir des renseigneme
 
 23-25 mai 
 
-Et pour encore plus d'informations : [http://www.dalibo.com/formations](http://www.dalibo.com/formations)
+Et pour encore plus d'informations : [https://www.dalibo.com/formations](https://www.dalibo.com/formations)

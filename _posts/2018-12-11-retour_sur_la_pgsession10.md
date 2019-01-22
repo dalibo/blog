@@ -25,7 +25,7 @@ Nous avions aussi la chance de recevoir **Oleksii Kliukin** et **Sergey Dudolado
 
 ## Quelques liens pour revivre l'événement :
 
-Si vous avez manqué l'événement, nous vous invitons à **consulter les supports de présentations des conférenciers**, sur le site web des PGSessions: [http://www.postgresql-sessions.org/10/start](http://www.postgresql-sessions.org/10/start)
+Si vous avez manqué l'événement, nous vous invitons à **consulter les supports de présentations des conférenciers**, sur le site web des PGSessions: [https://www.postgresql-sessions.org/10/start](https://www.postgresql-sessions.org/10/start)
 
 L’ensemble des interventions est d’ores et déjà disponibles sur notre **[chaine Youtube](https://www.youtube.com/watch?v=udwzu1j3eSU&list=PLdz5EN2NV_7C0k25FPXca1OVjgkRB-QZi)** !
 Pour ne rien manquer de nos news, prochains events, workshops ou articles de blogs, suivez-nous sur Twitter : [@PGSession](https://twitter.com/pgsession), [@Dalibo](https://twitter.com/dalibo) et [@Oslandia_fr](https://twitter.com/oslandia_fr).

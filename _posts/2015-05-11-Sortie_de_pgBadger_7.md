@@ -11,7 +11,7 @@ PgBadger est un analyseur de performances pour PostgreSQL, conçu pour produire 
 
 <!--MORE-->
 
-Cette nouvelle sortie majeure apporte plusieurs nouveaux rapports et fonctionnalités. L'une des principales nouveautés est l'ajout du support des traces de l'extension auto_explain, fonctionnalité demandée depuis longtemps. Le plan résultant de l'EXPLAIN est ainsi ajouté avec les requêtes les plus lentes dans le rapport pgBadger. Un lien est même disponible pour afficher ce plan directement sur le site  [http://explain.depesz.com/](http://explain.depesz.com/).
+Cette nouvelle sortie majeure apporte plusieurs nouveaux rapports et fonctionnalités. L'une des principales nouveautés est l'ajout du support des traces de l'extension auto_explain, fonctionnalité demandée depuis longtemps. Le plan résultant de l'EXPLAIN est ainsi ajouté avec les requêtes les plus lentes dans le rapport pgBadger. Un lien est même disponible pour afficher ce plan directement sur le site  [https://explain.depesz.com/](https://explain.depesz.com/).
   
 Liste des autres nouveaux rapports dans cette version :
 

@@ -39,7 +39,7 @@ tels qu'utilisés dans la requête comme zone modifiable dynamiquement.
 
 pgFormatter v1.6 est aussi disponible comme service en ligne gratuit pour
 formater des requêtes allant jusqu'à 100 KB. Pour voir un exemple de
-formatage SQL généré par pgFormatter allez sur [http://sqlformat.darold.net/](http://sqlformat.darold.net/)
+formatage SQL généré par pgFormatter allez sur [https://sqlformat.darold.net/](https://sqlformat.darold.net/)
 et cliquez sur le bouton "Load an example" puis sur "Format my code". Pour
 formater votre code SQL, copier le dans la zone de texte et cliquez sur le
 bouton "Format my code".
@@ -49,8 +49,8 @@ Pour la liste complète des changements dans cette version, consultez l'URL
 
 ## Liens
 
-  * Site Web : [http://sqlformat.darold.net/](http://sqlformat.darold.net/)
-  * Télécharger : [http://sourceforge.net/projects/pgformatter/](http://sourceforge.net/projects/pgformatter/)
+  * Site Web : [https://sqlformat.darold.net/](https://sqlformat.darold.net/)
+  * Télécharger : [https://sourceforge.net/projects/pgformatter/](https://sourceforge.net/projects/pgformatter/)
   * Développement : [https://github.com/darold/pgFormatter](https://github.com/darold/pgFormatter)
   * ChangeLog : [https://github.com/darold/pgFormatter/blob/master/ChangeLog](https://github.com/darold/pgFormatter/blob/master/ChangeLog)
 

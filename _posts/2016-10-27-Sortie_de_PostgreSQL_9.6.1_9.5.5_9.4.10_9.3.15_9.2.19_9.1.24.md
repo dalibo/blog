@@ -80,7 +80,7 @@ Les utilisateurs qui ont sauté une ou plusieurs mises à jour mineures pourraie
 ## Liens
 
 
-* Téléchargement: [http://postgresql.org/download](http://postgresql.org/download)
-* Notes de version: [http://www.postgresql.org/docs/current/static/release.html](http://www.postgresql.org/docs/current/static/release.html)
-* Page sur la sécurité : [http://www.postgresql.org/support/security/](http://www.postgresql.org/support/security/)
+* Téléchargement: [https://postgresql.org/download](https://postgresql.org/download)
+* Notes de version: [https://www.postgresql.org/docs/current/static/release.html](https://www.postgresql.org/docs/current/static/release.html)
+* Page sur la sécurité : [https://www.postgresql.org/support/security/](https://www.postgresql.org/support/security/)
 * Politique de versionnement : [https://www.postgresql.org/support/versioning/](https://www.postgresql.org/support/versioning/)

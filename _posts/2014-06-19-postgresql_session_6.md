@@ -14,7 +14,7 @@ Après le succès des cinq premières Sessions PostgreSQL dédiées aux nouveaut
 
 
 
-En effet, pour continuer sur cette lancée, Dalibo et Oslandia organisent ensemble une journée de conférences dédiée à PostgreSQL et PostGIS : [[http://www.postgresql-sessions.org/]]
+En effet, pour continuer sur cette lancée, Dalibo et Oslandia organisent ensemble une journée de conférences dédiée à PostgreSQL et PostGIS : [[https://www.postgresql-sessions.org/]]
 
 Nous lançons donc un appel à conférenciers, vous pouvez nous envoyer vos propositions d'intervention, en anglais ou en français. Chaque intervention doit durer entre 30 et 45 minutes (en comptant les éventuelles questions) et concerner le thème ci-dessus. Nous sommes intéressés en particulier par les thématiques suivantes (liste non exhaustive):
 

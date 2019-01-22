@@ -22,7 +22,7 @@ By sharing every needs and ideas of different developers, this meeting could lea
 ### 20 developers and around 15 projects united:
 
 The registered developers are involved in PostgreSQL tools such as:
-  * [KEXI](http://www.kexi-project.org/about.html)
+  * [KEXI](https://www.kexi-project.org/about.html)
   * [Postico (PostgreSQL GUI for macOS)](https://eggerapps.at/postico/)
   * [pgAdmin4](https://www.pgadmin.org/)
   * [DBeaver](https://dbeaver.jkiss.org/)
@@ -30,12 +30,12 @@ The registered developers are involved in PostgreSQL tools such as:
   * [pg-view](https://pypi.python.org/pypi/pg-view)
   * [pganalyze](https://pganalyze.com/)
   * [PostgreSQL Dashboard](https://github.com/daamien/PostgreSQL-Dashboard)
-  * [PostgreSQL Studio](http://www.postgresqlstudio.org/)
+  * [PostgreSQL Studio](https://www.postgresqlstudio.org/)
   * [pgDevOps](https://www.openscg.com/bigsql/pgdevops/)
   * [Patroni](https://github.com/zalando/patroni)
-  * [temBoard](http://temboard.io/)
+  * [temBoard](https://temboard.io/)
   * [pg_activity](https://github.com/julmon/pg_activity)
-  * [PoWA](http://dalibo.github.io/powa/)
+  * [PoWA](https://dalibo.github.io/powa/)
   * [pgFormatter](https://github.com/darold/pgFormatter)
 
 On Dalibo's side, three PostgreSQL tool developers will be attending the meeting: Gilles Darold (PgBadger, pgFormatter, pgCluu...), Julien Tachoires (temBoard, pg_activity), Pierre Giraud (temBoard, PoWA). Also, Damien Clochard (PostgreSQL Dashboard, Dalibo cofounder) and Léo Cossic: both organizers of the meeting.

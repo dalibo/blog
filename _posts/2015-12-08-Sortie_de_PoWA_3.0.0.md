@@ -55,9 +55,9 @@ Vous pouvez envoyer vos idées, vos demandes et vos patchs via Github ou directe
 
 Pour PoWA 3.0.0 :
 
-  * Téléchargement : [dalibo.github.io/powa](http://dalibo.github.io/powa/)
-  * Démo : [demo-powa.dalibo.com](http://demo-powa.dalibo.com) (login/pass = powa/demo)
-  * Doc : [powa.readthedocs.org](http://powa.readthedocs.org)
+  * Téléchargement : [dalibo.github.io/powa](https://dalibo.github.io/powa/)
+  * Démo : [demo-powa.dalibo.com](https://demo-powa.dalibo.com) (login/pass = powa/demo)
+  * Doc : [powa.readthedocs.org](https://powa.readthedocs.org)
   * Mailing list : [https://groups.google.com/forum/?hl=fr#!forum/powa-users](https://groups.google.com/forum/?hl=fr#!forum/powa-users)
   * Problèmes/Questions : [github.com/dalibo/powa/issues](https://github.com/dalibo/powa/issues)
 
@@ -70,4 +70,4 @@ Pour les extensions statistiques :
 ## À propos de POWA 
 
 PoWA est un analyseur de trafic PostgreSQL qui collecte des statistiques et affiche des tableaux et des graphes en temps réel pour vous aider à superviser et optimiser vos serveurs PostgreSQL.
-Code & Demo sur [dalibo.github.io](http://dalibo.github.io/)
+Code & Demo sur [dalibo.github.io](https://dalibo.github.io/)

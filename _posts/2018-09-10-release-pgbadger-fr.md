@@ -11,7 +11,7 @@ tags: [dalibo, postgresql, temboard, foss, floss, version, 2, sortie, release, 2
 
 *Paris, le 10 septembre 2018*
 
-[Gilles Darold](http://www.darold.net/) publie aujourd'hui la version 10.0 de pgBadger, l'outil pour PostgreSQL qui analyse votre trafic SQL et vous livre un rapport complet avec des graphes dynamiques sur les performances de votre serveur et les axes d'optimisation possibles.
+[Gilles Darold](https://www.darold.net/) publie aujourd'hui la version 10.0 de pgBadger, l'outil pour PostgreSQL qui analyse votre trafic SQL et vous livre un rapport complet avec des graphes dynamiques sur les performances de votre serveur et les axes d'optimisation possibles.
 
 <!--MORE-->
 
@@ -31,5 +31,5 @@ DaliboLabs contribue à PostgreSQL en développant des outils open sources, en �
 
 ## Nouveaux liens vers le projet
 
- * Site web : [http://pgbadger.darold.net/](http://pgbadger.darold.net/)
+ * Site web : [https://pgbadger.darold.net/](https://pgbadger.darold.net/)
  * Code source : [https://github.com/darold/pgbadger](https://github.com/darold/pgbadger)

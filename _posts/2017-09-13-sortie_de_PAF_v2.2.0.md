@@ -36,8 +36,8 @@ Son objectif principal est de tracer une ligne claire entre l'administration de 
 
 __Vous trouverez la documentation, des procédures et le support communautaire à ces liens:__
 
-* Consultez la documentation: http://dalibo.github.io/PAF/documentation.html
-* Installez PAF: http://dalibo.github.io/PAF/ 
+* Consultez la documentation: https://dalibo.github.io/PAF/documentation.html
+* Installez PAF: https://dalibo.github.io/PAF/ 
 * Participez au support: https://github.com/dalibo/PAF/issues
 
 Pour toute question technique, le projet recommande d'utiliser les listes pgsql-general@postgresql.org ou users@clusterlabs.org.

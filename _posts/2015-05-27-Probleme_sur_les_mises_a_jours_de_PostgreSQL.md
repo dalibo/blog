@@ -37,7 +37,7 @@ Si vous êtes victime de ce bug, PostgreSQL refusera de redémarrer après un cr
     2015-05-26 03:27:20 UTC [330-1] LOG:  startup process (PID 331) exited with exit code 1
     2015-05-26 03:27:20 UTC [330-2] LOG:  aborting startup due to startup process failure
 
-Pour plus d'informations, veuillez consulter le rapport de bug initial : http://www.postgresql.org/message-id/20150525142657.4686.35151@wrigleys.postgresql.org
+Pour plus d'informations, veuillez consulter le rapport de bug initial : https://www.postgresql.org/message-id/20150525142657.4686.35151@wrigleys.postgresql.org
 
 
 Je suis affecté par ce bug, et n'arrive pas à redémarrer PostgreSQL, que puis-je faire ?

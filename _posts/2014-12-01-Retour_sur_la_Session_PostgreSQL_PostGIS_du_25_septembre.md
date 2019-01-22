@@ -28,13 +28,13 @@ Nous avons pu assister aux présentations ci-après :
   * *Rémy Cura*, **IGN/Thalès**, nous a exposé une présentation très « visuelle » de PointCloud ;
   * *Gilles Darold*, **Dalibo**, a conclu par une intervention concernant la Migration d'Oracle Spatial avec ora2pg.
 
-Vous pourrez trouver toutes les présentations sur le [site de l'évènement](http://www.postgresql-sessions.org/6/start)
+Vous pourrez trouver toutes les présentations sur le [site de l'évènement](https://www.postgresql-sessions.org/6/start)
 
 La prochaine session se tiendra en juin 2015, et aura pour thème les **10 ans de Dalibo** ! 
 Au plaisir de vous y rencontrer en cette belle occasion !
 
 Et pour être informés de nos projets, évènements à venir ... 
 
-[Blog Oslandia](http://www.oslandia.com/articles.html) / [Twitter](https://twitter.com/Oslandia_fr)
+[Blog Oslandia](https://www.oslandia.com/articles.html) / [Twitter](https://twitter.com/Oslandia_fr)
 
-[Newsletter Dalibo](http://dalibo.us6.list-manage.com/subscribe?u=1c10ff1ff8&id=0f138e24f0)
+[Newsletter Dalibo](https://dalibo.us6.list-manage.com/subscribe?u=1c10ff1ff8&id=0f138e24f0)

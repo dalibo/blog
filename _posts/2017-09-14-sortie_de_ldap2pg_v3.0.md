@@ -29,7 +29,7 @@ Pour faciliter l'intégration avec la supervision ou l'audit, `ldap2pg` a désor
 
 __Vous trouverez la documentation, des procédures et le support communautaire à ces liens:__
 
-* Consultez la documentation : http://ldap2pg.readthedocs.io/en/latest/
+* Consultez la documentation : https://ldap2pg.readthedocs.io/en/latest/
 * Le projet sur GitHub : https://github.com/dalibo/ldap2pg
 
 La documentation contient désormais des exemples réels d'intégration et de requêtes d'introspection des ACLs. Pour toute question technique, le projet recommande d'utiliser la page du projet sur GitHub.

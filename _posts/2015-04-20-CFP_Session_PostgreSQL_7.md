@@ -13,7 +13,7 @@ Après le succès des six premières Sessions PostgreSQL dédiées aux nouveaut�
 
 <!--MORE-->
 
-Cette année, changement de lieu, mais pas de format !  Cette journée de conférences sera consacrée notamment à la prochaine version de PostgreSQL, mais pas seulement ! : [http://www.postgresql-sessions.org/7/about](http://www.postgresql-sessions.org/7/about)
+Cette année, changement de lieu, mais pas de format !  Cette journée de conférences sera consacrée notamment à la prochaine version de PostgreSQL, mais pas seulement ! : [https://www.postgresql-sessions.org/7/about](https://www.postgresql-sessions.org/7/about)
 
 Nous lançons donc un appel à conférenciers, et vous remercions de nous envoyer vos propositions d'intervention, en anglais ou en français. 
 Chaque intervention doit durer 30 minutes (en comptant les éventuelles questions). 

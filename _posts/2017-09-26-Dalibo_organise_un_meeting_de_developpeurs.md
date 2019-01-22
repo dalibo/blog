@@ -23,7 +23,7 @@ En mettant en commun les besoins et idées des différents développeurs, cette 
 ### 20 développeurs et une quinzaine d'outils représentés
 
 Les développeurs présents sont à l'origines d'outils pour PostgreSQL tels que :
-  * [KEXI](http://www.kexi-project.org/about.html)
+  * [KEXI](https://www.kexi-project.org/about.html)
   * [Postico (PostgreSQL GUI for macOS)](https://eggerapps.at/postico/)
   * [pgAdmin4](https://www.pgadmin.org/)
   * [DBeaver](https://dbeaver.jkiss.org/)
@@ -31,13 +31,13 @@ Les développeurs présents sont à l'origines d'outils pour PostgreSQL tels que
   * [pg_view](https://pypi.python.org/pypi/pg-view)
   * [pganalyze](https://pganalyze.com/)
   * [PostgreSQL Dashboard](https://github.com/daamien/PostgreSQL-Dashboard)
-  * [PostgreSQL Studio](http://www.postgresqlstudio.org/)
+  * [PostgreSQL Studio](https://www.postgresqlstudio.org/)
   * [pgDevOps](https://www.openscg.com/bigsql/pgdevops/)
   * [Patroni](https://github.com/zalando/patroni)
-  * [temBoard](http://temboard.io/)
+  * [temBoard](https://temboard.io/)
   * [pg_activity](https://github.com/julmon/pg_activity)
-  * [PgBadger](http://dalibo.github.io/pgbadger/)
-  * [Ora2Pg](http://ora2pg.darold.net/)
+  * [PgBadger](https://dalibo.github.io/pgbadger/)
+  * [Ora2Pg](https://ora2pg.darold.net/)
 
 Du côté de **Dalibo**, trois développeurs d'outils pour PostgreSQL seront présents: Gilles Darold (pgBadger, Ora2pg, pgCluu..), Julien Tachoires (temBoard, pg_activity), Pierre Giraud (temBoard, PoWA). Seront également présents, Damien Clochard (PostgreSQL Dashboard) et Léo Cossic, initiateurs et organisateurs de la rencontre. 
 

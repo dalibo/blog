@@ -58,9 +58,9 @@ DALIBO est une société coopérative (SCOP). Après un certain temps passé dan
 DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
 Pour plus d'informations :
 
-* http://www.dalibo.com
-* http://www.dalibo.org
-* http://dalibo.github.io
+* https://www.dalibo.com
+* https://www.dalibo.org
+* https://dalibo.github.io
 
 
 ##Candidatures

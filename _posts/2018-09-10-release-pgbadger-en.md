@@ -11,7 +11,7 @@ tags: [dalibo, postgresql, pgbadger, foss, floss, version, 10, 10.0, release, gi
 
 *Paris, september 10th 2018*
 
-[Gilles Darold](http://www.darold.net/) released today version 10.0 of pgBadger, the PostgreSQL log analyzer built for speed with fully detailed reports and professional rendering. It outperform any other PostgreSQL log analyzer.
+[Gilles Darold](https://www.darold.net/) released today version 10.0 of pgBadger, the PostgreSQL log analyzer built for speed with fully detailed reports and professional rendering. It outperform any other PostgreSQL log analyzer.
 
 <!--MORE-->
 
@@ -32,5 +32,5 @@ DaliboLabs contributes to PostgreSQL by developing tools, writing articles and o
 
 ## New links to the project
 
- * Web site: [http://pgbadger.darold.net/](http://pgbadger.darold.net/)
+ * Web site: [https://pgbadger.darold.net/](https://pgbadger.darold.net/)
  * Source code: [https://github.com/darold/pgbadger](https://github.com/darold/pgbadger)

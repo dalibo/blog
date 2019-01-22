@@ -55,9 +55,9 @@ DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, d
 
 Pour plus d'informations :
 
-[http://www.dalibo.com](http://www.dalibo.com)
+[https://www.dalibo.com](https://www.dalibo.com)
 
-[http://dalibo.github.io](http://dalibo.github.io)
+[https://dalibo.github.io](https://dalibo.github.io)
 
 Candidatures
 ---

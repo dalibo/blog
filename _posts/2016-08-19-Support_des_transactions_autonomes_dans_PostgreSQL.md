@@ -450,7 +450,7 @@ Il est intéressant de comparer les performances entre ces deux extensions,
 bureau avec 1 CPU AMD FX(tm)-8350 - 8 cœurs, d'où le peu de performances
 mais cela donne un ordre d'idée. 
 
-<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background.png" title="Results dblink vs pg_background"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_vs_pg_background.png" title="Results dblink vs pg_background"/>
 
 Sur ce premier test avec les fonctions générées par Ora2Pg, on peut constater
 que les performances sont équivalentes jusqu'à 10 clients en parallèle. Ensuite,
@@ -460,7 +460,7 @@ Sur le test suivant, j'ai utilisé des appels asynchrones tant du côté *dblink
 que *pg_background*. En mode asynchrone, *pg_background* semble beaucoup plus
 performant :
 
-<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_vs_pg_background_async.png" title="Results dblink vs pg_background asynchronous"/>
 
 mais le problème est que la plupart des transactions sont interrompues en erreur
 concernant l'allocation des segments de mémoire partagée :
@@ -485,7 +485,7 @@ extrême qui ne peut pas être réalisé avec l'extension *pg_background*. Pour 
 réaliser la comparaison j'ai rajouté un appel à `pg_sleep(0.005)` juste après l'appel
 à `pg_background_launch()`, ce qui donne les résultats suivants:
 
-<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous with timing"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous with timing"/>
 
 Même le cas d'usage utilisé ici n'est pas très réaliste, cela donne tout de même
 une idée des performances que l'on peut attendre de ces deux modules pour la gestion

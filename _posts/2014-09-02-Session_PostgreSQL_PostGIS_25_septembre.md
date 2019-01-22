@@ -27,4 +27,4 @@ Au programme de cette journée :
   * **Migration d'Oracle Spatial avec ora2pg** par Gilles Darold - DALIBO
 
 Nos précédentes sessions depuis 2011 ayant toujours rencontré un vif succès, et les places étant limitées, nous vous invitons à réserver au plus vite !
-[http://www.postgresql-sessions.org/6/registration_form](http://www.postgresql-sessions.org/6/registration_form)
+[https://www.postgresql-sessions.org/6/registration_form](https://www.postgresql-sessions.org/6/registration_form)

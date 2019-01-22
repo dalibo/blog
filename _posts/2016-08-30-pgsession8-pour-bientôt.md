@@ -17,6 +17,6 @@ L'ouverture des inscriptions, c'est pour très bientôt !
 
 Plus que quelques jours avant de pouvoir vous inscrire à notre conférence de rentrée, réunissant compétences et projets autour de PostgreSQL et PostGIS.
 
-Organisée cette année à Lyon, Place Bellecour, aux côtés d'Oslandia, nous vous attendons pour un programme de qualité : [http://www.postgresql-sessions.org/8/start](http://www.postgresql-sessions.org/8/start)
+Organisée cette année à Lyon, Place Bellecour, aux côtés d'Oslandia, nous vous attendons pour un programme de qualité : [https://www.postgresql-sessions.org/8/start](https://www.postgresql-sessions.org/8/start)
 
 A très vite pour le lien vers le site sur lequel vous pourrez vous enregistrer ! 

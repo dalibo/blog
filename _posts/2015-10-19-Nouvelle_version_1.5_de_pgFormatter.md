@@ -23,12 +23,12 @@ Il y a aussi une astuce ajoutée à la documentation qui est très utile aux
 utilisateurs de vi. Vous pouvez formater le code SQL directement depuis
 vi en ajoutant une simpl ligne au fichier .vimrc. Pour plus de détails
 consultez la documentation.  Cette astuce est issue du blog de David Fetter
-[http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html](http://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html)
+[https://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html](https://people.planetpostgresql.org/dfetter/index.php?/archives/78-Formatting!.html)
 
 ## Liens
 
-  * Site Web : [http://sqlformat.darold.net/](http://sqlformat.darold.net/)
-  * Télécharger : [http://sourceforge.net/projects/pgformatter/](http://sourceforge.net/projects/pgformatter/)
+  * Site Web : [https://sqlformat.darold.net/](https://sqlformat.darold.net/)
+  * Télécharger : [https://sourceforge.net/projects/pgformatter/](https://sourceforge.net/projects/pgformatter/)
   * Développement : [https://github.com/darold/pgFormatter](https://github.com/darold/pgFormatter)
   * ChangeLog : [https://github.com/darold/pgFormatter/blob/master/ChangeLog](https://github.com/darold/pgFormatter/blob/master/ChangeLog)
 

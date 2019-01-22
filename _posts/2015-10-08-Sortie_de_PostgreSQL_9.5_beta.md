@@ -47,7 +47,7 @@ La 24 septembre dernier, Magnus Hagander était dans les locaux de Mozilla à Pa
 
 Retrouvez l'intégralité de sa présentation sur dans cette video :
 
-[![PostgreSQL 9.5](http://img.youtube.com/vi/qluVWI1UKiM/0.jpg)](https://youtu.be/qluVWI1UKiM?list=PLdz5EN2NV_7BXtGhlWNWepg0HCJ68KXRk)
+[![PostgreSQL 9.5](https://img.youtube.com/vi/qluVWI1UKiM/0.jpg)](https://youtu.be/qluVWI1UKiM?list=PLdz5EN2NV_7BXtGhlWNWepg0HCJ68KXRk)
 
 ## Liens: 
 
@@ -57,13 +57,13 @@ Retrouvez l'intégralité de sa présentation sur dans cette video :
 * [Comment tester]
 
 
-[Téléchargement]: http://www.postgresql.org/download
-[Notes de version]: http://www.postgresql.org/docs/devel/static/release-9-5.html
-[Annonce officielle]: http://www.postgresql.org/about/news/1614/
-[Comment tester]: http://www.postgresql.org/developer/beta/
+[Téléchargement]: https://www.postgresql.org/download
+[Notes de version]: https://www.postgresql.org/docs/devel/static/release-9-5.html
+[Annonce officielle]: https://www.postgresql.org/about/news/1614/
+[Comment tester]: https://www.postgresql.org/developer/beta/
 [TABLESAMPLE]: https://wiki.postgresql.org/wiki/TABLESAMPLE_Implementation
-[ROLLUP, CUBE, and GROUPING SETS]: http://www.postgresql.org/docs/devel/static/queries-table-expressions.html#QUERIES-GROUPING-SETS
-[Index BRIN]: http://www.postgresql.org/docs/devel/static/brin-intro.html
-[IMPORT FOREIGN SCHEMA]: http://www.postgresql.org/docs/devel/static/sql-importforeignschema.html
-[JOIN pushdown]: http://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=e7cb7ee14555cc9c5773e2c102efd6371f6f2005
+[ROLLUP, CUBE, and GROUPING SETS]: https://www.postgresql.org/docs/devel/static/queries-table-expressions.html#QUERIES-GROUPING-SETS
+[Index BRIN]: https://www.postgresql.org/docs/devel/static/brin-intro.html
+[IMPORT FOREIGN SCHEMA]: https://www.postgresql.org/docs/devel/static/sql-importforeignschema.html
+[JOIN pushdown]: https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=e7cb7ee14555cc9c5773e2c102efd6371f6f2005
 [Row Level Security]: https://wiki.postgresql.org/wiki/Row-security

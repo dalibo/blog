@@ -65,4 +65,4 @@ Dans l'attente de vos propositions, nous vous donnons rendez-vous à Lyon en sep
 
 Nos sessions, gratuites et ouvertes à tous sont avant tout des moments pour découvrir et rencontrer la communauté PostgreSQL. Chaque session est une journée composée de conférences, organisée autour d'un thème précis et d'un invité de marque. Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet, Directeurs informatique,…
 
-Pour plus de renseignements : [http://www.postgresql-sessions.org/7/about](http://www.postgresql-sessions.org/7/about)  
+Pour plus de renseignements : [https://www.postgresql-sessions.org/7/about](https://www.postgresql-sessions.org/7/about)  

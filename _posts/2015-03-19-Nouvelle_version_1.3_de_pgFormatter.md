@@ -18,8 +18,8 @@ usuelle.
 
 ## Liens
 
-  * Site Web : [http://sqlformat.darold.net/](http://sqlformat.darold.net/)
-  * Télécharger : [http://sourceforge.net/projects/pgformatter/](http://sourceforge.net/projects/pgformatter/)
+  * Site Web : [https://sqlformat.darold.net/](https://sqlformat.darold.net/)
+  * Télécharger : [https://sourceforge.net/projects/pgformatter/](https://sourceforge.net/projects/pgformatter/)
   * Développement : [https://github.com/darold/pgFormatter](https://github.com/darold/pgFormatter)
   * ChangeLog : [https://github.com/darold/pgFormatter/blob/master/ChangeLog](https://github.com/darold/pgFormatter/blob/master/ChangeLog)
 

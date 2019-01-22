@@ -26,10 +26,10 @@ pour Red Hat / CentOS sur <https://yum.postgresql.org>.
 Ce dépot SLES supplémentaire contient quasiment tous les paquets que l'on trouve
 déja dans le dépôt YUM : les versions 10, 9.6 et 9.5 sont supportés ainsi qu'une 
 centaine de logiciels additionnels, notamment des outils produits ou soutenus
-par Dalibo comme [pgBadger](http://dalibo.github.io/pgbadger/), 
-[PoWA](http://dalibo.github.io/powa/), 
+par Dalibo comme [pgBadger](https://dalibo.github.io/pgbadger/), 
+[PoWA](https://dalibo.github.io/powa/), 
 [emaj](https://github.com/beaud76/emaj), 
-[HypoPG](http://dalibo.github.io/hypopg/), 
+[HypoPG](https://dalibo.github.io/hypopg/), 
 [pg_activity](https://github.com/julmon/pg_activity)
 
 La liste complète des logiciels distribués est disponible ici:

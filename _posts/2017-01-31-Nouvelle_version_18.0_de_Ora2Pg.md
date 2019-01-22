@@ -96,7 +96,7 @@ De très nombreux correctifs ont été apportés, pour avoir la liste complète,
 
 ## Liens
 
-  * Site Web : [http://ora2pg.darold.net/](http://ora2pg.darold.net/)
+  * Site Web : [https://ora2pg.darold.net/](https://ora2pg.darold.net/)
   * Télécharger : [https://sourceforge.net/projects/ora2pg/](https://sourceforge.net/projects/ora2pg/)
   * Développement : [https://github.com/darold/ora2pg](https://github.com/darold/ora2pg)
 

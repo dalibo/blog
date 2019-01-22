@@ -38,6 +38,6 @@ Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Pr
 
 Merci d'envoyer vos propositions à l'adresse email : [call-for-paper@postgresql-sessions.org](mailto:call-for-paper@postgresql-sessions.org).
 
-Pour plus de renseignements : [http://www.postgresql-sessions.org/8/start](http://www.postgresql-sessions.org/8/start)  
+Pour plus de renseignements : [https://www.postgresql-sessions.org/8/start](https://www.postgresql-sessions.org/8/start)  
 
 Rendez-vous à Lyon en septembre !

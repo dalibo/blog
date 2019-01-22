@@ -19,4 +19,4 @@ Un programme de qualité cette année, autour des SIG bien sûr, mais pas que !
 Dalibo sera aussi présent, notamment par l'animation d'un Workshop PostgreSQL Supervision, le mardi 10 mai, de 9h30 à 12h30.
 Les places seront limitées, inscrivez-vous rapidement (tarif réduit avant le 11 avril) !
 
-Venez nombreux rencontrer la communauté des logiciels libres en géomatique, le [pré-programme](http://osgeo.asso.fr/foss4gfr-2016/programme.html) est déjà en ligne.
+Venez nombreux rencontrer la communauté des logiciels libres en géomatique, le [pré-programme](https://osgeo.asso.fr/foss4gfr-2016/programme.html) est déjà en ligne.

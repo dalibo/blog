@@ -16,7 +16,7 @@ La nouvelle version 16.0 d'Ora2Pg vient d'être publiée. Il s'agit d'une versio
   * Nouveau script, ora2pg_scanner, qui permet de scanner un parc entier d'instances Oracle et MySQL.
   * Ajout d'une précision de niveau de difficulté technique sur l'estimation de la migration.
   * Possibilité de faire une estimation de la migration côté client en analysant les requêtes extraites de la table AUDIT_TRAIL (oracle) ou general_log (mysql).
-  * Ora2Pg a aussi un nouveau site Internet qui a été fait en une nuit, et qui nécessite donc encore du travail. Voir http://ora2pg.darold.net/
+  * Ora2Pg a aussi un nouveau site Internet qui a été fait en une nuit, et qui nécessite donc encore du travail. Voir https://ora2pg.darold.net/
 
 <!--MORE-->
 
@@ -74,7 +74,7 @@ De nombreux correctifs ont été apportés, pour avoir la liste complète, consu
 
 ## Liens
 
-  * Site Web : [http://ora2pg.darold.net/](http://ora2pg.darold.net/)
+  * Site Web : [https://ora2pg.darold.net/](https://ora2pg.darold.net/)
   * Télécharger : [https://sourceforge.net/projects/ora2pg/](https://sourceforge.net/projects/ora2pg/)
   * Développement : [https://github.com/darold/ora2pg](https://github.com/darold/ora2pg)
 

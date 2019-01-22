@@ -19,9 +19,9 @@ Les échanges ont été nombreux à l'issue des conférences mais aussi dans les
 
 Merci à tous ceux qui ont fait de cet événement une réussite, depuis l'accueil par Mozilla, jusqu'à la qualité des interventions et la participation du public.
 
-Vous pourrez trouver toutes les présentations de la conférence sur le site de l’événement : [postgresql-sessions.org/7/](http://www.postgresql-sessions.org/7/start)
+Vous pourrez trouver toutes les présentations de la conférence sur le site de l’événement : [postgresql-sessions.org/7/](https://www.postgresql-sessions.org/7/start)
 
 et toutes les vidéos sur notre [chaîne Youtube](https://www.youtube.com/playlist?list=PLdz5EN2NV_7BXtGhlWNWepg0HCJ68KXRk).
 
 
-Pour vous tenir informés de nos projets et événements à venir, abonnez-vous à notre [Newsletter](http://dalibo.us6.list-manage.com/subscribe?u=1c10ff1ff8&id=0f138e24f0).
+Pour vous tenir informés de nos projets et événements à venir, abonnez-vous à notre [Newsletter](https://dalibo.us6.list-manage.com/subscribe?u=1c10ff1ff8&id=0f138e24f0).

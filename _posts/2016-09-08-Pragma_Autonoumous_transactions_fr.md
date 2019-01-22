@@ -8,7 +8,7 @@ tags: [PostgreSQL, autonomous, transaction, ora2pg, planetpgfr ]
 ---
 
 J'ai parlé de deux différentes implémentations des transactions autonomes
-avec PostgreSQL dans mon [article précédent du 19 Août](http://blog.dalibo.com/2016/08/19/Support_des_transactions_autonomes_dans_PostgreSQL.html). Le 31 août, Peter Eisentraut a soumis un [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) pour intégrer la syntaxe
+avec PostgreSQL dans mon [article précédent du 19 Août](https://blog.dalibo.com/2016/08/19/Support_des_transactions_autonomes_dans_PostgreSQL.html). Le 31 août, Peter Eisentraut a soumis un [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) pour intégrer la syntaxe
 PRAGMA AUTONOMOUS_TRANSACTION à la Oracle dans le cœur de PostgreSQL.
 Voyons voir ses performances.
 
@@ -59,7 +59,7 @@ c'est tout à fait attendu sur ce type de matériel mais cela vous donnera
 une idée des performances que vous pouvez attendre de ces différentes solutions
 pour mettre en œuvre des transactions autonomes.
 
-<img src="http://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Resultats dblink vs pg_background vs pragma autonomous_transaction"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Resultats dblink vs pg_background vs pragma autonomous_transaction"/>
 
 Dans ce test, on peut voir que *pg_background* et *pragma autonomous_transaction*
 ont quasiment les mêmes performances. Ce n'est pas surprenant car le patch
@@ -71,7 +71,7 @@ transactions autonomes, il ne permet pas encore le mode asynchrone. Ceci est
 clairement un gros avantage des solutions *dblink* ou *pg_background*, en mode
 asynchrone elles sont très largement plus performantes que le patch *pragma autonomous_transaction*.
 
-<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Resultats dblink vs pg_background asynchrone"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Resultats dblink vs pg_background asynchrone"/>
 
 Notez que les autres SGBD implémentant les transactions autonomes n'ont
 pas non plus de mode asynchrone, tout au moins à ma connaissance.

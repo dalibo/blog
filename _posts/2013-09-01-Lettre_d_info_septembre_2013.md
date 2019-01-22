@@ -68,7 +68,7 @@ Chaque société dispose d'une invitation gratuite et sans engagement pour une p
 
 ### Événement PGConf.eu à Dublin
 
-PostgreSQL Conference Europe se précise très fortement. Tutoriels et conférences sont pratiquement tous annoncés, vous en trouverez la liste sur http://www.postgresql.eu/events/sessions/pgconfeu2013/. Le planning est aussi disponible, sur http://www.postgresql.eu/events/schedule/pgconfeu2013/. Vous y retrouverez beaucoup de noms connus, européens, américains et japonais principalement.
+PostgreSQL Conference Europe se précise très fortement. Tutoriels et conférences sont pratiquement tous annoncés, vous en trouverez la liste sur https://www.postgresql.eu/events/sessions/pgconfeu2013/. Le planning est aussi disponible, sur https://www.postgresql.eu/events/schedule/pgconfeu2013/. Vous y retrouverez beaucoup de noms connus, européens, américains et japonais principalement.
 
 Dalibo a été sélectionné pour trois conférences :
 
@@ -79,65 +79,65 @@ Dalibo a été sélectionné pour trois conférences :
 
 *  Multicorn, où comment écrire des Foreign Data Wrappers en Python (en anglais, par Ronan Dunklau).
 
-Il est toujours possible de s'enregistrer à prix réduit (« Early bird registration »). Toutes les informations se trouvent sur http://2013.pgconf.eu/registration/
+Il est toujours possible de s'enregistrer à prix réduit (« Early bird registration »). Toutes les informations se trouvent sur https://2013.pgconf.eu/registration/
 
 Les consultants de Dalibo seront présents en nombre à cet événement majeur. Ne manquez pas cette occasion de nous rencontrer !
 
 ## Actualité des produits dérivés
 
 
-*  dbExpress for PostgreSQL 3.2, connecteur dbExpress pour PostgreSQL, http://www.devart.com/dbx/postgresql/
+*  dbExpress for PostgreSQL 3.2, connecteur dbExpress pour PostgreSQL, https://www.devart.com/dbx/postgresql/
 
 
-*  Slony-I 2.2.0 RC1, système de réplication par trigger, http://www.slony.info/
+*  Slony-I 2.2.0 RC1, système de réplication par trigger, https://www.slony.info/
 
 
-*  psqlODBC 09.02.0100, connecteur ODBC pour PostgreSQL, http://www.postgresql.org/ftp/odbc/versions/
+*  psqlODBC 09.02.0100, connecteur ODBC pour PostgreSQL, https://www.postgresql.org/ftp/odbc/versions/
 
 
-*  Barman 1.2.1, un gestionnaire de sauvegarde et de restauration pour PostgreSQL, http://www.pgbarman.org
+*  Barman 1.2.1, un gestionnaire de sauvegarde et de restauration pour PostgreSQL, https://www.pgbarman.org
 
 
-*  Benetl 4.4, un ETL libre pour PostgreSQL, http://www.benetl.net
+*  Benetl 4.4, un ETL libre pour PostgreSQL, https://www.benetl.net
 
 
 *  pgBadger 3.5, un outil d'analyse des journaux applicatifs PostgreSQL, https://sourceforge.net/projects/pgbadger/
 
 
-*  PG Commander, un client d'administration pour PostgreSQL, http://eggerapps.at/pgcommander/
+*  PG Commander, un client d'administration pour PostgreSQL, https://eggerapps.at/pgcommander/
 
 
-*  psycopg2 2.5.1, un connecteur Python pour PostgreSQL, http://initd.org/psycopg/articles/2013/06/23/psycopg-251-released/
+*  psycopg2 2.5.1, un connecteur Python pour PostgreSQL, https://initd.org/psycopg/articles/2013/06/23/psycopg-251-released/
 
 
 *  DataFiller 1.1.2, un générateur de données aléatoires pour PostgreSQL, https://www.cri.ensmp.fr/people/coelho/datafiller.html
 
 
-*  PostgreSQL Maestro 13.7, un outil de gestion de bases de données, utilisant ODBC, http://www.sqlmaestro.com/products/postgresql/maestro/
+*  PostgreSQL Maestro 13.7, un outil de gestion de bases de données, utilisant ODBC, https://www.sqlmaestro.com/products/postgresql/maestro/
 
 
 *  PG Partition Manager 1.3.0, une extension pour gérer des partitions dates et séries, https://github.com/keithf4/pg_partman
 
 
-*  pgpool-II 3.3.0 et pgpoolAdmin 3.3.0, outil de réplication, de pooling de connexions, de répartition de charge, etc, http://www.pgpool.net/
+*  pgpool-II 3.3.0 et pgpoolAdmin 3.3.0, outil de réplication, de pooling de connexions, de répartition de charge, etc, https://www.pgpool.net/
 
 
-*  openBarter 0.8.2, une extension PostgreSQL implémentant les primitives d'un modèle de place de marché, http://olivierch.github.com/openBarter/
+*  openBarter 0.8.2, une extension PostgreSQL implémentant les primitives d'un modèle de place de marché, https://olivierch.github.com/openBarter/
 
 
-*  PostGIS 2.1.0, le système spatial de PostgreSQL, http://postgis.net/2013/08/17/postgis-2-1-0
+*  PostGIS 2.1.0, le système spatial de PostgreSQL, https://postgis.net/2013/08/17/postgis-2-1-0
 
 
-*  Nouveau livre, "PostgreSQL Server Programming", http://www.2ndquadrant.com/en/books/
+*  Nouveau livre, "PostgreSQL Server Programming", https://www.2ndquadrant.com/en/books/
 
 
 *  Skytools 3.1.5, un ensemble d'outils développés par Skype pour la réplication et les bascules, https://github.com/markokr/skytools
 
 
-*  MicroOLAP Database Designer for PostgreSQL 1.9.1, outil de conception de bases de données, http://microolap.com/products/database/postgresql-designer/download/
+*  MicroOLAP Database Designer for PostgreSQL 1.9.1, outil de conception de bases de données, https://microolap.com/products/database/postgresql-designer/download/
 
 
-*  Postgres-XC 1.1, un cluster symétrique multi-maître basé sur PostgreSQL, http://postgres-xc.sourceforge.net/docs/1_1_beta/release-xc-1-1.html
+*  Postgres-XC 1.1, un cluster symétrique multi-maître basé sur PostgreSQL, https://postgres-xc.sourceforge.net/docs/1_1_beta/release-xc-1-1.html
 
 
 *  Mimeo 1.0.0, une extension de réplication logique fournissant plusieurs méthodes de réplication, avec une configuration minimale, https://github.com/omniti-labs/mimeo
@@ -162,7 +162,7 @@ Mi-juin a marqué le début du développement de la future 9.4, avec la premièr
     * ajout de l'unité de mémoire TB (pour téra-octets) pour la configuration des variables ;
 
 *  Supervision
-    * ajout de la colonne n_mod_since_analyze au catalogue statistique pg_stat_all_tables pour rapporter le nombre de lignes modifiés depuis le dernier ANALYZE (à noter que Guillaume Lelarge a créé une extension pour pouvoir utiliser cette fonction sur des versions antérieures de PostgreSQL, voir http://pgxn.org/dist/mods_since_analyze/1.0.0/) ;
+    * ajout de la colonne n_mod_since_analyze au catalogue statistique pg_stat_all_tables pour rapporter le nombre de lignes modifiés depuis le dernier ANALYZE (à noter que Guillaume Lelarge a créé une extension pour pouvoir utiliser cette fonction sur des versions antérieures de PostgreSQL, voir https://pgxn.org/dist/mods_since_analyze/1.0.0/) ;
 
 *  Modules contribs
     * ajout de l'option --rate pour pgbench
@@ -224,7 +224,7 @@ Dalibo organise régulièrement des sessions de formation à Paris et en provinc
 
 
 Retrouvez toutes nos dates et nos plans de cours sur :
-http://www.dalibo.com/formations
+https://www.dalibo.com/formations
 
 N'hésitez pas à nous contacter aussi pour tout besoin de formation en inter-entreprise comme en intra-entreprise.
 
@@ -253,4 +253,4 @@ Si vous ne souhaitez plus recevoir cette lettre, envoyez simplement un courriel 
 
 Vous pouvez retrouver cette lettre à l'adresse suivante :
 
-http://dalibo.org/septembre_2013
+https://dalibo.org/septembre_2013

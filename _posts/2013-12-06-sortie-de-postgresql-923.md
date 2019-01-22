@@ -46,7 +46,7 @@ Pour les clients de Dalibo sous contrat Support PostgreSQL Premium, bénéfician
 
 Téléchargez les nouvelles versions maintenant sur :
 
-* <http://www.postgresql.org/download/>
-* Code source: <http://www.postgresql.org/ftp/source/>
-* Paquets binaires: <http://www.postgresql.org/ftp/binary/>
-* Installeur One-click (dont le paquet Windows): <http://www.enterprisedb.com/products-services-training/pgdownload>
+* <https://www.postgresql.org/download/>
+* Code source: <https://www.postgresql.org/ftp/source/>
+* Paquets binaires: <https://www.postgresql.org/ftp/binary/>
+* Installeur One-click (dont le paquet Windows): <https://www.enterprisedb.com/products-services-training/pgdownload>

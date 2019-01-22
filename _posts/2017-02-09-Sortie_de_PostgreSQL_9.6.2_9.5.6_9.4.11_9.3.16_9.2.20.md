@@ -168,8 +168,8 @@ plus de détails.
 
 Liens :
 
-  * [Téléchargement](http://www.postgresql.org/download)
-  * [Notes de version](http://www.postgresql.org/docs/current/static/release.html)
-  * [Page sur la sécurité](http://www.postgresql.org/support/security/)
+  * [Téléchargement](https://www.postgresql.org/download)
+  * [Notes de version](https://www.postgresql.org/docs/current/static/release.html)
+  * [Page sur la sécurité](https://www.postgresql.org/support/security/)
   * [Politique de versionnement](https://www.postgresql.org/support/versioning/)
 

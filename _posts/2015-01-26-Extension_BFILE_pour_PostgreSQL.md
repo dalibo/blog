@@ -31,7 +31,7 @@ mais le service d'affichage/consultation des images serait rendu par un serveur
 Apache, bien plus efficace pour ça.
 
 C'est ce que permet la nouvelle extension "external_file" développée par
-Dominique Legendre pour les besoins du Brgm (http://www.brgm.fr/). Voici
+Dominique Legendre pour les besoins du Brgm (https://www.brgm.fr/). Voici
 comment nous pourrions mettre en oeuvre notre exemple.
 
 Pour installer cette extension, rien de plus simple, après avoir décompressé
@@ -67,7 +67,7 @@ présent pour que l'extension fonctionne correctement.
 Ici on a donc un emplacement de stockage nommé ```mon_album_photo``` avec comme
 emplacement physique ```/var/www/albums/gilles/famille/```. Les photos seront
 elle accessibles en consultation directement via Internet par une URL du
-genre http://monserver/albums/gilles/famille/
+genre https://monserver/albums/gilles/famille/
 
 Puis on sécurise l'accès à ce ```DIRECTORY``` :
 

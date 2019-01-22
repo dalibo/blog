@@ -8,7 +8,7 @@ tags: [PostgreSQL, autonomous, transaction, ora2pg, planetpg]
 ---
 
 I've talked about two different implementations of Autonomous Transaction
-with PostgreSQL in my [previous post on August 19th](http://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). On August 31st, Peter Eisentraut submitted
+with PostgreSQL in my [previous post on August 19th](https://blog.dalibo.com/2016/08/19/Autonoumous_transactions_support_in_PostgreSQL.html). On August 31st, Peter Eisentraut submitted
 a [patch](https://www.postgresql.org/message-id/659a2fce-b6ee-06de-05c0-c8ed6a01979e@2ndquadrant.com) to implement PRAGMA AUTONOMOUS_TRANSACTION à la Oracle into the
 core of PostgreSQL. Let's see how well it performs.
 
@@ -58,7 +58,7 @@ AMD FX(tm)-8350 - 8 cores. Do not pay attention to the level of transactions
 per second, these values are expected on this kind of hardware but it will give
 you an idea of the performance you can expect from these solutions.
 
-<img src="http://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Results dblink vs pg_background vs pragma autonomous"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_pg_background_pragma_autonomous.png" title="Results dblink vs pg_background vs pragma autonomous"/>
 
 In this test, we can see that *pg_background* and *pragma autonomous_transaction*
 have approximately the same performance. This is not surprising because the *pragma
@@ -70,7 +70,7 @@ the asynchronous mode yet. This is clearly a big advantage of *dblink* and
 *pg_background*, as in asynchronous mode, they clearly outperform the *pragma
 autonomous_transaction* patch.
 
-<img src="http://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous"/>
+<img src="https://blog.dalibo.com/assets/media/dblink_vs_pg_background_async2.png" title="Results dblink vs pg_background asynchronous"/>
 
 Note that, as far as I know, other DBMSes implementing autonomous transaction
 don't have an asynchronous mode either.

@@ -17,7 +17,7 @@ Le PostgreSQL Global Development Group a publié une mise à jour de toutes les 
 ## Correction des permissions de fichiers
 
 
-Les correctifs publiés le 2015-05-22 ont introduit une mesure contre la corruption de données, qui force un fsync sur tous les fichiers présents dans le répertoire de données de PostgreSQL (PGDATA) lors d'un redémarrage après un crash. Ceci empêchait PostgreSQL de démarrer si celui-ci rencontrait un problème sur les permissions de fichiers. Ce problème est désormais réglé. Vous trouverez plus d'informations sur l'[annonce précédente](http://blog.dalibo.com/2015/05/27/Probleme_sur_les_mises_a_jours_de_PostgreSQL.html) ([Version originale](https://wiki.postgresql.org/wiki/May_2015_Fsync_Permissions_Bug) sur le wiki PostgreSQL)
+Les correctifs publiés le 2015-05-22 ont introduit une mesure contre la corruption de données, qui force un fsync sur tous les fichiers présents dans le répertoire de données de PostgreSQL (PGDATA) lors d'un redémarrage après un crash. Ceci empêchait PostgreSQL de démarrer si celui-ci rencontrait un problème sur les permissions de fichiers. Ce problème est désormais réglé. Vous trouverez plus d'informations sur l'[annonce précédente](https://blog.dalibo.com/2015/05/27/Probleme_sur_les_mises_a_jours_de_PostgreSQL.html) ([Version originale](https://wiki.postgresql.org/wiki/May_2015_Fsync_Permissions_Bug) sur le wiki PostgreSQL)
 
 
 ## Autres correctifs
@@ -41,5 +41,5 @@ Mise à jour
 
 Comme pour les autres versions mineures, les utilisateurs n'ont pas à sauvegarder et restaurer leur base de données ou à utiliser pg_upgrade pour appliquer cette mise à jour. Vous pouvez simplement arrêter PostgreSQL et mettre à jour ses binaires. Les utilisateurs n'ayant pas appliqué les précédentes mises à jour peuvent avoir d'autres actions à entreprendre: veuillez vous référer aux notes de version pour plus d'information:
 
-http://www.postgresql.org/docs/current/static/release.html
+https://www.postgresql.org/docs/current/static/release.html
 

@@ -41,8 +41,8 @@ POWA est un projet ouvert disponible sous licence PostgreSQL. Toute contribution
 
 ## Links
 
-  * Télécharger : [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
-  * Démo : [http://demo-powa.dalibo.com](http://demo-powa.dalibo.com) (login/pass = powa/demo)
+  * Télécharger : [https://dalibo.github.io/powa/](https://dalibo.github.io/powa/)
+  * Démo : [https://demo-powa.dalibo.com](https://demo-powa.dalibo.com) (login/pass = powa/demo)
 
 ----
 
@@ -50,11 +50,11 @@ POWA est un projet ouvert disponible sous licence PostgreSQL. Toute contribution
 
 PoWA est un analyseur de trafic PostgreSQL qui collecte des statistiques en temps réel et affiche des tableaux et des graphes en temps réel pour vous aider à superviser et optimiser vos instances PostgreSQL. C’est un outil similaire à Oracle AWR ou SQL Server MDW.
 
-Code & Démo sur [http://dalibo.github.io/powa/](http://dalibo.github.io/powa/)
+Code & Démo sur [https://dalibo.github.io/powa/](https://dalibo.github.io/powa/)
 
 ----
 
 ## À propos de DALIBO :
 
 DALIBO est le spécialiste français de PostgreSQL et propose du support, de la formation et du conseil depuis 2005. La société est active au sein de la communauté PostgreSQL de différentes manières, notamment : des développements, des articles, de la traduction, des conférences ouvertes à tous et des ateliers gratuits.
-Retrouvez les projets open source de DALIBO sur : [http://dalibo.github.io](http://dalibo.github.io)
+Retrouvez les projets open source de DALIBO sur : [https://dalibo.github.io](https://dalibo.github.io)
