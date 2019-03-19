@@ -38,7 +38,8 @@ It's very useful to get information about bloat and toast. It can **help users d
    * Dashboard like home page 
    * Improve activity views 
    * Review web framework 
-   * Review debian packaging pg_hba.conf and pg_ident.conf edition removed from pgconf plugin 
+   * Review debian packaging 
+   * pg_hba.conf and pg_ident.conf edition removed from pgconf plugin 
    * Avoid monitoring data to get stuck in agent sending queue 
    * Documentation cleaning and updates 
    * Limit useless rollback statements on read only queries (repository database)
