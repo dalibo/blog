@@ -27,13 +27,16 @@ It's very useful to get information about bloat and toast. It can **help users d
    * Full screen mode for home page 
    * Full screen mode for dashboard 
    * Limit double authentication to not read only APIs 
-   * Maintenance plugin Collapsible sidebar 
-   * New monitoring probes: replication lag and connection, temporary files UI functional tests 
+   * Maintenance plugin 
+   * Collapsible sidebar 
+   * New monitoring probes: replication lag and connection, temporary files 
+   * UI functional tests 
    * Support Tornado 4.4 and 5 
    * Add auto configuration script 
    * Show number of waiting/blocking req in activity tabs 
    * Show availability status on home page 
-   * Dashboard like home page Improve activity views 
+   * Dashboard like home page 
+   * Improve activity views 
    * Review web framework 
    * Review debian packaging pg_hba.conf and pg_ident.conf edition removed from pgconf plugin 
    * Avoid monitoring data to get stuck in agent sending queue 
