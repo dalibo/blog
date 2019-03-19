@@ -18,7 +18,7 @@ Voici la version 3.0 de temBoard, l'interface de gestion pour PostgreSQL !
 
 ## Nouvelle fonctionnalité : Maintenance
 
-Le nouveau greffon *Maintenance* donne un **aperçu** de la taille des bases de données, des **schémas**, **tables** ou **index**, avec une estimation du bloat et la taille des données TOAST. L'interface permet de déclencher ou planifier ANALYZE, VACUUM et REINDEX pour gérer les problèmes de performances et de stockage révélés par les indicuteurs.
+Le nouveau greffon *Maintenance* donne un **aperçu** de la taille des bases de données, des **schémas**, **tables** ou **index**, avec une estimation du bloat et la taille des données TOAST. L'interface permet de déclencher ou planifier ANALYZE, VACUUM et REINDEX pour gérer les problèmes de performances et de stockage révélés par les indicateurs.
 
 
 ## Améliorations de l'interface
@@ -35,12 +35,12 @@ De nombreux autres améliorations et correctifs sont inclus, notamment :
    * Affichage du nombre de requêtes en attente ou bloquées dans la barre d'activité (-> Show number of waiting/blocking req in activity tabs)
    * Suppression de l'édition de `pg_hba.conf` et `pg_ident.conf` du greffon pgconf
 
-Retrouver le détails des changements dans le [CHANGELOG](https://temboard.readthedocs.io/en/latest/CHANGELOG/).
+Retrouver les détails des changements dans le [CHANGELOG](https://temboard.readthedocs.io/en/latest/CHANGELOG/).
 
 
 ## Installation plus facile
 
-L'installation de temBoard et de son agent sont plus simples grace à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. Plus d'informations dans la [documentation en ligne de temBoard](https://temboard.readthedocs.io/en/v3/).
+L'installation de temBoard et de son agent sont plus simples grâce à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. Plus d'informations dans la [documentation en ligne de temBoard](https://temboard.readthedocs.io/en/v3/).
 
 
 ## Démo
