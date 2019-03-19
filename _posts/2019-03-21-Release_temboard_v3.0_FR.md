@@ -18,7 +18,7 @@ Sortie de la version 3.0 de temboard, l'outil de gestion puissant pour PostgreSQ
 
 ## Nouvelle fonctionnalité : Maintenance
 
-Le plugin de maintenance donne un **aperçu** de la base de données, des **schémas**, **tables** ou **indexes** (respective size ?) ?
+Le plugin de maintenance donne un **aperçu** de la base de données, des **schémas**, **tables** ou **indexes** (respective size ?).
 
 It est très utile d'obtenir des informations sur BLOAT et TOAST. Les utilisateurs peuvent **évaluer leurs problèmes potentiels**, et comprendre ou prévenir ceux concernant la **performance** à cause d'un espace mal utilisé. Le plugin donne aussi accès à des actions de maintenance comme VACUUM, ANALYZE ou REINDEX pour résoudre les problèmes d'espace ou de performance.
 
