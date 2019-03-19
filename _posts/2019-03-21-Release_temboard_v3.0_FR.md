@@ -52,4 +52,4 @@ It est très utile d'obtenir des informations sur BLOAT et TOAST. Les utilisateu
   * GitHub: [https://github.com/dalibo/temboard] 
 
 
-temboard est développé principalement par Julien Tachoires, Étienne Bersac et Pierre Giraud.
+**temboard est développé principalement par Julien Tachoires, Étienne Bersac et Pierre Giraud.**
