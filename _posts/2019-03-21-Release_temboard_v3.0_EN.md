@@ -13,6 +13,9 @@ Release of **temboard 3.0** version, the powerful PostgreSQL management tool! A 
 
 <!--MORE-->
 
+![logo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard-bandeau-orange-catchphrase-ombre.png)
+
+
 ## New feature: Maintenance
 
 The aim of the maintenance plugin is to give the users an **overview** on the databases, **schemas**, **tables** or **indexes** respective size.
@@ -28,8 +31,6 @@ It's very useful to get information about bloat and toast. It can **help users d
    * New monitoring probes: replication lag and connection, temporary files UI functional tests 
    * Support Tornado 4.4 and 5 
    * Add auto configuration script Show number of waiting/blocking req in activity tabs Show availability status on home page Dashboard like home page Improve activity views Review web framework Review debian packaging pg_hba.conf and pg_ident.conf edition removed from pgconf plugin Avoid monitoring data to get stuck in agent sending queue Documentation cleaning and updates Limit useless rollback statements on read only queries (repository database)
-
-
 
 
 ## Links
