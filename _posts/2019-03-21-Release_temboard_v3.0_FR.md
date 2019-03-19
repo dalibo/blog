@@ -18,28 +18,28 @@ Sortie de la version 3.0 de temboard, l'outil de gestion puissant pour PostgreSQ
 
 ## Nouvelle fonctionnalité : Maintenance
 
-The aim of the maintenance plugin is to give the users an **overview** on the databases, **schemas**, **tables** or **indexes** respective size.
+Le plugin de maintenance donne un **aperçu** de la base de données, des **schémas**, **tables** ou **indexes** //respective size// ?
 
-It's very useful to get information about bloat and toast. It can **help users determine potential issues** and understand or **prevent performance issues** due to unaccordingly used space. The plugin also provides easy access to maintenance actions such as VACUUM, ANALYZE or REINDEX in order to fix space or performances problems.
+It est très utile d'obtenir des informations sur BLOAT et TOAST. Les utilisateurs peuvent **évaluer leurs problèmes potentiels**, et comprendre ou prévenir ceux concernant la **performance** à cause d'un espace mal utilisé. Le plugin donne aussi accès à des actions de maintenance comme VACUUM, ANALYZE ou REINDEX pour résoudre les problèmes d'espace ou de performance.
 
 ## Changelog
 
    * Affichage en plein écran dès la page d'accueil et le tableau de bord 
-   * Limitation de la double authentification [to not read only APIs]
+   * Limitation de la double authentification (to not read only APIs ?)
    * Plugin Maintenance
-   * Barre latérale glissable 
-   * Délai de copie et de connexion, fichiers temporaires [New monitoring probes: replication lag and connection, temporary files]
+   * Barre latérale masquable 
+   * Délai de copie et de connexion, fichiers temporaires (-> New monitoring probes: replication lag and connection, temporary files)
    * Tests de fonctionnalité de l'IU 
    * Support Tornado 4.4 and 5
    * Ajout du script d'auto-configuration 
-   * Affichage des requêtes en attente ou bloquées dans la barre d'activité [Show number of waiting/blocking req in activity tabs] 
+   * Affichage des requêtes en attente ou bloquées dans la barre d'activité (-> Show number of waiting/blocking req in activity tabs)
    * Affichage du statut de disponibilité sur la page d'accueil 
-   * Tableau de bord comme la page d'accueil [Dashboard like home page]
+   * Tableau de bord comme page d'accueil (-> Dashboard like home page)
    * Amélioration des vues de l'activité 
    * Révision du framework web 
    * Mise à jour des paquets Debian 
    * Suppression de pg_hba.conf et pg_ident.conf edition du plugin pgconf
-   * Correction du traitement des données de contrôle qui ne sont plus coincées dans la file d'envoi
+   * Correction du traitement des données de contrôle coincées dans la file d'envoi
    * Correction et mise à jour de la documentation 
    * Réduction des commandes rollback inutiles dans les requêtes de lecture (base de données du dépôt)
 
