@@ -18,9 +18,9 @@ Release of **temboard 3.0**, the powerful PostgreSQL management tool developed i
 
 ## New feature: Maintenance
 
-The aim of the maintenance plugin is to give the users an **overview** on the databases, **schemas**, **tables** or **indexes** respective size.
+The maintenance plugin gives the users an **overview** on the databases, **schemas**, **tables** or **indexes** respective size.
 
-It's very useful to get information about bloat and toast. It can **help users determine potential issues** and understand or **prevent performance issues** due to unaccordingly used space. The plugin also provides easy access to maintenance actions such as VACUUM, ANALYZE or REINDEX in order to fix space or performances problems.
+It's very useful to get information about bloat and toast. It **helps users determine potential issues** and understand or **prevent performance issues** due to unaccordingly used space. The plugin also provides easy access to maintenance actions such as VACUUM, ANALYZE or REINDEX in order to fix space or performances problems.
 
 ## Changelog
 
@@ -43,14 +43,15 @@ It's very useful to get information about bloat and toast. It can **help users d
    * Avoid monitoring data to get stuck in agent sending queue 
    * Documentation cleaning and updates 
    * Limit useless rollback statements on read only queries (repository database)
+   
+More about this version's changelog: [https://temboard.readthedocs.io/en/latest/CHANGELOG/](https://github.com/dalibo/temboard/blob/master/CHANGELOG.md)
 
 ## Demo
 
 ## Links
-  * Website: [http://dali.bo/temboard] 
-  * Documentation: [https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/] 
-  * ChangeLog: [https://temboard.readthedocs.io/en/latest/CHANGELOG/] 
-  * GitHub: [https://github.com/dalibo/temboard] 
+  * Website: [http://dali.bo/temboard](http://dali.bo/temboard)
+  * Documentation: [https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/](https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/)
+  * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
 
 
 temboard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.
