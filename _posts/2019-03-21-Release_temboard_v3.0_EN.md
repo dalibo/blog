@@ -54,4 +54,4 @@ More about this version's changelog: [https://temboard.readthedocs.io/en/latest/
   * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
 
 
-temboard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.
+**temboard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.**
