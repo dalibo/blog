@@ -43,6 +43,7 @@ More about this version's [CHANGELOG](https://temboard.readthedocs.io/en/latest/
 ## An easier installation
 
 Installing temboard and its agent is simpler thanks to its auto configuration script and clean documentation. The rpm and debian packages are available in the Dalibo Labs deposits.
+
 Find out more information in the [online documentation of temboard](https://temboard.readthedocs.io/en/v3/).
 
 
