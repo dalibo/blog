@@ -41,7 +41,9 @@ Retrouver les détails des changements dans le [CHANGELOG](https://temboard.read
 
 ## Installation plus facile
 
-L'installation de temBoard et de son agent sont plus simples grâce à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. Plus d'informations dans la [documentation en ligne de temboard](https://temboard.readthedocs.io/en/v3/).
+L'installation de temBoard et de son agent sont plus simples grâce à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. 
+
+Plus d'informations dans la [documentation en ligne de temboard](https://temboard.readthedocs.io/en/v3/).
 
 
 ## Démo
