@@ -26,7 +26,7 @@ More about the [maintenance plugin](https://temboard.readthedocs.io/en/latest/te
 
 ## Enhancement of the interface
 
-temboard’s interface is still improving. The 3.0 version lays out the instances as a grid on the homepage in order to better manage large database fleet. The sidebar is now collapsible to put forward the page's content. Moreover the homepage and the *dashboard* can be displayed in full screen mode which is more suitable when using a supervision screen.
+temboard’s interface is still improving. The 3.0 version lays out the instances as a grid on the homepage in order to better manage large database fleet. The sidebar is now collapsible to put forward the page's content. Moreover the homepage and the dashboard can be displayed in full screen mode which is more suitable when using a supervision screen.
 
 
 ## And more...
@@ -47,9 +47,12 @@ Installing temboard and its agent is simpler thanks to its auto configuration sc
 Find out more information in the [online documentation of temboard](https://temboard.readthedocs.io/en/v3/).
 
 
-## Demo
+## Video demo
 
+You can find the demo for this new version of temboard on our Youtube page. Watch it by clicking the image below.
 
+[![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
+https://youtu.be/0gSzKYTHEEw "Demo temboard")
 
 ## Links
   * Website: [http://dali.bo/temboard](http://dali.bo/temboard)
