@@ -9,7 +9,7 @@ tags: [temboard, opensource, postgresql, instances, administration, gestion, man
 
 Paris, 21 mars 2019
 
-Voici la version 3.0 de temBoard, l'interface de gestion pour PostgreSQL !
+Voici la version 3.0 de temboard, l'interface de gestion pour PostgreSQL !
 
 <!--MORE-->
 
