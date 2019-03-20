@@ -21,6 +21,8 @@ Release of **temboard 3.0**, the powerful PostgreSQL management tool developed i
 The maintenance plugin gives the users an **overview** on the databases, **schemas**, **tables** or **indexes** respective sizes.
 It is very useful to get information about bloat and toast. It **helps users determine potential issues** and understand or **prevent performance issues** due to unaccordingly used space. The plugin also provides easy access to maintenance actions such as VACUUM, ANALYZE or REINDEX in order to fix space or performance problems.
 
+More about the [maintenance plugin](https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/).
+
 
 ## Enhancement of the interface
 
