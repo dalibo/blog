@@ -50,7 +50,6 @@ Find out more information in the [online documentation of temboard](https://temb
 
 ## Links
   * Website: [http://dali.bo/temboard](http://dali.bo/temboard)
-  * Documentation: [https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/](https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/)
   * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
 
 
