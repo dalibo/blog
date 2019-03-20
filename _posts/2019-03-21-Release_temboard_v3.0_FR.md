@@ -46,7 +46,7 @@ L'installation de temBoard et de son agent sont plus simples grâce à un script
 Plus d'informations dans la [documentation en ligne de temboard](https://temboard.readthedocs.io/en/v3/).
 
 
-## Démo
+## Démo vidéo
 
 Vous trouverez une démo de cette dernière version sur le compte Youtube de Dalibo, en cliquant sur l'image ci-dessous :
 
