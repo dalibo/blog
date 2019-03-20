@@ -47,8 +47,7 @@ L'installation de temBoard et de son agent sont plus simples grâce à un script
 
 
 ## Liens
-  * Site web : [https://dali.bo/temboard] 
-  * Documentation : [https://temboard.readthedocs.io/en/latest/] 
+  * Site web : [https://dali.bo/temboard]  
   * GitHub : [https://github.com/dalibo/temboard] 
 
 
