@@ -20,6 +20,7 @@ Voici la version 3.0 de temBoard, l'interface de gestion pour PostgreSQL !
 
 Le nouveau greffon *Maintenance* donne un **aperçu** de la taille des bases de données, des **schémas**, **tables** ou **index**, avec une estimation du bloat et la taille des données TOAST. L'interface permet de déclencher ou planifier ANALYZE, VACUUM et REINDEX pour gérer les problèmes de performances et de stockage révélés par les indicateurs.
 
+Plus d'information sur le [greffon maintenance](https://temboard.readthedocs.io/en/latest/temboard-howto-maintenance/).
 
 ## Améliorations de l'interface
 
