@@ -23,7 +23,7 @@ Le nouveau greffon *Maintenance* donne un **aperçu** de la taille des bases de 
 
 ## Améliorations de l'interface
 
-L'interface de temBoard continue de se bonifier. Cette version 3.0 présente les instances en grille sur la page d'accueil pour mieux gérer les grands parcs. Le menu latéral a été réorganisé et l'utilisateur peut le replier pour mettre en avant le contenu de la page. La page d'accueil et la page *Dashboard* ont désormais un mode plein écran mieux adapté à l'affichage sur écran de supervision.
+L'interface de temboard continue de se bonifier. Cette version 3.0 présente les instances en grille sur la page d'accueil pour mieux gérer les grands parcs. Le menu latéral a été réorganisé et l'utilisateur peut le replier pour mettre en avant le contenu de la page. La page d'accueil et la page *Dashboard* ont désormais un mode plein écran mieux adapté à l'affichage sur écran de supervision.
 
 
 ## Et plus…
@@ -40,7 +40,7 @@ Retrouver les détails des changements dans le [CHANGELOG](https://temboard.read
 
 ## Installation plus facile
 
-L'installation de temBoard et de son agent sont plus simples grâce à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. Plus d'informations dans la [documentation en ligne de temBoard](https://temboard.readthedocs.io/en/v3/).
+L'installation de temBoard et de son agent sont plus simples grâce à un script d'auto-configuration et une documentation allégée. Les paquets rpm et debian sont disponibles dans les dépôts Dalibo Labs. Plus d'informations dans la [documentation en ligne de temboard](https://temboard.readthedocs.io/en/v3/).
 
 
 ## Démo
@@ -52,4 +52,4 @@ L'installation de temBoard et de son agent sont plus simples grâce à un script
   * GitHub : [https://github.com/dalibo/temboard] 
 
 
-**temBoard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
+**temboard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
