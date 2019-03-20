@@ -44,7 +44,7 @@ It is very useful to get information about bloat and toast. It **helps users det
    * Documentation cleaning and updates 
    * Limit useless rollback statements on read only queries (repository database)
    
-More about this version's changelog: [https://temboard.readthedocs.io/en/latest/CHANGELOG/](https://temboard.readthedocs.io/en/latest/CHANGELOG/)
+More about this version's [CHANGELOG](https://temboard.readthedocs.io/en/latest/CHANGELOG/).
 
 ## Demo
 
