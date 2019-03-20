@@ -30,10 +30,10 @@ L'interface de temBoard continue de se bonifier. Cette version 3.0 présente les
 
 De nombreux autres améliorations et correctifs sont inclus, notamment :
 
-   * La double authentification sur l'agent a été limitée aux opérations d'administration.
-   * Nouvelles sondes de supervision : délai de réplication, fichier temporaires. (-> New monitoring probes: replication lag and connection, temporary files)
-   * Affichage du nombre de requêtes en attente ou bloquées dans la barre d'activité (-> Show number of waiting/blocking req in activity tabs)
-   * Suppression de l'édition de `pg_hba.conf` et `pg_ident.conf` du greffon pgconf
+   * La double authentification sur l'agent a été limitée aux opérations d'administration,
+   * Nouvelles sondes de supervision : délai de réplication, fichier temporaires,
+   * Affichage du nombre de requêtes en attente ou bloquées dans la barre d'activité,
+   * Suppression de l'édition de `pg_hba.conf` et `pg_ident.conf` du greffon pgconf.
 
 Retrouver les détails des changements dans le [CHANGELOG](https://temboard.readthedocs.io/en/latest/CHANGELOG/).
 
