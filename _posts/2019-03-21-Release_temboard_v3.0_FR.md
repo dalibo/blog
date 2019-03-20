@@ -48,10 +48,15 @@ Plus d'informations dans la [documentation en ligne de temboard](https://temboar
 
 ## Démo
 
+Vous trouverez une démo de cette dernière version sur le compte Youtube de Dalibo, en cliquant sur l'image ci-dessous :
+
+[![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
+https://youtu.be/0gSzKYTHEEw "Demo temboard")
+
 
 ## Liens
-  * Site web : [https://dali.bo/temboard]  
-  * GitHub : [https://github.com/dalibo/temboard] 
+  * [Site web](https://dali.bo/temboard)  
+  * [Page GitHub](https://github.com/dalibo/temboard)
 
 
 **temboard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
