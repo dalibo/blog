@@ -48,8 +48,8 @@ L'installation de temBoard et de son agent sont plus simples grâce à un script
 
 ## Liens
   * Site web : [https://dali.bo/temboard] 
-  * Documentation: [https://temboard.readthedocs.io/en/latest/] 
-  * GitHub: [https://github.com/dalibo/temboard] 
+  * Documentation : [https://temboard.readthedocs.io/en/latest/] 
+  * GitHub : [https://github.com/dalibo/temboard] 
 
 
 **temBoard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
