@@ -24,19 +24,19 @@ E-Maj, la solution permettant de "faire voyager les données PostgreSQL dans le 
 Il existe plusieurs extensions de PostgreSQL qui permettent de tracer voire annuler les mises à jour de tables. 
 Mais E-Maj s’en distingue, notamment par les caractéristiques suivantes :
   * pour garantir une intégrité fonctionnelle des données, l’utilisateur manipule des ensembles cohérents de tables, appelés **"groupes de tables"**,
-  * un groupe de tables peut aussi contenir des **séquences** ;
-  * les **annulations** de mises à jour peuvent elles-mêmes être annulées ;
-  * il est possible également de générer des **scripts SQL** rejouant les mises à jour ;
+  * un groupe de tables peut aussi contenir des **séquences**,
+  * les **annulations** de mises à jour peuvent elles-mêmes être annulées,
+  * il est possible également de générer des **scripts SQL** rejouant les mises à jour,
   * un client graphique web, **Emaj_web**, en facilite grandement l’usage.
 
 La solution E-Maj peut se révéler très utile aussi bien en développement (Build) pour fluidifier les tests applicatifs, qu’en production (Run) pour sécuriser des traitements lourds par exemple.
 
-## Le version 3.0
+## La version 3.0
 
 La sortie de la version 3.0 marque une étape importante dans la vie de ce projet Open Source. 
 Peu de fonctionnalités ont été ajoutées à la version précédente. En revanche :
-  * cette version signe l’entrée d’E-Maj dans la constellation **DaliboLabs**, marquant ainsi le support actif de Dalibo au projet, et une ouverture plus grande aux contributions extérieures ;
-  * le client Emaj_web a été profondément remanié et l’**ergonomie** a été sensiblement améliorée ;
+  * cette version signe l’entrée d’E-Maj dans la constellation **DaliboLabs**, marquant ainsi le support actif de Dalibo au projet, et une ouverture plus grande aux contributions extérieures,
+  * le client Emaj_web a été profondément remanié et l’**ergonomie** en a été sensiblement améliorée,
   * E-Maj peut maintenant être installé dans des environnements de **cloud public** de type PGaaS, tel qu’Amazon RDS.
   
 ## Liens importants
