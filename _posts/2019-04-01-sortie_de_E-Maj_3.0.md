@@ -15,7 +15,7 @@ E-Maj, la solution permettant de "faire voyager les données PostgreSQL dans le 
 
 <!--MORE-->
 
-![logo-emaj](https://raw.githubusercontent.com/dalibo/blog/logo_e-maj/img/E-Maj_V_couleur.png)
+![logo-emaj](https://raw.githubusercontent.com/dalibo/blog/article_e-maj_v3/img/E-Maj_H_couleur.png)
 
 "Faire voyager dans le temps"... Pour en présenter les fonctionnalités de manière moins… emphatique, disons qu’il s’agit de **capturer les mises à jour effectuées sur des tables relationnelles**, par les habituelles requêtes INSERT/UPDATE/DELETE, afin de pouvoir les dénombrer, les examiner et potentiellement les annuler.
       
