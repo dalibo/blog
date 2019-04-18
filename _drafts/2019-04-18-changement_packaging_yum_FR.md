@@ -7,7 +7,7 @@ github_id: dalibo
 tags: []
 ---
 
-Depuis le 15 avril 2019, il n'y a désormais plus qu'1 seul RPM de création des 
+Depuis le 15 avril 2019, il n'y a désormais plus qu'un seul RPM de création des 
 dépôts YUM par distribution. Ce package contient maintenant les informations 
 des dépôts pour toutes les versions majeures de PostgreSQL disponibles et 
 supportées.
@@ -28,10 +28,10 @@ L'annonce originale de Devrim se trouve [ici](https://www.postgresql.org/message
   l'ensemble des versions supportées de PostgreSQL.
 
   * La version de ce RPM de dépôts a été passée à 42. Espérons que cela mettra 
-  fin aux questions du genre "LE RPM de dépôts est en version 10-4, où puis-je 
+  fin aux questions du genre "Le RPM de dépôts est en version 10-4, où puis-je 
   trouver le 10-7 afin de pouvoir installer PostgreSQL 10.7 ?".
 
-  * Le suffit "latest" a d'ailleurs été ajouté à tous les RPMs de dépôts afin 
+  * Le suffixe "latest" a d'ailleurs été ajouté à tous les RPMs de dépôts afin 
   de toujours pointer sur la dernière version disponible.
 
 -----
