@@ -32,10 +32,10 @@ L'annonce originale de Devrim se trouve [ici](https://www.postgresql.org/message
   l'ensemble des versions supportées de PostgreSQL.
 
   * La version de ce RPM de dépôts a été passée à 42. Espérons que cela mettra 
-  fin aux questions du genre "LE RPM de dépôts est en version 10-4, où puis-je 
+  fin aux questions du genre "Le RPM de dépôts est en version 10-4, où puis-je 
   trouver le 10-7 afin de pouvoir installer PostgreSQL 10.7 ?".
 
-  * Le suffit "latest" a d'ailleurs été ajouté à tous les RPMs de dépôts afin 
+  * Le suffixe "latest" a d'ailleurs été ajouté à tous les RPMs de dépôts afin 
   de toujours pointer sur la dernière version disponible.
 
 -----
@@ -59,19 +59,23 @@ Loaded plugins: fastestmirror
 pgdg-centos11-11-2.noarch.rpm
 Examining /var/tmp/yum-root-5eSWGp/pgdg-centos11-11-2.noarch.rpm: pgdg-redhat-repo-42.0-4.noarch
 Marking /var/tmp/yum-root-5eSWGp/pgdg-centos11-11-2.noarch.rpm to be installed
+
 Resolving Dependencies
 --> Running transaction check
 ---> Package pgdg-redhat-repo.noarch 0:42.0-4 will be installed
 --> Finished Dependency Resolution
+
 Dependencies Resolved
 ========================================================================================================
  Package                   Arch            Version            Repository                           Size
 ========================================================================================================
 Installing:
  pgdg-redhat-repo          noarch          42.0-4             /pgdg-centos11-11-2.noarch          6.8 k
+
 Transaction Summary
 ========================================================================================================
 Install  1 Package
+
 Total size: 6.8 k
 Installed size: 6.8 k
 ```
@@ -100,6 +104,7 @@ facile d'installer deux versions différentes en une seule fois :
 ```bash
 # yum install postgresql11-server postgresql10-server
 ...
+
 Dependencies Resolved
 ========================================================================================================
  Package                        Arch              Version                       Repository         Size
@@ -113,9 +118,11 @@ Installing for dependencies:
  postgresql10-libs              x86_64            10.7-2PGDG.rhel7              pgdg10            355 k
  postgresql11                   x86_64            11.2-2PGDG.rhel7              pgdg11            1.6 M
  postgresql11-libs              x86_64            11.2-2PGDG.rhel7              pgdg11            360 k
+
 Transaction Summary
 ========================================================================================================
 Install  2 Packages (+5 Dependent packages)
+
 Total download size: 20 M
 Installed size: 80 M
 ```
@@ -153,6 +160,7 @@ Resolving Dependencies
 ---> Package pgdg-centos11.noarch 0:11-2 will be obsoleted
 ---> Package pgdg-redhat-repo.noarch 0:42.0-4 will be obsoleting
 --> Finished Dependency Resolution
+
 Dependencies Resolved
 ========================================================================================================
  Package                        Arch                 Version                 Repository            Size
@@ -160,9 +168,11 @@ Dependencies Resolved
 Installing:
  pgdg-redhat-repo               noarch               42.0-4                  pgdg11               5.6 k
      replacing  pgdg-centos11.noarch 11-2
+
 Transaction Summary
 ========================================================================================================
 Install  1 Package
+
 Total download size: 5.6 k
 ```
 
@@ -186,6 +196,7 @@ baseurl=https://download.postgresql.org/pub/repos/yum/9.3/redhat/rhel-$releaseve
 enabled=1
 gpgcheck=1
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-PGDG-93
+
 [pgdg93-source]
 name=PostgreSQL 9.3 $releasever - $basearch - Source
 failovermethod=priority
