@@ -37,36 +37,37 @@ Ainsi se traduisent très concrètement les 3 grands principes fondamentaux des 
 
 ## Qu'est ce que le fait d'y travailler a changé pour toi ?
 
-Avant d'intégrer Dalibo il y a 2 ans et demi environ, j'ai longtemps travaillé dans une grande société d'informatique française,
-réputée pour avoir un cadre social assez bienveillant. Je n'avais donc pas à me plaindre. Mais j'étais un simple salarié.
+Avant d'intégrer Dalibo il y a 2 ans et demi environ, j'ai longtemps travaillé dans une grande société d'informatique française, réputée pour avoir un cadre social assez bienveillant. Je n'avais donc pas à me plaindre. Mais j'étais un simple salarié.
+
 En entrant chez Dalibo, j'ai immédiatement senti un changement d'état d'esprit. Tout le monde a son mot à dire, 
 et pas seulement sur ce qui touche à son propre métier. Et chacun est écouté. C'est une forme de luxe.
 Mais d'une certaine manière, cela génère aussi des obligations. On ne peut pas se retrancher derrière un 
 "de toute façon, c'est le chef qui décide, donc à quoi bon". Nous sommes donc tous de vrais acteurs.
+
 Depuis 6 mois environ, je suis associé. Je suis donc maintenant confronté directement aux décisions stratégiques. 
-Pour tout dire, ce n'est pas facile tous les jours. D'une part les choix ne sont pas toujours simples (c'est la vie !). 
+Pour tout dire, ce n'est pas facile tous les jours. 
+D'une part les choix ne sont pas toujours simples (c'est la vie !). 
 D'autre part, nous n'avons pas tous le même point de vue (et heureusement !). Il faut donc écouter ... et convaincre. 
 Mais c'est passionnant.
 J'ai ressenti un autre changement : la maximisation du bénéfice ne constitue pas l'alpha et l'oméga des critères de choix.
 Ceci n'est d'ailleurs probablement pas seulement lié au statut de SCOP.
+
 En effet, travaillant dans le monde du logiciel Open Source Communautaire, nous tirons largement profit du travail 
 des autres, tous ceux qui, au travers le monde, ont fait de PostgreSQL un fantastique écosystème ! 
 Mais il est essentiel pour nous de continuer à participer très activement à l'aventure, comme nous le faisons depuis le début de la Société. 
 Lorsque nous décidons d'allouer du temps à cette contribution communautaire, c'est nécessairement moins de bénéfice
 à se répartir à la fin de l'année. Mais nous faisons ce choix, car il correspond à des valeurs profondes.
 Et je suis persuadé que nous seront gagnants sur le long terme.
-Enfin, il y a un autre changement important dans mon travail quotidien. Auparavant, je disposais d'un "véhicule de service".
-Quasiment tous les déplacements se faisaient donc en voiture. Aujourd'hui, je me déplace presque exclusivement en transport en commun,
-pour l'essentiel le train. Cela crée quelques contraintes horaires et peut prendre plus de temps (et donc coûter plus cher, 
-par exemple lorsqu'il faut prévoir une nuit supplémentaire à l'hôtel). Mais c'est tout bénéfice, cette fois, pour notre pauvre planète.
+
+Enfin, il y a un autre changement important dans mon travail quotidien. Auparavant, je disposais d'un "véhicule de service". Quasiment tous les déplacements se faisaient donc en voiture. Aujourd'hui, je me déplace presque exclusivement en transport en commun, pour l'essentiel le train. Cela crée quelques contraintes horaires et peut prendre plus de temps (et donc coûter plus cher, par exemple lorsqu'il faut prévoir une nuit supplémentaire à l'hôtel). Mais c'est tout bénéfice, cette fois, pour notre pauvre planète.
 
 ## Qu'est ce que ça change pour nos clients et nos partenaires ?
 
-Tout ce que je viens d'évoquer concerne le fonctionnement interne de l'entreprise. Néanmoins, je crois que cela a quelques
-conséquences également pour nos clients et nos partenaires.
+Tout ce que je viens d'évoquer concerne le fonctionnement interne de l'entreprise. Néanmoins, je crois que cela a quelques conséquences également pour nos clients et nos partenaires.
+
 En premier lieu, comme on peut facilement le comprendre, l'engagement fort des salariés dans l'entreprise représente une
 forme de garantie du niveau de qualité du service rendu.
-Le second point est moins facilement perceptible de l'extérieur, mais il est aussi important. 
+
+Le second point est moins facilement perceptible de l'extérieur, mais il est aussi important.
 De part sa structure juridique de SCOP, Dalibo ne peut pas être racheté. Une OPA, amicale ou hostile est impossible.
-Ceci représente donc un gage de pérennité pour nos clients et partenaires. Il "suffit" juste que nous continuons de mériter
-leur confiance, ce à quoi nous nous employons chaque jour.
+Ceci représente donc un gage de pérennité pour nos clients et partenaires. Il "suffit" juste que nous continuons de mériter leur confiance, ce à quoi nous nous employons chaque jour.
