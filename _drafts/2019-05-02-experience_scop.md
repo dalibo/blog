@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Travailler dans une SCOP
 author: Philippe Beaudoin
 twitter_id: dalibo
