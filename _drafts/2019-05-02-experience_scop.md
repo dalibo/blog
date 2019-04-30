@@ -56,7 +56,7 @@ Ceci n'est d'ailleurs probablement pas seulement lié au statut de SCOP.
 
 En effet, travaillant dans le monde du logiciel **Open Source Communautaire**, nous tirons largement profit du travail 
 des autres, tous ceux qui, au travers le monde, ont fait de PostgreSQL un fantastique écosystème ! 
-Mais il est essentiel pour nous de continuer à participer très activement à l'aventure, comme nous le faisons depuis le début de la Société. 
+Il est donc essentiel pour nous de continuer à participer très activement à l'aventure, comme nous le faisons depuis le début de la Société. 
 Lorsque nous décidons d'allouer du temps à cette contribution communautaire, c'est nécessairement moins de bénéfice
 à se répartir à la fin de l'année. Mais nous faisons ce choix, car il correspond à des valeurs profondes.
 Et je suis persuadé que nous seront gagnants sur le long terme.
