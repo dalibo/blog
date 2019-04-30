@@ -20,7 +20,9 @@ notre responsable avant-vente, par ailleurs contributeur à la communauté Postg
    
 ## C'est quoi, une SCOP, pour toi ?
 
-<img src="https://github.com/dalibo/blog/blob/gh-pages/img/portrait_philippe_small.jpg" alt="Portrait Philippe" style="float: right; padding:10px;"> Les SCOP, Sociétés COopératives et Participatives, sont des formes particulières de sociétés commerciales. 
+<img src="{{ '/img/portrait_philippe_small.jpg' | relative_url }}" alt="Portrait Philippe" style="float: right; padding:10px;">
+
+Les SCOP, Sociétés COopératives et Participatives, sont des formes particulières de sociétés commerciales.
 Comme pour toute société, la SCOP a une raison d'être économique. Mais elle se distingue par quelques caractéristiques clés :
 - La majorité du capital est détenu par les salariés. Pour Dalibo → c'est 100% du capital qui est détenu par les salariés.
 - Les décisions des actionnaires sont basées sur un principe simple : 1 actionnaire = 1 voix, quelle que soit la part du 
