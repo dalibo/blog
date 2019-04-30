@@ -1,0 +1,21 @@
+---
+layout:       page
+title:        Drafts
+permalink:    /drafts/
+meta_robots:  noindex
+---
+
+<p>These are draft posts for previewing.</p>
+
+
+<div class="posts">
+  {% assign sorted = (site.drafts | sort: 'date') | reverse %}
+  {% for draft in sorted %}
+    <div class="post py2">
+      <span class="post-date">
+      {{ draft.date | date: "%d/%m/%Y" }}
+      </span>
+      <a href="{{ draft.url }}" class="post-link"><h3 class="post-title">{{ draft.title }}</h3></a>
+    </div>
+  {% endfor %}
+</div>

@@ -7,12 +7,21 @@ highlighter: rouge
 markdown: kramdown
 excerpt_separator: "<!--MORE-->"
 
+collections:
+  drafts:
+    output: true
+
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
       title: L'actualité PostgreSQL par DALIBO 
+  - scope:
+      path: ""
+      type: drafts
+    values:
+      layout: draft
 
 title: L'actualité PostgreSQL par DALIBO
 description: DALIBO est le spécialiste français de PostgreSQL. Nous proposons du support, de la formation et du conseil depuis 2005.
