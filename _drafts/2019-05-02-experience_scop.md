@@ -1,6 +1,6 @@
 ---
 title: Travailler dans une SCOP
-author: Philippe Beaudoin
+author: Philippe Beaudoin, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
 tags: [travail, scop, coopérative, open source]
@@ -25,12 +25,12 @@ partenaires ou les clients... Voici trois questions posées à [Philippe Beaudoi
 
 Les SCOP, Sociétés COopératives et Participatives, sont des formes particulières de sociétés commerciales.
 Comme pour toute société, la SCOP a une raison d'être économique. Mais elle se distingue par quelques caractéristiques clés :
-- La majorité du capital est détenu par les salariés. Pour Dalibo → c'est 100% du capital qui est détenu par les salariés.
+- La majorité du capital est détenu par les salariés. Pour Dalibo, c'est 100% du capital qui est détenu par les salariés.
 - Les décisions des actionnaires sont basées sur un principe simple : 1 actionnaire = 1 voix, quelle que soit la part du 
 capital qu'il détient.
-- Les dirigeants sont régulièrement élus par les associés. Pour Dalibo → il s'agit de 2 cogérants salariés, qui ont un mandat de 2 ans.
+- Les dirigeants sont régulièrement élus par les associés. Pour Dalibo, il s'agit de 2 cogérants salariés, qui ont un mandat de 2 ans.
 - Les bénéfices sont répartis entre l'entreprise (pour l'autofinancement), les actionnaires (avec un maximum de 33%) 
-et les salariés (avec un minimum de 25%). Pour Dalibo → nous avons fait le choix de répartir une très large part des bénéfices entre tous les salariés.
+et les salariés (avec un minimum de 25%). Pour Dalibo, nous avons fait le choix de répartir équitablement une très large part des bénéfices entre tous les salariés.
 
 Ainsi se traduisent très concrètement les 3 grands principes fondamentaux des SCOP : 
  * **prééminence de la personne humaine,** 
@@ -61,7 +61,7 @@ Lorsque nous décidons d'allouer du temps à cette contribution communautaire, c
 à se répartir à la fin de l'année. Mais nous faisons ce choix, car il correspond à des valeurs profondes.
 Et je suis persuadé que nous seront gagnants sur le long terme.
 
-Enfin, il y a un autre changement important dans mon travail quotidien. Auparavant, je disposais d'un "véhicule de service". Quasiment tous les déplacements se faisaient donc en voiture. Aujourd'hui, je me déplace presque exclusivement en transport en commun, pour l'essentiel le train. Cela crée quelques contraintes horaires et peut prendre plus de temps (et donc coûter plus cher, par exemple lorsqu'il faut prévoir une nuit supplémentaire à l'hôtel). Mais c'est tout bénéfice, cette fois, pour notre pauvre planète.
+Enfin, il y a un autre changement important dans mon travail quotidien. Auparavant, je disposais d'un "véhicule de service". Quasiment tous les déplacements se faisaient donc en voiture. Aujourd'hui, je me déplace presque exclusivement en transport en commun, pour l'essentiel le train. Cela crée quelques contraintes horaires et peut prendre plus de temps (et donc coûter plus cher, par exemple lorsqu'il faut prévoir une nuit supplémentaire à l'hôtel). Mais, indépendamment de l'intérêt en termes de sécurité et de fatigue, c’est tout bénéfice, cette fois, pour notre pauvre planète.
 
 ## Qu'est ce que ça change pour nos clients et nos partenaires ?
 
