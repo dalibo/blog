@@ -36,6 +36,7 @@ Comme les installateurs Windows d'EnterpriseDB et BigSQL ne verrouillent pas les
 permissions du répertoire d'installation des binaires et du répertoire des données,
 un utilisateur Windows non privilégié et un utilisateur PostgreSQL non privilégié
 peuvent forcer le service PostgreSQL à exécuter n'importe quel code.
+
 Cette vulnérabilité est présente dans toutes les versions de PostgreSQL supportées par
 ces installateurs, et peut-être dans les versions plus anciennes. Les deux installateurs
 ont corrigé les permissions pour ces répertoires pour les installations nouvelles et existantes.
@@ -61,6 +62,7 @@ de lire n'importe quelles valeurs échantillonnées dans cette colonne. Si cela 
 par une règle de sécurité de lignes, l'utilisateur pouvait donc en pratique contourner cette règle.
 Ceci est corrigé en acceptant un opérateur avec effet de bord (donc non « leakproof ») uniquement s'il n'y a
 pas de règles de sécurité par ligne sur la table.
+
 Ce problème existe dans PostgreSQL 9.5, 9.6, 10 et 11.
 
 Le projet PostgreSQL remercie Dean Rasheed pour avoir remonté ce problème.
