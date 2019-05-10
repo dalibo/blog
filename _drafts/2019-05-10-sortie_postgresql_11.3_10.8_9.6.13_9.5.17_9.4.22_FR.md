@@ -31,6 +31,7 @@ trop permissives.
 
 * CVE-2019-10128: L'installateur Windows d'EnterpriseDB ne nettoie pas des entrées
 ACL trop permissives.
+
 Comme les installateurs Windows d'EnterpriseDB et BigSQL ne verrouillent pas les
 permissions du répertoire d'installation des binaires et du répertoire des données,
 un utilisateur Windows non privilégié et un utilisateur PostgreSQL non privilégié
@@ -44,12 +45,14 @@ binaires de PostgreSQL et dans les répertoires des données.
 Le projet PostgreSQL remercie Conner Jones pour avoir remonté ce problème.
 
 * CVE-2019-10129: Révélation de mémoire dans le routage des partitions.
+
 Avant cette version, un utilisateur utilisant PostgreSQL 11 peut lire des fragments arbitraires
 de la mémoire du serveur en exécutant un ordre INSERT ad hoc dans une table partitionnée.
 
 
 * CVE-2019-10130: Les estimateurs de sélectivité contournent les règles de sécurité
 par ligne.
+
 PostgreSQL maintient des statistiques pour les tables en échantillonnant les données des colonnes ;
 ces statistiques sont consultées pendant la planification de la requête. Avant cette version, un utilisateur
 capable d'exécuter des requêtes SQL et pouvant lire une colonne donnée pouvait concevoir un opérateur capable
