@@ -27,13 +27,38 @@ rapportés sur ces trois derniers mois.
 Quatre vulnérabilités sont corrigées dans cette mise à jour :
 
 * CVE-2019-10127: L'installateur Windows de BigSQL ne nettoie pas des entrées ACL
-trop permissives,
+trop permissives.
+
 * CVE-2019-10128: L'installateur Windows d'EnterpriseDB ne nettoie pas des entrées
-ACL trop permissives,
-* CVE-2019-10129: Révélation de mémoire dans le routage des partitions,
+ACL trop permissives.
+Comme les installateurs Windows d'EnterpriseDB et BigSQL ne verrouillent pas les
+permissions du répertoire d'installation des binaires et du répertoire des données,
+un utilisateur Windows non privilégié et un utilisateur PostgreSQL non privilégié
+peuvent forcer le service PostgreSQL à exécuter n'importe quel code.
+Cette vulnérabilité est présente dans toutes les versions de PostgreSQL supportées par
+ces installateurs, et peut-être dans les versions plus anciennes. Les deux installateurs
+ont corrigé les permissions pour ces répertoires pour les installations nouvelles et existantes.
+Si vous avez installé PostgreSQL sur Windows par cette méthode, nous vous conseillons de
+vérifier que seuls des utilisateurs de confiance peuvent écrire dans les répertoires des
+binaires de PostgreSQL et dans les répertoires des données.
+Le projet PostgreSQL remercie Conner Jones pour avoir remonté ce problème.
+
+* CVE-2019-10129: Révélation de mémoire dans le routage des partitions.
+Avant cette version, un utilisateur utilisant PostgreSQL 11 peut lire des fragments arbitraires
+de la mémoire du serveur en exécutant un ordre INSERT ad hoc dans une table partitionnée.
+
+
 * CVE-2019-10130: Les estimateurs de sélectivité contournent les règles de sécurité
 par ligne.
-
+PostgreSQL maintient des statistiques pour les tables en échantillonnant les données des colonnes ;
+ces statistiques sont consultées pendant la planification de la requête. Avant cette version, un utilisateur
+capable d'exécuter des requêtes SQL et pouvant lire une colonne donnée pouvait concevoir un opérateur capable
+de lire n'importe quelles valeurs échantillonnées dans cette colonne. Si cela incluait des valeurs interdites
+par une règle de sécurité de lignes, l'utilisateur pouvait donc en pratique contourner cette règle.
+Ceci est corrigé en acceptant un opérateur avec effet de bord (donc non « leakproof ») uniquement s'il n'y a
+pas de règles de sécurité par ligne sur la table.
+Ce problème existe dans PostgreSQL 9.5, 9.6, 10 et 11. Le projet PostgreSQL remercie Dean Rasheed pour avoir
+remonté ce problème.
 
 ## Corrections de bugs et améliorations
 
