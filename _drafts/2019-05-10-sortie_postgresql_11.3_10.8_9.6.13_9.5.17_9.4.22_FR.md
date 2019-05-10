@@ -42,6 +42,7 @@ ont corrigé les permissions pour ces répertoires pour les installations nouvel
 Si vous avez installé PostgreSQL sur Windows par cette méthode, nous vous conseillons de
 vérifier que seuls des utilisateurs de confiance peuvent écrire dans les répertoires des
 binaires de PostgreSQL et dans les répertoires des données.
+
 Le projet PostgreSQL remercie Conner Jones pour avoir remonté ce problème.
 
 * CVE-2019-10129: Révélation de mémoire dans le routage des partitions.
@@ -60,8 +61,9 @@ de lire n'importe quelles valeurs échantillonnées dans cette colonne. Si cela 
 par une règle de sécurité de lignes, l'utilisateur pouvait donc en pratique contourner cette règle.
 Ceci est corrigé en acceptant un opérateur avec effet de bord (donc non « leakproof ») uniquement s'il n'y a
 pas de règles de sécurité par ligne sur la table.
-Ce problème existe dans PostgreSQL 9.5, 9.6, 10 et 11. Le projet PostgreSQL remercie Dean Rasheed pour avoir
-remonté ce problème.
+Ce problème existe dans PostgreSQL 9.5, 9.6, 10 et 11.
+
+Le projet PostgreSQL remercie Dean Rasheed pour avoir remonté ce problème.
 
 ## Corrections de bugs et améliorations
 
