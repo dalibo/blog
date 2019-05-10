@@ -82,30 +82,30 @@ de `ALTER TABLE` sur une table partitionnée.
 conserver la requête d'un curseur au travers d'un commit de transaction.
 * Évite un problème de performance en O(N^2) lors de l'annulation d'une transaction
 qui a créé beaucoup de tables.
-* Corrige de possibles erreurs “could not access status of transaction” dans
+* Corrige de possibles erreurs « could not access status of transaction » dans
 `txid_status()`
-* Corrige les vues autorisant les mises à jour pour permettre des clauses DEFAULT
-dans les ordres `INSERT .. VALUES` avec plusieurs lignes VALUES.
-* Corrige CREATE VIEW pour autoriser les vues avec zéro colonne.
+* Corrige les vues autorisant les mises à jour pour permettre des clauses `DEFAULT`
+dans les ordres `INSERT .. VALUES` avec plusieurs lignes `VALUES`.
+* Corrige `CREATE VIEW` pour autoriser les vues avec zéro colonne.
 * Ajoute un support manquant pour l'ordre `CREATE TABLE IF NOT EXISTS .. AS EXECUTE..`
 * S'assure que les sous-SELECTs apparaissant dans les expressions des règles de sécurité
 par ligne sont exécutés avec les permissions correctes de l'utilisateur.
-* Accepte les documents XML comme valeurs valides de type xml quand xmloption est positionné
-à « content », comme requis par SQL:2006 et suivants.
-* Corrige une incompatibilté des enregistrements d'index GIN dans les WAL, tels qu'introduits
+* Accepte les documents XML comme valeurs valides de type xml quand `xmloption` est positionné
+à "content", comme requis par SQL:2006 et suivants.
+* Corrige une incompatibilité des enregistrements d'index GIN dans les WAL, tels qu'introduits
 en 11.2, 10.7, 9.6.12, 9.5.16 et 9.4.21, qui affectent les serveurs répliqués exécutant ces
 versions et suivant les changements dans ces index issus de serveurs primaires de versions
 antérieures.
 * Plusieurs corrections de fuites mémoire, ainsi que des correctifs dans la gestion de la
 mémoire partagée.
-* Assouplit les erreurs PANIC dans fsync et sync_file_range pour certains cas où une erreur
+* Assouplit les erreurs PANIC dans fsync() et sync_file_range() pour certains cas où une erreur
 indiquerait « operation not supported »
 * Plusieurs correctifs au planificateur, dont plusieurs devraient mener à des améliorations
 dans la planification.
 * Correction d'un problème de concurrence dans lequel le postmaster d'un hot-standby pouvait
 ne pas s'arrêter après avoir reçu un ordre « smart shutdown ».
 * Plusieurs correctifs dans l'authentification SCRAM.
-* Corrige la manipulation des paramètres `lc_time` impliquant un encodage différent de celui
+* Corrige la manipulation du paramètre `lc_time` impliquant un encodage différent de celui
 de la base de données
 * Créer le fichier `current_logfiles` avec les mêmes permissions que les autres fichiers du
 serveur
@@ -113,7 +113,7 @@ dans le répertoire `data`.
 * Plusieurs corrections d'ecpg.
 * Forcer `pg_verify_checksums` à s'assurer que le répertoire des données qu'on lui pointe est dans
 la bonne version de PostgreSQL.
-* Plusieurs correctifs pour `contrib/postgres_fdw`, dont le cas d'un UPDATE sur des partitions
+* Plusieurs correctifs pour `contrib/postgres_fdw`, dont le cas d'un `UPDATE` sur des partitions
 distantes
 pouvant mener à des résultats incorrects ou un plantage.
 * Plusieurs correctifs pour Windows.
@@ -138,6 +138,4 @@ versionnement pour plus d'informations.
 * [Notes de version](https://www.postgresql.org/docs/11/release.html)
 * [Page sur la sécurité](https://www.postgresql.org/support/security/)
 * [Politique de versionnement](https://www.postgresql.org/support/versioning/)
-* [@PostgreSQL sur Twitter](https://twitter.com/postgresql)
-
-      
+* [@Postgresql sur Twitter](https://twitter.com/postgresql)
