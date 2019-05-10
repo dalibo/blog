@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.3, 10.8, 9.6.13, 9.5.17, 9.4.22
 author: Christophe Courtois, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 11, 10, 09]
+tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 9.4, 9.5, 9.6, 10, 11]
 ---
 
 ---
@@ -86,10 +86,6 @@ distantes
 pouvant mener à des résultats incorrects ou un plantage.
 * Plusieurs correctifs pour Windows.
 
-## Fin de vie pour PostgreSQL 9.4
-
-La version 9.4 sera en fin de vie à compter du 13 février 2020. Pour de plus 
-amples explications, reportez-vous à la politique de versionnement.
 
 ## Mise à jour
 
@@ -102,6 +98,7 @@ supplémentaires après installation ; merci de consulter les notes des versions
 
 PostgreSQL 9.4 ne recevra plus de correctifs après le 13 février 2020. Merci de consulter notre politique de
 versionnement pour plus d'informations.
+
 
 ## Liens
 
