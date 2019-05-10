@@ -138,6 +138,6 @@ versionnement pour plus d'informations.
 * [Notes de version](https://www.postgresql.org/docs/11/release.html)
 * [Page sur la sécurité](https://www.postgresql.org/support/security/)
 * [Politique de versionnement](https://www.postgresql.org/support/versioning/)
-* [@postgresql sur Twitter](https://twitter.com/postgresql)
+* [@PostgreSQL sur Twitter](https://twitter.com/postgresql)
 
       
