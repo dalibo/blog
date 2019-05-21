@@ -10,14 +10,14 @@ tags: [PostgreSQL, Communauté, Belgique]
 Pour le premier PGDay organisé en Belgique par le 
 [PgBE PostgreSQL Users Group Belgium](https://www.meetup.com/fr-FR/PostgresBE/), 
 [cet](http://pgconf.be) événement a regroupé environ 40 fans de PostgreSQL ce 
-17 mai dernier à Louvain. Ce fût réellement une très chouette journée et 
+17 mai dernier à Louvain. Ce fut réellement une très chouette journée et 
 j'aimerais partager ce sentiment avec vous.
 
 <!--MORE-->
 
 -----
 
-Cette journée entièrement consacrée à PostgreSQL fût une belle opportunité 
+Cette journée entièrement consacrée à PostgreSQL fut une belle opportunité 
 pour rencontrer d'autres passionnés de PostgreSQL en Belgique. L’événement 
 était vraiment destiné à tout le monde, des nouveaux utilisateurs, aux 
 étudiants et aux experts.
@@ -35,7 +35,7 @@ ainsi pu voir Thijs Lemmens nous démontrer comment procéder à des mises à jo
 de PostgreSQL en utilisant la réplication logique : 
 [**Downtimeless PG upgrades using logical replication**](https://github.com/thijslemmens/pg-logical-replication-presentation).
 
-En s'appuyant sur sur docker et docker-compose, il crée 2 serveurs PostgreSQL 
+En s'appuyant sur docker et docker-compose, il crée 2 serveurs PostgreSQL 
 et installe pgAdmin 4 ainsi que HAProxy. Si vous souhaitez essayer la démo par 
 vous-même, Thijs met à votre disposition tout le nécessaire sur son compte 
 GitHub.
@@ -73,5 +73,5 @@ apprécié y être.
 
 A nouveau, 
 [un chaleureux merci](https://twitter.com/the_hydrobiont/status/1129416778872958982) 
-aux organisateurs, orateurs et participants pour avoir fait de cet événement, 
+aux organisateurs, orateurs et participants pour avoir fait de cet événement 
 une réalité !
