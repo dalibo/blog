@@ -2,7 +2,7 @@
 layout: post
 title: De retour du PGDay Belgique
 author: Stefan Fercot
-twitter_id: @pgstef
+twitter_id: pgstef
 github_id: pgstef
 tags: [PostgreSQL, Communauté, Belgique]
 ---

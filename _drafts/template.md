@@ -2,7 +2,7 @@
 layout: post
 title: Titre de l'article 
 author: Chuck Norris
-twitter_id: @chuck_norris
+twitter_id: chuck_norris
 github_id: chuck_norris
 tags: [PostgreSQL, performance, sauvegarde, monitoring]
 ---
