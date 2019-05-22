@@ -6,6 +6,9 @@ twitter_id: @pgstef
 github_id: pgstef
 tags: [PostgreSQL, Communauté, Belgique]
 ---
+
+---
+
 *Paris, le 22 mai 2019*
 
 Pour le premier PGDay organisé en Belgique par le 
