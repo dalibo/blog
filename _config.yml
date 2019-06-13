@@ -2,7 +2,11 @@
 
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
-exclude: ["README.md", "_drafts/template.md"] # files to exclude
+exclude: [
+  README.md,
+  _drafts/template.md,
+  vendor
+] # files to exclude
 highlighter: rouge
 markdown: kramdown
 excerpt_separator: "<!--MORE-->"
