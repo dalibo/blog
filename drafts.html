@@ -9,7 +9,7 @@ meta_robots:  noindex
 
 
 <div class="posts">
-  {% assign sorted = (site.drafts | sort: 'date') | reverse %}
+  {% assign sorted = site.drafts | sort: 'date' | reverse %}
   {% for draft in sorted %}
     <div class="post py2">
       <span class="post-date">
