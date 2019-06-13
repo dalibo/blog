@@ -18,13 +18,12 @@ j'aimerais partager ce sentiment avec vous.
 
 -----
 
-![pgday_be_2019_small](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/gday_be_2019_small.png)
-
-
 Cette journée entièrement consacrée à PostgreSQL fut une belle opportunité 
 pour rencontrer d'autres passionnés de PostgreSQL en Belgique. L’événement 
 était vraiment destiné à tout le monde, des nouveaux utilisateurs, aux 
 étudiants et aux experts.
+
+![pgday_be_2019_small](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgday_be_2019_small.png)
 
 Avec pas moins de 10 présentations, dont plusieurs en parallèle l'après-midi, 
 la liste des orateurs était impressionnante, avec notamment de nombreux 
