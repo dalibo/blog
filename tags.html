@@ -10,16 +10,15 @@ group: navigation
 
 <!-- Tab panes -->
 <div class="tab-content col-sm-12">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-    <div class="tab-pane" id="{{ this_word | replace:' ','-' }}-ref">
+  {% for tag in site.tags %}
+    <div class="tab-pane" id="{{ tag[0] | replace:' ','-' }}-ref">
       <ul class="list-unstyled">
-        {% for post in site.tags[this_word] %}{% if post.title != null %}
+        {% for post in tag[1] %}{% if post.title != null %}
           <li style="line-height: 35px;"><a href="{{ site.BASE_PATH }}{{post.url}}">{{post.title}}</a> <span class="text-muted">- {{ post.date | date: "%B %d, %Y" }}</span></li>
         {% endif %}{% endfor %}
       </ul>
     </div>
-  {% endunless %}{% endfor %}
+  {% endfor %}
 </div>
 
 <div class="col-sm-12">
