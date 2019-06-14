@@ -6,7 +6,7 @@ group: navigation
 ---
 
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
+{% assign tag_words = site_tags | split:',' | sort_natural %}
 
 <!-- Tab panes -->
 <div class="tab-content col-sm-12">
@@ -23,9 +23,8 @@ group: navigation
 </div>
 
 <div class="col-sm-12">
-  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-  <a href="#{{ this_word | replace:' ','-' }}-ref" data-toggle="tab"><code><nobr>{{ this_word }}</nobr></code></a>
+  {% for item in tag_words %}{% unless forloop.last %}
+  <a href="#{{ item | replace:' ','-' }}-ref" data-toggle="tab"><code><nobr>{{ item }}</nobr></code></a>
   {% endunless %}{% endfor %}
 </div>
 
