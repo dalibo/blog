@@ -7,12 +7,13 @@ github_id: dalibo
 tags: [recrutement, commercial, france]
 ---
 
----
 *Paris, le 26 juin 2019*
 
-[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e Commercial⋅e Grands Comptes expérimenté·e. 
+[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e Commercial⋅e Grands Comptes expérimenté·e.
 
 <!--MORE-->
+
+-----
 
 **Les missions**
 
