@@ -15,55 +15,28 @@ tags: [recrutement, commercial, france]
 
 -----
 
-**Les missions**
+**Le poste**
 
- * Assurer les rendez-vous qualifiés par l'équipe commerciale existante (appels entrants, salons, etc.), pour présenter
- l'offre grands comptes,
- 
- * Mener des actions de prospection ciblées auprès de grands comptes,
- 
- * Assurer une présence sur le terrain à raison de deux rendez-vous par semaine minimum,
- 
- * Fidéliser nos clients, en aidant l'équipe commerciale sur le renouvellement des contrats actuels et à venir,
- 
- * Être force de proposition afin d'améliorer notre offre,
- 
- * Négocier des offres selon les règles de l'entreprise et respecter vos objectifs de marge,
- 
- * Soutenir l'avant-vente actuelle dans la réponse aux appels d'offres de grands comptes privés et publics,
- 
- * Faire un reporting hebdomadaire succinct de votre activité, et participer aux tâches attribuées au comité commercial.
+Rattaché au Directeur Commercial, vos principales missions seront de développer le chiffre d'affaires de la société grâce à une offre innovante et taillée pour les grands comptes.
+Il vous sera entre autres demandé d'assurer les rendez-vous et une présence sur le terrain, de mener des actions de prospection ciblées auprès de grands comptes, de fidéliser nos clients, d'être force de proposition afin d'améliorer notre offre.
 
  
-**Type de contrat**
+**À propos de Dalibo**
 
-Nous proposons des postes en CDI exclusivement avec une période d'essai de 3 mois renouvelable une seule fois.
+DALIBO est le spécialiste français de PostgreSQL. Composée d’une trentaine de salariés dont une majorité d’administrateurs de bases de données, la société propose un cursus de formation complet ainsi qu’une offre de support spécialement conçue pour s’adapter aux besoins des entreprises en matière de sécurité, performance et pérennité.
 
-Les locaux de la société sont situés à Paris, au 43 rue du Faubourg Montmartre, dans le 9ème arrondissement.
-Des déplacements sont à prévoir, en région parisienne (~80% du temps) et en province (~20% du temps).
-
-Chaque salarié de la société peut consacrer une partie de son temps de travail (jusqu'à 20 %) à un projet Open-Source
-de la communauté PostgreSQL : ce qui inclut la traduction, le développement, l'aide aux utilisateurs, la présence dans
-des salons Open-Source, etc.
-
-DALIBO est une société coopérative (SCOP). Après un certain temps passé dans l'entreprise, chaque salarié/e peut devenir
-associé⋅e et prendre part aux décisions de la société.
+En matière de recrutement, seuls des postes en CDI y sont proposés, avec une période d'essai de 3 mois renouvelable une seule fois.
 
    
-**Profil recherché**
+**Open source et SCOP**
 
-Pour ce poste de Commercial⋅e Grands Comptes, vous justifiez d'au moins une expérience dans un environnement concurrentiel
-soit dans les solutions informatiques d'infrastructure, soit dans le domaine de l'Open Source.
+Impliqués dans le projet PostgreSQL depuis ces débuts, nous sommes engagés auprès de la communauté PostgreSQL en France comme à l’étranger, au travers du développement d’outils, de participation à des événements et conférences, sponsoring et plus encore. Dalibo est avant tout une entreprise de passionnés, qui a décidé d’inscrire les principes de l’open source dans son ADN, en devenant une SCOP.
 
-C'est avant tout votre aisance relationnelle, votre détermination et votre goût pour les challenges qui seront appréciés
-pour ce poste.
-
-Le poste est ouvert à tous les profils commerciaux, Juniors avec une première expérience réussie dans le domaine, ou
-Seniors aguerris, désirant s'épanouir dans une structure coopérative où l'humain prime sur le business, et au sein
-de laquelle les profils techniques et commerciaux sont sur un pied d'égalité.
-
+Plus qu’un simple choix statutaire, cette particularité fait de notre entreprise une société riche et humaine, fonctionnant de manière démocratique et évolutive.
  
  ---
  
-**Vous êtes intéressé ?** 
+Pour plus d’informations, veuillez consulter la fiche de poste [ici](https://www.dalibo.com/jobs).
+
+**Intéressé⋅e ?** 
 Contactez-nous à l'adresse suivante : **recrutement@dalibo.com**
