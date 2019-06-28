@@ -4,7 +4,7 @@ title:  Au programme de la Session PostgreSQL du jeudi 24 septembre ...
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, session, conference]
+tags: [postgresql, pgsession, pgsession7, conférences, programme]
 
 ---
 *Paris, le 20 juillet 2015*
