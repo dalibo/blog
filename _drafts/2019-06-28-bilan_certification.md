@@ -28,9 +28,9 @@ Nous remercions d'ailleurs vivement les certifiés ayant accepté de nous faire 
 démarche.
 
 ## Petit bilan
-Depuis la première session organisée en mars 2018, 17 personnes ont été certifiées [Dalibo Essential Postgres Professional](https://certification.dalibo.com/infos/essential/).
+Depuis la première session organisée en mars 2018, 15 personnes ont été certifiées [Dalibo Essential Postgres Professional](https://certification.dalibo.com/infos/essential/).
 C'est un examen qui exige une bonne préparation, c'est pourquoi nous conseillons vivement aux interessé⋅e⋅s de consulter
-nos manuels libres d'accès ([DBA1](https://dali.bo/dba1), [DBA2](https://dali.bo/dbaé) et [SQL1](https://dali.bo/sql1)), voire de participer à nos séances de [formation](https://www.dalibo.com/formations) en présentiel.
+nos manuels libres d'accès ([DBA1](https://dali.bo/dba1), [DBA2](https://dali.bo/dba2) et [SQL1](https://dali.bo/sql1)), voire de participer à nos séances de [formation](https://www.dalibo.com/formations) en présentiel.
 
 ## Perspectives
 À l'occasion de notre prochaine PGSession en novembre, nous lancerons la certification [**Advanced**](https://certification.dalibo.com/infos/advanced/).
