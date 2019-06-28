@@ -7,8 +7,6 @@ github_id: dalibo
 tags: [yum, RPM, packaging, PostgreSQL]
 ---
 
----
-
 *Paris, le 18 avril 2019*
 
 Depuis le 15 avril 2019, il n'y a désormais plus qu'1 seul RPM de création des 
