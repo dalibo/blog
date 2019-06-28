@@ -11,7 +11,7 @@ tags: [postgresql, formation, certification, advanced, essential, dalibo]
 
 *Paris, le 28 juin 2019*
 
-Souvenez-vous, en avril 2018 [Dalibo avait annoncé](http://blog.dalibo.com/2018/04/17/certification_postgresql_dalibo.html) l'élargissement de son offre de formation en créant sa certification,
+Souvenez-vous, en avril 2018 [Dalibo avait annoncé](http://blog.dalibo.com/2018/04/17/certification_postgresql_dalibo.html) l'élargissement de son offre de formation en créant sa **certification**,
 afin de répondre aux nouveaux besoins dus au succès de PostgreSQL.
 
 <!--MORE-->
