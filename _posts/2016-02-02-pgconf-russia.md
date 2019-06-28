@@ -4,7 +4,7 @@ title:  Dalibo à Moscou pour PgConf Russia 2016
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, conference]
+tags: [postgresql, pgconf, russie, conférences, dalibo, migration]
 
 ---
 *Paris, le 2 février 2016*
