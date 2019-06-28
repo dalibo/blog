@@ -4,7 +4,7 @@ title: "Retour sur la PGSession10"
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, session, sessions, 10, pgsession, pgsession10, event, evenement, conférences, conférence, paris, table, ronde, dalibo, workshops]
+tags: [postgresql, pgsession, pgsession10, conférences, paris, table-ronde, dalibo, workshops]
 ---
 
 *Paris, le 11 décembre 2018*
