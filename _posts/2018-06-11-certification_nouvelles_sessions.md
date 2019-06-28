@@ -4,7 +4,7 @@ title: Des nouvelles sessions de certification pour la rentrée 2018 !
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, postgres, formations, formation, certification, certifications, certifié, certified, certif, advanced, essential, dates, sessions, dalibo]
+tags: [postgresql, formation, certification, advanced, essential, dates, sessions, dalibo, dba]
 ---
 
 ---
