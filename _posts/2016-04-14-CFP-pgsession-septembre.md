@@ -4,7 +4,7 @@ title:  Appel à conférenciers - pgsession du 22 septembre à Lyon
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, conference, session]
+tags: [postgresql, postgis, conférences, pgssession, pgsession8, lyon, cfp]
 
 ---
 *Paris, le 14 avril 2016*
