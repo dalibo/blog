@@ -7,8 +7,6 @@ github_id: dalibo
 tags: [dalibolabs, e-maj, update, postgresql, tables]
 ---
 
----
-
 *Paris, le 2 avril 2019*
 
 E-Maj, la solution permettant de "faire voyager les données PostgreSQL dans le temps"... (re)découvrez ses fonctionnalités et les nouveautés de sa version 3.0 !
