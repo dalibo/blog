@@ -4,7 +4,7 @@ title: Sortie de E-Maj v3.0
 author: Philippe Beaudoin, Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [dalibolabs, emaj, maj, update, postgresql, tables, version]
+tags: [dalibolabs, e-maj, update, postgresql, tables]
 ---
 
 ---
