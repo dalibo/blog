@@ -4,7 +4,7 @@ title:  Appel à conférenciers - PGSession 7 - 24 septembre 2015
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PGSession, conference]
+tags: [PostgreSQL, pgsession, pgsession7, conférences, cfp]
 
 ---
 *Paris, le 20 avril 2015*
