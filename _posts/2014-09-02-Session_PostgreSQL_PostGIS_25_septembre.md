@@ -4,7 +4,7 @@ title: Session PostgreSQL 9.4 / PostGIS 2.2 par Dalibo & Oslandia - 25 septembre
 author: Virginie Jourdan
 twitter_id: VirginieJourdan
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, conference]
+tags: [postgresql, pgsession, pgsession6, conférences, programme, postgis]
 ---
 
 Les inscriptions sont ouvertes pour l'évènement incontournable de cette rentrée, pour tous les acteurs et utilisateurs de bases de données spatiales:  la journée de conférences dédiée à **PostgreSQL et PostGIS**, le **25 septembre 2014**.
