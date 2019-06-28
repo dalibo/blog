@@ -4,7 +4,7 @@ title: Sortie de la beta de PAF v2.2.0
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [PAF, postgresql, automatic, failover, release, dalibolabs]
+tags: [paf, postgresql, automatic, failover, release]
 
 ---
 
