@@ -4,7 +4,7 @@ title: Release pgBadger v10.0 - new features and status update
 author: Léo Cossic, Gilles Darold
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, pgbadger, foss, floss, version, 10, 10.0, release, gilles, darold, 2018]
+tags: [dalibo, postgresql, pgbadger, foss, floss, version, 10, release, 2018]
 ---
 
 ---
