@@ -6,8 +6,6 @@ github_id: dalibo
 tags: [scop, opensource, dalibo]
 ---
 
----
-
 *Paris, le 2 mai 2019*
 
 Au lendemain de la Fête du Travail, nous avons souhaité nous pencher sur notre propre expérience du travail au sein de 
