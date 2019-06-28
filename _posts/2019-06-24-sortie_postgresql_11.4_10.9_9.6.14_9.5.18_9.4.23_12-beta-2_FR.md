@@ -7,8 +7,6 @@ github_id: dalibo
 tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 11.4, 10.9, 9.6, 9.5, 9.4, 12, beta]
 ---
 
----
-
 *Paris, le 24 juin 2019*
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de PostgreSQL,
