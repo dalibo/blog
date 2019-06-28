@@ -4,7 +4,7 @@ title: Retour sur la Session PostgreSQL 9.4 / PostGIS 2.2 du 25 septembre - Dali
 author: Virginie Jourdan
 twitter_id: VirginieJourdan   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, conference]
+tags: [postgresql, pgsession, pgsession9, postgis, conférences, présentations, oslandia, 9]
 
 ---
 *Paris, le 1er décembre 2014*
