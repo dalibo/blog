@@ -4,7 +4,7 @@ title:  Session PostgreSQL du 24 septembre, les inscriptions sont ouvertes !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, session, conference]
+tags: [postgresql, pgsession, pgsession7, conférences, programme]
 
 ---
 *Paris, le 2 septembre 2015*
