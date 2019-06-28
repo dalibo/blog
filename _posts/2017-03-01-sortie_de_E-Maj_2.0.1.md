@@ -4,7 +4,7 @@ title: Sortie de E-Maj 2.0.1
 author: Philippe Beaudoin
 twitter_id:
 github_id: beaud76
-tags: [PostgreSQL, emaj, audit-log, flashback, logical rollback, log trigger, table log]
+tags: [postgresql, e-maj, upgrade]
 ---
 
 La version 2.0.1 de l'extension PostgreSQL E-Maj vient de sortir.
