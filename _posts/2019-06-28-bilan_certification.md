@@ -5,7 +5,6 @@ author: Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
 tags: [postgresql, formation, certification, advanced, essential, dalibo]
----
 
 ---
 
