@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La certification Dalibo : bilan
+title: La certification Dalibo : premier bilan
 author: Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
