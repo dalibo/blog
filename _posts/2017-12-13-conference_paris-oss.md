@@ -4,7 +4,7 @@ title: Une conférence au Paris Open Source Summit
 author: Philippe Beaudoin, Léo Cossic
 twitter_id: dalibo 
 github_id: dalibo
-tags: [postgresql, Paris, OSS, open, source, summit, poss, conference, salon, FOSS, evenement]
+tags: [postgresql, oss, opensource, poss, conférences, salon, foss, nosql]
 ---
 
 ---
