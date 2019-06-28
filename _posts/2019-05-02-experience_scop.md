@@ -3,7 +3,7 @@ title: Travailler dans une SCOP
 author: Philippe Beaudoin, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [travail, scop, coopérative, opensource, dalibo]
+tags: [scop, opensource, dalibo]
 ---
 
 ---
