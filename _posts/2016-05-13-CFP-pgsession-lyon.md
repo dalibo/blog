@@ -4,7 +4,7 @@ title:  Session PostgreSQL / PostGIS du 22 septembre à Lyon
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, conference, session]
+tags: [postgresql, postgis, conférences, pgsession, pgsession8, lyon, cfp]
 
 ---
 *Paris, le 13 mai 2016*
