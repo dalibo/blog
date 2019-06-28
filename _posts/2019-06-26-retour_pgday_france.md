@@ -4,7 +4,7 @@ title: De retour du PGDay France
 author: Stefan Fercot
 twitter_id: pgstef
 github_id: pgstef
-tags: [PostgreSQL, communauté, France, pgday, conférences]
+tags: [PostgreSQL, communauté, france, pgday, conférences]
 ---
 
 *Paris, le 26 juin 2019*
