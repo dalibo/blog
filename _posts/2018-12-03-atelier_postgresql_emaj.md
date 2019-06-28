@@ -4,7 +4,7 @@ title: E-Maj - présentation de l'extension pour PostgreSQL au CNRS
 author: Philippe Beaudoin, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, emaj, maj, update, postgres]
+tags: [dalibo, postgresql, emaj, update]
 ---
 
 ---
