@@ -7,8 +7,6 @@ github_id: dalibo
 tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 11]
 ---
 
----
-
 *Paris, le 14 février 2019*
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour 
