@@ -4,7 +4,7 @@ title: Annonce - thèmes des workshops du 21 novembre 2018
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, session, sessions, 10, conférences, conférence, talk, talks, foss, floss, 2018]
+tags: [dalibo, postgresql, pgsession, pgsession10, conférences, workshops]
 ---
 
 ---
