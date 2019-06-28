@@ -4,7 +4,7 @@ title:  Sortie de PostgreSQL 9.4.1, 9.3.6, 9.2.10, 9.1.15 et 9.0.19
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, sécurité, upgrade]
+tags: [postgresql, sécurité, upgrade, 9]
 
 ---
 
