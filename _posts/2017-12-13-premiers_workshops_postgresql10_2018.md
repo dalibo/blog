@@ -4,7 +4,7 @@ title: Workshop PostgreSQL 10 - premières date pour 2018
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, workshop, 10, dalibo, atelier]
+tags: [opensource, postgresql, workshops, 10, dalibo]
 ---
 
 ---
