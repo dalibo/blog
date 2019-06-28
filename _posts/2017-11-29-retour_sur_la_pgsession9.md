@@ -4,7 +4,7 @@ title: "Retour sur la PGSession 9"
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, pgsession, pgsession9, conférences, dalibo, 2017]
+tags: [postgresql, pgsession, pgsession9, conférences, dalibo, postgrespro]
 ---
 
 La neuvième édition de nos PGSessions s'est déroulée le vendredi 17 novembre, à Paris. L'événement a réuni plus de 80 personnes autour d'intervenants de qualité et de leurs présentations dédiées à PostgreSQL.
