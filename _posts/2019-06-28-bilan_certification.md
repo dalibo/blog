@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  La certification Dalibo : bilan 1
+title: La certification Dalibo : bilan 1
 author: Laura Ricci
-twitter_id:  dalibo  
-tags: [postgresql, dba, certification, dalibo, formation]
+twitter_id: dalibo
+github_id: dalibo
+tags: [formation, postgresql, certification, dalibo, dba]
+---
 
 ---
 
