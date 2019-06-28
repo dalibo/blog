@@ -4,7 +4,7 @@ title:  Session PostgreSQL / PostGIS du 22 septembre, les inscriptions sont ouve
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, session, conference]
+tags: [postgresql, postgis, pgsession, pgsession8, conférences, lyon]
 
 ---
 *Paris, le 2 septembre 2016*
