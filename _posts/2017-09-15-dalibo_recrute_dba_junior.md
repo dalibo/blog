@@ -4,7 +4,7 @@ title: Dalibo recrute des DBA juniors !
 author: Virginie Jourdan, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [dalibo, recrute, recrutement, annonce, offre, emploi, travail, DBA, base de données, PostgreSQL]
+tags: [dalibo, recrutement, DBA]
 ---
 
 ---
