@@ -4,7 +4,7 @@ title: Sortie de pgBadger 8.2
 author: Gilles Darold
 twitter_id: pgbadger
 github_id: 
-tags: [PostgreSQL, performance, pgBadger]
+tags: [postgresql, performance, pgbadger, release, dalibolabs]
 ---
 DALIBO est fier d'annoncer la sortie de pgBadger 8.2.
 PgBadger est un analyseur de performances pour PostgreSQL, conçu pour produire rapidement des rapports détaillés à partir de vos fichiers de logs Postgres.
