@@ -3,7 +3,7 @@ layout: post
 title:  PostgreSQL, annonce de mise à jour de sécurité
 author: Marc Cousin
 github_id: marco44
-tags: [postgresql, sécurité, 9, maj]
+tags: [postgresql, sécurité, 9, upgrade]
 
 ---
 *Paris, le 9 octobre 2015*
