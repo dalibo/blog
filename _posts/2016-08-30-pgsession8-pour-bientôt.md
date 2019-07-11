@@ -4,7 +4,7 @@ title:  Session PostgreSQL / PostGIS du 22 septembre à Lyon, bientôt les inscr
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, postgis, pgsession, pgsession8, conférences, dalibo, lyon, oslandia, programme]
+tags: [postgresql, postgis, pgsession, pgsession08, conférences, dalibo, lyon, oslandia, programme]
 
 ---
 *Paris, le 30 août 2016*
