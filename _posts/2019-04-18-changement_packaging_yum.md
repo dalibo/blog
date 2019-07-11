@@ -4,7 +4,7 @@ title: Du changement dans le packaging YUM !
 author: Stefan Fercot, Christophe Courtois
 twitter_id: 
 github_id: dalibo
-tags: [yum, RPM, packaging, PostgreSQL]
+tags: [yum, RPM, packaging, postgresql]
 ---
 
 *Paris, le 18 avril 2019*
