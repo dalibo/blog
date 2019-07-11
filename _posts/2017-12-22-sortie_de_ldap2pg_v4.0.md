@@ -4,7 +4,7 @@ title: Sortie de ldap2pg version 4.0
 author: Étienne Bersac
 twitter_id: Dalibolabs
 github_id: Dalibo
-tags: [postgresql, ldap, ldap2pg, migration, release]
+tags: [postgresql, ldap, ldap2pg, migration, release, dalibolabs]
 ---
 
 ---
