@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 10.1, 9.6.6, 9.5.10, 9.4.15, 9.3.20 et 9.2.24
 author: Damien Clochard, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 10.1]
+tags: [dalibo, postgresql, release, mineure, sécurité, sortie, 10, 9]
 ---
 
 ---
