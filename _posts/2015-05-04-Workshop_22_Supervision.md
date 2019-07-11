@@ -4,7 +4,7 @@ title:  Workshop PostgreSQL Supervision - 17 juin 2015
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop]
+tags: [postgresql, workshops, supervision, OPM, nagios, zabbix]
 
 ---
 *Paris, le 4 mai 2015*
