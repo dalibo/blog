@@ -4,7 +4,7 @@ title: De retour du PGDay Belgique
 author: Stefan Fercot
 twitter_id: pgstef
 github_id: pgstef
-tags: [PostgreSQL, communauté, belgique, pgday, conférences]
+tags: [postgresql, communauté, belgique, pgday, conférences]
 ---
 *Paris, le 22 mai 2019*
 
