@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.4, 10.9, 9.6.14, 9.5.18, 9.4.23 et de la version 
 author: David Bidoc, Christophe Courtois, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 11.4, 10.9, 9.6, 9.5, 9.4, 12, beta]
+tags: [postgresql, release, mineure, sécurité, sortie, 11, 10, 9, 12, beta]
 ---
 
 *Paris, le 24 juin 2019*
