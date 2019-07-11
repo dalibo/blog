@@ -4,7 +4,7 @@ title: Nouvelle version 1.5 de pgFormatter !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [PostgreSQL, sql]
+tags: [postgresql, SQL, pgformatter]
 
 ---
 *Paris, le 19 Octobre 2015*
