@@ -4,7 +4,7 @@ title: POWA ! Analysez votre trafic PostgreSQL en direct !
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, optimisation, performance, monitoring]
+tags: [postgresql, optimisation, performance, monitoring, powa, pg_stat_statements]
 ---
 DALIBO vous présente la première version publique de POWA, un nouvel outil d'optimisation et de suivi pour PostgreSQL.
 
@@ -19,7 +19,7 @@ En zoomant sur l'un des graphes, le tableau s'ajuste et vous affiche les requêt
 Un ensemble de fonctions PL est également disponible pour accéder et gérer les statistiques.
 
 
-## Au delà de pg_stat_statements
+## Au-delà de pg_stat_statements
 
 Concrètement POWA est une extension PostgreSQL conçue pour historiser les informations fournies par l'extension pg_stat_statements. Elle fournit des fonctions SQL qui collectent les informations utiles à une fréquence définie.
 
