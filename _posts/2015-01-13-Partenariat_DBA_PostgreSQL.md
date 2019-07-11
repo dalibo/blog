@@ -4,7 +4,7 @@ title: Pénurie de compétences PostgreSQL, Dalibo certifie et labellise des par
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, DBA]
+tags: [postgresql, DBA, formations, freelance, partenariat]
 ---
 
 *Paris, le 13 janvier 2015*
