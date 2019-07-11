@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 et 9.3.23
 author: Maël Rimbault
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, postgres, release, maj, dalibo]
+tags: [postgresql, release, upgrade, 10, 9]
 ---
 
 ---
