@@ -4,7 +4,7 @@ title:  Appel à conférenciers - pgsession du 17 novembre 2017 à Paris
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, conférences, pgsession, pgsession9, cfp]
+tags: [postgresql, conférences, pgsession, pgsession09, cfp]
 
 ---
 *Paris, le 29 août 2017*
