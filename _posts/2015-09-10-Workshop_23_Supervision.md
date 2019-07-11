@@ -4,7 +4,7 @@ title:  Workshop Supervision - 9 octobre 2015
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop]
+tags: [postgresql, workshops, OPM, nagios, zabbix, supervision]
 
 ---
 *Paris, le 10 septembre 2015*
@@ -22,4 +22,4 @@ Statistiques en temps réel, tableaux de bord d’affichage et graphes ... vous 
 Cette journée d'échange entre professionnels, très axée pratique et démos, est gratuite et ouverte à vous, mais dans la limite d'une inscription par société.
 Si vous-même ou l'un de vos collaborateurs êtes intéressés, n'hésitez pas à réserver rapidement… Le nombre de places est limité !
 
-Pour toute réservation ou demande, contactez nous à l'adresse : [virginie.jourdan@dalibo.com](virginie.jourdan@dalibo.com) 
+Pour toute réservation ou demande, contactez-nous à l'adresse : [virginie.jourdan@dalibo.com](virginie.jourdan@dalibo.com) 
