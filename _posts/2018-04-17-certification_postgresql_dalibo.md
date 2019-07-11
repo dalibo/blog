@@ -4,7 +4,7 @@ title: Dalibo lance son programme de certification PostgreSQL
 author: Léo Cossic, Damien Clochard
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, formation, certification, advanced, essential, dalibo, dba]
+tags: [postgresql, formation, certification, advanced, essential, dalibo, DBA]
 ---
 
 ---
