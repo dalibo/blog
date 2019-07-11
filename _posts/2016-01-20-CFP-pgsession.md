@@ -4,7 +4,7 @@ title:  Appel à conférenciers - pgsession du 6 avril à Lyon
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, conférences, pgsession, pgsession8, cfp]
+tags: [postgresql, conférences, pgsession, pgsession08, cfp]
 
 ---
 *Paris, le 20 janvier 2016*
