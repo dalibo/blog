@@ -4,7 +4,7 @@ title: Dalibo recrute un DBA PostgreSQL
 author: Virginie Jourdan, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, recrutement, dba, consultant, dalibo, france]
+tags: [postgresql, recrutement, DBA, consultant, dalibo, france]
 ---
 
 ---
