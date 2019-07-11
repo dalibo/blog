@@ -4,7 +4,7 @@ title: Workshop PostgreSQL 10 - dernière date pour 2017
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, workshop, 10, dalibo, atelier]
+tags: [postgresql, workshops, 10, dalibo]
 ---
 
 ---
@@ -22,4 +22,4 @@ Au cours de ce Workshop, vous seront proposés: des démos, TP et séances de qu
 
 Si vous souhaitez participer à cette journée gratuite, nous vous invitons à réserver votre place rapidement.
 
-Pour toute réservation (dans la limite d’une inscription par société) ou demande, contactez nous à l’adresse : [workshop@dalibo.com](mailto:workshop@dalibo.com)
+Pour toute réservation (dans la limite d’une inscription par société) ou demande, contactez-nous à l’adresse : [workshop@dalibo.com](mailto:workshop@dalibo.com)
