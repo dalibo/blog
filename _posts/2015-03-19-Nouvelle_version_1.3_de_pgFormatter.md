@@ -4,7 +4,7 @@ title: Nouvelle version 1.3 de pgFormatter !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [postgresql, pgformatter, release, upgrade, SQL]
+tags: [postgresql, pgformatter, release, upgrade, SQL, pgbadger]
 
 ---
 *Paris, le 19 mars 2015*
