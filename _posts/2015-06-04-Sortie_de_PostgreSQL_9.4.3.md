@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 9.4.3
 author: Damien  Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, sécurité, upgrade]
+tags: [postgresql, sécurité, upgrade, 9]
 
 ---
 *Paris, le 4 juin 2015*
