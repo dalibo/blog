@@ -2,7 +2,7 @@
 layout: post
 title: "Session PostgreSQL 6 : Appel à Orateurs "
 description: ""
-tags: [PostgreSQL, sécurité, ]
+tags: [postgresql, sécurité, 9, postgis, cfp, conférences, pgsession, pgsession06 ]
 
 ---
 
