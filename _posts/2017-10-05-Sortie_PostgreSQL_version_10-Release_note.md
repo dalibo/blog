@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL version 10 - Release note
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [sgbd, postgresql, version, 10, release, sgbdr, note, sortie, v10, 10]
+tags: [postgresql, postgresql10]
 
 ---
 
