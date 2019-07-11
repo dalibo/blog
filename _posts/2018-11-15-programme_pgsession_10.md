@@ -4,7 +4,7 @@ title: Programme de la PGSession 10 - le 22 novembre 2018
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, oslandia, pgsession, session, sessions, mozilla, conferences, conférences, table, ronde]
+tags: [dalibo, postgresql, oslandia, pgsession, mozilla, conférences, table ronde, programme]
 ---
 
 ---
