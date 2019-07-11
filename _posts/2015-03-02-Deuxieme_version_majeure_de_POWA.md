@@ -4,7 +4,7 @@ title:  PoWA 2, A la recherche de l'index manquant
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, optimisation, performance, monitoring]
+tags: [postgresql, optimisation, performance, monitoring, powa, upgrade, release]
 
 ---
 *Paris, le 2 mars 2015*
