@@ -4,7 +4,7 @@ title: Calendrier et catalogue 2016 des formations
 author: Virginie Jourdan
 twitter_id: JourdanVirginie
 github_id: vijourdan
-tags: [PostgreSQL, formation, SIG]
+tags: [postgresql, formations, SIG, calendrier, DBA, SQL]
 
 ---
 *Paris, le 18 novembre 2015*
