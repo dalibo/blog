@@ -4,7 +4,7 @@ title: Dalibo recrute des DBA PostgreSQL à Paris et en Province !
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, DBA, emploi, recrutement]
+tags: [dalibo, postgresql, DBA, recrutement]
 ---
 
 
