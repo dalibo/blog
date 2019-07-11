@@ -4,7 +4,7 @@ title: Sortie de pgBadger 9
 author: Gilles Darold
 twitter_id: pgbadger
 github_id: 
-tags: [PostgreSQL, performance, pgBadger]
+tags: [postgresql, performance, pgbadger, release, dalibolabs]
 ---
 DALIBO est fier d'annoncer la sortie de pgBadger 9.0.
 PgBadger est un analyseur de performances pour PostgreSQL, conçu pour
