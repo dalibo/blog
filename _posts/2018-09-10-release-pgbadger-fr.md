@@ -4,7 +4,7 @@ title: Mise à Jour pgBadger v10.0 - corrections et changement de statut
 author: Léo Cossic, Gilles Darold
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, temboard, foss, floss, version, 2, sortie, release, 2018]
+tags: [dalibolabs, postgresql, pgbadger, release]
 ---
 
 ---
