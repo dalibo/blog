@@ -4,7 +4,7 @@ title: Sortie de PoWA 3.1.1
 author: Julien Rouhaud, Léo Cossic
 twitter_id: rjuju123
 github_id: Dalibo
-tags: [PostgreSQL, Workload, analyser, release, sortie, version]
+tags: [postgresql, workload, analyser, release]
 ---
 
 ---
