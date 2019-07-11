@@ -4,7 +4,7 @@ title:   PostgreSQL 9.4 améliore la flexibilité, la scalabilité et les perfor
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL]
+tags: [postgresql, 9, release, index, réplication, performance]
 
 ---
 Paris, le 18 décembre 2014
