@@ -4,7 +4,7 @@ title: Confiner PostgreSQL avec SELinux
 author: Nicolas Thauvin
 twitter_id: orgrim
 github_id: orgrim
-tags: [PostgreSQL, SELinux, sécurité]
+tags: [postgresql, SELinux, sécurité, RPM, red hat]
 ---
 
 Lorsqu'on utilise les paquets RPM du PGDG, les instances PostgreSQL ne
@@ -67,7 +67,7 @@ Cette configuration est reprise dans le module SELinux disponible sur
     semanage fcontext -a -t locale_t '/usr/pgsql-[0-9]+.[0-9]+/share/locale(/.*)?'
     semanage fcontext -a -t man_t '/usr/pgsql-[0-9]+.[0-9]+/share/man(/.*)?'
 
-Il existe un certain nombre de booleans pour la configuration des
+Il existe un certain nombre de booléens pour la configuration des
 droits SELinux de PostgreSQL, le plus important concerne `rsync`,
 souvent nécessaire pour faire des base backups. Il s'agit de
 `postgresql_can_rsync`, pour l'activer :
