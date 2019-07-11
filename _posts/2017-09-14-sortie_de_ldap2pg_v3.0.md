@@ -4,7 +4,7 @@ title: Sortie de ldap2pg version 3.0
 author: Étienne Bersac, Léo Cossic
 twitter_id: Dalibolabs
 github_id: Dalibo
-tags: [postgresql, ldap, ldap2pg, release, synchronisation]
+tags: [postgresql, ldap, ldap2pg, release, synchronisation, dalibolabs]
 
 ---
 
