@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 10.2, 9.6.7, 9.5.11, 9.4.16, 9.3.21
 author: Christophe Courtois
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, release, mineure, securité, sortie, issue, 10]
+tags: [dalibo, postgresql, release, mineure, sécurité, issue, 10, 9, update]
 ---
 
 ---
