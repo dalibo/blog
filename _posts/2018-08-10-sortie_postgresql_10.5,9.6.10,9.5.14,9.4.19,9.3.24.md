@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 10.5, 9.6.10, 9.5.14, 9.4.19, 9.3.24
 author: 
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, release, mineure, sécurité, issue, 10, 9, 11, bêta, update]
+tags: [postgresql, release, mineure, sécurité, issue, 10, 9, 11, bêta, update]
 ---
 
 ---
