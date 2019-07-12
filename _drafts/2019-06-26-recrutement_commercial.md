@@ -17,8 +17,7 @@ tags: [recrutement, commercial, france]
 
 **Le poste**
 
-Rattaché au Directeur Commercial, vos principales missions seront de développer le chiffre d'affaires de la société grâce à une offre innovante et taillée pour les grands comptes.
-Il vous sera entre autres demandé d'assurer les rendez-vous et une présence sur le terrain, de mener des actions de prospection ciblées auprès de grands comptes, de fidéliser nos clients, d'être force de proposition afin d'améliorer notre offre.
+Rattaché au Directeur Commercial, vos principales missions seront d'assurer les rendez-vous et une présence sur le terrain, de mener des actions de prospection ciblées auprès de grands comptes, de fidéliser nos clients, d'être force de proposition au sein de l'équipe afin d'améliorer notre offre.
 
  
 **À propos de Dalibo**
