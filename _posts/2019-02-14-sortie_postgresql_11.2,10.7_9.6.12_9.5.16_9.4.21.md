@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.2, 10.7, 9.6.12, 9.5.16, 9.4.21
 author: Damien Clochard, Stefan Fercot, Christophe Courtois
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, release, mineure, sécurité, sortie, issue, 11, update]
+tags: [postgresql, release, mineure, sécurité, sortie, issue, 11, update]
 ---
 
 *Paris, le 14 février 2019*
