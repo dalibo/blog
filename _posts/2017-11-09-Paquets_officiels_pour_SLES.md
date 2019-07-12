@@ -4,7 +4,7 @@ title: Nouveaux paquets RPM officiels pour SUSE SLES
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, Linux, SUSE, SLES]
+tags: [postgresql, linux, SUSE, SLES, 9, 10, RPM, dalibolabs]
 ---
 
 ---
