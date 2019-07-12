@@ -7,7 +7,7 @@ github_id: dalibo
 tags: [temboard, postgresql, gestion, interface, maintenance, upgrade]
 ---
 
-Paris, 21 mars 2019
+*Paris, 21 mars 2019*
 
 Voici la version 3.0 de temboard, l'interface de gestion pour PostgreSQL !
 
