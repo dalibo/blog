@@ -4,7 +4,7 @@ title: temBoard - la version 4.0 arrive
 author: Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [temboard, postgresql, gestion, interface, notification, upgrade]
+tags: [temboard, postgresql, gestion, interface, notification, upgrade, dalibolabs]
 ---
 
 *Paris, 15 juillet 2019*
@@ -49,4 +49,4 @@ https://youtu.be/0gSzKYTHEEw "Demo temboard")
   * [Page GitHub](https://dali.bo/temboard_github)
 
 
-**temBoard est principalement développé par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
+**Projet Dalibo Labs, temBoard est principalement développé par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
