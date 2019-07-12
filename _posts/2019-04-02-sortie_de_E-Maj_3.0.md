@@ -43,3 +43,5 @@ Peu de fonctionnalités ont été ajoutées à la version précédente. En revan
  * vous pouvez télécharger cette version E-Maj sur [PGXN](http://pgxn.org/dist/e-maj/),
  * le dépôt de l’extension PostgreSQL sur [github](https://github.com/dalibo/emaj),
  * le client web Emaj_web est disponible sur [github](https://github.com/dalibo/emaj_web).
+ 
+ **Philippe Beaudoin est le développeur principal d'E-Maj, auquel contribue aussi Thibaud Walkowiak.**
