@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temboard - find out about the 3.0 version!
+title: temBoard - find out about the 3.0 version!
 author: Léo Cossic, Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
@@ -9,7 +9,7 @@ tags: [temboard, postgresql, maintenance, interface, management, upgrade, dalibo
 
 Paris, March 21st 2019
 
-Release of **temboard 3.0**, the powerful PostgreSQL management tool developed inside Dalibo Labs!
+Release of **temBoard 3.0**, the powerful PostgreSQL management tool developed inside Dalibo Labs!
 
 <!--MORE-->
 
@@ -26,7 +26,7 @@ More about the [maintenance plugin](https://temboard.readthedocs.io/en/latest/te
 
 ## Enhancement of the interface
 
-temboard’s interface is still improving. The 3.0 version lays out the instances as a grid on the homepage in order to better manage large database fleet. The sidebar is now collapsible to put forward the page's content. Moreover the homepage and the dashboard can be displayed in full screen mode which is more suitable when using a supervision screen.
+temBoard’s interface is still improving. The 3.0 version lays out the instances as a grid on the homepage in order to better manage large database fleet. The sidebar is now collapsible to put forward the page's content. Moreover the homepage and the dashboard can be displayed in full screen mode which is more suitable when using a supervision screen.
 
 
 ## And more...
@@ -42,14 +42,14 @@ More about this version's [CHANGELOG](https://temboard.readthedocs.io/en/latest/
 
 ## An easier installation
 
-Installing temboard and its agent is simpler thanks to its auto configuration script and clean documentation. The rpm and debian packages are available in the Dalibo Labs deposits.
+Installing temBoard and its agent is simpler thanks to its auto configuration script and clean documentation. The rpm and debian packages are available in the Dalibo Labs deposits.
 
 Find out more information in the [online documentation of temboard](https://temboard.readthedocs.io/en/v3/).
 
 
 ## Video demo
 
-You can find the demo for this new version of temboard on our Youtube page. Watch it by clicking the image below.
+You can find the demo for this new version of temBoard on our Youtube page. Watch it by clicking the image below.
 
 [![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
 https://youtu.be/0gSzKYTHEEw "Demo temboard")
@@ -59,4 +59,4 @@ https://youtu.be/0gSzKYTHEEw "Demo temboard")
   * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
 
 
-**temboard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.**
+**temBoard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.**
