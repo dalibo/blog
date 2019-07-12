@@ -24,8 +24,6 @@ Rattaché au Directeur Commercial, vos principales missions seront d'assurer les
 
 DALIBO est le spécialiste français de PostgreSQL. Composée d’une trentaine de salariés dont une majorité d’administrateurs de bases de données, la société propose un cursus de formation complet ainsi qu’une offre de support spécialement conçue pour s’adapter aux besoins des entreprises en matière de sécurité, performance et pérennité.
 
-En matière de recrutement, seuls des postes en CDI y sont proposés, avec une période d'essai de 3 mois renouvelable une seule fois.
-
    
 **Open source et SCOP**
 
