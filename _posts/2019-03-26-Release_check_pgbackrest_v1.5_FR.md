@@ -4,7 +4,7 @@ title: check_pgbackrest - découvrez la version 1.5 !
 author: Stefan Fercot
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [check_pgbackrest, pgbackrest, dalibolabs, nagios, plugin, supervision, sauvegarde]
+tags: [check_pgbackrest, pgbackrest, dalibolabs, nagios, plugin, supervision, sauvegarde, update]
 ---
 
 Voici la version 1.5 de [check_pgbackrest](https://github.com/dalibo/check_pgbackrest), 
