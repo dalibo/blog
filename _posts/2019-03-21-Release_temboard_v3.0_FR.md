@@ -1,15 +1,15 @@
 ---
 layout: post
-title: temboard - découvrez la version 3.0 !
+title: temBoard - découvrez la version 3.0 !
 author: Léo Cossic, Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [temboard, postgresql, gestion, interface, maintenance, upgrade]
+tags: [temboard, postgresql, gestion, interface, maintenance, upgrade, dalibolabs]
 ---
 
 *Paris, 21 mars 2019*
 
-Voici la version 3.0 de temboard, l'interface de gestion pour PostgreSQL !
+Voici la version 3.0 de temBoard, l'interface de gestion pour PostgreSQL !
 
 <!--MORE-->
 
@@ -24,7 +24,7 @@ Plus d'information sur le [greffon maintenance](https://temboard.readthedocs.io/
 
 ## Améliorations de l'interface
 
-L'interface de temboard continue de se bonifier. Cette version 3.0 présente les instances en grille sur la page d'accueil pour mieux gérer les grands parcs. Le menu latéral a été réorganisé et l'utilisateur peut le replier pour mettre en avant le contenu de la page. La page d'accueil et la page *Dashboard* ont désormais un mode plein écran mieux adapté à l'affichage sur écran de supervision.
+L'interface de temBoard continue de se bonifier. Cette version 3.0 présente les instances en grille sur la page d'accueil pour mieux gérer les grands parcs. Le menu latéral a été réorganisé et l'utilisateur peut le replier pour mettre en avant le contenu de la page. La page d'accueil et la page *Dashboard* ont désormais un mode plein écran mieux adapté à l'affichage sur écran de supervision.
 
 
 ## Et plus…
@@ -59,4 +59,4 @@ https://youtu.be/0gSzKYTHEEw "Demo temboard")
   * [Page GitHub](https://github.com/dalibo/temboard)
 
 
-**temboard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
+**temBoard est développé principalement par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
