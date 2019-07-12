@@ -4,7 +4,7 @@ title: IMPORTANT - Dalibo déménage au 43 rue du Faubourg Montmartre, 9ème arr
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, dalibo, locaux, qg, déménage, demenage]
+tags: [postgresql, dalibo, locaux, déménagement]
 
 ---
 
