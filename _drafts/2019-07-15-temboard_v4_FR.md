@@ -9,8 +9,7 @@ tags: [temboard, postgresql, gestion, interface, notification, upgrade, dalibola
 
 *Paris, 15 juillet 2019*
 
-temboard, l'interface de gestion pour PostgreSQL, sort sa version 4.0 ! Parmi les nouvelles fonctionnalités, découvrez la
-précieuse notification.
+temboard, l'interface de gestion pour PostgreSQL, sort sa version 4.0 ! Parmi les nouvelles fonctionnalités, découvrez la très utile **notification**.
 
 <!--MORE-->
 
@@ -20,8 +19,8 @@ précieuse notification.
 ## La nouveauté : la notification
 
 Il est désormais possible d'être alerté lorsqu'un problème est détecté par une sonde sans être connecté à l'interface.
-Le nouveau greffon *Notification* permet en effet aux administrateurs de bases de données ou système de recevoir des
-notifications par email ou SMS.
+Le nouveau greffon *Notification* permet en effet aux administrateurs de bases de données ou système de **recevoir des
+notifications par email ou SMS**.
 
 Plus d'information sur le [greffon notification](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/).
 
