@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 10.3, 9.6.8, 9.5.12, 9.4.17, 9.3.22
 author: David Bidoc
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, release, mineure, dalibo]
+tags: [postgresql, release, mineure, update, 10, 9]
 ---
 
 ---
