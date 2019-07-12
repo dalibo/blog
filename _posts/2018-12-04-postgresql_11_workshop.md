@@ -4,7 +4,7 @@ title: Découvrez notre workshop PostgreSQL 11 !
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, 11, 10, workshop, dalibo, version, foss, floss, 2018]
+tags: [dalibo, postgresql, 11, workshops, calendrier, formations]
 ---
 
 ---
