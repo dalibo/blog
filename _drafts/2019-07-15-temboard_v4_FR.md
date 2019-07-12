@@ -47,7 +47,6 @@ https://youtu.be/0gSzKYTHEEw "Demo temboard")
 ## Liens
   * [Site web](https://dali.bo/temboard)  
   * [Page GitHub](https://dali.bo/temboard_github)
-  * [Changelog](https://dali.bo/temboard_changelog)
 
 
 **temBoard est principalement développé par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
