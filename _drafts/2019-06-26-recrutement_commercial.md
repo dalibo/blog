@@ -28,6 +28,7 @@ DALIBO est le spécialiste français de PostgreSQL. Composée d’une trentaine 
 **Open source et SCOP**
 
 Impliqués dans le projet PostgreSQL depuis ces débuts, nous sommes engagés auprès de la communauté PostgreSQL en France comme à l’étranger, au travers du développement d’outils, de participation à des événements et conférences, sponsoring et plus encore.
+
 Dalibo est avant tout une entreprise de passionnés, qui a décidé d’inscrire les principes de l’open source dans son ADN, en devenant une SCOP.
  
  ---
