@@ -45,4 +45,5 @@ https://youtu.be/0gSzKYTHEEw "Demo temboard")
   * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
 
 
-**temboard is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.**
+**temboard is a Dalibo Labs project.
+It is mainly developed by Julien Tachoires, Étienne Bersac and Pierre Giraud.**
