@@ -1,7 +1,7 @@
 ---
 layout: post
 title: temboard - the 4.0 version is released!
-author: Julien TachoireS, Laura Ricci
+author: Julien Tachoires, Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
 tags: [temboard, postgresql, alerting, interface, management, upgrade]
