@@ -9,7 +9,7 @@ tags: [temboard, postgresql, gestion, interface, notification, supervision, dali
 
 *Paris, 15 juillet 2019*
 
-temboard, l'interface de gestion pour PostgreSQL, sort sa version 4.0 ! Parmi les nouvelles fonctionnalités, découvrez la très utile **notification**.
+**temboard**, l'interface de gestion pour PostgreSQL, sort sa version 4.0 ! Parmi les nouvelles fonctionnalités, découvrez la très utile **notification**.
 
 <!--MORE-->
 
