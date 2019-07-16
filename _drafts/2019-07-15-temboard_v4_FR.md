@@ -1,6 +1,6 @@
 ---
 layout: post
-title: temBoard - la version 4.0 arrive
+title: temboard - la version 4.0 arrive
 author: Laura Ricci, Julien Tachoires
 twitter_id: dalibolabs
 github_id: dalibo
