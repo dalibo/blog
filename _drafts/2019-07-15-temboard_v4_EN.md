@@ -18,8 +18,8 @@ Release of **temboard 4.0**, the powerful PostgreSQL management tool developed i
 
 ## New feature: Alerting
 
-From now on the users have the opportunity to be informed without being connected as soon as a problem is detected by the monitoring probe.
-The new *Supervision* plugin has *Notification* features which make the database administrators or the system receive **notificatons by SMS or email** on state changes.
+From now on the users have the opportunity to be informed without being connected as soon as a problem is detected by the monitoring probes.
+The new *Supervision* plugin has *Notification* features which make the database and the system administrators receive **notificatons by SMS or email** on state changes.
 
 More about the [alerting plugin](https://temboard.readthedocs.io/en/latest/temboard-howto-alerting/).
 
