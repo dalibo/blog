@@ -13,7 +13,7 @@ temboard, l'interface de gestion pour PostgreSQL, sort sa version 4.0 ! Parmi le
 
 <!--MORE-->
 
-![logo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard-bandeau-orange-catchphrase-ombre.png)
+![img/temboard_H_couleur](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard_H_couleur.png)
 
 
 ## La nouveauté : la notification
@@ -34,17 +34,10 @@ De nombreux autres améliorations et correctifs sont inclus, notamment :
    
 Retrouvez les détails des changements dans le [CHANGELOG](https://dali.bo/temboard_changelog).
 
-## Démo vidéo ?
-
-Vous trouverez une démo de cette dernière version sur le compte Youtube de Dalibo, en cliquant sur l'image ci-dessous :
-
-[![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
-https://youtu.be/0gSzKYTHEEw "Demo temboard")
-
 
 ## Liens
   * [Site web](https://dali.bo/temboard)  
   * [Page GitHub](https://dali.bo/temboard_github)
 
 
-**Projet Dalibo Labs, temBoard est principalement développé par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
+**Projet Dalibo Labs, temboard est principalement développé par Julien Tachoires, Pierre Giraud et Étienne Bersac.**
