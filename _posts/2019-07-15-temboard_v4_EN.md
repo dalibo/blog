@@ -35,8 +35,8 @@ More about this version's [CHANGELOG](https://dali.bo/temboard_changelog).
 
 
 ## Links
-  * Website: [http://dali.bo/temboard](http://dali.bo/temboard)
-  * GitHub: [https://github.com/dalibo/temboard](https://github.com/dalibo/temboard)
+  * [Website:](http://dali.bo/temboard)
+  * [GitHub](https://github.com/dalibo/temboard)
 
 
 **temboard is a Dalibo Labs project.
