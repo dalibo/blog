@@ -11,8 +11,8 @@ tags: [dalibo, italie, milan, opensource, postgresql, pgconf, pgconfeu, dalibo, 
 *Paris, le 24 juillet 2019*
 
 Cette année, la [**PostgreSQL Conference Europe**](https://2019.pgconf.eu/) aura lieu à **Milan du 15 au 18 octobre**.
-Depuis son lancement, cet événement incontournable pour la **communauté PostgreSQL** peut compter Dalibo parmi ses **sponsors**...
-l'occasion pour nous de le présenter, avant de revenir sur la création de l'association et ses liens avec Dalibo.
+
+Depuis son lancement, cet événement incontournable pour la **communauté PostgreSQL** peut compter Dalibo parmi ses **sponsors**... l'occasion pour nous de le présenter, avant de revenir sur la création de l'association et ses liens avec Dalibo.
 
  
 <!--MORE-->
@@ -37,23 +37,18 @@ L'association organisatrice [**PostgreSQL Europe**](https://www.postgresql.eu/) 
 
 Son [call for paper](https://2019.pgconf.eu/callforpapers/) est fermé depuis le 15 juillet, il est donc trop tôt pour vous
 communiquer le nom des conférenciers et leurs sujets, mais il n'est pas trop tard pour s'y rendre !
-Bien que les //early birds// soient déjà servis, les [**inscriptions**](https://2019.pgconf.eu/registration/) sont toujours en cours.
+Bien que les early birds soient déjà servis, les [**inscriptions**](https://2019.pgconf.eu/registration/) sont toujours en cours.
 
 
 ### Dalibo et PostgreSQL Europe
 
 PostgreSQL Europe est une association loi 1901 créée en France en 2008, suite à deux **PGDays** organisés à Prato en Italie.
-Son objectif est de promouvoir le déploiement et le développement de PostgreSQL et de ses dérivés en Europe.
 
-Son histoire est en fait intimement liée à celle de Dalibo.
+Son objectif est de promouvoir le déploiement et le développement de PostgreSQL et de ses dérivés en Europe, et son histoire est en fait intimement liée à celle de Dalibo.
 
-En effet, un des fondateurs de notre société, **Jean-Paul Argudo**, qui est aussi l'un de nos cogérants actuels, a également
-initié la constitution du groupe européen, aux côtés de **Gabrielle Bartolini** et des contributeurs à PostgreSQL reconnus
-que sont **Magnus Hagander** et **Dave Page**.
+En effet, un des fondateurs de notre société, **Jean-Paul Argudo**, qui est aussi l'un de nos cogérants actuels, a également initié la constitution du groupe européen, aux côtés de **Gabrielle Bartolini** et des contributeurs à PostgreSQL reconnus que sont **Magnus Hagander** et **Dave Page**.
 
-Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**,
-actuel trésorier, mais d'autres y participent chaque année, entre autres en tant que conférenciers, comme **Damien Clochard**
-ou **Jehan-Guillaume de Rorthais**.
+Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, mais d'autres y participent chaque année en tant que conférenciers, comme **Damien Clochard** ou **Jehan-Guillaume de Rorthais**.
 
 ---  
 Vous comprenez désormais pourquoi une partie de l'équipe de Dalibo** sera présente durant l'événement... alors **rendez-vous à Milan** ?
