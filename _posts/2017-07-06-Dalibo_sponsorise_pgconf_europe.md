@@ -2,7 +2,7 @@
 layout: post
 title: Dalibo sponsorise l'évènement PgConf Europe !
 author: Léo Cossic
-twitter_id: dalibolabs
+twitter_id: dalibo
 github_id: dalibo
 tags: [pologne, varsovie, opensource, postgresql, pgconf, pgconfeu, dalibo, conférences, europe, sponsor]
 
