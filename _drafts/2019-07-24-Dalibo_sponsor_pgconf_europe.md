@@ -48,7 +48,7 @@ Son objectif est de promouvoir le déploiement et le développement de PostgreSQ
 
 ![solutionslinux2007_groupe.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/solutionslinux2007_groupe.jpg)
 
-En effet, un des fondateurs de notre société, **Jean-Paul Argudo**, qui est aussi l'un de nos cogérants actuels, a également initié la constitution du groupe européen, aux côtés de **Gabrielle Bartolini** et des contributeurs à PostgreSQL reconnus que sont **Magnus Hagander** et **Dave Page**.
+En effet, un des fondateurs et actuels cogérants de notre société, **Jean-Paul Argudo**, a initié la constitution de l'association, aux côtés de **Gabrielle Bartolini** et des contributeurs à PostgreSQL encore aujourd'hui reconnus que sont **Magnus Hagander** et **Dave Page**.
 
 
 Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, mais d'autres y participent chaque année en tant que conférenciers, comme **Damien Clochard** ou **Jehan-Guillaume de Rorthais**.
