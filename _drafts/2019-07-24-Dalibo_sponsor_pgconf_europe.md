@@ -46,9 +46,10 @@ PostgreSQL Europe est une association loi 1901 créée en France en 2008, suite 
 
 Son objectif est de promouvoir le déploiement et le développement de PostgreSQL et de ses dérivés en Europe, et son histoire est en fait intimement liée à celle de Dalibo.
 
+![solutionslinux2007_groupe.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/solutionslinux2007_groupe.jpg)
+
 En effet, un des fondateurs de notre société, **Jean-Paul Argudo**, qui est aussi l'un de nos cogérants actuels, a également initié la constitution du groupe européen, aux côtés de **Gabrielle Bartolini** et des contributeurs à PostgreSQL reconnus que sont **Magnus Hagander** et **Dave Page**.
 
-![solutionslinux2007_groupe.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/solutionslinux2007_groupe.jpg)
 
 Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, mais d'autres y participent chaque année en tant que conférenciers, comme **Damien Clochard** ou **Jehan-Guillaume de Rorthais**.
 
