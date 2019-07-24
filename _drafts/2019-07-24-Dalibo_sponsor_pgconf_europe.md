@@ -54,5 +54,6 @@ En effet, un des fondateurs de notre société, **Jean-Paul Argudo**, qui est au
 Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, mais d'autres y participent chaque année en tant que conférenciers, comme **Damien Clochard** ou **Jehan-Guillaume de Rorthais**.
 
 ---  
-Vous comprenez désormais pourquoi une partie de l'équipe de Dalibo** sera présente durant l'événement... alors **rendez-vous à Milan** ?
+Vous comprenez désormais pourquoi une partie de l'équipe de Dalibo sera naturellement présente à l'événement !
+Alors... **rendez-vous à Milan** ?
 
