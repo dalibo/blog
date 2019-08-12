@@ -55,5 +55,6 @@ Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'associ
 
 ---  
 Vous comprenez désormais pourquoi une partie de l'équipe de Dalibo sera naturellement présente à l'événement !
+
 Alors... **rendez-vous à Milan** ?
 
