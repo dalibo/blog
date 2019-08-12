@@ -4,7 +4,7 @@ title: Dalibo recrute un⋅e Commercial⋅e Grands Comptes
 author: Virginie Jourdan, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, recrutement, commercial, france]
+tags: [dalibo, recrutement, commercial]
 ---
 
 *Paris, le 12 juillet 2019*
@@ -15,21 +15,21 @@ tags: [dalibo, recrutement, commercial, france]
 
 -----
 
-**Le poste**
+## Le poste
 
 Rattaché au Directeur Commercial, vos principales missions seront d'assurer les rendez-vous et une présence sur le terrain,
 de mener des actions de prospection ciblées auprès de grands comptes, de fidéliser nos clients, d'être force de proposition
 au sein de l'équipe afin d'améliorer notre offre.
 
  
-**À propos de Dalibo**
+## À propos de Dalibo
 
 DALIBO est le spécialiste français de PostgreSQL. Composée d’une trentaine de salariés dont une majorité d’administrateurs
 de bases de données, la société propose un cursus de formation complet ainsi qu’une offre de support spécialement conçue 
 pour s’adapter aux besoins des entreprises en matière de sécurité, performance et pérennité.
 
    
-**Open source et SCOP**
+## Open source et SCOP
 
 Impliqués dans le projet PostgreSQL depuis ces débuts, nous sommes engagés auprès de la communauté PostgreSQL en France
 comme à l’étranger, au travers du développement d’outils, de participation à des événements et conférences, sponsoring et
