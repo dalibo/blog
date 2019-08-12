@@ -42,11 +42,11 @@ Bien que les early birds soient déjà servis, les [**inscriptions**](https://20
 
 ### Dalibo et PostgreSQL Europe
 
-PostgreSQL Europe est une association loi 1901 créée en France en 2008, suite à deux **PGDays** organisés à Prato en Italie.
+PostgreSQL Europe est une association loi 1901 créée en France en 2008, suite à deux **PGDays** organisés à Prato en Italie. Merci à l'[**Italian PostgreSQL Users Group**](http://www.itpug.org/) pour le partage de la photographie ci-dessous !
 
 ![pgdayit2008_gruppo.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgdayit2008_gruppo.jpg)
 
-Son objectif est de promouvoir le déploiement et le développement de PostgreSQL et de ses dérivés en Europe, et son histoire est en fait intimement liée à celle de Dalibo.
+L'objectif de PostgreSQL Europe est de promouvoir le déploiement et le développement de PostgreSQL et de ses dérivés en Europe. De plus, son histoire est intimement liée à celle de Dalibo.
 
 En effet, un des fondateurs et actuels cogérants de notre société, **Jean-Paul Argudo**, a initié la constitution de l'association, aux côtés de **Gabriele Bartolini** et des contributeurs à PostgreSQL encore aujourd'hui reconnus que sont **Magnus Hagander** et **Dave Page**.
 
