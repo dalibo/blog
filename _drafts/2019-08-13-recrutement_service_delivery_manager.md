@@ -7,7 +7,7 @@ github_id: dalibo
 tags: [dalibo, recrutement, service delivery manager]
 ---
 
-*Paris, le 12 août 2019*
+*Paris, le 13 août 2019*
 
 [Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e Service delivery manager ou Gestionnaire de service/contrat.
 
@@ -17,10 +17,9 @@ tags: [dalibo, recrutement, service delivery manager]
 
 ## Le poste
 
-Le poste requiert des connaissances en bases de données (PostgreSQL serait un plus), en open source et en anglais de niveau professionnel.
+Le poste requiert le sens du **service client**, des **capacités d'organisation et d'analyse des demandes**, ainsi que des connaissances en **bases de données** (PostgreSQL serait un plus), en **open source** et en anglais de niveau professionnel.
 
-Vos principales missions seront de piloter les contrats de services dont vous aurez la responsabilité, veiller à garantir
-auprès de vos clients les niveaux de services contractualisés et assurer la coordination d'une équipe de consultants. 
+Vos principales missions seront de piloter les contrats de services dont vous aurez la responsabilité, veiller à garantir auprès de vos clients les niveaux de services contractualisés et assurer la coordination d'une équipe de consultants. 
 
  
 ## À propos de Dalibo
