@@ -117,7 +117,7 @@ Une liste des [problèmes ouverts](https://wiki.postgresql.org/wiki/PostgreSQL_1
 La présente publication inclut la troisième bêta de la version 12. Le projet PostgreSQL publiera d’autres bêtas si les tests le nécessitent, suivies d’une ou plusieurs versions candidates, jusqu'à la version finale au cours de la fin d'année 2019. Pour plus d’informations, voir la [page de test des bêtas](https://www.postgresql.org/developer/beta/).
 
 ---
-Liens
+## Liens
 
 * [Téléchargement](https://www.postgresql.org/download/)
 * [Notes de versions](https://www.postgresql.org/docs/release/)
