@@ -9,7 +9,7 @@ tags: [dalibo, recrutement, service delivery manager]
 
 *Paris, le 13 août 2019*
 
-[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e Service delivery manager ou Gestionnaire de service/contrat.
+[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e **Service delivery manager** ou Gestionnaire de service/contrat.
 
 <!--MORE-->
 
