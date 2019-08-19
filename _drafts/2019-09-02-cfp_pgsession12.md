@@ -69,6 +69,7 @@ Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalib
 En envoyant une proposition, vous acceptez d’être enregistré⋅e et renoncez à tout droit de compensation pour cela.
 
 
+-----------------
 
 **À propos des PostgreSQL Sessions :**
 La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir
