@@ -4,7 +4,7 @@ title: PGSession 12 - Call for Papers !
 author: Laura Ricci, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [Dalibo, PostgreSQL, pgsession, pgsession12, cfp]
+tags: [Dalibo, PostgreSQL, pgsession, pgsession12, cfp, conférences]
 ---
 
 ---
@@ -33,7 +33,7 @@ Ce qui nous intéresse aujourd'hui est la journée de conférences, qui se déro
 ## Appel à conférenciers
 
 Nous lançons donc un appel à conférencier⋅ère⋅s, et vous remercions de nous envoyer vos propositions d'intervention. 
-Chaque intervention doit durer **30 minutes**, en comptant les éventuelles questions. 
+Chacune doit durer **30 minutes**, en comptant les éventuelles questions. 
 
 Nous sommes intéressé⋅e⋅s en particulier par les thématiques suivantes (liste non exhaustive): 
 
@@ -50,7 +50,7 @@ Présentation de nouveautés, etc.
 Toutes les propositions doivent nous parvenir **avant le 7 octobre 2019**. 
 
 
-Merci d'envoyer vos propositions à l'adresse email : **call-for-paper@postgresql-sessions.org**, en précisant les informations suivantes :
+Merci de les envoyer à **call-for-paper@postgresql-sessions.org**, en précisant les informations suivantes :
 
   * Nom et Prénom
   * Compte Twitter
@@ -61,19 +61,19 @@ Merci d'envoyer vos propositions à l'adresse email : **call-for-paper@postgresq
   * Demandes spécifiques
 
 
-Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence **Creative Commons BY-SA 3.0** 
+Les fichiers des présentations (“slides”) devront être transmis à Dalibo sous licence **Creative Commons BY-SA 3.0** 
 ou compatible.
 
 Cette journée sera filmée et diffusée sur la chaîne Youtube de Dalibo.
 
-En envoyant une proposition, vous acceptez d’être enregistré⋅e et renoncez à tout droit de compensation pour cela.
+En nous proposant une conférence, vous acceptez d’être enregistré⋅e et renoncez à tout droit de compensation pour cela.
 
 
 -----------------
 
 **À propos des PostgreSQL Sessions :**
 La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer la communauté PostgreSQL. Depuis 2018, la PGSession s'étale sur deux journées : une réservée à des ateliers donnés par nos experts, et une dédiée aux conférences, organisée autour d'un thème précis et d'un invité de marque.
-Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet, Directeurs informatique…
+Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateurs, Chefs de projet, Directeurs informatique…
 
 **À propos de [Dalibo](https://dalibo.com/) :**
-Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de ses clients son savoir-faire dans le domaine des bases de données à travers son support, ses audits et conseils, ses formations sa certification, et ses nombreuses contributions à la communauté PostgreSQL.
+Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de ses clients son savoir-faire dans le domaine des bases de données en offrant Support, Audits et conseils, Formations, Certification, et de nombreuses contributions à la communauté PostgreSQL.
