@@ -4,7 +4,7 @@ title:  Notre session PostgreSQL a rencontré un franc succès !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, pgsession, conférences, pgsession07, présentations, vidéos]
+tags: [PostgreSQL, pgsession, conférences, pgsession07]
 
 ---
 *Paris, le 30 septembre 2015*
