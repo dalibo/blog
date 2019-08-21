@@ -4,7 +4,7 @@ title:  Workshop Postgresql 9.4 - 16 janvier 2015
 author: Virginie Jourdan
 twitter_id: VirginieJourdan   
 github_id: vijourdan
-tags: [postgresql, workshops, 9]
+tags: [PostgreSQL, workshops, 9]
 
 ---
 *Paris, le 9 décembre 2014*
