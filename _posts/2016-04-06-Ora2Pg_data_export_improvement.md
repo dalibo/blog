@@ -4,7 +4,7 @@ title: Ora2Pg - data export major speed improvement
 author: Gilles Darold
 twitter_id: ora2pg
 github_id: darold
-tags: [oracle, postgresql, migration, ora2pg]
+tags: [Oracle, PostgreSQL, migration, Ora2Pg]
 
 ---
 *Paris, April 6th 2016*
