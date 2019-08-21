@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 9.5.3, 9.4.8, 9.3.13, 9.2.17 et 9.1.22
 author: Thomas Reiss
 twitter_id: dalibo
 github_id: dalibo
-tags: [PostgreSQL, sécurité, upgrade]
+tags: [PostgreSQL, sécurité, upgrade, 9]
 
 ---
 
