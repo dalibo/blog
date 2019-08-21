@@ -4,7 +4,7 @@ title: Sortie de POWA 1.2 !
 author: Thomas Reiss
 twitter_id: frostsct1   
 github_id: frost242
-tags: [postgresql, optimisation, performance, monitoring, powa]
+tags: [PostgreSQL, optimisation, performance, monitoring, PoWA]
 
 ---
 *Paris, le 28 octobre 2014*
