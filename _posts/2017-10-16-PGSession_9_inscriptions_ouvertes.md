@@ -4,7 +4,7 @@ title: Session PostgreSQL 9, les inscriptions sont ouvertes !
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, pgsession, pgsession09, dalibo, conférences, postgrespro]
+tags: [opensource, PostgreSQL, pgsession, pgsession09, Dalibo, conférences, PostgresPRO]
 ---
 
 ---
