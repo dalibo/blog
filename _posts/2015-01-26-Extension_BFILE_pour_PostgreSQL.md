@@ -4,7 +4,7 @@ title: Extension BFILE pour PostgreSQL&#58; external_file
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [postgresql, extension, lob, bfile, external_file]
+tags: [PostgreSQL, extension, lob, bfile, external_file]
 ---
 
 Vous connaissez les BFILE d'Oracle ? Il s'agit d'un type de données qui permet d'accéder à des fichiers externes, stockés en dehors de la base.
