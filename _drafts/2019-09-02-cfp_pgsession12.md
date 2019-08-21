@@ -13,7 +13,7 @@ tags: [Dalibo, PostgreSQL, pgsession, pgsession12, cfp]
 
 Envie de parler **PostgreSQL** devant des professionnels curieux et passionnés ? Dalibo lance son **Call for Papers** pour la **PGSession #12**.
 
-Bientôt le nouveau site en ligne…
+Bientôt le nouveau site en ligne… et l'ouverture des inscriptions cet automne !
 
 <!--MORE-->
 
@@ -72,13 +72,8 @@ En envoyant une proposition, vous acceptez d’être enregistré⋅e et renoncez
 -----------------
 
 **À propos des PostgreSQL Sessions :**
-La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir
-et rencontrer les communautés PostgreSQL. Depuis 2018, la PGSession s'étale sur deux journées : une réservée à des ateliers
-donnés par nos experts, et une dédiée aux conférences, organisée autour d'un thème précis et d'un invité de marque.
-Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet,
-Directeurs informatique…
+La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer la communauté PostgreSQL. Depuis 2018, la PGSession s'étale sur deux journées : une réservée à des ateliers donnés par nos experts, et une dédiée aux conférences, organisée autour d'un thème précis et d'un invité de marque.
+Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateur, Chefs de projet, Directeurs informatique…
 
 **À propos de [Dalibo](https://dalibo.com/) :**
-Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de
-ses clients son savoir-faire dans le domaine des bases de données à travers son support, ses audits et conseils, ses formations
-sa certification, et ses nombreuses contributions à la communauté PostgreSQL.
+Depuis 2005, Dalibo est le spécialiste français de PostgreSQL et de ses logiciels satellites, mettant à la disposition de ses clients son savoir-faire dans le domaine des bases de données à travers son support, ses audits et conseils, ses formations sa certification, et ses nombreuses contributions à la communauté PostgreSQL.
