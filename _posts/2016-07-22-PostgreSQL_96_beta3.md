@@ -4,7 +4,7 @@ title:  PostgreSQL 9.6 - Version Bêta 3
 author: Julien Rouhaud
 twitter_id:  rjuju123
 github_id: rjuju
-tags: [postgresql, 9, beta]
+tags: [PostgreSQL, 9, beta]
 
 ---
 *Paris, le 22 juillet 2016*
