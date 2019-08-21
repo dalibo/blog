@@ -4,7 +4,7 @@ title: Nouvelle version 16.0 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [PostgreSQL, migration, oracle]
+tags: [PostgreSQL, migration, Oracle, OraPg]
 
 ---
 *Paris, le 19 Octobre 2015*
