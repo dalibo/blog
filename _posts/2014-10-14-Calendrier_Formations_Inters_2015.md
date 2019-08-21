@@ -4,7 +4,7 @@ title: Calendrier Formations Inters 2015
 author: Virginie Jourdan
 twitter_id: JourdanVirginie
 github_id: vijourdan
-tags: [postgresql, formations, DBA, postgis, SQL, GIS, calendrier]
+tags: [PostgreSQL, formations, DBA, PostGIS, SQL, GIS, calendrier]
 ---
 *Paris, le 14 octobre 2014*
 
