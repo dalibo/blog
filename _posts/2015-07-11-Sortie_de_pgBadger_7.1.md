@@ -4,7 +4,7 @@ title: Sortie de pgBadger 7.1
 author: Gilles Darold
 twitter_id: dalibo
 github_id: 
-tags: [postgresql, performance, pgbadger, dalibolabs]
+tags: [PostgreSQL, performance, pgBadger, Dalibo Labs]
 ---
 DALIBO est fier d'annoncer la sortie de pgBadger 7.1.
 
