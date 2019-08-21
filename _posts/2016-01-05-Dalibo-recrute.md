@@ -4,7 +4,7 @@ title:  Dalibo recrute !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, recrutement]
+tags: [PostgreSQL, recrutement, DBA]
 
 ---
 *Paris, le 5 janvier 2016*
