@@ -4,7 +4,7 @@ title:  pgsession, rendez-vous à la rentrée 2016
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, conférences, pgsession, pgsession08, lyon]
+tags: [PostgreSQL, conférences, pgsession, pgsession08, Lyon]
 
 ---
 *Paris, le 15 février 2016*
