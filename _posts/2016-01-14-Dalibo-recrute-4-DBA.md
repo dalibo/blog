@@ -4,7 +4,7 @@ title:  Dalibo recrute 4 DBA à Paris ou en Province
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, DBA, recrutement]
+tags: [PostgreSQL, DBA, recrutement, Dalibo]
 
 ---
 *Paris, le 14 janvier 2016*
