@@ -5,7 +5,7 @@ author: damien clochard
 twitter_id: "@daamien"
 github_id: daamien
 description: ""
-tags: [newsletter]
+tags: [newsletter, PostgreSQL, 9, workshop, PGConf.EU]
 ---
 
 L'actualité de PostgreSQL et de ses projets satellites. *Juin/Juillet/Août/Septembre 2013.*
