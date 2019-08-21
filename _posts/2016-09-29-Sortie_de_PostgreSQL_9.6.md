@@ -4,7 +4,7 @@ title:  Sortie de PostgreSQL 9.6
 author: Damien Clochard
 twitter_id:  daamien   
 github_id: daamien
-tags: [PostgreSQL]
+tags: [PostgreSQL, 9, update]
 
 ---
 
