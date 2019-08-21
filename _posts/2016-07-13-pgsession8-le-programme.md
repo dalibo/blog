@@ -4,7 +4,7 @@ title:  Au programme de la Session PostgreSQL / PostGIS du jeudi 22 septembre ..
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, postgis, pgsession, pgsession08, conférences, oslandia, programme, lyon]
+tags: [PostgreSQL, PostGIS, pgsession, pgsession08, conférences, Oslandia, programme, Lyon]
 
 ---
 *Paris, le 13 juillet 2016*
