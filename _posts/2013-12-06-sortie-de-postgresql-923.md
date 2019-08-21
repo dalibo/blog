@@ -2,7 +2,7 @@
 layout: post
 title: "Sortie de PostgreSQL 9.2.3"
 description: ""
-tags: [postgresql, upgrade, sécurité, release, 9, 8]
+tags: [PostgreSQL, upgrade, sécurité, release, 9, 8]
 
 ---
 
