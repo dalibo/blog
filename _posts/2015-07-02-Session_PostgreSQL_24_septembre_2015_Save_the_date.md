@@ -4,7 +4,7 @@ title:  Session PostgreSQL - 24 septembre 2015 - Save the date !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, pgsession, pgsession07]
+tags: [PostgreSQL, pgsession, pgsession07]
 
 ---
 *Paris, le 2 juillet 2015*
@@ -25,4 +25,4 @@ Les inscriptions ne sont pas encore ouvertes, mais nous vous invitons à guetter
 
 Plus d'informations ici : [http://www.postgresql-sessions.org/7/start](http://www.postgresql-sessions.org/7/start)
 
-A bientôt pour le programme et l'ouverture des inscriptions.
+À bientôt pour le programme et l'ouverture des inscriptions.
