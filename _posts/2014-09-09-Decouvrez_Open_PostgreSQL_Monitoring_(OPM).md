@@ -4,7 +4,7 @@ title: Découvrez Open PostgreSQL Monitoring (OPM)
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, monitoring, graphs, dashboard]
+tags: [PostgreSQL, monitoring, graphs, dashboard, OPM]
 ---
 ##Surveillez et gérez vos serveurs PostgreSQL
 
