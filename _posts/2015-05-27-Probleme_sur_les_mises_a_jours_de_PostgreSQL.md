@@ -4,7 +4,7 @@ title:  Bug des droits fsync, PostgreSQL 9.4.1, 9.3.6, 9.2.10, 9.1.15 et 9.0.19
 author: Ronan Dunklau
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, sécurité, upgrade 9]
+tags: [PostgreSQL, sécurité, upgrade, 9]
 
 ---
 
