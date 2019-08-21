@@ -4,7 +4,7 @@ title:  Dalibo recrute 2 postes administratifs à Paris
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, recrutement]
+tags: [PostgreSQL, recrutement, Dalibo]
 
 ---
 *Paris, le 23 mai 2016*
