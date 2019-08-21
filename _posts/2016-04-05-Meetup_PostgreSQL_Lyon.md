@@ -4,7 +4,7 @@ title: Meetup PostgreSQL à Lyon le 20 avril 2016
 author: Ronan Dunklau
 twitter_id: rdunklau  
 github_id: rdunklau
-tags: [PostgreSQL, postgis, SIG]
+tags: [PostgreSQL, PostGIS, SIG, Dalibo, meetup, communauté, Lyon]
 
 ---
 *Paris, le 5 avril 2016*
