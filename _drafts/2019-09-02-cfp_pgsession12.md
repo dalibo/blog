@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PGSession 12 - Call for Papers !
-author: Laura Ricci
+author: Laura Ricci, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
 tags: [dalibo, postgresql, pgsession, pgsession12, cfp]
@@ -11,8 +11,7 @@ tags: [dalibo, postgresql, pgsession, pgsession12, cfp]
 
 *Paris, le 1er septembre 2019*
 
-Envie de parler **PostgreSQL** devant des profesionnels curieux et passionnés ? Dalibo lance son **Call for Papers** pour
-la **PGSession #12**.
+Envie de parler **PostgreSQL** devant des professionnels curieux et passionnés ? Dalibo lance son **Call for Papers** pour la **PGSession #12**.
 
 Bientôt le nouveau site en ligne…
 
@@ -27,8 +26,7 @@ La [PGSession #12](https://dali.bo/pgsession12_savethedate) se déroulera sur de
   * journée **Conférences le 21 novembre**.
   
   
-Ce qui nous intéresse aujourd'hui est la journée de conférences, qui se déroulera de 9h à 17h00 dans les sympathiques locaux
-du [Pan Piper](https://www.pan-piper.com/).
+Ce qui nous intéresse aujourd'hui est la journée de conférences, qui se déroulera de 9h à 17h00 dans les sympathiques locaux du [Pan Piper](https://www.pan-piper.com/).
 
 ![pan_piper_localisation2.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pan_piper_localisation2.jpg)
 
@@ -52,7 +50,7 @@ Présentation de nouveautés, etc.
 Toutes les propositions doivent nous parvenir **avant le 7 octobre 2019**. 
 
 
-Merci d'envoyer vos propositions à l'adresse email : call-for-paper@postgresql-sessions.org, en précisant les informations suivantes :
+Merci d'envoyer vos propositions à l'adresse email : **call-for-paper@postgresql-sessions.org**, en précisant les informations suivantes :
 
   * Nom et Prénom
   * Compte Twitter
