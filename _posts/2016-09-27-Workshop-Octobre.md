@@ -4,12 +4,12 @@ title:  Workshop PostgreSQL 9.6 du 7 octobre 2016
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop]
+tags: [PostgreSQL, workshop, dalibo, 9]
 
 ---
 *Paris, le 27 septembre 2016*
 
-La sortie de la nouvelle version 9.6 de PostgreSQL est imminente ... et prévue pour le jeudi 29 septembre !
+La sortie de la nouvelle version 9.6 de PostgreSQL est imminente... et prévue pour le jeudi 29 septembre !
 Pour en savoir plus, inscrivez-vous à notre Workshop du 7 octobre, il reste quelques places ...
 
 
