@@ -4,7 +4,7 @@ title: Nouvelle version 17.0 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [postgresql, migration, oracle, ora2pg, release, upgrade]
+tags: [PostgreSQL, migration, Oracle, Ora2Pg, release, upgrade]
 
 ---
 *Paris, le 22 Fevrier 2016*
