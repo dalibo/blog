@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 9.6.1, 9.5.5, 9.4.10, 9.3.15, 9.2.19 et 9.1.24
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [PostgreSQL, sécurité, upgrade]
+tags: [PostgreSQL, sécurité, update, 9]
 
 ---
 
