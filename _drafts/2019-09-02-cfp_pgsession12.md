@@ -72,7 +72,7 @@ En nous proposant une conférence, vous acceptez d’être enregistré⋅e et re
 -----------------
 
 **À propos des PostgreSQL Sessions :**
-La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer la communauté PostgreSQL. Depuis 2018, la PGSession s'étale sur deux journées : une réservée à des ateliers donnés par nos experts, et une dédiée aux conférences, organisée autour d'un thème précis et d'un invité de marque.
+La PGSession est un événement organisé par Dalibo. Nos sessions, ouvertes à tous, sont avant tout des moments pour découvrir et rencontrer la communauté PostgreSQL. Depuis 2018, la PGSession s'étale sur deux journées : une réservée à des ateliers donnés par nos DBA, et une dédiée aux conférences, organisée autour d'un thème précis et d'un invité de marque.
 Les conférences proposées s'adressent à tous les niveaux et tous les profils : Développeurs, Administrateurs, Chefs de projet, Directeurs informatique…
 
 **À propos de [Dalibo](https://dalibo.com/) :**
