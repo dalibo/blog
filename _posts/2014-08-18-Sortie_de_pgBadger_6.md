@@ -4,8 +4,9 @@ title: Sortie de pgBadger 6
 author: Virginie Jourdan
 twitter_id: JourdanVirginie
 github_id: 
-tags: [postgresql, performance, pgbadger]
+tags: [PostgreSQL, performance, pgBadger]
 ---
+
 DALIBO est fier d'annoncer la sortie de pgBadger 6.0.
 PgBadger est un analyseur de performances pour PostgreSQL, conçu pour produire rapidement des rapports détaillés à partir de vos fichiers de logs Postgres.
 
