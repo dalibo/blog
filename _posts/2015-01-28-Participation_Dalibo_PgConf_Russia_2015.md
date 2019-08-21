@@ -4,7 +4,7 @@ title: Participation Dalibo à PgConf Russia 2015
 author: Virginie Jourdan
 twitter_id: JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, pgconf, conférences, russie, dalibo, programme]
+tags: [PostgreSQL, pgconf, conférences, Russie, Dalibo, programme]
 
 ---
 *Paris, le 28 janvier 2015*
