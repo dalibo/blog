@@ -4,7 +4,7 @@ title: Mises à jour mineures de PostgreSQL 9.5.2, 9.4.7, 9.3.12, 9.2.16 et 9.1.
 author: Julien Tachoires
 twitter_id: _julmon_  
 github_id: julmon
-tags: [postgresql, release, 9]
+tags: [PostgreSQL, release, 9]
 
 ---
 *Paris, le 5 avril 2016*
