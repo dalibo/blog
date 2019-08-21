@@ -4,7 +4,7 @@ title: Nouvelle version 15.3 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [postgresql, migration, oracle, ora2pg, release]
+tags: [PostgreSQL, migration, Oracle, Ora2Pg, release]
 
 ---
 *Paris, le 1er juin 2015*
