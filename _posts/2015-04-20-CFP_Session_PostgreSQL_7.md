@@ -29,7 +29,7 @@ Nous sommes intéressés en particulier par les thématiques suivantes (liste no
   * Entrepôts de données / Big Data
   * PostGIS
 
-Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc… 
+Les interventions peuvent prendre plusieurs formes : Témoignage utilisateur, Proof of Concept, Tutoriel, Comparatif, Présentation de nouveautés, etc.
 
 Toutes les propositions doivent nous parvenir avant le 15 juin 2015. 
 
