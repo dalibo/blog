@@ -4,7 +4,7 @@ title:  Notre Session PostgreSQL du jeudi 24 septembre, plus de détails !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie
 github_id: vijourdan
-tags: [postgresql, pgsession, pgsession07, mozilla]
+tags: [PostgreSQL, pgsession, pgsession07, Mozilla]
 
 ---
 *Paris, le 25 août 2015*
