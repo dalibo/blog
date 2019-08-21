@@ -4,7 +4,7 @@ title: Sortie de pgCluu 2.4
 author: Gilles Darold
 twitter_id: dalibo
 github_id: 
-tags: [postgresql, performance, tuning, pgcluu, perl]
+tags: [PostgreSQL, performance, tuning, pgCluu, Perl]
 ---
 DALIBO est fier d'annoncer la sortie de pgCluu 2.4.
 
