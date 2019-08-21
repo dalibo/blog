@@ -4,7 +4,7 @@ title: Nouvelle version 1.2.1 de POWA !
 author: Julien Rouhaud
 twitter_id: rjuju123   
 github_id: rjuju
-tags: [postgresql, optimisation, performance, monitoring, powa, release]
+tags: [PostgreSQL, optimisation, performance, monitoring, PoWA, release]
 
 ---
 *Paris, le 20 janvier 2015*
