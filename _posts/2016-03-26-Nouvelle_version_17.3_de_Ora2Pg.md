@@ -4,7 +4,7 @@ title: Nouvelle version 17.3 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [PostgreSQL, migration, oracle]
+tags: [PostgreSQL, migration, Oracle, Ora2Pg]
 
 ---
 *Paris, le 26 Mars 2016*
