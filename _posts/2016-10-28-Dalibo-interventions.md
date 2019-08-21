@@ -4,7 +4,7 @@ title:  Les prochaines interventions de Dalibo
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, postgis, estonie, agenda, index, brin, paf, conférences, poss, pgconfeu, pgconf, workshops]
+tags: [PostgreSQL, PostGIS, Estonie, agenda, index, BRIN, PAF, conférences, POSS, PGConf.EU, pgconf, workshop]
 
 ---
 *Paris, le 28 octobre 2016*
