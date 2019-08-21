@@ -4,7 +4,7 @@ title: Call For Paper - PGSession #9 [English Version]
 author: Virginie Jourdan, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [dalibo, pgsession, postgresql, pgsession09, cfp, paris]
+tags: [Dalibo, pgsession, PostgreSQL, pgsession09, cfp, Paris]
 ---
 
 ---
