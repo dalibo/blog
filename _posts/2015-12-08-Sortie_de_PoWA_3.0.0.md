@@ -4,7 +4,7 @@ title: Sortie de POWA 3.0.0
 author: Julien Rouhaud
 twitter_id: rjuju123   
 github_id: rjuju
-tags: [PostgreSQL, optimisation, performance, monitoring]
+tags: [PostgreSQL, optimisation, performance, monitoring, PoWA]
 
 ---
 *Paris, le 7 décembre 2015*
