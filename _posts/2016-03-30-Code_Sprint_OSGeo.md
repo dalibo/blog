@@ -4,7 +4,7 @@ title: Retour sur le Code Sprint OSGeo
 author: Ronan Dunklau
 twitter_id: rdunklau  
 github_id: rdunklau
-tags: [PostgreSQL, postgis, SIG]
+tags: [PostgreSQL, PostGIS, SIG, Dalibo, OSGEO]
 
 ---
 *Paris, le 30 mars 2016*
