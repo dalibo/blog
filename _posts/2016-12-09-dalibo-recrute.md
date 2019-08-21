@@ -4,7 +4,7 @@ title:  Dalibo recrute en 2017 !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, dalibo, recrutement, DBA, community management]
+tags: [PostgreSQL, Dalibo, recrutement, DBA, community management]
 
 ---
 *Paris, le 9 décembre 2016*
