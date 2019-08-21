@@ -4,7 +4,7 @@ title: Confiner PostgreSQL avec SELinux
 author: Nicolas Thauvin
 twitter_id: orgrim
 github_id: orgrim
-tags: [postgresql, SELinux, sécurité, RPM, red hat]
+tags: [PostgreSQL, SELinux, sécurité, RPM, Red Hat]
 ---
 
 Lorsqu'on utilise les paquets RPM du PGDG, les instances PostgreSQL ne
