@@ -4,7 +4,7 @@ title: Workshop Postgresql 9.4 - 1er octobre 2014
 author: Virginie Jourdan
 twitter_id: 
 github_id: 
-tags: [postgresql, workshops, 9, dalibo]
+tags: [PostgreSQL, workshops, 9, Dalibo]
 ---
 
 La sortie de **PostgreSQL 9.4** approche à grands pas ! À l'occasion de l'arrivée de cette nouvelle version, Dalibo vous invite à son prochain Workshop, le 1er octobre 2014 à Paris, une journée d'échange entre professionnels, qui vous permettra d'en découvrir les évolutions et changements majeurs.
