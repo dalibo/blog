@@ -4,10 +4,9 @@ title:  Sortie de PostgreSQL 9.4.1, 9.3.6, 9.2.10, 9.1.15 et 9.0.19
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, sécurité, upgrade, 9]
+tags: [PostgreSQL, sécurité, upgrade, 9]
 
 ---
-
 
 
 Le PostgreSQL Global Development Group vient de publier une importante mise à jour contenant des correctifs pour plusieurs failles de sécurité pour l'ensemble des versions supportées du SGBDR PostgreSQL, il s'agit des versions mineures 9.4.1, 9.3.6, 9.2.10, 9.1.15, et 9.0.19.
