@@ -4,7 +4,7 @@ title: Sortie de pgBadger 6.4
 author: Gilles Darold
 twitter_id: dalibo
 github_id: 
-tags: [postgresql, performance, pgbadger, dalibolabs]
+tags: [PostgreSQL, performance, pgBadger, Dalibo Labs]
 ---
 DALIBO annonce la sortie de pgBadger 6.4, une version de maintenance.
 
