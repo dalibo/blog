@@ -4,7 +4,7 @@ title:  pgsession 8 à Lyon, les vidéos sont en ligne
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, session]
+tags: [PostgreSQL, PostGIS, pgsession, pgsession08, conférences]
 
 ---
 *Paris, le 25 octobre 2016*
