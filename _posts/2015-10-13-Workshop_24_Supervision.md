@@ -4,7 +4,7 @@ title:  Workshop Supervision - 25 novembre 2015
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [postgresql, workshops, supervision, OPM, nagios, zabbix]
+tags: [PostgreSQL, workshops, supervision, OPM, Nagios, Zabbix]
 
 ---
 *Paris, le 13 octobre 2015*
