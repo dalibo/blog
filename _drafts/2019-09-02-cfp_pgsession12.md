@@ -64,7 +64,7 @@ Merci d'envoyer vos propositions à l'adresse email : **call-for-paper@postgresq
 Les fichiers de présentations (“slides”) devront être transmis à Dalibo sous licence **Creative Commons BY-SA 3.0** 
 ou compatible.
 
-Cette journée sera filmée et diffusée en live sur la chaîne Youtube de Dalibo, puis rediffusée après la Session.
+Cette journée sera filmée et diffusée sur la chaîne Youtube de Dalibo.
 
 En envoyant une proposition, vous acceptez d’être enregistré⋅e et renoncez à tout droit de compensation pour cela.
 
