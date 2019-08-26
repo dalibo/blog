@@ -54,8 +54,7 @@ De plus, son histoire est intimement liée à celle de Dalibo.
 En effet, un des fondateurs et actuels cogérants de notre société, **Jean-Paul Argudo**, a initié la constitution de l'association, aux côtés de **Gabriele Bartolini**
 et des contributeurs à PostgreSQL encore aujourd'hui reconnus que sont **Magnus Hagander** et **Dave Page**.
 
-Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, 
-mais d'autres y participent aussi chaque année en tant que conférenciers, comme **Damien Clochard** ou **Jehan-Guillaume de Rorthais**.
+Depuis, non seulement des salariés de Dalibo s'investissent au sein de l'association, à l'instar de **Guillaume Lelarge**, actuel trésorier, mais d'autres y ont aussi participé en tant que conférenciers, comme **Jehan-Guillaume de Rorthais** ou **Damien Clochard**.
 
 ---  
 
