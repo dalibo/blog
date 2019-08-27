@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dalibo recrute un⋅e DBA PostgreSQL d'étude
-author: Virginie Jourdan, Laura Ricci
+author: Julien Tachoires, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
 tags: [dalibo, recrutement, DBA]
@@ -20,9 +20,9 @@ tags: [dalibo, recrutement, DBA]
 Le poste requiert un niveau avancé en **PostgreSQL, Python, Red Hat / CentOS Linux**.
 
 Vos principales missions seront d'assurer l'évolution et la maintenance de notre solution d'industrialisation de 
-déploiement PostgreSQL, tout en effectuant la veille technologique et en étant force de proposition sur l'architecture de
-la solution. 
+déploiement PostgreSQL, tout en effectuant la veille technologique et en étant force de proposition sur l'architecture de la solution. 
 Vous serez aussi amené à être en contact avec nos clients afin d'étudier leurs besoins et faire évoluer notre offre.
+ 
  
 ## À propos de Dalibo
 
@@ -37,9 +37,7 @@ Impliqués dans le projet PostgreSQL depuis ces débuts, nous sommes engagés au
 comme à l’étranger, par le développement d’outils, la participation à des événements et conférences, le sponsoring et
 plus encore.
 
-
-Dalibo est avant tout une entreprise de passionné⋅e⋅s, qui a décidé d’inscrire les principes de l’open source dans son ADN,
-en devenant une SCOP.
+Dalibo est avant tout une entreprise de passionné⋅e⋅s, qui a décidé d’inscrire les principes de l’open source dans son ADN, en devenant une SCOP.
  
  ---
  
