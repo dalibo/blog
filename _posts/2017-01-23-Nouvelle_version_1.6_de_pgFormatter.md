@@ -4,7 +4,7 @@ title: Nouvelle version 1.6 de pgFormatter !
 author: Gilles Darold
 twitter_id: dalibo
 github_id: darold
-tags: [postgresql, pgformatter, release]
+tags: [PostgreSQL, pgFormatter, release]
 
 ---
 *Paris, le 23 janvier 2017*
