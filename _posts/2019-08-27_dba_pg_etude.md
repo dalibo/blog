@@ -4,7 +4,7 @@ title: Dalibo recrute un⋅e DBA PostgreSQL d'étude
 author: Julien Tachoires, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, recrutement, DBA]
+tags: [Dalibo, recrutement, DBA]
 ---
 
 *Paris, le 27 août 2019*
