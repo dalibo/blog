@@ -4,7 +4,7 @@ title: Catalogue 2017 des formations
 author: Virginie Jourdan
 twitter_id: JourdanVirginie
 github_id: vijourdan
-tags: [PostgreSQL, formation, SIG]
+tags: [PostgreSQL, formations, SIG, DBA]
 
 ---
 *Paris, le 21 décembre 2017*
