@@ -4,7 +4,7 @@ title: Nouvelle version 18.0 d'Ora2Pg !
 author: Gilles Darold
 twitter_id: ora2pg
 github_id: darold
-tags: [PostgreSQL, migration, oracle]
+tags: [PostgreSQL, migration, Oracle, Ora2Pg]
 
 ---
 *Paris, le 31 Janvier 2017*
