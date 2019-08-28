@@ -7,7 +7,7 @@ github_id: dalibo
 tags: [Dalibo, recrutement, DBA]
 ---
 
-*Paris, le 27 août 2019*
+*Paris, le 28 août 2019*
 
 [Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e **DBA PostgreSQL d'étude**.
 
