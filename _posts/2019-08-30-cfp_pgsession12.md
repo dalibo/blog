@@ -9,7 +9,7 @@ tags: [Dalibo, PostgreSQL, pgsession, pgsession12, cfp, conférences]
 
 ---
 
-*Paris, le 1er septembre 2019*
+*Paris, le 30 août 2019*
 
 Envie de parler **PostgreSQL** devant des professionnels curieux et passionnés ? Dalibo lance son **Call for Papers** pour la **PGSession #12**.
 
