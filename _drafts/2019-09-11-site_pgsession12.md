@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nouveau site à l'occasion de la PGSession 12 !
+title: Un nouveau site pour les PGSessions
 author: Laura Ricci
 twitter_id: Dalibo
 github_id: Dalibo
