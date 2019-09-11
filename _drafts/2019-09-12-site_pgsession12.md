@@ -8,7 +8,7 @@ tags: [PostgreSQL, pgsession, pgsession12, cfp]
 ---
 
 ---
-*Paris, le 11 septembre 2019*
+*Paris, le 12 septembre 2019*
 
 Le **[nouveau site des PGSessions](https://dali.bo/2019_site_pgsessions)** est désormais en ligne ! Il vous permettra de vous tenir informé⋅e de notre prochaine journée de conférences dédiées à **PostgreSQL**, qui aura lieu le 21 novembre à Paris.
 
