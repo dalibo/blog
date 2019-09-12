@@ -4,7 +4,7 @@ title: "Migrer vers PostgreSQL 10 : les points à surveiller"
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, 10, upgrade]
+tags: [PostgreSQL, 10, upgrade, migration, SQL, pg_dump, réplication, pg_basebackup, sécurité]
 ---
 
 A chaque nouvelle version de PostgreSQL 10, des changements majeurs peuvent
