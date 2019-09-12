@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL version 10
 author: Thibaut Madelaine, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, postgresql10, release]
+tags: [PostgreSQL, 10, release, upgrade, performance, réplication, partitionnement, sécurité]
 
 ---
 
