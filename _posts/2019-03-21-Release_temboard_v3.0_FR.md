@@ -4,7 +4,7 @@ title: temBoard - découvrez la version 3.0 !
 author: Léo Cossic, Laura Ricci
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [temboard, postgresql, gestion, interface, maintenance, upgrade, dalibolabs]
+tags: [temboard, PostgreSQL, gestion, interface, maintenance, upgrade, Dalibo Labs]
 ---
 
 *Paris, 21 mars 2019*
