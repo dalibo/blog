@@ -4,7 +4,7 @@ title: temboard v2.0 introduit les Alertes
 author: Julien Tachoires, Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, temboard, release, upgrade, gestion]
+tags: [PostgreSQL, temboard, release, upgrade, gestion, alerte]
 ---
 
 ---
