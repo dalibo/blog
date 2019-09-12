@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.3, 10.8, 9.6.13, 9.5.17, 9.4.22
 author: Christophe Courtois, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, release, mineure, sécurité, 9, 10, 11, update]
+tags: [PostgreSQL, release, mineure, sécurité, 9, 10, 11, update]
 ---
 
 *Paris, le 9 mai 2019*
