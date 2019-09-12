@@ -4,7 +4,7 @@ title:  Workshop Postgresql 9.5 - 3 juin 2016
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop, 9]
+tags: [PostgreSQL, workshops, 9]
 
 ---
 *Paris, le 20 mai 2016*
