@@ -4,7 +4,7 @@ title: New Official RPM packages for SUSE SLES
 author: Damien clochard
 twitter_id: daamien
 github_id: daamien
-tags: [postgresql, linux, SUSE, SLES, RPM, 9, 10]
+tags: [PostgreSQL, Linux, SUSE, SLES, RPM, 9, 10]
 ---
 
 ---
