@@ -4,7 +4,7 @@ title: Virginie Jourdan rejoint la gérance de DALIBO !
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, postgres, gerance, scop, dalibo, libre, autogestion]
+tags: [scop, Dalibo, gérance]
 ---
 
 ---
