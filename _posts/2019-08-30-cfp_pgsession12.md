@@ -50,7 +50,7 @@ Présentation de nouveautés, etc.
 Toutes les propositions doivent nous parvenir **avant le 7 octobre 2019**. 
 
 
-Merci de les envoyer à **call-for-paper@postgresql-sessions.org**, en précisant :
+Merci de les envoyer à [call-for-paper@postgresql-sessions.org](mailto:call-for-paper@postgresql-sessions.org), en précisant :
 
   * Nom et Prénom
   * Compte Twitter
