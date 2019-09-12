@@ -4,7 +4,7 @@ title: ldap2pg - release v1.0
 author: Étienne Bersac, Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [ldap, ldap2pg, postgresql, dalibolabs, release, dalibolabs]
+tags: [ldap, ldap2pg, PostgreSQL, Dalibo Labs, release, upgrade, synchronisation]
 ---
 
 *Paris, le 06 juillet 2017*
