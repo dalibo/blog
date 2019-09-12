@@ -3,7 +3,7 @@ title: La certification Dalibo, premier bilan
 author: Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [formation, postgresql, certification, dalibo, DBA]
+tags: [PostgreSQL, certification, Dalibo, DBA]
 ---
 
 *Paris, le 28 juin 2019*
