@@ -4,7 +4,7 @@ title:  Dalibo présent sur tous les fronts !
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, PostGIS, workshops, conférences, meetup, Lyon, foss4g, pgcon, pgday, brin, meetus, Italie, Canada, Dalibo]
+tags: [PostgreSQL, PostGIS, workshops, conférences, meetup, Lyon, FOSS4G, pgcon, pgday, brin, meetus, Italie, Canada, Dalibo]
 
 ---
 *Paris, le 19 avril 2016*
