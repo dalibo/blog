@@ -4,7 +4,7 @@ title: Annonce PGSession 10 - Call for Papers
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, pgsession, pgsession10, cfp]
+tags: [Dalibo, Oslandia, PostgreSQL, PostGIS, pgsession, pgsession10, cfp]
 ---
 
 ---
