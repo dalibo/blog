@@ -4,7 +4,7 @@ title: Publication des manuels de formations Dalibo !
 author: Léo Cossic, Damien Clochard
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, formations, formation, cours, livres, diffusion, libération, publication, CC, creative, commons, dalibo]
+tags: [opensource, PostgreSQL, formations, manuels, diffusion, publication, CC, creative commons, Dalibo]
 ---
 
 ---
