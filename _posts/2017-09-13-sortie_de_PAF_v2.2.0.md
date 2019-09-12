@@ -4,7 +4,7 @@ title: Sortie de PAF version 2.2.0
 author: Jehan-Guillaume de Rorthais, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [postgresql, failover, paf, release]
+tags: [PostgreSQL, failover, automatic, PAF, release, update]
 
 ---
 
