@@ -4,7 +4,7 @@ title: Sortie de HypoPG v1.1.0
 author: Julien Rouhaud, Léo Cossic
 twitter_id: rjuju123
 github_id: Dalibo
-tags: [postgresql, index, hypothétique, release, hypopg]
+tags: [PostgreSQL, index, hypothétique, release, HypoPG, update]
 ---
 
 ---
