@@ -4,7 +4,7 @@ title: Sortie de check_pgactivity 2.2
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: OPMDG
-tags: [release, sortie, check_pgactivity]
+tags: [PostgreSQL, release, update, check_pgactivity, Nagios]
 
 ---
 *Paris, le 06 juin 2017*
@@ -43,11 +43,11 @@ Quelques corrections et changements ont été également été réalisés :
 check_pgactivity est une sonde compatible avec Nagios pour surveiller toutes les
 fonctions clés d'un cluster PostgreSQL:
 
-* Nombre de sessions, requètes les plus longues, sessions vérouillée, etc...
-* taille de la base de donnée, tables et indexes fragmentées.
-* fichier WAL, état de l'archiver, dumps de bases de données
-* réplication en streaming, slots de réplication
-* et bien d'autres
+* Nombre de sessions, requètes les plus longues, sessions vérouillée, etc.,
+* taille de la base de donnée, tables et indexes fragmentées,
+* fichier WAL, état de l'archiver, dumps de bases de données,
+* réplication en streaming, slots de réplication,
+* et bien d'autres.
 
 Check_pgactivity supporte plusieurs formats d'export/de sortie:
 
