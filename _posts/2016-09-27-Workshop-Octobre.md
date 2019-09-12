@@ -4,7 +4,7 @@ title:  Workshop PostgreSQL 9.6 du 7 octobre 2016
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop, dalibo, 9]
+tags: [PostgreSQL, workshops, 9]
 
 ---
 *Paris, le 27 septembre 2016*
