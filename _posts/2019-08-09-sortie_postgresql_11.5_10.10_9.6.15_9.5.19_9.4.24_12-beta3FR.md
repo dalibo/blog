@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.5, 10.10, 9.6.15, 9.5.19, 9.4.24 et de la version
 author: Florent Jardin, Maël Rimbault, Christophe Courtois
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, release, mineure, sécurité, sortie, 11, 10, 9, 12, bêta, update]
+tags: [PostgreSQL, release, mineure, sécurité, sortie, 11, 10, 9, 12, bêta, update]
 source: https://www.postgresql.org/about/news/1960/
 ---
 
