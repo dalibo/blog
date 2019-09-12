@@ -4,7 +4,7 @@ title:  Mise à jour de sécurité 2017-05-11
 author: Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [postgresql, release, upgrade, sécurité, 9]
+tags: [PostgreSQL, release, upgrade, sécurité, 9]
 
 ---
 *Paris, le 11 mai 2017*
