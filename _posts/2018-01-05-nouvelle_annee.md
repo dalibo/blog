@@ -4,7 +4,7 @@ title: Dalibo vous souhaite une bonne année 2018
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, 2018, dalibo, agenda]
+tags: [2018, PostgreSQL, Dalibo, agenda, pgday, pgsession, PGConf.EU, FOSDEM, workshops]
 
 ---
 *Paris, le 5 janvier 2018* 
