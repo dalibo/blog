@@ -4,13 +4,12 @@ title: Sortie de PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 et 9.3.23
 author: Maël Rimbault
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, release, upgrade, 10, 9]
+tags: [PostgreSQL, release, upgrade, 10, 9]
 ---
 
 ---
 
 *Paris, le 14 mai 2018*
-
 
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de PostgreSQL, à savoir : 10.4, 9.6.9, 9.5.13, 9.4.18 et 9.3.23.
