@@ -4,7 +4,7 @@ title: POWA ! Analysez votre trafic PostgreSQL en direct !
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, optimisation, performance, monitoring, PoWA, pg_stat_statements]
+tags: [PostgreSQL, optimisation, performance, monitoring, PoWA, pg_stat_statements, analyse]
 ---
 DALIBO vous présente la première version publique de POWA, un nouvel outil d'optimisation et de suivi pour PostgreSQL.
 
