@@ -4,7 +4,7 @@ title:  Workshops PostgreSQL de mars 2016 - 9.5 et Supervision
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop, supervision, 9, Dalibo]
+tags: [PostgreSQL, workshops, supervision, 9]
 
 ---
 *Paris, le 8 février 2016*
