@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 9.6.4, 9.5.8, 9.4.13, 9.3.18, 9.2.22
 author: Julien Rouhaud
 twitter_id: rjuju123
 github_id: rjuju
-tags: [postgresql, sécurité, upgrade]
+tags: [PostgreSQL, sécurité, update, release, 9]
 
 ---
 
