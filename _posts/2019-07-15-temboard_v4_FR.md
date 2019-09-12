@@ -4,7 +4,7 @@ title: temboard - la version 4.0 arrive
 author: Laura Ricci, Julien Tachoires
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [temboard, postgresql, gestion, interface, notification, supervision, dalibolabs]
+tags: [temboard, PostgreSQL, gestion, interface, notification, supervision, Dalibo Labs]
 ---
 
 *Paris, 15 juillet 2019*
