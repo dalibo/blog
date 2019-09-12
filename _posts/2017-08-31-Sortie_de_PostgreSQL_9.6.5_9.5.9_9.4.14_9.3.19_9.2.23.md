@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 9.6.5, 9.5.9, 9.4.14, 9.3.19 et 9.2.23
 author: Nicolas Thauvin
 twitter_id: orgrim
 github_id: orgrim
-tags: [postgresql,  upgrade, 9, maj]
+tags: [PostgreSQL,  update, 9, release]
 
 ---
 
