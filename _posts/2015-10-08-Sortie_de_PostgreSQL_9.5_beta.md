@@ -4,7 +4,7 @@ title:  Sortie de PostgreSQL 9.5 bêta
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, upgrade, beta, 9, big data]
+tags: [PostgreSQL, upgrade, bêta, 9, big data, release]
 
 ---
 
