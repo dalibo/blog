@@ -4,7 +4,7 @@ title: Sortie de check_pgactivity version 2.3
 author: Thomas Reiss, Léo Cossic
 twitter_id: dalibo 
 github_id: dalibo
-tags: [postgresql, check_pgactivity, release, sortie, sonde, nagios, plugin]
+tags: [PostgreSQL, check_pgactivity, release, sonde, Nagios, plugin]
 ---
 
 ---
