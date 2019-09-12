@@ -4,7 +4,7 @@ title: Annonce - Premières dates d'examens de Certification Postgres Dalibo
 author: Léo Cossic, Virginie Jourdan
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, dalibo, examen, certification, postgres, essential, dates]
+tags: [Postgresql, Dalibo, certification, essential, agenda]
 ---
 
 ---
