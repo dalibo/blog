@@ -4,7 +4,7 @@ title: PGSession10 - Les inscriptions sont ouvertes !
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, postgresql, conférences, 2018, pgsession, pgsession10]
+tags: [PostgreSQL, conférences, pgsession, pgsession10, PostGIS, QGIS, réplication]
 ---
 
 ---
