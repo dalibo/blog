@@ -4,7 +4,7 @@ title:  Dalibo au FOSS4G-fr
 author: Virginie Jourdan
 twitter_id:  JourdanVirginie   
 github_id: vijourdan
-tags: [PostgreSQL, workshop, SIG, FOSS4G, conférences]
+tags: [PostgreSQL, workshops, SIG, FOSS4G, conférences]
 
 ---
 *Paris, le 8 avril 2016*
