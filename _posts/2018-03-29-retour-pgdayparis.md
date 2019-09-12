@@ -4,7 +4,7 @@ title: Retour sur le pgDay Paris 2018
 author: David Bidoc
 twitter_id: dalibo
 github_id: dalibo
-tags: [opensource, postgresql, pgday, paris, 2018, conférences, france]
+tags: [opensource, PostgreSQL, pgday, Paris, conférences, 11]
 ---
 
 ---
