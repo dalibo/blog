@@ -4,7 +4,7 @@ title: Dalibo, sponsor historique de PGConf Europe
 author: Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, italie, milan, opensource, postgresql, pgconf, pgconfeu, conférences, europe, sponsor, communauté]
+tags: [Dalibo, Italie, opensource, PostgreSQL, pgconf, PGConf.EU, conférences, Europe, sponsor, communauté]
 
 ---
 
