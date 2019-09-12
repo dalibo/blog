@@ -4,7 +4,7 @@ title: Dalibo recrute un⋅e Commercial⋅e Grands Comptes
 author: Virginie Jourdan, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, recrutement, commercial]
+tags: [Dalibo, recrutement, commercial]
 ---
 
 *Paris, le 12 juillet 2019*
