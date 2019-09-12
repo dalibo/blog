@@ -4,7 +4,7 @@ title: Nouvel outil Dalibo Labs - ldap2pg
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [ldap, ldap2pg, postgresql, dalibolabs, synchronisation]
+tags: [ldap, ldap2pg, PostgreSQL, Dalibo Labs, synchronisation]
 
 ---
 
