@@ -4,7 +4,7 @@ title: Release pgBadger v10.0 - new features and status update
 author: Léo Cossic, Gilles Darold
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibolabs, postgresql, pgbadger, release]
+tags: [Dalibo Labs, PostgreSQL, pgBadger, release, upgrade]
 ---
 
 ---
