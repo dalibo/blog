@@ -14,7 +14,7 @@ Le **[nouveau site des PGSessions](https://dali.bo/2019_site_pgsessions)** est d
 
 <!--MORE-->
 
-![capture_site_pgsessions.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/capture_site_pgsessions.jpg)
+![page d'accueil du site des pgsessions](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/capture_site_pgsessions.jpg)
 
 
 Illustré par une image de la passionnante [table ronde](https://dali.bo/pgsession10_table_ronde) sur l'open source en 2018, et reprenant notre [appel à conférenciers](https://dali.bo/cfp_pgsession12) lancé le 30 août dernier, le site des PGSessions a aussi la particularité de vous donner accès à toutes les présentations des sessions passées, classées par année via l'onglet des **Archives**.
