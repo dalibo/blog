@@ -4,7 +4,7 @@ title: Tenez-vous prêts, la PGSession approche !
 author: Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [postgresql, pgsession, pgsession09, conférences, oracle, migration]
+tags: [PostgreSQL, pgsession, pgsession09, conférences, Oracle, migration]
 ---
 
 ---
