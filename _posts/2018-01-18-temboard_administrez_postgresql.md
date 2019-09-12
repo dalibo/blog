@@ -4,7 +4,7 @@ title: temBoard - administrez simplement votre parc d'instances PostgreSQL
 author: Léo Cossic
 twitter_id: dalibo
 github_id: dalibo
-tags: [temboard, opensource, postgresql, instances, administration, gestion, manage, supervision, outil]
+tags: [temboard, opensource, PostgreSQL, instances, administration, supervision, Dalibo Labs]
 ---
 
 ---
