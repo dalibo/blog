@@ -4,7 +4,7 @@ title: Sortie de PostgreSQL 11.1, 10.6, 9.6.11, 9.5.15, 9.4.20, 9.3.25
 author: Thibaud Walkowiak
 twitter_id: dalibo
 github_id: dalibo
-tags: [postgresql, release, mineure, sécurité, issue, 11, 10, 9, update]
+tags: [PostgreSQL, release, mineure, sécurité, 11, 10, 9, update]
 ---
 
 ---
