@@ -4,7 +4,7 @@ title: PGSession 9 - La programmation!
 author: Virginie Jourdan, Léo Cossic
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [postgresql, pgsession09, pgsession, programme]
+tags: [PostgreSQL, pgsession09, pgsession, programme]
 ---
 
 ---
