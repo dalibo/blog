@@ -4,7 +4,7 @@ title: Dalibo recrute un⋅e Service Delivery Manager / Chef de projet
 author: Carole Arnaud, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
-tags: [dalibo, recrutement, service delivery manager, chef de projet]
+tags: [Dalibo, recrutement, service delivery manager, chef de projet]
 ---
 
 *Paris, le 13 août 2019*
