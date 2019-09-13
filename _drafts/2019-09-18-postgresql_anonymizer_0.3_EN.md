@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL Anonymizer 0.3 : In-Place Masking and Anonymous Dumps"
+title: "PostgreSQL Anonymizer 0.3: In-Place Masking and Anonymous Dumps"
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
