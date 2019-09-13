@@ -4,7 +4,7 @@ title: "PostgreSQL Anonymizer 0.3 : In-Place Masking and Anonymous Dumps"
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, anonymization, GDPR, masking]
+tags: [PostgreSQL, anonymization, GDPR, masking, Dalibo Labs, PostgreSQL Anonymizer]
 ---
 
 `postgresql_anonymizer` is an extension that hides or replaces personally 
