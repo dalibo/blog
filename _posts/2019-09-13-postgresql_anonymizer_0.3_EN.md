@@ -28,9 +28,9 @@ COMMENT ON COLUMN users.name IS 'MASKED WITH FUNCTION md5(name)';
 Once the masking rules are declared, anonymization can be acheived in 3 
 different ways:
 
-* [Anonymous Dumps]: Simply export the masked data into an SQL file
-* [In-Place Anonymization]: Remove the sensible data according to the rules
-* [Dynamic Masking]: Hide sensible data, only for the masked users
+* [Anonymous Dumps] : Simply export the masked data into an SQL file
+* [In-Place Anonymization] : Remove the sensible data according to the rules
+* [Dynamic Masking] : Hide sensible data, only for the masked users
 
 In addition, various [Masking Functions] are available : randomization, faking,
 partial scrambling, shuffling, noise, etc. You can also user your own custom 
