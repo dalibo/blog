@@ -4,7 +4,7 @@ title: PGSession#12 - Call For Papers! [English Version]
 author: Laura Ricci, Virginie Jourdan
 twitter_id: Dalibo
 github_id: Dalibo
-tags: [Dalibo, pgsession, PostgreSQL, pgsession12, cfp]
+tags: [Dalibo, pgsession, PostgreSQL, pgsession12, cfp, conferences]
 ---
 
 ---
