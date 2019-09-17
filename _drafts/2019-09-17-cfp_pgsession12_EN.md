@@ -44,8 +44,8 @@ We also need a little **information about yourself and your talk**, such as:
   * Any specific needs
 
 Slides should have a **free license** (GNU/GPL, BSD, PostgreSQL, Creative Commons BY-SA 3.0 or compatible), and sent to Dalibo.
-We will post the slides on PGSession's website after the event. 
-Moreover this day will be broadcast on our Youtube channel, and all the lectures will be recorded and published after the Session. 
+We will post the slides on [PGSession's website](http://dali.bo/2019_site_pgsessions) after the event. 
+Moreover this day will be broadcast on our [Youtube channel](https://dali.bo/dalibo_youtube), and all the lectures will be recorded and published after the Session. 
 By sending a proposal, you agree to be recorded and waive any compensation for it. 
 
 We will be happy to pay back the travel and one-night accomodation cost to the selected speakers not living in France.
