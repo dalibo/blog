@@ -31,9 +31,11 @@ We are looking for talks on the following subjects:
 Talks can be either a case study, a Proof of Concept, a tutorial, a benchmark or a presentation of a new feature. 
 Of course, any other migration related topics (monitoring, hardware, replication, etc.) is welcome.
 
-The submission deadline is **October 7th**. Please send your proposals to [call-for-paper@postgresql-sessions.org](mailto:call-for-paper@postgresql-sessions.org)
+**The submission deadline is October 7th**. 
 
-We also need a little **information about yourself and your talk**, such as:
+Please send your proposals to **[call-for-paper@postgresql-sessions.org](mailto:call-for-paper@postgresql-sessions.org)**.
+
+We would also need a little **information about yourself and your talk**, such as:
 
   * First Name and Last Name
   * Twitter Account (if any)
