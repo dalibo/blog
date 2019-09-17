@@ -8,7 +8,7 @@ tags: [Dalibo, pgsession, PostgreSQL, pgsession12, cfp, conferences]
 ---
 
 ---
-*Paris, September 18th 2019*
+*Paris, September 17th 2019*
 
 We are glad to announce that the PostgreSQL Session #12 will be held on November 20th in Paris! Would you be interested in submitting a talk in English or French?
 
