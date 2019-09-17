@@ -15,9 +15,11 @@ submitting a talk in English or French?
 
 <!--MORE-->
 
+The call for papers is open! 
+
 ![pan_piper_localisation2.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pan_piper_localisation2.jpg)
 
-The call for papers is open! Each talk should last 30 minutes, questions included.
+Each talk should last 30 minutes, questions included.
 We are looking for talks on the following subjects:
 
   * What's New in PostgreSQL
