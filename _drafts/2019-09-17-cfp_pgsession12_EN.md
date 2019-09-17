@@ -55,4 +55,4 @@ We will be happy to pay back the travel and one-night accomodation cost to the s
 **About the PostgreSQL Sessions**: the PostgreSQL sessions are designed to be a time to discover and meet the community. Each session consists of lectures organized around a specific theme and a guest. The proposed talks aimed at all levels and all profiles: Developer, Administrator, Project Managers, IT Managers, etc.
 Entry is free and open to all, within the limits of available seats.
 
-**About [Dalibo](https://dalibo.com/)**: Dalibo is the leading PostgreSQL company in France. We have been providing services, training and support to its clients since 2005, while contributing to the PostgreSQL community.
+**About [Dalibo](https://dalibo.com/)**: Founded in 2005, Dalibo is the leading PostgreSQL company in France, providing services, training and support to its clients, while contributing to the PostgreSQL community.
