@@ -50,9 +50,7 @@ By sending a proposal, you agree to be recorded and waive any compensation for i
 
 We will be happy to pay back the travel and one-night accomodation cost to the selected speakers not living in France.
 
-
-
-
+-----------------
 
 **About the PostgreSQL Sessions**: the PostgreSQL sessions are designed to be a time to discover and meet the community. Each session consists of lectures organized around a specific theme and a guest. The proposed talks aimed at all levels and all profiles: Developer, Administrator, Project Managers, IT Managers, etc.
 Entry is free and open to all, within the limits of available seats.
