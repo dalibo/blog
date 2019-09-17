@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGSession#12 - Call For Papers! [English Version]
+title: PGSession#12 - Call For Papers!
 author: Laura Ricci, Virginie Jourdan
 twitter_id: Dalibo
 github_id: Dalibo
