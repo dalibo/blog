@@ -52,7 +52,7 @@ We will post the slides on [PGSession's website](http://dali.bo/2019_site_pgsess
 Moreover this day will be broadcast on our [Youtube channel](https://dali.bo/dalibo_youtube), and all the lectures will be recorded and published after the Session. 
 By sending a proposal, you agree to be recorded and waive any compensation for it. 
 
-We will be happy to pay back the travel and one-night accomodation cost to the selected speakers not living in France.
+We will be happy to pay back the travel and one-night accomodation expenses to the selected speakers not living in France.
 
 -----------------
 
