@@ -132,15 +132,20 @@ Il faudra faire attention aux impacts et régressions possibles sur les requête
 applicatives.
 
 
-## les Pluggable Table Storage
+## les `Pluggable Table Storage`
 
-FIXME
+PostgreSQL ne permet à l'heure actuelle qu'une unique façon de stocker les
+données, la méthode `HEAP`. Elle stocke les données par ligne et utilise du
+`copy on write`. Cette méthode est très efficace pour gérer la concurrence
+transactionnelle.
 
 https://www.dalibo.info/home/mael/public/pastebin/cr_pgcon_2019#pluggable_table_storage
 
 It was discussed how Postgres enabling Pluggable Access method framework can be
 used to develop newer table access methods, so that users are not restricted to
 Heap.
+
+https://www.dalibo.info/home/mael/public/pastebin/cr_pgcon_2019#zedstore
 
 -----------------
 
