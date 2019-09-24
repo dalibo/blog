@@ -29,8 +29,8 @@ Une fois que ces règles sont définies, l'anonymisation peut être obtenue de
 3 manières différentes :
 
 * [Dumps Anonymes] : exporter les données masqueés dans un fichier SQL
-* [Anonymisation Permanente] : Supprimer les données sensibles en appliquant les règles de masquage
-* [Masquage Dynamique] : Cacher les données sensibles, uniquement pour les utilisateurs masqués 
+* [Anonymisation Permanente] : supprimer les données sensibles en appliquant les règles de masquage
+* [Masquage Dynamique] : cacher les données sensibles, uniquement pour les utilisateurs masqués 
 
 Par ailleurs, plusieurs [fonctions de masquage] sont disponibles : 
 insertion de données aléatoires, données factices, masquage partiel, 
@@ -76,7 +76,7 @@ développé principalement par [Damien Clochard].
 
 Il s'agit d'un projet ouvert, les contributions sont les bienvenues. Nous avons 
 besoin de feedback et d'idées ! Dites-nous ce que vous pensez de cet outil, 
-comment il répond à vos besoins et quelles fonctions vous manques.
+comment il répond à vos besoins et quelles fonctions vous manquent.
 
 Si vous souhaitez nous aider, vous trouverez une liste de `Junior Jobs` 
 ci-dessous :
