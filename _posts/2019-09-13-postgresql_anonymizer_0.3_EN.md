@@ -36,7 +36,7 @@ In addition, various [Masking Functions] are available : randomization, faking,
 partial scrambling, shuffling, noise, etc. You can also user your own custom 
 function!
 
-For more detail, please take a look at the documention:
+For more detail, please take a look at the documentation:
 https://postgresql-anonymizer.readthedocs.io/
 
 [Masking Rules]: https://postgresql-anonymizer.readthedocs.io/en/latest/declare_masking_rules/
