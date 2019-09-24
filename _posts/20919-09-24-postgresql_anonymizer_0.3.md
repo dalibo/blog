@@ -4,7 +4,7 @@ title: "PostgreSQL Anonymizer 0.3 : Masquage permanent et dumps anonymes"
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
-tags: [PostgreSQL, anonymisation, RGPD, Dalibo Labs, PostgreSQL Anonymizer]
+tags: [PostgreSQL, anonymisation, masquage, RGPD, Dalibo Labs, PostgreSQL Anonymizer]
 ---
 
 ---
