@@ -9,7 +9,7 @@ tags: [PostgreSQL, anonymization, GDPR, masking, Dalibo Labs, PostgreSQL Anonymi
 
 ---
 
-*Paris, 13 Septembre 2019*
+*Paris, 24 Septembre 2019*
 
 `postgresql_anonymizer` est une extension qui cache ou remplace les données 
 personnelles ou sensibles dans une base PostgreSQL.
