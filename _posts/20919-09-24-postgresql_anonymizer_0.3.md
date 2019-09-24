@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PostgreSQL Anonymizer 0.3: Masquage permanent et dumps anonymes"
+title: "PostgreSQL Anonymizer 0.3 : Masquage permanent et dumps anonymes"
 author: Damien Clochard
 twitter_id: daamien
 github_id: daamien
