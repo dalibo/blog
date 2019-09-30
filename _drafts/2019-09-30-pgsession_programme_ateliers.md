@@ -28,7 +28,7 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
 
 ### Matinée (9H30 - 12H30)
 
-   * __PostgreSQL 12__ : les nouveautés de la nouvelle version. Animé par Franck Boudehen et Thibaut Madelaine.
+   * __PostgreSQL 12__ : les nouveautés de la dernière version. Animé par Franck Boudehen et Thibaut Madelaine.
    * __E-Maj__ : *sujet à préciser*. Animé par Philippe Beaudoin et Thibaud Walkowiak.
 
 ### Après-midi (14H00 - 17H00)
