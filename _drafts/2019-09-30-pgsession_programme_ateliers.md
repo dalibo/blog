@@ -19,10 +19,10 @@ Découvrez aujourd'hui le programme du 20 novembre !
 
 ### 20 novembre : la journée Ateliers
 
-Organisée à l'[Espace La Rochefoucauld](https://formeret.fr/nos-espaces/espace-la-rochefoucauld/), cette journée vous donnera la chance de participer à quatre ateliers. 
+Organisée à l'[Espace La Rochefoucauld](https://formeret.fr/nos-espaces/espace-la-rochefoucauld/), cette journée vous donnera la chance de participer à quatre ateliers sur PostgreSQL et PostGIS. 
 Une participation de 180€ TTC vous est demandée pour la journée, incluant les pauses café et le déjeuner. 
 
-En voici le programme :
+En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslandia.com/) :
 
 **Matinée (9H30 - 12H30)**
 
