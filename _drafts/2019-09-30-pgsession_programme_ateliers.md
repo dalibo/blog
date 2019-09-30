@@ -44,7 +44,7 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
 
 ---------------------
 
-**À très vite pour plus d'informations sur la journée des Conférences du 21 novembre !**
+**À très vite pour plus d'informations sur la journée des Conférences du 21 novembre**
 
 
  
