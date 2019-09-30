@@ -29,7 +29,7 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
 ### Matinée (9H30 - 12H30)
 
    * __PostgreSQL 12__ : les nouveautés de la dernière version. Animé par Franck Boudehen et Thibaut Madelaine (*Dalibo*).
-   * __E-Maj__ : l'outil d'enregistrement et d'annulation des mises à jour PostgreSQL. Animé par Philippe Beaudoin et Thibaud Walkowiak (*Dalibo*).
+   * __E-Maj__ : enregistrer et d'annuler les mises à jour PostgreSQL. Animé par Philippe Beaudoin et Thibaud Walkowiak (*Dalibo*).
 
 ### Après-midi (14H00 - 17H00)
 
