@@ -25,7 +25,7 @@ COMMENT ON COLUMN users.name IS 'MASKED WITH FUNCTION md5(name)';
 
 Une fois que ces règles sont définies, l'anonymisation peut être obtenue de 3 manières différentes :
 
-* [Dumps Anonymes] : exporter les données masqueés dans un fichier SQL
+* [Dumps Anonymes] : exporter les données masquées dans un fichier SQL
 * [Anonymisation Permanente] : supprimer les données sensibles en appliquant les règles de masquage
 * [Masquage Dynamique] : cacher les données sensibles, uniquement pour les utilisateurs masqués 
 
