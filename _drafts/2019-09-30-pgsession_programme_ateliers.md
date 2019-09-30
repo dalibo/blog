@@ -18,19 +18,19 @@ Découvrez aujourd'hui le programme du 20 novembre !
 
 ![la_rochefoucauld_localisation.png](https://raw.githubusercontent.com/lauraricci/blog.dalibo.com/gh-pages/img/la_rochefoucauld_localisation.png)
 
-# 20 novembre : la journée Ateliers
+## 20 novembre : la journée Ateliers
 
 Organisée à l'[Espace La Rochefoucauld](https://formeret.fr/nos-espaces/espace-la-rochefoucauld/), cette journée vous donnera la chance de participer à quatre ateliers sur PostgreSQL et PostGIS. 
 Une participation de 180€ TTC vous est demandée pour la journée, incluant les pauses café et le déjeuner. 
 
 En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslandia.com/) :
 
-## Matinée (9H30 - 12H30)
+### Matinée (9H30 - 12H30)
 
    * PostgreSQL 12 : les nouveautés de la nouvelle version. Animé par Franck Boudehen et Thibaut Madelaine.
    * E-Maj : *à préciser*. Animé par Philippe Beaudoin et Thibaud Walkowiak.
 
-## Après-midi (14H00 - 17H00)
+### Après-midi (14H00 - 17H00)
 
    * Supervision : *à préciser*. Animé par Franck Boudehen et Thibaut Madelaine.
    * PostGIS : exposer vos données sur le web. Animé par Régis Haubourg et Vincent Mora.
