@@ -28,13 +28,13 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
 
 ### Matinée (9H30 - 12H30)
 
-   * __PostgreSQL 12__ : les nouveautés de la dernière version. Animé par Franck Boudehen et Thibaut Madelaine.
-   * __E-Maj__ : *sujet à préciser*. Animé par Philippe Beaudoin et Thibaud Walkowiak.
+   * __PostgreSQL 12__ : les nouveautés de la dernière version. Animé par Franck Boudehen et Thibaut Madelaine (*Dalibo*).
+   * __E-Maj__ : l'outil d'enregistrement et d'annulation des mises à jour PostgreSQL. Animé par Philippe Beaudoin et Thibaud Walkowiak (*Dalibo*).
 
 ### Après-midi (14H00 - 17H00)
 
-   * __Supervision__ : *sujet à préciser*. Animé par Franck Boudehen et Thibaut Madelaine.
-   * __PostGIS__ : exposer vos données sur le web. Animé par Régis Haubourg et Vincent Mora.
+   * __Supervision__ : Animé par Franck Boudehen et Thibaut Madelaine (*Dalibo*).
+   * __PostGIS__ : exposer vos données sur le web. Animé par Régis Haubourg et Vincent Mora (*Oslandia*).
    
    
    
