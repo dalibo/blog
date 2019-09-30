@@ -3,7 +3,7 @@ layout: post
 title: PGSession - Le programme de la journée Ateliers
 author: Laura Ricci, Virginie Jourdan
 twitter_id: pgsession
-tags: [PostgreSQL, pgsession, pgsession12, ateliers]
+tags: [PostgreSQL, pgsession, pgsession12, workshops, E-Maj, supervision, PostGIS, 12]
 ---
 
 ---
