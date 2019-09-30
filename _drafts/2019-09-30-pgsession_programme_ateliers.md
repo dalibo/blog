@@ -39,7 +39,7 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
    
    
 
-[**INSCRIVEZ-VOUS DÈS MAINTENANT !**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
+## [**INSCRIVEZ-VOUS DÈS MAINTENANT !**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
 
 
 
