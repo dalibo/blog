@@ -33,7 +33,7 @@ En voici le programme, concocté avec nos partenaires d'[Oslandia](https://oslan
 
 ### Après-midi (14H00 - 17H00)
 
-   * __Supervision__ : Animé par Franck Boudehen et Thibaut Madelaine (*Dalibo*).
+   * __Supervision__ : supervision graphique en PostgreSQL, quels outils pour quels problèmes ? Animé par Franck Boudehen et Thibaut Madelaine (*Dalibo*).
    * __PostGIS__ : exposer vos données sur le web. Animé par Régis Haubourg et Vincent Mora (*Oslandia*).
    
    
