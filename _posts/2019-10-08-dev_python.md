@@ -40,7 +40,7 @@ en devenant une SCOP.
  
  ---
  
-Pour plus d’informations, veuillez consulter la fiche de poste [ici](https://dali.bo/jobs).
+Pour plus d’informations, veuillez consulter la fiche de poste [ici](https://www.dalibo.com/jobs#dev-python).
 
 **Intéressé⋅e ?** 
 Contactez-nous à l'adresse suivante : **recrutement@dalibo.com**
