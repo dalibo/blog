@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dalibo recrute un⋅e Développeur / Développeuse Back-end Python
+title: Dalibo recrute un⋅e Développeu⋅se Back-end Python
 author: Julien Tachoires, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
@@ -9,7 +9,7 @@ tags: [Dalibo, recrutement, développeurs, Python]
 
 *Paris, le 8 octobre 2019*
 
-[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e **Développeur / Développeuse Back-end Python**.
+[Dalibo](https://www.dalibo.com) est à la recherche d'un⋅e **Développeu⋅se Back-end Python**.
 <!--MORE-->
 
 -----
