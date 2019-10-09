@@ -11,7 +11,7 @@ SQL, 12]
 
 *Paris, le 10 octobre 2019*
 
-Découvrez les thèmes des conférences que nous avons sélectionnées !
+Découvrez les conférences que nous avons sélectionnées !
 
 <!--MORE-->
 
@@ -37,7 +37,7 @@ rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lor
 
 ---------------------
 
-**À très vite pour le programme détaillé sur [notre site postgresql-sessions.org](https://dali.bo/2019_site_pgsessions) !**
+**À très vite pour le programme détaillé sur [postgresql-sessions.org](https://dali.bo/2019_site_pgsessions) !**
 
 
  
