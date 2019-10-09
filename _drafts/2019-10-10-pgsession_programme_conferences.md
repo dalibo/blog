@@ -22,7 +22,7 @@ Découvrez les conférences que nous avons sélectionnées !
 Organisée au [Pan Piper](https://www.pan-piper.com/), cette journée gratuite et ouverte à tou⋅te⋅s vous permettra de
 rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lors des conférences.
 
-Au menu, les nouveautés des dernières versions PostgreSQL et PostGIS, des outils, des solutions et des retours d'expérience fort utiles :
+Au menu, des nouveautés, des outils, des solutions et des retours d'expérience fort utiles :
 
    * PostgreSQL 12 : les nouveautés, par Franck Boudehen (Dalibo)
    * Merveilleux SQL, par Lætitia Avrot (EnterpriseDB)
