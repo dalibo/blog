@@ -20,7 +20,7 @@ Découvrez les thèmes des conférences que nous avons sélectionnées !
 ## 21 novembre : la journée Conférences
 
 Organisée au [Pan Piper](https://www.pan-piper.com/), cette journée gratuite et ouverte à tou⋅te⋅s vous permettra de
-rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lors des conférences dont nous pouvons d'ores et déjà vous donner les titres :
+rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lors des conférences suivantes :
 
    * PostgreSQL 12 : les nouveautés, par Franck Boudehen (Dalibo)
    * Merveilleux SQL, par Lætitia Avrot (EnterpriseDB)
@@ -37,7 +37,7 @@ rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lor
 
 ---------------------
 
-**À très vite pour le programme détaillé sur la [journée Conférences](https://dali.bo/2019_site_pgsessions) !**
+**À très vite pour le programme détaillé sur [notre site postgresql-sessions.org](https://dali.bo/2019_site_pgsessions) !**
 
 
  
