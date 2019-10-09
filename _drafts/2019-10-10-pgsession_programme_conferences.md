@@ -15,7 +15,7 @@ Découvrez les thèmes des conférences que nous avons sélectionnées !
 
 <!--MORE-->
 
-![journee_conferences.png](https://raw.githubusercontent.com/lauraricci/blog.dalibo.com/gh-pages/img/journee_conferences.png)
+![journee_conferences.png](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/journee_conferences.png)
 
 ## 21 novembre : la journée Conférences
 
