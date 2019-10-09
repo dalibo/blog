@@ -22,15 +22,15 @@ Découvrez les conférences que nous avons sélectionnées !
 Organisée au [Pan Piper](https://www.pan-piper.com/), cette journée gratuite et ouverte à tou⋅te⋅s vous permettra de
 rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lors des conférences.
 
-Au menu, des nouveautés, des solutions et des retours d'expériences fort utiles :
+Au menu, les nouveautés des dernières versions PostgreSQL et PostGIS, des outils, des solutions et des retours d'expérience fort utiles :
 
-   * *PostgreSQL 12 : les nouveautés*, par Franck Boudehen (Dalibo)
-   * *Merveilleux SQL*, par Lætitia Avrot (EnterpriseDB)
-   * *Masquage et anonymisation avec PostgreSQL*, par Damien Clochard (Dalibo)
-   * *Dernières nouvelles de PostGIS*, par Frédéric Bonifas (Oslandia)
-   * *PEV2 : vos plans d'exécution ont des choses à dire*, par Pierre Giraud (Dalibo)
-   * *Gérer son socle technique PostgreSQL*, par Philippe Beaudoin (Dalibo)
-   * *Démarche de transition à PostgreSQL et outillage open source*, par Anthony Nowocien (Société Générale)
+   * PostgreSQL 12 : les nouveautés, par Franck Boudehen (Dalibo)
+   * Merveilleux SQL, par Lætitia Avrot (EnterpriseDB)
+   * Masquage et anonymisation avec PostgreSQL, par Damien Clochard (Dalibo)
+   * Dernières nouvelles de PostGIS, par Frédéric Bonifas (Oslandia)
+   * PEV2 : vos plans d'exécution ont des choses à dire, par Pierre Giraud (Dalibo)
+   * Gérer son socle technique PostgreSQL, par Philippe Beaudoin (Dalibo)
+   * Démarche de transition à PostgreSQL et outillage open source, par Anthony Nowocien (Société Générale)
    
    
 **OUVERTURE PROCHAINE DES INSCRIPTIONS**
