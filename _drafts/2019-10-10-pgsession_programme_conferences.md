@@ -31,8 +31,7 @@ rencontrer des membres actifs de la **communauté PostgreSQL**, entre autres lor
    * Démarche de transition à PostgreSQL et outillage open source, par Anthony Nowocien (Société Générale)
    
    
-
-[**INSCRIVEZ-VOUS DÈS MAINTENANT !**](lien eventbrite à ajouter)
+**OUVERTURE PROCHAINE DES INSCRIPTIONS !**
 
 
 ---------------------
