@@ -14,6 +14,10 @@ published: true
 
 *Chambéry, October 10th 2019*
 
+PEV2 (the plans graphical vizualizer) can be used in differents ways.
+
+<!--MORE-->
+
 ## Storing My Plans? No Thanks!
 
 In the [previous article] we mentioned that [PEV2] could be used
