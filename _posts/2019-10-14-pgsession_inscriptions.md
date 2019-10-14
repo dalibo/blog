@@ -21,7 +21,7 @@ Inscrivez-vous dès aujourd'hui aux deux journées de la **PGSession #12** ! Apr
 
  * Lieu : [Espace La Rochefoucauld](https://formeret.fr/nos-espaces/espace-la-rochefoucauld/), Paris 9ème arr.
  
- * Tarif : 180€ TTC , pauses café et le déjeuner inclus.
+ * Tarif : 180€ TTC , pauses café et déjeuner inclus.
  
  * Co-organisée avec notre partenaire [Oslandia](https://oslandia.com/).
  
