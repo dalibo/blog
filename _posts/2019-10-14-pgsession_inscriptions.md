@@ -11,7 +11,7 @@ SQL, PostgreSQL Anonymizer, Socles]
 
 *Paris, le 14 octobre 2019*
 
-Inscrivez-vous dès aujourd'hui aux deux journées de la **PGSession #12** ! Après l'ouverture des inscriptions à la Journée Ateliers, vous pouvez en effet réserver dès aujourd'hui votre place à la Journée des Conférences.
+Inscrivez-vous aux deux journées de la **PGSession #12** ! Après l'ouverture des inscriptions à la Journée Ateliers, vous pouvez en effet réserver dès aujourd'hui votre place à la Journée des Conférences.
 
 <!--MORE-->
 
