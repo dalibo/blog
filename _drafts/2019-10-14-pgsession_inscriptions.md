@@ -29,7 +29,8 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
    * **E-Maj** : enregistrer et annuler les mises à jour PostgreSQL
    * **Supervision** : quels outils pour quels problèmes de supervision graphique en PostgreSQL ?
    * **PostGIS** : exposer vos données sur le web
-   
+ 
+ 
  * Modalités d'inscription :
    * vous souhaitez d'abord un devis : [**écrivez-nous**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
    * ou [inscrivez-vous en ligne](https://www.eventbrite.fr/e/billets-pgsession-12-journee-ateliers-74831163023)
@@ -49,7 +50,8 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
    * **PEV2 - Vos plans d'exécution ont des choses à dire**, par Pierre Giraud (*Dalibo*)
    * **Gérer son socle technique PostgreSQL**, par Philippe Beaudoin (*Dalibo*)
    * **Démarche de transition à PostgreSQL et outillage open source**, par Anthony Nowocien (*Société Générale*)
-   
+ 
+ 
  * [Inscrivez-vous en ligne](https://www.eventbrite.fr/e/billets-pgsession-12-journee-conferences-72370918365)
 
 
