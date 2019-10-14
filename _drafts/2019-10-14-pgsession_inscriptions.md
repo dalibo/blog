@@ -36,7 +36,8 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
    * ou [**inscrivez-vous en ligne**](https://www.eventbrite.fr/e/billets-pgsession-12-journee-ateliers-74831163023)
 
 
-![img_conferences_medium.png](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/img_conferences_medium.png)
+
+![PGSession #12 : Journée Conférences](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/img_conferences_medium.png)
 
 ## 21 novembre : la journée Conférences
 
