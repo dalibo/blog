@@ -35,7 +35,7 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
    * vous souhaitez d'abord un devis : [**écrivez-nous**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
    * ou [**inscrivez-vous en ligne**](https://www.eventbrite.fr/e/billets-pgsession-12-journee-ateliers-74831163023)
 
-
+---------------------
 
 ![PGSession #12 : Journée Conférences](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/img_conferences_medium.png)
 
