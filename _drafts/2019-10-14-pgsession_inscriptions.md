@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGSession - Ouverture des inscriptions !
+title: PGSession - Ouverture des inscriptions à la journée Conférences
 author: Laura Ricci
 twitter_id: pgsession
 tags: [PostgreSQL, pgsession, pgsession12, workshops, conférences, E-Maj, supervision, PostGIS, 12, PEV2, migration, 
