@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PGSession - OUverture des inscriptions
+title: PGSession - Ouverture des inscriptions !
 author: Laura Ricci
 twitter_id: pgsession
 tags: [PostgreSQL, pgsession, pgsession12, workshops, conférences, E-Maj, supervision, PostGIS, 12, PEV2, migration, 
@@ -30,7 +30,7 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** : rappel d
    * **Supervision** : quels outils pour quels problèmes de supervision graphique en PostgreSQL ?
    * **PostGIS** : exposer vos données sur le web
    
- * Modalité d'inscription :
+ * Modalités d'inscription :
    * vous souhaitez d'abord un devis : [**écrivez-nous**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
    * ou [inscrivez-vous en ligne](https://www.eventbrite.fr/e/billets-pgsession-12-journee-ateliers-74831163023)
 
