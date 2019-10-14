@@ -43,7 +43,7 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
  
  * PROGRAMME :
    * **PostgreSQL 12 - les nouveautés**, par Franck Boudehen (*Dalibo*)
-   * **Merveilleux SQL**, par Laetitia Avrot (*Enterprise DB*)
+   * **Merveilleux SQL**, par Lætitia Avrot (*Enterprise DB*)
    * **Masquage et anonymisation avec PostgreSQL**, par Damien Clochard (*Dalibo*)
    * **Dernières nouvelles de PostGIS**, par Frédéric Bonifas (*Oslandia*)
    * **PEV2 - Vos plans d'exécution ont des choses à dire**, par Pierre Giraud (*Dalibo*)
