@@ -11,7 +11,7 @@ SQL, PostgreSQL Anonymizer, Socles]
 
 *Paris, le 14 octobre 2019*
 
-Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** : rappel des informations, des programmes et liens utiles.
+Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
 
 <!--MORE-->
 
