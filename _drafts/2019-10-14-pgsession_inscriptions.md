@@ -24,11 +24,11 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** : rappel d
  
  * Co-organisée avec notre partenaire [Oslandia](https://oslandia.com/).
  
- * Programme :
-   * **PostgreSQL 12** : les nouveautés de la dernière version.
-   * **E-Maj** : enregistrer et annuler les mises à jour PostgreSQL.
+ * PROGRAMME :
+   * **PostgreSQL 12** : les nouveautés de la dernière version
+   * **E-Maj** : enregistrer et annuler les mises à jour PostgreSQL
    * **Supervision** : quels outils pour quels problèmes de supervision graphique en PostgreSQL ?
-   * **PostGIS** : exposer vos données sur le web.
+   * **PostGIS** : exposer vos données sur le web
    
  * Modalité d'inscription :
    * vous souhaitez d'abord un devis : [**écrivez-nous**](mailto:contact@dalibo.com?subject=PGSession:%20inscription%20aux%20Ateliers)
@@ -41,7 +41,7 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** : rappel d
  
  * Entrée gratuite
  
- * Programme :
+ * PROGRAMME :
    * **PostgreSQL 12 - les nouveautés**, par Franck Boudehen (*Dalibo*)
    * **Merveilleux SQL**, par Laetitia Avrot (*Enterprise DB*)
    * **Masquage et anonymisation avec PostgreSQL**, par Damien Clochard (*Dalibo*)
