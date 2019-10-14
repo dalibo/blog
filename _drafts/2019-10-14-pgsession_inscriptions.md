@@ -15,6 +15,7 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** !
 
 <!--MORE-->
 
+![pgsession10_atelier_thibaut.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgsession10_atelier_thibaut.jpg)
 
 ## 20 novembre : la journée Ateliers
 
