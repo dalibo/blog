@@ -42,13 +42,13 @@ Inscrivez-vous dès aujourd'hui aux journées de la **PGSession #12** : rappel d
  * Entrée gratuite
  
  * Programme :
-   * **PostgreSQL 12 - les nouveautés**, par Franck Boudehen (Dalibo)
-   * **Merveilleux SQL**, par Laetitia Avrot (Enterprise DB)
-   * **Masquage et anonymisation avec PostgreSQL**, par Damien Clochard (Dalibo)
-   * **Dernières nouvelles de PostGIS**, par Frédéric Bonifas (Oslandia)
-   * **PEV2 - Vos plans d'exécution ont des choses à dire**, par Pierre Giraud (Dalibo)
-   * **Gérer son socle technique PostgreSQL**, par Philippe Beaudoin (Dalibo)
-   * **Démarche de transition à PostgreSQL et outillage open source**, par Anthony Nowocien (Société Générale)
+   * **PostgreSQL 12 - les nouveautés**, par Franck Boudehen (*Dalibo*)
+   * **Merveilleux SQL**, par Laetitia Avrot (*Enterprise DB*)
+   * **Masquage et anonymisation avec PostgreSQL**, par Damien Clochard (*Dalibo*)
+   * **Dernières nouvelles de PostGIS**, par Frédéric Bonifas (*Oslandia*)
+   * **PEV2 - Vos plans d'exécution ont des choses à dire**, par Pierre Giraud (*Dalibo*)
+   * **Gérer son socle technique PostgreSQL**, par Philippe Beaudoin (*Dalibo*)
+   * **Démarche de transition à PostgreSQL et outillage open source**, par Anthony Nowocien (*Société Générale*)
    
  * [Inscrivez-vous en ligne](https://www.eventbrite.fr/e/billets-pgsession-12-journee-conferences-72370918365)
 
