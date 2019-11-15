@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie de PostgreSQL 11.5, 10.10, 9.6.15, 9.5.19, 9.4.24 et de la version 12 Bêta 3 
+title: Sortie de PostgreSQL 12.1, 11.6, 10.11, 9.6.16, 9.5.20 et 9.4.25
 author: Florent Jardin, Christophe Courtois, Benoît Lobréau
 twitter_id: dalibo
 github_id: dalibo
