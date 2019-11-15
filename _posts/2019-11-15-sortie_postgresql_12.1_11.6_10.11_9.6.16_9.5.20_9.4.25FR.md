@@ -8,6 +8,8 @@ tags: [PostgreSQL, release, mineure, sécurité, sortie, 12, 11, 10, 9, update]
 source: https://www.postgresql.org/about/news/1994/
 ---
 
+---
+
 *Paris, le 15 novembre 2019*
 
 Le PostgreSQL Global Development Group vient de publier une mise à jour pour toutes les versions supportées de vos systèmes de bases de données, à savoir : 12.1, 11.6, 10.11, 9.6.16, 9.5.20 et 9.4.25. Cette sortie corrige plus de 60 bugs signalés sur les trois derniers mois.
