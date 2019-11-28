@@ -31,7 +31,7 @@ Nous avons accueilli environ 25 personnes lors des 4 ateliers suivants :
 
 Variées de par les sujets et la personnalité des orateurs et oratrices, ces conférences ont abordé les nouveautés de **PostgreSQL 12**, des outils satellite tels que **PostGIS**, **PEV2** et **PostgreSQl Anonymizer**, le langage **SQL** et la gestion du **socle technique**, avant de parler **migration vers PostgreSQL** grâce au retour d'expérience de la Société Générale et à la présentation de la nouvelle offre de Cheops Technology.
 
-Un grand merci à Pierre Giraud, Laetitia Avrot, Anthony Nowocien, Franck Boudehen, Damien Clochard, Fabrice Viault et Philippe Beaudoin pour leur précieuse contribution !
+Pour leur précieuse contribution, un grand merci à Pierre Giraud, Laetitia Avrot, Anthony Nowocien, Franck Boudehen, Damien Clochard, Fabrice Viault, Philippe Beaudoin, ainsi qu'à Frédéric Bonifas  !
 
 ![orateurs](https://github.com/dalibo/blog/blob/gh-pages/img/orateurs.jpg?raw=true)
 
