@@ -20,7 +20,8 @@ Tout comme l'année dernière, nous avons organisé une journée Ateliers dédi�
 
 ![atelier_emaj](https://github.com/dalibo/blog/blob/gh-pages/img/atelier_emaj.jpeg?raw=true)
 
-Nous avons accueilli environ 25 personnes lors des 4 ateliers suivants :
+Nous avons accueilli environ 25 personnes lors des ateliers suivants :
+
   * **PostgreSQL 12** : les nouveautés
   * **E-Maj** :  enregistrer et annuler les mises à jour PostgreSQL
   * **PostGIS** : exposer vos données sur le web
@@ -42,9 +43,9 @@ L’ensemble des interventions filmées est aussi en train d'être publié sur n
 
 ## Nos remerciements
 
-Nous tenons enfin à remercier chaleureusement tous les stagiaires des atelies et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement à la fois enrichissant et convivial !
+Nous tenons à remercier chaleureusement tous les **stagiaires** des ateliers et les **membres du public** pour leur participation. C'est grâce à elles et eux que l'événement reste un événement à la fois enrichissant et convivial !
 
-Nous saluons par ailleurs nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
+Nous saluons par ailleurs nos **partenaires et prestataires** qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
 
 -----------------------------------------
 
