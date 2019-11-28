@@ -42,9 +42,9 @@ L’ensemble des interventions filmées sera aussi disponible sur notre **[chaî
 
 ## Nos remerciements
 
-Nous tenons aussi à remercier chaleureusement tous les stagiaires et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
+Nous tenons enfin à remercier chaleureusement tous les stagiaires et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
 
-Enfin nous saluons nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
+Nous saluons par ailleurs nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
 
 -----------------------------------------
 
