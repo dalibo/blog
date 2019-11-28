@@ -4,7 +4,7 @@ title: "Retour sur la PGSession 12"
 author: Laura Ricci
 twitter_id: pgsession
 github_id: dalibo
-tags: [PostgreSQL, pgsession, pgsession12, conférences, ateliers, Dalibo, Oslandia, PostGIS]
+tags: [PostgreSQL, pgsession, pgsession12, conférences, ateliers, Dalibo, Oslandia, PostGIS, E-Maj, supervision, migration, PostgreSQL Anonymizer]
 ---
 
 *Paris, le 28 novembre 2019*
@@ -16,17 +16,15 @@ Il y a une semaine, la PGSession 12 avait lieu à Paris. Aujourd'hui, c'est l'he
 
 ## Les Ateliers
 
-Tout comme l'année dernière, la veille de la journée Conférences, nous avons organisé une journée Ateliers dédiée à PostgreSQL et PostGIS, en partenariat avec [Oslandia](https://oslandia.com).
+Tout comme l'année dernière, nous avons organisé une journée Ateliers dédiée à **PostgreSQL** et **PostGIS**, la veille de la journée Conférences, en partenariat avec [Oslandia](https://oslandia.com).
 
 ![atelier_emaj](https://github.com/dalibo/blog/blob/gh-pages/img/atelier_emaj.jpeg?raw=true)
 
 Nous avons accueilli environ 25 personnes lors des 4 ateliers suivants :
-  * PostgreSQL 12
-  * E-Maj
-  * PostGIS
-  * Supervision
-  
- Un grand merci aux inscrit⋅e⋅s pour leur participation !
+  * **PostgreSQL 12** : les nouveautés
+  * **E-Maj** :  enregistrer et annuler les mises à jour PostgreSQL
+  * **PostGIS** : exposer vos données sur le web
+  * **Supervision** : quels outils pour quels problèmes de supervision graphique en PostgreSQL ?
  
 
 ## Les Conférences
@@ -44,7 +42,7 @@ L’ensemble des interventions est d’ores et déjà disponible sur notre **[ch
 
 ## Nos remerciements
 
-Nous tenons aussi à remercier chaleureusement les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
+Nous tenons aussi à remercier chaleureusement tous les stagiaires et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
 
 Enfin nous saluons nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
 
