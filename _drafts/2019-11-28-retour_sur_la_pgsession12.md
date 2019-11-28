@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Retour sur la PGSession10"
-author: Léo Cossic
-twitter_id: dalibo
+title: "Retour sur la PGSession 12"
+author: Laura Ricci
+twitter_id: pgsession
 github_id: dalibo
 tags: [PostgreSQL, pgsession, pgsession12, conférences, ateliers, Dalibo, Oslandia, PostGIS]
 ---
@@ -31,11 +31,21 @@ Nous avons accueilli environ 25 personnes lors des 4 ateliers suivants :
 
 ## Les Conférences
 
-Vous avez manqué l'événement ? Aucun problème, vous pouvez **consulter les supports de présentations des conférenciers** sur le site web des [PGSessions](http://www.postgresql-sessions.org/10/start)
+Variées par leurs sujets et la personnalité des orateurs et oratrices, ces conférences ont abordé les nouveautés de **PostgreSQL 12**, des outils tels que **PostGIS**, **PEV2** et **PostgreSQl Anonymizer**, tout en découvrant le langage **SQL** et une solution telle que les **socles Dalibo**, avant de parler migration grâce à un **retour d'expérience de la Société Générale** et à la présentation de la **nouvelle offre de Cheops Technology**.
 
-L’ensemble des interventions est d’ores et déjà disponibles sur notre **[chaine Youtube](https://www.youtube.com/watch?v=udwzu1j3eSU&list=PLdz5EN2NV_7C0k25FPXca1OVjgkRB-QZi)** !
-Pour ne rien manquer de nos news, prochains events, workshops ou articles de blogs, suivez-nous sur Twitter : [@PGSession](https://twitter.com/pgsession), [@Dalibo](https://twitter.com/dalibo) et [@Oslandia_fr](https://twitter.com/oslandia_fr).
+Vous avez manqué l'événement ? Aucun problème, vous pourrez bientôt **consulter les supports de présentations des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions) !
 
-Pour finir, nous remercions [Mozilla Paris](https://wiki.mozilla.org/Paris) de nous avoir accueilli dans leur espace de conférences pour cette édition de la PGSession. Nous remercions également l'ensemble des conférenciers et intervenants pour leur participation.
+L’ensemble des interventions est d’ores et déjà disponible sur notre **[chaîne Youtube](https://dali.bo/pgsession12_playlist)**.
 
-Enfin, nous espérons vous retrouver pour l'édition 2019 de la PostgreSQL Session, à Paris ou ailleurs ! ;)
+
+## Nos remerciements
+
+Nous tenons à remercier chaleureusement tou⋅te⋅s les intervenant⋅e⋅s et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
+
+Nous tenons aussi à remercier nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
+
+-----------------------------------------
+
+Pour ne rien manquer de notre actualité, prochains événements, workshops ou articles de blog, suivez-nous sur Twitter : [@PGSession](https://twitter.com/pgsession), [@Dalibo](https://twitter.com/dalibo) et [@Oslandia_fr](https://twitter.com/oslandia_fr).
+
+Sur ce, à bientôt pour l'édition 2020 de la PostgreSQL Session, à Paris ou ailleurs ! ;)
