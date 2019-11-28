@@ -4,7 +4,7 @@ title: "Retour sur la PGSession 12"
 author: Laura Ricci
 twitter_id: pgsession
 github_id: dalibo
-tags: [PostgreSQL, pgsession, pgsession12, conférences, ateliers, Dalibo, Oslandia, PostGIS, E-Maj, supervision, migration, PostgreSQL Anonymizer]
+tags: [PostgreSQL, pgsession, pgsession12, conférences, workshops, Dalibo, Oslandia, PostGIS, E-Maj, supervision, migration, PostgreSQL Anonymizer]
 ---
 
 *Paris, le 28 novembre 2019*
