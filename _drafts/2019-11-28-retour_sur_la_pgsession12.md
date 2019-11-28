@@ -33,7 +33,7 @@ Variées de par les sujets et la personnalité des orateurs et oratrices, ces co
 
 Un grand merci à Pierre Giraud, Laetitia Avrot, Anthony Nowocien, Franck Boudehen, Damien Clochard, Fabrice Viault et Philippe Beaudoin pour leur précieuse contribution !
 
-![orateurs](https://github.com/dalibo/blog/blob/gh-pages/img/orateurs.jpeg?raw=true)
+![orateurs](https://github.com/dalibo/blog/blob/gh-pages/img/orateurs.jpg?raw=true)
 
 Vous avez manqué l'événement ? Aucun problème, vous pourrez bientôt **consulter les supports de présentations des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions) !
 
