@@ -35,14 +35,14 @@ Pour leur précieuse contribution, un grand merci à Pierre Giraud, Laetitia Avr
 
 ![orateurs](https://github.com/dalibo/blog/blob/gh-pages/img/orateurs.jpg?raw=true)
 
-Vous avez manqué l'événement ? Aucun problème, vous pourrez bientôt **consulter les supports de présentations des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions).
+Vous avez manqué l'événement ? Aucun problème, vous pouvez consulter la quasi-totalité des **supports de présentation des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions).
 
-L’ensemble des interventions filmées sera aussi disponible sur notre **[chaîne Youtube](https://dali.bo/pgsession12_playlist)**.
+L’ensemble des interventions filmées est aussi en train d'être publié sur notre **[chaîne Youtube](https://dali.bo/pgsession12_playlist)**.
 
 
 ## Nos remerciements
 
-Nous tenons enfin à remercier chaleureusement tous les stagiaires et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement enrichissant et convivial !
+Nous tenons enfin à remercier chaleureusement tous les stagiaires des atelies et les membres du public pour leur participation. C'est grâce à elles et eux que l'événement reste un événement à la fois enrichissant et convivial !
 
 Nous saluons par ailleurs nos partenaires et prestataires qui nous ont aidés à faire de ces journées une réussite : l'Espace La Rochefoucauld, le Pan Piper, L'Artésienne, Ivanne et Sidonie, Télémillevaches, ainsi que la plateforme Eventbrite.
 
