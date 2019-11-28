@@ -16,11 +16,11 @@ Il y a une semaine, la PGSession 12 avait lieu à Paris. Aujourd'hui, c'est l'he
 
 ## Les Ateliers
 
-Tout comme l'année dernière, nous avons organisé une journée Ateliers dédiée à **PostgreSQL** et **PostGIS**, la veille de la journée Conférences, en partenariat avec [Oslandia](https://oslandia.com).
+Tout comme l'année dernière, nous avons dans un premier temps organisé une journée Ateliers dédiée à **PostgreSQL** et **PostGIS**, en partenariat avec [Oslandia](https://oslandia.com).
 
 ![atelier_emaj](https://github.com/dalibo/blog/blob/gh-pages/img/atelier_emaj.jpeg?raw=true)
 
-Nous avons accueilli environ 25 personnes lors des ateliers suivants :
+Environ 25 personnes ont participé aux ateliers suivants :
 
   * **PostgreSQL 12** : les nouveautés
   * **E-Maj** :  enregistrer et annuler les mises à jour PostgreSQL
@@ -30,7 +30,7 @@ Nous avons accueilli environ 25 personnes lors des ateliers suivants :
 
 ## Les Conférences
 
-Variées de par les sujets et la personnalité des orateurs et oratrices, ces conférences ont abordé les nouveautés de **PostgreSQL 12**, des outils satellite tels que **PostGIS**, **PEV2** et **PostgreSQl Anonymizer**, le langage **SQL** et la gestion du **socle technique**, avant de parler **migration vers PostgreSQL** grâce au retour d'expérience de la Société Générale et à la présentation de la nouvelle offre de Cheops Technology.
+Variées de par les sujets et la personnalité des orateurs, ces conférences ont abordé les nouveautés de **PostgreSQL 12**, des outils satellite tels que **PostGIS**, **PEV2** et **PostgreSQl Anonymizer**, le langage **SQL** et la gestion du **socle technique**, avant de parler **migration vers PostgreSQL** grâce au retour d'expérience de la Société Générale et à la présentation de la nouvelle offre de Cheops Technology.
 
 Pour leur précieuse contribution, un grand merci à Pierre Giraud, Laetitia Avrot, Anthony Nowocien, Franck Boudehen, Damien Clochard, Fabrice Viault, Philippe Beaudoin, ainsi qu'à Frédéric Bonifas  !
 
