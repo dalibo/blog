@@ -48,6 +48,6 @@ Enfin nous saluons nos partenaires et prestataires qui nous ont aidés à faire 
 
 -----------------------------------------
 
-Pour ne rien manquer de notre actualité, prochains événements, workshops ou articles de blog, suivez-nous sur Twitter : [@PGSession](https://twitter.com/pgsession), [@Dalibo](https://twitter.com/dalibo) et [@Oslandia_fr](https://twitter.com/oslandia_fr).
+Pour ne rien manquer de notre actualité, prochains événements, workshops ou articles de blog, suivez-nous sur Twitter : [@PGSession](https://twitter.com/pgsession), [@Dalibo](https://twitter.com/dalibo) et [@Oslandia](https://twitter.com/oslandia_fr).
 
 ... sur ce, à bientôt pour l'édition 2020 de la PostgreSQL Session, à Paris ou ailleurs !
