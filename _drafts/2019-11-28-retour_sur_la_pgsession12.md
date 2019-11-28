@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retour sur la PGSession 12"
+title: "PGSession 12 - le bilan"
 author: Laura Ricci
 twitter_id: pgsession
 github_id: dalibo
