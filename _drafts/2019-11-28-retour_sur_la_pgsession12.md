@@ -35,9 +35,9 @@ Pour leur précieuse contribution, un grand merci à Pierre Giraud, Laetitia Avr
 
 ![orateurs](https://github.com/dalibo/blog/blob/gh-pages/img/orateurs.jpg?raw=true)
 
-Vous avez manqué l'événement ? Aucun problème, vous pourrez bientôt **consulter les supports de présentations des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions) !
+Vous avez manqué l'événement ? Aucun problème, vous pourrez bientôt **consulter les supports de présentations des conférenciers** sur le [site des PGSessions](https://dali.bo/2019_site_pgsessions).
 
-L’ensemble des interventions est d’ores et déjà disponible sur notre **[chaîne Youtube](https://dali.bo/pgsession12_playlist)**.
+L’ensemble des interventions filmées sera aussi disponible sur notre **[chaîne Youtube](https://dali.bo/pgsession12_playlist)**.
 
 
 ## Nos remerciements
