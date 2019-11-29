@@ -14,7 +14,7 @@ supportée par une équipe de développeur de Dalibo renouvelée.
 
 <!--MORE-->
 
-![logo-pitrery](assets/medias/logo_pitrery.png)
+![logo-pitrery](img/pitrery-logo.png)
 
 Pitrery est un ensemble de script Bash permettant de gérer les sauvegardes de
 type _Point In Time Recovery_ de PostgreSQL créé voici plus de 8 ans par
