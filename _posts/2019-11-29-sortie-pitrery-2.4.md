@@ -10,7 +10,7 @@ tags: [Dalibo Labs, Pitrery, upgrade, PostgreSQL, PITR, backup]
 *Caen, le 20 novembre 2019*
 
 Pitrery, le logiciel simplifiant le PITR, est disponible en version 2.4,
-supportée par une équipe de développeur de Dalibo renouvelée.
+supportée par une équipe de développeurs de Dalibo renouvelée.
 
 <!--MORE-->
 
@@ -32,14 +32,14 @@ pousser Bash dans ses retranchements. La nouvelle équipe de développement est
 composée actuellement de :
 
   * Thibaut Madelaine, mainteneur du projet,
-  * Etienne Bersac, en charge du packaging et des tests automatique,
+  * Etienne Bersac, en charge du packaging et des tests automatiques,
   * Thibaud Walkoviak, travaillant sur le support de PostgreSQL 12.
 
 ## La version 2.4
 
 
 La façon de gérer les paramètres de restauration évoluent en version 12. Le
-fichier `recovery.conf` disparait et les clés de configuration seront
+fichier `recovery.conf` disparaît et les clés de configuration seront
 maintenant spécifiées dans le fichier `postgresql.conf`. Pour ces raisons,
 Pitrery informera des incompatibilités de versions majeures lors d'une
 restauration.
