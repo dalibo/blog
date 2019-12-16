@@ -22,17 +22,13 @@ le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
-Quand j'ai entendu parler pour la première fois de cet événement, on me l'a décrit comme la plus importante conférence PostgreSQL
-à l'échelle européenne, et depuis peu à l'échelle mondiale : l'Incontournable !
+Quand j'ai entendu parler pour la première fois de cet événement, on me l'a décrit comme la plus importante conférence PostgreSQL à l'échelle européenne, et depuis peu à l'échelle mondiale : l'Incontournable !
 
 Mais du coup, qu'est-ce qui en fait un événement si particulier, si remarquable ?
 
-Tout d'abord son format : il est organisé sur 3 jours de conférences, précédés d'une journée d'ateliers techniques (trainings),
-le tout sur des thématiques PostgreSQL exclusivement.
+Tout d'abord son format : il est organisé sur 3 jours de conférences, précédés d'une journée d'ateliers techniques (trainings), le tout sur des thématiques PostgreSQL exclusivement.
 
-Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la même période (en octobre), mais d'une année sur l'autre,
-il est organisé dans une ville européene différente :  Paris (2009), Stuttgart (2010), Amsterdam (2011), Prague (2012),
-Dublin (2013), Madrid (2014), Vienne (2015), Tallin (2016), Varsovie (2017), Lisbonne (2018).
+Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la même période (en octobre), mais d'une année sur l'autre, il est organisé dans une ville européene différente :  Paris (2009), Stuttgart (2010), Amsterdam (2011), Prague (2012), Dublin (2013), Madrid (2014), Vienne (2015), Tallin (2016), Varsovie (2017), Lisbonne (2018).
 
 ## Que dire sur l'édition 2019 ?
 
@@ -40,6 +36,8 @@ Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé p
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
 Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`) 
+
+![pgdayparis_carole](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgdayparis_carole.jpeg)
 
 Et c'est ainsi qu'entre un café et un petit four, on pouvait croiser tous les membres de la **Core Team** de PostgreSQL 
 (Magnus Hagander, Dave Page, Tom Lane, Bruce Momjian et Peter Eisentraut), ainsi qu'un grand nombre de **contributeurs majeurs**
@@ -55,6 +53,8 @@ Au programme, on trouvait évidemment des **présentations techniques, mais pas 
 Quand on n'est pas développeur, voire même pas DBA comme c'est mon cas, on se demande toujours "mais qu'est ce que je peux faire pour contribuer ?". 
 
 Au fil des ans j'ai trouvé des moyens de mettre le **temps de contribution** offert par Dalibo au profit du projet PostgreSQL et de sa communauté, mais j'ai eu la chance d'être accompagnée pour cela. 
+
+![pgdayparis_scene](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgdayparis_scene.JPG)
 
 Tout le monde n'a pas forcément ce cadre favorable ; le souhait de contibuer peut rester bloqué au stade de l'envie, de l'idée, alors qu'il y a des choses qui peuvent être faciles à mettre en oeuvre et qui ne coûtent pas grand chose à part un peu de temps.
 
