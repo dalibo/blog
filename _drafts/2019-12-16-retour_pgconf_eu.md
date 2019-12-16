@@ -32,6 +32,9 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 
 ## Que dire sur l'édition 2019 ?
 
+
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="Portrait Carole" style="float: right; padding:10px;">
+
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
