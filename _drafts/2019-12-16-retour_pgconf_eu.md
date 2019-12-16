@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retour sur PGConf.EU
+title: Retour sur PGConf.EU 2019
 author: Carole Arnaud, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
@@ -84,7 +84,7 @@ Après la [présentation](https://www.postgresql.eu/events/pgconfeu2019/sessions
 
 
 
-C'est ma 3ème participation à cet événement et je suis obligée d'être d'accord : **PGConf.EU c'est l'Incontournable** !
+C'est ma 3ème participation à cet événement et je suis obligée d'être d'accord : PGConf.EU, c'est l'Incontournable !
 
-Rendez-vous peut-être l'année prochaine à Berlin, et d'ici là n'hésitez pas à vous inscrire aux autres [événements pgEU à venir](https://www.postgresql.eu/events/) !
+Rendez-vous peut-être l'**année prochaine à Berlin**, et d'ici là n'hésitez pas à vous inscrire aux autres [événements pgEU à venir](https://www.postgresql.eu/events/) !
 
