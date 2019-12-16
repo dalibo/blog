@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Retour sur PGConf.EU 2019
-author: Carole Arnaud, Laura Ricci
+author: Carole Arnaud
 twitter_id: dalibo
 github_id: dalibo
 tags: [PostgreSQL, PGConf.EU, communauté, marketing]
@@ -38,7 +38,7 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
-Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`) 
+Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!) 
 
 Et c'est ainsi qu'entre un café et un petit four, on pouvait croiser tous les membres de la **Core Team** de PostgreSQL 
 (Magnus Hagander, Dave Page, Tom Lane, Bruce Momjian et Peter Eisentraut), ainsi qu'un grand nombre de **contributeurs majeurs**
@@ -57,7 +57,7 @@ Au fil des ans j'ai trouvé des moyens de mettre le **temps de contribution** of
 
 Tout le monde n'a pas forcément ce cadre favorable ; le souhait de contibuer peut rester bloqué au stade de l'envie, de l'idée, alors qu'il y a des choses qui peuvent être faciles à mettre en oeuvre et qui ne coûtent pas grand chose à part un peu de temps.
 
-Sur les 21 facons de contribuer que Claire Giordano a présentées (consultables [ici](https://speakerdeck.com/clairegiordano/fibonacci-spirals-and-21-ways-to-contribute-to-postgres-beyond-code-at-pgconfeu-2019-milan?slide=9)), j'en retiens tout particulièrement 5 qui font écho à mon expérience :
+Sur les 21 facons de contribuer que [Claire Giordano](https://www.linkedin.com/in/claireg/) a présentées (consultables [ici](https://speakerdeck.com/clairegiordano/fibonacci-spirals-and-21-ways-to-contribute-to-postgres-beyond-code-at-pgconfeu-2019-milan?slide=9)), j'en retiens tout particulièrement 5 qui font écho à mon expérience :
 
   * faire vivre les meetups PostgreSQL et autres groupes d'utilisateurs locaux : accueillir ou sponsoriser des meetups, y présenter des retours d'expériences.
 
@@ -73,11 +73,9 @@ Enfin, si vous avez comme projet de lancer votre blog, Claire donne dans sa conf
 
 #### *Marketing Postgres Brand - Where To Start?*
 
-La deuxième présentation dont j'ai décidé de parler ici est celle de Valeria Kaplan.
+La deuxième présentation dont j'ai décidé de parler ici est celle de [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/).
 
-Elle y a décrit la facon dont elle a mis à profit ses compétences en marketing au profit de l'identification des besoins utilisateurs
-et d'un état des lieux de la communication et du marketing actuel de PostgreSQL en terminant sur un appel à rejoindre le
-"Advocacy & Communication Working Group". 
+Elle y a décrit la facon dont elle a mis à profit ses compétences en marketing au profit de l'identification des besoins utilisateurs et d'un état des lieux de la communication et du marketing actuel de PostgreSQL en terminant sur un appel à rejoindre le **"Advocacy & Communication Working Group"**. 
 
 Après la [présentation](https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2714/slides/216/pgconf.eu_lera_talk_resized.pdf) de Claire, ça faisait tellement sens de relayer cet appel ! 
 
