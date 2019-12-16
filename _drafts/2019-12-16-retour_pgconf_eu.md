@@ -55,8 +55,6 @@ Quand on n'est pas développeur, voire même pas DBA comme c'est mon cas, on se 
 
 Au fil des ans j'ai trouvé des moyens de mettre le **temps de contribution** offert par Dalibo au profit du projet PostgreSQL et de sa communauté, mais j'ai eu la chance d'être accompagnée pour cela. 
 
-![pgdayparis_scene](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgdayparis_scene.JPG)
-
 Tout le monde n'a pas forcément ce cadre favorable ; le souhait de contibuer peut rester bloqué au stade de l'envie, de l'idée, alors qu'il y a des choses qui peuvent être faciles à mettre en oeuvre et qui ne coûtent pas grand chose à part un peu de temps.
 
 Sur les 21 facons de contribuer que Claire Giordano a présentées (consultables [ici](https://speakerdeck.com/clairegiordano/fibonacci-spirals-and-21-ways-to-contribute-to-postgres-beyond-code-at-pgconfeu-2019-milan?slide=9)), j'en retiens tout particulièrement 5 qui font écho à mon expérience :
