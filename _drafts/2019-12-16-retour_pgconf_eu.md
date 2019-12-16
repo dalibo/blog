@@ -79,6 +79,8 @@ Elle y a décrit la facon dont elle a mis à profit ses compétences en marketin
 
 Après la [présentation](https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2714/slides/216/pgconf.eu_lera_talk_resized.pdf) de Claire, ça faisait tellement sens de relayer cet appel ! 
 
+![capture_marketing](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgconfeu_2019_marketing.jpg)
+
 -------------------------------
 
 C'est ma 3ème participation à cet événement et je suis obligée d'être d'accord : PGConf.EU, c'est l'Incontournable !
