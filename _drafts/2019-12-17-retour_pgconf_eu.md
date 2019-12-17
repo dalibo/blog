@@ -62,7 +62,7 @@ Sur les 21 facons de contribuer que [Claire Giordano](https://www.linkedin.com/i
 
   * faire vivre les meetups PostgreSQL et autres groupes d'utilisateurs locaux : accueillir ou sponsoriser des meetups, y présenter des retours d'expériences.
 
-  * Contribuer à l'organisation d'événements communautaires (par exemple le PGDay France qui se déroulera à Nantes en juin prochain https://www.postgresql.fr/pgday2020/accueil)
+  * Contribuer à l'organisation d'événements communautaires (par exemple le [PGDay France 2020](https://www.postgresql.fr/pgday2020/accueil) qui se déroulera à Nantes en juin prochain)
 
   * Partager ses découvertes, ses apprentissages, etc.
 
