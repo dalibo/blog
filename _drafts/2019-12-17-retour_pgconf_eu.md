@@ -55,21 +55,21 @@ Au programme, on trouvait évidemment des **présentations techniques, mais pas 
 
 Quand on n'est pas développeur, voire même pas DBA comme c'est mon cas, on se demande toujours "mais qu'est ce que je peux faire pour contribuer ?". 
 
-Au fil des ans j'ai trouvé des moyens de mettre le **temps de contribution** offert par Dalibo au profit du projet PostgreSQL et de sa communauté, mais j'ai eu la chance d'être accompagnée pour cela. 
+Au fil des ans, j'ai trouvé des moyens de mettre le **temps de contribution** offert par Dalibo au profit du projet PostgreSQL et de sa communauté, mais j'ai eu la chance d'être accompagnée pour cela. 
 
-Tout le monde n'a pas forcément ce cadre favorable ; le souhait de contibuer peut rester bloqué au stade de l'envie, de l'idée, alors qu'il y a des choses qui peuvent être faciles à mettre en oeuvre et qui ne coûtent pas grand chose à part un peu de temps.
+Tout le monde n'a pas forcément ce cadre favorable : le souhait de contribuer peut rester bloqué au stade de l'envie, de l'idée, alors qu'il y a des choses qui peuvent être faciles à mettre en oeuvre et qui ne coûtent pas grand chose à part un peu de temps.
 
 Sur les 21 facons de contribuer que [Claire Giordano](https://www.linkedin.com/in/claireg/) a présentées (consultables [ici](https://speakerdeck.com/clairegiordano/fibonacci-spirals-and-21-ways-to-contribute-to-postgres-beyond-code-at-pgconfeu-2019-milan?slide=9)), j'en retiens tout particulièrement 5 qui font écho à mon expérience :
 
-  * faire vivre les meetups PostgreSQL et autres groupes d'utilisateurs locaux : accueillir ou sponsoriser des meetups, y présenter des retours d'expériences.
+  * Faire vivre les meetups PostgreSQL et autres groupes d'utilisateurs locaux : accueillir ou sponsoriser des meetups, y présenter des retours d'expériences,
 
-  * Contribuer à l'organisation d'événements communautaires (par exemple le [PGDay France 2020](https://www.postgresql.fr/pgday2020/accueil) qui se déroulera à Nantes en juin prochain)
+  * Contribuer à l'organisation d'événements communautaires (par exemple le [PGDay France 2020](https://www.postgresql.fr/pgday2020/accueil) qui se déroulera à Nantes en juin prochain),
 
-  * Partager ses découvertes, ses apprentissages, etc.
+  * Partager ses découvertes, ses apprentissages, etc.,
 
-  * Faire du feedback : "si vous aimez qqc dites-le !"
+  * Faire du feedback : "si vous aimez qqc dites-le !",
 
-  * Mettre à contribution ses compétences non techniques quand on en a (design/graphisme, communication, marketing, etc.)
+  * Mettre à contribution ses compétences non techniques quand on en a (design/graphisme, communication, marketing, etc.).
 
 Enfin, si vous avez comme projet de lancer votre blog, Claire donne dans sa conférence des astuces pour en augmenter la visibilité.
 
@@ -77,7 +77,7 @@ Enfin, si vous avez comme projet de lancer votre blog, Claire donne dans sa conf
 
 La deuxième [présentation](https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2714/slides/216/pgconf.eu_lera_talk_resized.pdf) dont j'ai décidé de parler ici est celle de [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/).
 
-Elle y a décrit la facon dont elle a mis à profit ses compétences en marketing au profit de l'identification des besoins utilisateurs et d'un état des lieux de la communication et du marketing actuel de PostgreSQL en terminant sur un appel à rejoindre le **"Advocacy & Communication Working Group"**. 
+Elle y a décrit la facon dont elle a mis ses compétences en marketing au profit de l'identification des besoins utilisateurs et d'un état des lieux de la communication et du marketing actuels de PostgreSQL en terminant sur un appel à rejoindre le **"Advocacy & Communication Working Group"**. 
 
 Après la présentation de Claire, ça faisait tellement sens de relayer cet appel ! 
 
@@ -89,5 +89,5 @@ Après la présentation de Claire, ça faisait tellement sens de relayer cet app
 
 C'est ma 3ème participation à cet événement et je suis obligée d'être d'accord : PGConf.EU, c'est l'Incontournable !
 
-Rendez-vous peut-être l'**année prochaine à Berlin**, et d'ici là n'hésitez pas à vous inscrire aux autres [événements pgEU à venir](https://www.postgresql.eu/events/) !
+Rendez-vous peut-être l'**an prochain à Berlin**, et d'ici là n'hésitez pas à vous inscrire aux autres [événements pgEU à venir](https://www.postgresql.eu/events/) !
 
