@@ -74,7 +74,7 @@ Enfin, si vous avez comme projet de lancer votre blog, Claire donne dans sa conf
 
 #### *Marketing Postgres Brand - Where To Start?*
 
-La deuxième [présentation] (https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2714/slides/216/pgconf.eu_lera_talk_resized.pdf) dont j'ai décidé de parler ici est celle de [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/).
+La deuxième [présentation](https://www.postgresql.eu/events/pgconfeu2019/sessions/session/2714/slides/216/pgconf.eu_lera_talk_resized.pdf) dont j'ai décidé de parler ici est celle de [Valeria Kaplan](https://www.linkedin.com/in/valeriakaplan/).
 
 Elle y a décrit la facon dont elle a mis à profit ses compétences en marketing au profit de l'identification des besoins utilisateurs et d'un état des lieux de la communication et du marketing actuel de PostgreSQL en terminant sur un appel à rejoindre le **"Advocacy & Communication Working Group"**. 
 
