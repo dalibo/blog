@@ -20,7 +20,7 @@ en tant que membres du comité de sélection, orateurs, organisateurs, sponsor o
 Parmis ces événements récurrents que nous avons eu plaisir à rejoindre cette année, on peut citer le FOSDEM à Bruxelles, 
 le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_pgday_belgium.html), le [pgDay France à Lyon](http://blog.dalibo.com/2019/06/26/retour_pgday_france.html), pgCon à Ottawa, le LibDay à Marseille mais aussi **PGConf.EU**.
 
-<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" style="float: right; padding:10px;">
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="125" height="200" style="float: right; padding:10px;">
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
