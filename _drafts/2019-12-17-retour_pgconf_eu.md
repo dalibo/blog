@@ -20,6 +20,7 @@ en tant que membres du comité de sélection, orateurs, organisateurs, sponsor o
 Parmis ces événements récurrents que nous avons eu plaisir à rejoindre cette année, on peut citer le FOSDEM à Bruxelles, 
 le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_pgday_belgium.html), le [pgDay France à Lyon](http://blog.dalibo.com/2019/06/26/retour_pgday_france.html), pgCon à Ottawa, le LibDay à Marseille mais aussi **PGConf.EU**.
 
+![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
@@ -30,8 +31,6 @@ Mais du coup, qu'est-ce qui en fait un événement si particulier, si remarquabl
 Tout d'abord son format : il est organisé sur 3 jours de conférences, précédés d'une journée d'ateliers techniques (trainings), le tout sur des thématiques PostgreSQL exclusivement.
 
 Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la même période (en octobre-novembre), mais d'une année sur l'autre, il est organisé dans une ville européenne différente :  Paris (2009), Stuttgart (2010), Amsterdam (2011), Prague (2012), Dublin (2013), Madrid (2014), Vienne (2015), Tallin (2016), Varsovie (2017), Lisbonne (2018).
-
-![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
 
 ## Que dire sur l'édition 2019 ?
 
