@@ -9,7 +9,7 @@ tags: [PostgreSQL, PGConf.EU, communauté, marketing]
 
 ---
 
-*Paris, le 16 décembre 2019*
+*Paris, le 17 décembre 2019*
 
 L'année 2019 se termine, et c'est le moment d'en faire le bilan. Cette année encore, nous aurons été nombreux chez Dalibo
 à participer aux multiples événements de la **communauté PostgreSQL** ou **open source** d'une manière plus générale, que ce soit
@@ -22,6 +22,8 @@ le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" style="float: right; padding:10px;">
+
 Quand j'ai entendu parler pour la première fois de cet événement, on me l'a décrit comme la plus importante conférence PostgreSQL à l'échelle européenne, et depuis peu à l'échelle mondiale : l'Incontournable !
 
 Mais du coup, qu'est-ce qui en fait un événement si particulier, si remarquable ?
@@ -32,11 +34,10 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 
 ## Que dire sur l'édition 2019 ?
 
-
-<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" style="float: right; padding:10px;">
-
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
+
+![capture_tweet](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_tweet.png)
 
 Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!) 
 
