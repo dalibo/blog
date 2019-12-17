@@ -29,7 +29,7 @@ Mais du coup, qu'est-ce qui en fait un événement si particulier, si remarquabl
 
 Tout d'abord son format : il est organisé sur 3 jours de conférences, précédés d'une journée d'ateliers techniques (trainings), le tout sur des thématiques PostgreSQL exclusivement.
 
-Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la même période (en octobre), mais d'une année sur l'autre, il est organisé dans une ville européene différente :  Paris (2009), Stuttgart (2010), Amsterdam (2011), Prague (2012), Dublin (2013), Madrid (2014), Vienne (2015), Tallin (2016), Varsovie (2017), Lisbonne (2018).
+Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la même période (en octobre-novembre), mais d'une année sur l'autre, il est organisé dans une ville européenne différente :  Paris (2009), Stuttgart (2010), Amsterdam (2011), Prague (2012), Dublin (2013), Madrid (2014), Vienne (2015), Tallin (2016), Varsovie (2017), Lisbonne (2018).
 
 ![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
 
@@ -38,7 +38,7 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
-<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="168,75" height="225" style="float: right; padding:10px;">
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" style="float: right; padding:10px;">
 
 Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!)
 
