@@ -33,14 +33,14 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 
 ## Que dire sur l'édition 2019 ?
 
+![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
+
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
-![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
-
 Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!)
 
-<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="112,5" height="150" style="float: right; padding:10px;">
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="150" height="200" style="float: right; padding:10px;">
 
 Et c'est ainsi qu'entre un café et un petit four, on pouvait croiser tous les membres de la **Core Team** de PostgreSQL 
 (Magnus Hagander, Dave Page, Tom Lane, Bruce Momjian et Peter Eisentraut), ainsi qu'un grand nombre de **contributeurs majeurs**
