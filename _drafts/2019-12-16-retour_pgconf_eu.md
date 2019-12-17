@@ -37,7 +37,7 @@ Ensuite, son mode d'organisation : il se tient tous les ans, toujours à la mêm
 Cette année, la conférence s'est déroulée à Milan (Italie) et a regroupé plus de 550 participants. 
 C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https://blog.hagander.net/pgconfeu-2018-the-biggest-one-yet-243/) !
 
-![capture_tweet](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_tweet.png)
+![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
 
 Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!) 
 
