@@ -4,7 +4,7 @@ title: Dalibo organizes a developer meeting, in Warsaw!
 author: Léo Cossic
 twitter_id: dalibolabs
 github_id: dalibo
-tags: [Warsaw, Poland, opensource, PostgreSQL, PGCong.EU, pgconf, Dalibo, conference, Europe, meeting, developer]
+tags: [Warsaw, Poland, opensource, PostgreSQL, PGConf.EU, pgconf, Dalibo, conference, Europe, meeting, developer]
 ---
 
 ---
