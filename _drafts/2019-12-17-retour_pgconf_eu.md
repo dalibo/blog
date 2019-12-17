@@ -20,7 +20,6 @@ en tant que membres du comité de sélection, orateurs, organisateurs, sponsor o
 Parmis ces événements récurrents que nous avons eu plaisir à rejoindre cette année, on peut citer le FOSDEM à Bruxelles, 
 le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_pgday_belgium.html), le [pgDay France à Lyon](http://blog.dalibo.com/2019/06/26/retour_pgday_france.html), pgCon à Ottawa, le LibDay à Marseille mais aussi **PGConf.EU**.
 
-<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="125" height="200" style="float: right; padding:10px;">
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
@@ -39,7 +38,9 @@ C'est un **nouveau record**, qui détrône celui de l'[édition de 2018](https:/
 
 ![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle.jpg)
 
-Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!) 
+Comme toujours, nous avons eu droit à un gros programme avec la participation de [contributeurs internationaux](https://www.postgresql.org/community/contributors/). (`mode_groupie: ON`!)
+
+<img src="{{ '/img/pgdayparis_carole.jpeg' | relative_url }}" alt="pgdayparis_carole" width="112,5" height="150" style="float: right; padding:10px;">
 
 Et c'est ainsi qu'entre un café et un petit four, on pouvait croiser tous les membres de la **Core Team** de PostgreSQL 
 (Magnus Hagander, Dave Page, Tom Lane, Bruce Momjian et Peter Eisentraut), ainsi qu'un grand nombre de **contributeurs majeurs**
@@ -81,6 +82,8 @@ Elle y a décrit la facon dont elle a mis à profit ses compétences en marketin
 Après la présentation de Claire, ça faisait tellement sens de relayer cet appel ! 
 
 ![capture_marketing](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgconfeu_2019_marketing.jpg)
+
+
 
 -------------------------------
 
