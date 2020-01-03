@@ -20,7 +20,7 @@ Sortez vos agendas, et notez les principaux événements PostgreSQL, ainsi que l
 
 ## Les événements PostgreSQL
 
-Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. En voici les principaux rendez-vous pour les communautés francophone et européenne :
+Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. Voici les principaux rendez-vous pour les communautés francophone et européenne :
 
   * [FOSDEM PGDay](https://2020.fosdempgday.org/) : le 31 janvier à Bruxelles
   * [pgDay Paris](https://2020.pgday.paris/) : le 26 mars 
