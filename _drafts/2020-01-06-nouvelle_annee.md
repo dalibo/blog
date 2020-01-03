@@ -15,7 +15,7 @@ Sortez vos agendas, vous pourrez y noter les principaux événements PostgreSQL,
 
 <!--MORE-->
 
-![voeux_2020](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/voeux_2020.png)
+![voeux_2020](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/voeux_2020-2.png)
 
 
 ## Les événements PostgreSQL
