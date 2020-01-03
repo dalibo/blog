@@ -10,8 +10,8 @@ tags: [2020, PostgreSQL, Dalibo, agenda, pgday, pgsession, pgsession13, PGConf.E
 *Paris, le 6 janvier 2020* 
 
 Toute l'équipe Dalibo vous souhaite une excellente année 2020, quels que soient vos projets.
-Sortez vos agendas, et notez les principaux événements PostgreSQL pour les communautés francophone et européenne, ainsi que
-les formations qui peuvent vous intéresser !
+
+Sortez vos agendas, et notez les principaux événements PostgreSQL, ainsi que les formations qui peuvent vous intéresser !
 
 <!--MORE-->
 
@@ -19,6 +19,8 @@ les formations qui peuvent vous intéresser !
 
 
 ## Les événements PostgreSQL
+
+Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. En voici les principaux rendez-vous pour les communautés francophone et européenne :
 
   * FOSDEM PGDay : le 31 janvier à Bruxelles
   * pgDay Paris : le 26 mars 
@@ -38,7 +40,7 @@ Cinq cursus sont désormais possibles, pour un parcours à construire en suivant
   * Transition vers PostgreSQL,
   * SIG.
   
-Retrouvez aussi toutes les **dates** ou autres informations utiles sur notre [site](https://dali.bo/formations), ainsi que nos **manuels** toujours en libre accès !
+Retrouvez aussi toutes les **dates** ou autres informations utiles sur notre [site](https://dali.bo/formations), dont nos **manuels** toujours en libre accès !
 
 
 ## Nos workshops
@@ -48,22 +50,21 @@ versions de PostgreSQL.
 
 Les prochaines dates pour la version 12 sont le **24 janvier, le 10 mars et le 2 juin**. Vous pouvez nous écrire à [workshops@dalibo.com](workshops@dalibo.com) pour plus d'informations.
 
-L'ensemble de ces documents (présentations, exercices, etc.) est toujours accessible sur [github](https://dali.bo/workshops_github). Vous pouvez d'ailleurs contribuer en le diffusant ou en proposant des corrections.
+L'ensemble de ces documents (présentations, exercices, etc.) est toujours accessible sur [github](https://dali.bo/workshops_github). Pourquoi pas, d'ailleurs, contribuer au projet en le faisant connaître, ou en proposant des corrections ?
 
 
 ## Nos certifications
 
-Depuis 2018, vous pouvez certifier vos compétences sur le SGBDR PostgreSQL avec Dalibo. En tant qu'organisme de formation agréé, 
-nous vous donnons la possibilité de faire valoir votre expérience, que vous soyez indépendant, salarié ou même une société.
+Depuis 2018, vous pouvez certifier vos compétences sur le SGBDR PostgreSQL avec Dalibo. En tant qu'**organisme de formation agréé**, nous vous donnons aussi la possibilité de faire valoir votre expérience, que vous soyez indépendant⋅e, salarié⋅e ou même une société.
 
 Les prochaines sessions sont programmées les **13 janvier, 9 mars, 30 avril et 22 juin**.
 
-Toutes les informations sur les certifications Essential et Advanced sont sur notre [site dédié](https://dali.bo/site_certification).
+Toutes les informations sur les certifications *Essential* et *Advanced* sont sur notre [site dédié](https://dali.bo/site_certification).
 
-N'hésitez pas à nous écrire à [certification@dalibo.com](certification@dalibo.com) pour toute demande !
+N'hésitez pas à nous écrire à [certification@dalibo.com](certification@dalibo.com) pour toute demande de précisions !
 
 ----------------
 
-Nous sommes toujours aussi heureux de travailler à vos côtés pour cette année 2020, et vous souhaitons de grandes réussites pour vos projets... autour de PostgreSQL et ailleurs !
+Nous sommes toujours aussi ravi⋅e⋅s de travailler à vos côtés pour cette année 2020. Nous vous souhaitons de grandes réussites pour vos projets... autour de PostgreSQL et ailleurs !
 
 L'équipe Dalibo
