@@ -9,9 +9,9 @@ tags: [2020, PostgreSQL, Dalibo, agenda, pgday, pgsession, pgsession13, PGConf.E
 ---
 *Paris, le 6 janvier 2020* 
 
-Toute l'équipe Dalibo vous souhaite une excellente année 2020, quels que soient vos projets.
+**Toute l'équipe Dalibo vous souhaite une excellente année 2020, quels que soient vos projets !**
 
-Sortez vos agendas, et notez les principaux événements PostgreSQL, ainsi que les formations qui peuvent vous intéresser !
+Sortez vos agendas, vous pourrez y noter les principaux événements PostgreSQL, ainsi que les formations qui peuvent vous intéresser.
 
 <!--MORE-->
 
