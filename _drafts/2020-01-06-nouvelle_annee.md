@@ -42,7 +42,7 @@ Cinq cursus sont désormais possibles, pour un parcours à construire en suivant
   
 Retrouvez aussi toutes les dates ou autres informations utiles sur notre [site](https://dali.bo/formations), dont nos **manuels** toujours en libre accès et répartis par formation (liens de téléchargement en bas des pages).
 
-**Contact** : [formation@dalibo.com](formation@dalibo.com)
+**Contact** : [formation@dalibo.com](mailto:formation@dalibo.com)
 
 
 ## Nos workshops
@@ -54,7 +54,7 @@ Les prochaines dates pour la version 12 sont le **24 janvier, le 10 mars et le 2
 
 L'ensemble de ces documents (présentations, exercices, etc.) est toujours accessible sur [github](https://dali.bo/workshops_github). Pourquoi pas, d'ailleurs, contribuer au projet en le faisant connaître, ou en proposant des corrections ?
 
-**Contact** : [workshops@dalibo.com](workshops@dalibo.com)
+**Contact** : [workshops@dalibo.com](mailto:workshops@dalibo.com)
 
 
 ## Nos certifications
@@ -65,7 +65,7 @@ Les prochaines sessions sont programmées les **13 janvier, 9 mars, 30 avril et 
 
 Toutes les informations sur les certifications *Essential* et *Advanced* sont sur notre [site dédié](https://dali.bo/site_certification).
 
-**Contact** : [certification@dalibo.com](certification@dalibo.com)
+**Contact** : [certification@dalibo.com](mailto:certification@dalibo.com)
 
 ----------------
 
