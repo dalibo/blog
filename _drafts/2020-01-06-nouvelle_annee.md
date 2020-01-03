@@ -31,7 +31,7 @@ Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. V
 
 ## Nos formations
 
-Ce début d'année est marqué par l'arrivée de notre **[nouveau catalogue de formations](https://dali.bo/catalogue-formations)**.
+**Organisme de formation agréé**, nous marquons ce début d'année avec l'arrivée de notre **[nouveau catalogue de formations](https://dali.bo/catalogue-formations)**.
 
 Cinq cursus sont désormais possibles, pour un parcours à construire en suivant vos besoins : 
   * DBA,
@@ -40,7 +40,7 @@ Cinq cursus sont désormais possibles, pour un parcours à construire en suivant
   * Transition vers PostgreSQL,
   * SIG.
   
-Retrouvez aussi toutes les **dates** ou autres informations utiles sur notre [site](https://dali.bo/formations), dont nos **manuels** toujours en libre accès !
+Retrouvez aussi toutes les dates ou autres informations utiles sur notre [site](https://dali.bo/formations), dont nos **manuels** toujours en libre accès et répartis par formation (liens de téléchargement en bas des pages).
 
 
 ## Nos workshops
@@ -55,7 +55,7 @@ L'ensemble de ces documents (présentations, exercices, etc.) est toujours acces
 
 ## Nos certifications
 
-Depuis 2018, vous pouvez certifier vos compétences sur le SGBDR PostgreSQL avec Dalibo. En tant qu'**organisme de formation agréé**, nous vous donnons aussi la possibilité de faire valoir votre expérience, que vous soyez indépendant⋅e, salarié⋅e ou même une société.
+Depuis 2018, vous pouvez certifier vos compétences sur le SGBDR PostgreSQL avec Dalibo. Nous vous donnons en effet la possibilité de faire valoir votre expérience, que vous soyez indépendant⋅e, salarié⋅e ou même une société.
 
 Les prochaines sessions sont programmées les **13 janvier, 9 mars, 30 avril et 22 juin**.
 
@@ -65,6 +65,6 @@ N'hésitez pas à nous écrire à [certification@dalibo.com](certification@dalib
 
 ----------------
 
-Nous sommes toujours aussi ravi⋅e⋅s de travailler à vos côtés pour cette année 2020. Nous vous souhaitons de grandes réussites pour vos projets... autour de PostgreSQL et ailleurs !
+Nous sommes toujours aussi ravi⋅e⋅s de travailler à vos côtés pour cette année 2020. Nous vous souhaitons de grandes réussites dans vos projets... autour de PostgreSQL et ailleurs !
 
 L'équipe Dalibo
