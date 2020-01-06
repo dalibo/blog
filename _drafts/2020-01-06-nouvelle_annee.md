@@ -24,7 +24,7 @@ Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. V
 
   * [FOSDEM PGDay](https://2020.fosdempgday.org/) : le 31 janvier à Bruxelles
   * [pgDay Paris](https://2020.pgday.paris/) : le 26 mars à Paris
-  * [PGDay France](https://www.postgresql.fr/pgday2020/accueil) : les 17-18 juin à Nantes
+  * PGDay France : les 17-18 juin à Nantes
   * [PGConf Europe](https://2020.pgconf.eu/) : du 20 au 23 octobre à Berlin
   * [PGSession](https://dali.bo/2020_site_pgsessions) : à Paris (*dates à définir*)
  
