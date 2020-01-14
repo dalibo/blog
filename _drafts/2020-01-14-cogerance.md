@@ -15,7 +15,7 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 
 <!--MORE-->
 
-![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/jpa_vi.jpg)
+![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/jpa_vi_dalibo.png)
 
 
 ## Virginie et Jean-Paul, pourriez-vous vous présenter ?
@@ -47,6 +47,11 @@ Mes prochains défis, moi qui suis plutôt orientée dans la cogérance « inter
 
 ## Quelle est la particularité de votre nouveau programme ?
 
+**Virginie** : Pour chaque mandat, nous nous engageons sur un programme de gérance sur les deux années à venir, et cette fois-ci, nous avons souhaité ajouter, en plus de la stratégie interne et externe, un volet RSE, pour inscrire notre SCOP dans une démarche sociale, solidaire et éco-responsable.
+Même si Dalibo a toujours eu des valeurs et s'est efforcée de maintenir une certaine éthique liée à nos pratiques, nous ne l'avions jusque ici jamais formalisée, nous contentant de faire au mieux, et de façon pragmatique.
+Cette feuille de route, votée par l’Assemblée Générale en décembre 2019, a été construite et co-construite, sur plusieurs mois, avec l’ensemble des salariés de Dalibo. À nous tous maintenant de l’appliquer, et à nous deux d’assurer notre rôle de chefs d’orchestre !
+
+**Jean-Paul** : 
 
 
 
