@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dalibo - À la rencontre de ses cogérants
-author: Virginie Jourdan, Jean-Paul Argudo
+author: Laura Ricci, Virginie Jourdan, Jean-Paul Argudo
 twitter_id: dalibo
 github_id: dalibo
 tags: [Dalibo, gérance, scop]
@@ -15,57 +15,38 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 
 <!--MORE-->
 
-![voeux_2020](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/voeux_2020-3.png)
+![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/jpa_vi.jpg)
 
 
-## Les événements PostgreSQL
+## Virginie et Jean-Paul, pourriez-vous vous présenter ?
 
-Comme chaque année, 2020 sera riche en événements consacrés à PostgreSQL. Voici les rendez-vous incontournables pour les communautés francophone et européenne 
-  * [FOSDEM PGDay](https://2020.fosdempgday.org/) : le 31 janvier à Bruxelles
-  * [pgDay Paris](https://2020.pgday.paris/) : le 26 mars à Paris
-  * PGDay France : les 17-18 juin à Nantes
-  * [PGConf Europe](https://2020.pgconf.eu/) : du 20 au 23 octobre à Berlin
-  * [PGSession](https://dali.bo/2020_site_pgsessions) : à Paris (*dates à définir*)
+**Virginie** : Je suis Virginie Jourdan, je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers la Communication interne puis les Ressources Humaines.
+Déjà baignée dans l’Open Source par mon expérience dans le SIG chez Camptocamp il y a 10 ans (que le temps passe vite !), j’ai retrouvé avec grand plaisir le même état d’esprit, ainsi que la même importance accordée à l’humain, à la communauté et au partage, avec un petit truc en plus, la SCOP, qui s’est avéré être en fait une découverte passionnante !
+Entre ces deux parcours d’entreprise, une expérience m’a particulièrement marquée : la vie à l’étranger, en Chine puis en Inde. Cela a contribué à m’ouvrir au monde, et à me construire aussi bien personnellement que professionnellement. Depuis, j’ai gardé un attachement particulier pour l’Asie, et un goût certain pour la vie à l’étranger…
+
+**Jean-Paul** :
  
 
-## Nos formations
+## Vous sortez de 2 années de cogérance, quel est votre bilan ?
 
-**Organisme de formation agréé**, nous marquons ce début d'année avec l'arrivée de notre **[nouveau catalogue de formations](https://dali.bo/catalogue-formations)**.
+**Virginie** : Le travail dans une SCOP est unique, que ce soit en terme organisationnel ou humain. Cela a répondu en tous points, et dès le début, à mes attentes personnelles d’autonomie, et d’impact individuel et collectif des actions de chacun.
+Être à la gérance d’une SCOP est un challenge de tous les jours… c’est à la fois confortable et périlleux. 
+Confortable car la SCOP, c’est avant tout une force, la force de ses associés, et chez Dalibo de l’ensemble de ses salariés en fait. Et être la gérante d’une équipe de cette qualité, impliquée et forte, c’est très agréable.
+Le côté périlleux, intrinsèque à Dalibo, est lié à l’immanquable affect que l’on y met, à tous les niveaux, et qui rend les conflits ou départs plus difficiles à vivre qu’ailleurs. Il y en a eu malheureusement, mais si je devais retenir un bilan de ces deux dernières années, cela serait celui d’avoir, par nos actions, redressé la barre du climat social, apaisé les conflits et remis de la sérénité.
+Tout n’est pas réglé bien sûr, il y a toujours des dissensions, des avis opposés et qui se heurtent, mais c’est aussi ça qui rend notre SCOP dynamique et précieuse !
 
-Cinq cursus sont désormais possibles, pour un parcours à construire en suivant vos besoins : 
-  * DBA,
-  * Développement,
-  * Performances,
-  * Transition vers PostgreSQL,
-  * SIG.
-  
-Retrouvez aussi toutes les dates ou autres informations utiles sur notre [site](https://dali.bo/formations), dont nos **manuels** toujours en libre accès et répartis par formation (liens de téléchargement en bas des pages).
-
-**Contact** : [formation@dalibo.com](mailto:formation@dalibo.com)
+**Jean-Paul** : 
 
 
-## Nos workshops
+## Pourquoi avez-vous décidé de vous présenter à nouveau ?
 
-Tout au long de l'année, nous continuerons à vous proposer des **workshops** pour présenter les fonctionnalités des nouvelles
-versions de PostgreSQL.
+**Virginie** : Tout simplement parce que le premier mandat de deux ans me semblait très court, trop court pour voir la portée des décisions, l’impact des changements proposés.
+Mes prochains défis, moi qui suis plutôt orientée dans la cogérance « interne », c’est de continuer à placer l’humain et son expertise au centre, en favorisant l’émulation interne et la formation.
 
-Les prochaines dates pour la version 12 sont le **24 janvier, le 10 mars et le 2 juin**.
+**Jean-Paul** : 
 
-**Contact** : [workshops@dalibo.com](mailto:workshops@dalibo.com)
+## Quelle est la particularité de votre nouveau programme ?
 
 
-## Nos certifications
 
-Depuis 2018, vous pouvez certifier vos compétences sur le SGBDR PostgreSQL avec Dalibo. Nous vous donnons en effet la possibilité de faire valoir votre expérience, que vous soyez indépendant⋅e, salarié⋅e ou même une société.
 
-Les prochaines sessions sont programmées les **13 janvier, 9 mars, 30 avril et 22 juin**.
-
-Toutes les informations sur les certifications *Essential* et *Advanced* sont sur notre [site dédié](https://dali.bo/site_certification).
-
-**Contact** : [certification@dalibo.com](mailto:certification@dalibo.com)
-
-----------------
-
-Nous sommes toujours aussi ravi⋅e⋅s de travailler à vos côtés pour cette année 2020. Nous vous souhaitons de grandes réussites dans vos projets... autour de PostgreSQL et ailleurs !
-
-L'équipe Dalibo
