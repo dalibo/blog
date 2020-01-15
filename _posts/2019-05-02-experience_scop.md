@@ -17,7 +17,7 @@ partenaires ou les clients... Voici trois questions posées à [Philippe Beaudoi
 
 <!--MORE-->   
    
-## C'est quoi, une SCOP, pour toi ?
+### C'est quoi, une SCOP, pour toi ?
 
 <img src="{{ '/img/portrait_philippe_small.jpg' | relative_url }}" alt="Portrait Philippe" style="float: right; padding:10px;">
 
@@ -33,7 +33,7 @@ et les salariés (avec un minimum de 25%). Pour Dalibo, nous avons fait le choix
 Ainsi se traduisent très concrètement les 3 grands principes fondamentaux des SCOP : **prééminence de la personne humaine,
  démocratie, solidarité et partage.**
 
-## Qu'est-ce que le fait d'y travailler a changé pour toi ?
+### Qu'est-ce que le fait d'y travailler a changé pour toi ?
 
 Avant d'intégrer Dalibo il y a 2 ans et demi environ, j'ai longtemps travaillé dans une grande société d'informatique française, réputée pour avoir un cadre social assez bienveillant. Je n'avais donc pas à me plaindre. Mais j'étais un simple salarié.
 
@@ -59,7 +59,7 @@ Et je suis persuadé que nous seront gagnants sur le long terme.
 
 Enfin, il y a un autre changement important dans mon travail quotidien. Auparavant, je disposais d'un "véhicule de service". Quasiment tous les déplacements se faisaient donc en voiture. Aujourd'hui, je me déplace presque exclusivement en transport en commun, pour l'essentiel le train. Cela crée quelques contraintes horaires et peut prendre plus de temps (et donc coûter plus cher, par exemple lorsqu'il faut prévoir une nuit supplémentaire à l'hôtel). Mais, indépendamment de l'intérêt en termes de sécurité et de fatigue, c’est tout bénéfice, cette fois, pour notre pauvre planète.
 
-## Qu'est ce que ça change pour nos clients et nos partenaires ?
+### Qu'est ce que ça change pour nos clients et nos partenaires ?
 
 Tout ce que je viens d'évoquer concerne le fonctionnement interne de l'entreprise. Néanmoins, je crois que cela a quelques conséquences également pour nos clients et nos partenaires.
 
