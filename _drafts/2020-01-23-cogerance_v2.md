@@ -18,9 +18,9 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 ![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/cogerance_2.png)
 
 
-### Virginie et Jean-Paul, pourriez-vous vous présenter ?
+### Virginie et Jean-Paul, qui êtes-vous ?
 
-**Virginie** : Je suis Virginie Jourdan, je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers la Communication interne puis les Ressources Humaines.
+**Virginie** : Je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers la Communication interne puis les Ressources Humaines.
 Déjà baignée dans l’Open Source par mon expérience dans le SIG chez Camptocamp il y a 10 ans (que le temps passe vite !), j’ai retrouvé avec grand plaisir le même état d’esprit, ainsi que la même importance accordée à l’humain, à la communauté 
 et au partage, avec un petit truc en plus, la SCOP, qui s’est avéré être en fait une découverte passionnante !
 
@@ -28,11 +28,11 @@ Entre ces deux parcours d’entreprise, une expérience m’a particulièrement 
 
 **Jean-Paul** : Sorti de la fac avec un maîtrise en informatique de gestion dans la poche, j'ai commencé ma carrière comme développeur. Celle-ci s'est arrêtée très vite, je suis devenu DBA, pour le plus grand bien des clients de la société qui m'employait d'ailleurs. :-) 
 
-J'ai trituré Oracle et SQL Serveur, en particulier, dans les moindres recoins. Je suis hélas rapidement arrivé aux limites du logiciel propriétaire. Libriste dans l'âme depuis toujours, je me suis naturellement tourné vers PostgreSQL, dès 2000. J'en ai dévoré le code source pendant 2 ans. J'ai alors acquis une double compétence Oracle/PostgreSQL, assez rare à l'époque. Cela m'a valu d'avoir une place au sein d'IdealX, une Société de Services en Logiciel Libre qui avait pignon sur rue alors, en tant que consultant bases de données, où j'ai alors travaillé sur des projets de migration vers PostgreSQL. C'est à cette époque que j'ai été formé au logiciel libre "professionnel". J'ai participé à l'industrialisation des processus aussi dans cette société.  
+J'ai trituré Oracle et SQL Serveur, en particulier, dans les moindres recoins. Je suis hélas rapidement arrivé aux limites du logiciel propriétaire. Libriste dans l'âme depuis toujours, je me suis naturellement tourné vers PostgreSQL, dès 2000. J'en ai dévoré le code source pendant 2 ans. J'ai alors acquis une double compétence Oracle/PostgreSQL, assez rare à l'époque. Cela m'a valu d'avoir une place au sein d'IdealX, une Société de Services en Logiciel Libre qui avait pignon sur rue, en tant que consultant bases de données, où j'ai alors travaillé sur des projets de migration vers PostgreSQL. C'est à cette époque que j'ai été formé au logiciel libre "professionnel". J'ai participé à l'industrialisation des processus aussi dans cette société.  
 
-De fil en aiguille [j'ai créé le site web www.PostgreSQLFr.org en 2004](https://www.postgresql.org/message-id/20040213124054.GA3800%40maison.argudo.org), puis j'ai créé avec une poignée d'amis [l'Association PostgreSQLFr](https://www.postgresql.fr/asso/histoire). L'assocation c'est très vite retrouvée avec [un stand dans le village associatif de l'expo Solutions Linux](https://blog.postgresql.fr/index.php?post/drupal/79).
+De fil en aiguille [j'ai créé le site web www.PostgreSQLFr.org en 2004](https://www.postgresql.org/message-id/20040213124054.GA3800%40maison.argudo.org), puis j'ai créé avec une poignée d'amis [l'Association PostgreSQLFr](https://www.postgresql.fr/asso/histoire). L'assocation s'est très vite retrouvée avec [un stand dans le village associatif de l'expo Solutions Linux](https://blog.postgresql.fr/index.php?post/drupal/79).
 
-La rencontre avec plusieurs professionnels **demandeurs** de services autour de PostgreSQL me fait prendre conscience qu'il y a une opportunité de faire de notre passion notre métier : l'idée d'une société dédiée à PostgreSQL fait alors son chemin, et Dalibo sera créée en juillet 2005. Créée comme SARL simple, les pratiques de dialogue et de démocratie interne nous poussent collectivement à transformer Dalibo en 2011. Cette année-là, la société devient une SARL Scop, qui n'appartient plus à ses créateurs, mais à ses salariés. Les gérants historiques sont depuis remplacés par des gérants élus par les salariés-associés de la structure.
+La rencontre avec plusieurs professionnels **demandeurs** de services autour de PostgreSQL me fait prendre conscience qu'il y a une opportunité de faire de notre passion notre métier : l'idée d'une société dédiée à PostgreSQL fait alors son chemin, et Dalibo naît en juillet 2005. Créée comme SARL simple, les pratiques de dialogue et de démocratie interne nous poussent collectivement à transformer Dalibo en 2011. Cette année-là, la société devient une SARL Scop, qui n'appartient plus à ses créateurs, mais à ses salariés. Les gérants historiques sont depuis remplacés par des gérants élus par les salariés-associés de la structure.
 
 
 ### Vous sortez de 2 années de cogérance, quel est votre bilan ?
@@ -50,7 +50,7 @@ Tout n’est pas réglé bien sûr, il y a toujours des dissensions, des avis op
 
 [Lorsqu'il décide de se consacrer à nouveau à 100% sur un métier de DBA PostgreSQL](https://blog.taadeem.net/french/2018/07/17/transmission), je prends conscience que je serai désormais seul à diriger, officiellement comme au quotidien. C'était purement et simplement impossible à mes yeux.
 
-J'ai alors fait le point sur mes tâches de gérant, mes responsabilités, ma personalité et ses défauts. J'en arrive vite à la conclusion que la gérance de Dalibo doit devenir une **cogérance** réelle, et donc, légale. Plusieurs personnes auraient pu être cogérant⋅e à ma place. En revanche, je ne voyais que Virginie à mes côtés pour une cogérance sereine et efficace, avec un réel partage de tâches, grâce à des domaines de compétences qui se complètent.
+J'ai alors fait le point sur mes tâches de gérant, mes responsabilités, ma personnalité et ses défauts. J'en arrive vite à la conclusion que la gérance de Dalibo doit devenir une **cogérance** réelle, et donc, légale. Plusieurs personnes auraient pu être cogérant⋅e à ma place. En revanche, je ne voyais que Virginie à mes côtés pour une cogérance sereine et efficace, avec un réel partage de tâches, grâce à des domaines de compétences qui se complètent.
 
 Depuis, nous avons entériné le fait que Dalibo ne pourrait être désormais géré que par un tandem de gérants. C'est un bonheur quotidien que d'avoir Virginie à mes côtés pour gérer Dalibo. Mais on n'y arriverait pas non plus sans s'appuyer sur l'efficacité de nos responsables d'agences, et tout le travail réalisé par les différents groupes de travail que compte la société.
 
@@ -59,7 +59,7 @@ Le bilan de 2018~2019 est à bien des égards très positif. Je pense que nous a
 S'il y a parfois des couacs, nous prenons de manière collective les mesures qui s'imposent pour qu'ils ne se reproduisent plus. La souplesse de la structure Dalibo est probablement plus grande aujourd'hui que ce qu'elle ne l'était auparavant, ce qui est paradoxal, puisque nous sommes désormais plus de 30 salariés. Sur le plan des chiffres, la croissance de Dalibo est au beau fixe, puisqu'elle s'exprime toujours à deux chiffres, ce qui est exceptionnel dans le paysage économique actuel.
 
 
-### Pourquoi avez-vous décidé de vous présenter à nouveau ?
+### Pourquoi avez-vous décidé de vous présenter à nouveau à la gérance de Dalibo ?
 
 **Virginie** : Tout simplement parce que le premier mandat de deux ans me semblait très court, trop court pour voir la portée des décisions, l’impact des changements proposés.
 
