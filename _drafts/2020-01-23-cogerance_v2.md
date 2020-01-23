@@ -7,7 +7,7 @@ github_id: dalibo
 tags: [Dalibo, gérance, scop]
 
 ---
-*Paris, le 15 janvier 2020* 
+*Paris, le 23 janvier 2020* 
 
 En décembre dernier, les salarié⋅e⋅s de Dalibo ont participé à l'**Assemblée Générale**, au cours de laquelle les cogérants
 Virginie Jourdan et Jean-Paul Argudo ont été réélus par la majorité des associé⋅e⋅s de la **SCOP**… l'occasion de dévoiler
