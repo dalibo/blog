@@ -15,7 +15,7 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 
 <!--MORE-->
 
-![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgsession10_vi_jpa.jpeg)
+![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/jpargudo-patch-1/img/cogerance_2.png)
 
 
 ### Virginie et Jean-Paul, pourriez-vous vous présenter ?
