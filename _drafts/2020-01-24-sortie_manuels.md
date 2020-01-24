@@ -27,7 +27,7 @@ Eux-mêmes formateurs, ils bénéficient aussi des retours des stagiaires après
 C'est pourquoi ils ont décidé de proposer une **nouvelle offre de formation** et un cursus plus clair,  plus thématique, 
 permettant un **parcours** construit selon les besoins de chacun⋅e.
 
-![schema_formations](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/schema_formation.jpg)
+![schema_formations](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2020_schema_formations.png)
 
 
 ### Un contenu renouvelé
