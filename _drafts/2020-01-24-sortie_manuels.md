@@ -32,9 +32,9 @@ permettant un **parcours** construit selon les besoins de chacun⋅e.
 
 ### Un contenu renouvelé
 
-Les formations sont toutes détaillées dans notre [catalogue en ligne](https://dali.bo/catalogue-formations). Elles se divisent en **5 cursus** : Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
+Les formations sont toutes détaillées dans notre **[catalogue en ligne](https://dali.bo/catalogue-formations)**. Elles se divisent en **5 cursus** : Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
 
-Ci-dessous les formations conçues et animées par Dalibo, avec leurs mannuels :
+Ci-dessous les formations conçues et animées par Dalibo, avec leurs manuels :
 
   * [DBA1](https://dali.bo/dba1_pdf) : Administration PostgreSQL
     
@@ -48,9 +48,9 @@ Ci-dessous les formations conçues et animées par Dalibo, avec leurs mannuels :
     
   * [DEVPG](https://dali.bo/devpg_pdf) : Développer avec SQL
     
-  * [DEVPGSQL](https://dali.bo/devpgsql_pdf) : SQL pour PostgreSQL - /uniquement en intra-entreprise/
+  * [DEVPGSQL](https://dali.bo/devpgsql_pdf) : SQL pour PostgreSQL - *uniquement en intra-entreprise*
     
-  * [DBAADM](https://dali.bo/fiche-dbaadm) : Administration PostgreSQL pour DBA expérimentés - /manuel en cours de réalisation/
+  * [DBAADM](https://dali.bo/fiche-dbaadm) : Administration PostgreSQL pour DBA expérimentés - *manuel en cours de réalisation*
     
   * [MIGORPG](https://dali.bo/migorpg_pdf) : Migrer d'Oracle à PostgreSQL
   
@@ -60,16 +60,14 @@ Les modules au sein de ces formations ont été réagencés et souvent raccourci
 
 ### Informations pratiques
 
-Une formation dure de 2 à 4 jours en inter-entreprises.
+Une formation dure de **2 à 4 jours** en inter-entreprises.
 
-Dalibo étant un organisme de formation déclaré, vous pouvez bénéficier d'une prise en charge de son coût par votre **OPCO**,
-à défaut de l'être par votre CPF.
+Dalibo étant un organisme de formation déclaré, vous pouvez bénéficier d'une prise en charge de son coût par votre **OPCO** (opérateur de compétences), à défaut de l'être par votre CPF.
 
 Lors des formations dans nos locaux à Paris, le déjeuner est offert, en compagnie de vos condisciples et DBA formateurs dans
 l'un des restaurants du quartier.
 
-Enfin, non seulement tous les manuels sont en **libre accès** sur notre [site](https://www.dalibo.com/formations) (sous licence CC BY-NC-SA 2.0,
-partage autorisé à titre non commercial), mais chaque stagiaire reçoit un bon pour commander gratuitement une **version imprimée** s'il le souhaite.
+Enfin, non seulement tous les manuels sont en **libre accès** sur notre [site](https://www.dalibo.com/formations) (sous licence CC BY-NC-SA 2.0 : partage autorisé à titre non commercial), mais chaque stagiaire reçoit un bon pour commander gratuitement une **version imprimée** s'il le souhaite.
 
 --------------------------------------
 
