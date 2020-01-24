@@ -15,7 +15,6 @@ aux formations.
 
 <!--MORE-->
 
-
 ### Un groupe de travail dédié
 
 Chez Dalibo, nous sommes entre autres organisés en groupes de travail. L'un d'entre eux est spécifiquement dédié à la mise
@@ -30,10 +29,11 @@ permettant un **parcours** construit selon les besoins de chacun⋅e.
 
 ![schema_formations](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/schema_formation.jpg)
 
+
 ### Un contenu renouvelé
 
-Les formations sont toutes détaillées dans notre [catalogue en ligne](https://dali.bo/catalogue-formations). Elles se divisent en **5 cursus** :
-Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
+Les formations sont toutes détaillées dans notre [catalogue en ligne](https://dali.bo/catalogue-formations). Elles se divisent en **5 cursus** : Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
+
 Ci-dessous les formations conçues et animées par Dalibo, avec leurs mannuels :
 
   * [DBA1](https://dali.bo/dba1_pdf) : Administration PostgreSQL
@@ -57,7 +57,8 @@ Ci-dessous les formations conçues et animées par Dalibo, avec leurs mannuels :
 Si certaines formations ont peu changé (ex. DBA1), d'autres ont totalement été remaniées.
 Les modules au sein de ces formations ont été réagencés et souvent raccourcis, plus plus de clarté.
 
-### Formations : informations pratiques
+
+### Informations pratiques
 
 Une formation dure de 2 à 4 jours en inter-entreprises.
 
@@ -68,14 +69,15 @@ Lors des formations dans nos locaux à Paris, le déjeuner est offert, en compag
 l'un des restaurants du quartier.
 
 Enfin, non seulement tous les manuels sont en **libre accès** sur notre [site](https://www.dalibo.com/formations) (sous licence CC BY-NC-SA 2.0,
-partage autorisé à titre non commercial), mais chaque stagiaire reçoit un bon pour commander gratuitement une **version imprimée**
-s'il le souhaite.
+partage autorisé à titre non commercial), mais chaque stagiaire reçoit un bon pour commander gratuitement une **version imprimée** s'il le souhaite.
 
 --------------------------------------
 
 **Besoin de précisions ?**
+
 Appelez-nous au + 33 1 83 64 61 88
-ou écrivez-nous à formation@dalibo.com
+
+ou écrivez-nous à [formation@dalibo.com](mailto:formation@dalibo.com)
 
   
 
