@@ -19,6 +19,7 @@ aux formations.
 
 Chez Dalibo, nous sommes entre autres organisés en groupes de travail. L'un d'entre eux est spécifiquement dédié à la mise
 à jour des manuels, qui est au moins trimestrielle.
+
 Au-delà de l'intégration des nouveautés de la version 12 de PostgreSQL, il s'agit en fait d'un véritable travail de fond,
 continu, module par module.
 PostgreSQL est un SGBDR si riche que des choix s'imposent quant au contenu de chaque manuel, discutés par les DBA de la société.
@@ -32,7 +33,9 @@ permettant un **parcours** construit selon les besoins de chacun⋅e.
 
 ### Un contenu renouvelé
 
-Les formations sont toutes détaillées dans notre **[catalogue en ligne](https://dali.bo/catalogue-formations)**. Elles se divisent en **5 cursus** : Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
+Les formations sont toutes détaillées dans notre **[catalogue en ligne](https://dali.bo/catalogue-formations)**. 
+
+Elles se divisent en **5 cursus** : Administration, Performances, Développement, Transition vers PostgreSQL et SIG (formation assurée par Oslandia).
 
 Ci-dessous les formations conçues et animées par Dalibo, avec leurs manuels :
 
