@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dalibo - À la rencontre de ses cogérants v2
-author: Laura Ricci, Virginie Jourdan, Jean-Paul Argudo
+author: Virginie Jourdan, Jean-Paul Argudo, Laura Ricci
 twitter_id: dalibo
 github_id: dalibo
 tags: [Dalibo, gérance, scop]
