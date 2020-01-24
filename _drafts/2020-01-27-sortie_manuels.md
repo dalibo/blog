@@ -7,7 +7,7 @@ github_id: dalibo
 tags: [Dalibo, PostgreSQL, formations, manuels]
 
 ---
-*Paris, le 24 janvier 2020* 
+*Paris, le 27 janvier 2020* 
 
 Ce début d'année est marqué par l'arrivée de nos nouveaux manuels de formation, continuellement mis à jour.
 Retrouvez ici leurs **nouveautés majeures**, ainsi que les **informations pratiques** pour y accéder et s'inscrire 
