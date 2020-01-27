@@ -24,7 +24,7 @@ Au-delà de l'intégration des nouveautés de la version 12 de PostgreSQL, il s'
 continu, module par module.
 PostgreSQL est un SGBDR si riche que des choix s'imposent quant au contenu de chaque manuel, discutés par les DBA de la société, par ailleurs formateurs et contributeurs actifs à la communauté PostgreSQL.
 
-C'est pourquoi ils ont décidé de proposer une **nouvelle offre de manuels et de formations**, avec des cursus plus clairs, plus thématiques, permettant un **parcours** construit selon les besoins de chacun⋅e.
+C'est pourquoi ils ont décidé de proposer une **nouvelle offre de manuels et de formations**, avec des cursus plus thématiques, permettant un **parcours** construit selon les besoins de chacun⋅e.
 
 ![schema_formations](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2020_schema_formations.png)
 
