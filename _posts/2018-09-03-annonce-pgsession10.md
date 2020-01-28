@@ -17,7 +17,7 @@ Pour sa dixième édition, la PostgreSQL Session grandit et change de format !
 
 Cette année, organisée par Dalibo et Oslandia, la PGSession se déroulera sur deux jours et alliera workshops, conférences et table ronde.
 
-![img](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/logo-pgsession-10.png)
+![img]({{ site.baseurl }}/img/logo-pgsession-10.png)
 
 Les 21 et 22 novembre prochain se déroulera la PGSession 10, à Paris. Divisé en deux parties, le nouveau format prendra la forme suivante.
 

@@ -60,7 +60,7 @@ See [Contributing].
 In the next blog post, we'll do a complete tour of the different features. Stay
 tuned.
 
-[previous article]: http://blog.dalibo.com/2019/10/04/pev2.html
+[previous article]: {{ site.baseurl }}/2019/10/04/pev2.html
 [PEV]: http://tatiyants.com/pev/
 [PEV2]: http://github.com/dalibo/pev2
 [Depesz]: https://explain.depesz.com

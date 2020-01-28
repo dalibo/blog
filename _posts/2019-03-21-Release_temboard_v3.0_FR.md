@@ -13,7 +13,7 @@ Voici la version 3.0 de temBoard, l'interface de gestion pour PostgreSQL !
 
 <!--MORE-->
 
-![logo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard-bandeau-orange-catchphrase-ombre.png)
+![logo-temboard]({{ site.baseurl }}/img/temboard-bandeau-orange-catchphrase-ombre.png)
 
 
 ## Nouvelle fonctionnalité : Maintenance
@@ -50,7 +50,7 @@ Plus d'informations dans la [documentation en ligne de temboard](https://temboar
 
 Vous trouverez une démo de cette dernière version sur le compte Youtube de Dalibo, en cliquant sur l'image ci-dessous :
 
-[![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
+[![demo-temboard]({{ site.baseurl }}/img/screen-temboard.png)](
 https://youtu.be/0gSzKYTHEEw "Demo temboard")
 
 

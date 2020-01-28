@@ -12,7 +12,7 @@ Au lendemain de la Fête du Travail, nous avons souhaité nous pencher sur notre
 notre SCOP Dalibo.
 
 Qu'est-ce qu'une SCOP ? Comment y travaille-t-on ? Y a-t-il un impact sur nos relations avec les 
-partenaires ou les clients... Voici trois questions posées à [Philippe Beaudoin](https://www.linkedin.com/in/philippe-beaudoin-675160139/), notre responsable avant-vente, par ailleurs contributeur à la communauté PostgreSQL à travers le développement d'[E-Maj](http://blog.dalibo.com/2019/04/02/sortie_de_E-Maj_3.0.html).
+partenaires ou les clients... Voici trois questions posées à [Philippe Beaudoin](https://www.linkedin.com/in/philippe-beaudoin-675160139/), notre responsable avant-vente, par ailleurs contributeur à la communauté PostgreSQL à travers le développement d'[E-Maj]({{ site.baseurl }}/2019/04/02/sortie_de_E-Maj_3.0.html).
 
 
 <!--MORE-->   

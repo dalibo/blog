@@ -13,7 +13,7 @@ Release of **temboard 4.0**, the powerful PostgreSQL management tool developed i
 
 <!--MORE-->
 
-![img/temboard_H_couleur](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard_H_couleur.png)
+![img/temboard_H_couleur]({{ site.baseurl }}/img/temboard_H_couleur.png)
 
 
 ## New feature: Alerting

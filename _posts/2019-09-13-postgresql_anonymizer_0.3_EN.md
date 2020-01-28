@@ -17,7 +17,7 @@ database.
 
 <!--MORE-->
 
-![](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/PostgreSQL-Anonymizer_H_couleur.png)
+![]({{ site.baseurl }}/img/PostgreSQL-Anonymizer_H_couleur.png)
 
 First of all, you can declare a list of [Masking Rules] directly inside the database model with SQL comments like this:
 

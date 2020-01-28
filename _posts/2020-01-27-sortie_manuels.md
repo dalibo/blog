@@ -26,7 +26,7 @@ PostgreSQL est un SGBDR si riche que des choix s'imposent quant au contenu de ch
 
 C'est pourquoi ils ont décidé de proposer une **nouvelle offre de manuels et de formations**, avec des cursus plus thématiques, permettant un **parcours** construit selon les besoins de chacun⋅e.
 
-![schema_formations](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2020_schema_formations.png)
+![schema_formations]({{ site.baseurl }}/img/2020_schema_formations.png)
 
 
 ### Un contenu renouvelé

@@ -13,7 +13,7 @@ tags: [temboard, PostgreSQL, gestion, interface, notification, supervision, Dali
 
 <!--MORE-->
 
-![img/temboard_H_couleur](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard_H_couleur.png)
+![img/temboard_H_couleur]({{ site.baseurl }}/img/temboard_H_couleur.png)
 
 
 ## La nouveauté : la notification

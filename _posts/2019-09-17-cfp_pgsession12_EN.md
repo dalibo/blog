@@ -16,7 +16,7 @@ We are glad to announce that the PostgreSQL Session #12 will be held on November
 
 The call for papers is open! 
 
-![pan_piper_localisation2.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pan_piper_localisation2.jpg)
+![pan_piper_localisation2.jpg]({{ site.baseurl }}/img/pan_piper_localisation2.jpg)
 
 Each talk should last 30 minutes, questions included.
 We are looking for talks on the following subjects:

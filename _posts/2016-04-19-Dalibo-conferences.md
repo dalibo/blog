@@ -27,4 +27,4 @@ Rejoignez-nous !
   * A Milan, le 28 juin, à 15h, au [5432 ... MeetUs!](http://5432meet.us/en/schedule/talk-5-en/) ; Julien Rouhaud, aux côtés de Giuseppe Brocollo, vous présentera leur travail concernant les index BRIN pour PostGIS.
 Et le 29, à 14H30, Julien vous en dira un peu plus sur [PoWA3](http://5432meet.us/en/schedule/talk-9-en/)
 
-Et pour voir plus loin, à la rentrée, notre pgsession de Lyon, organisée en collaboration avec Oslandia le 22 septembre : l'[appel à conférenciers](http://blog.dalibo.com/2016/04/14/CFP-pgsession-septembre.html) a été lancé en fin de semaine dernière.
+Et pour voir plus loin, à la rentrée, notre pgsession de Lyon, organisée en collaboration avec Oslandia le 22 septembre : l'[appel à conférenciers]({{ site.baseurl }}/2016/04/14/CFP-pgsession-septembre.html) a été lancé en fin de semaine dernière.

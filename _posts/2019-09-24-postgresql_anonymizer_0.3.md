@@ -15,7 +15,7 @@ tags: [PostgreSQL, anonymisation, masquage, RGPD, Dalibo Labs, PostgreSQL Anonym
 
 <!--MORE-->
 
-![](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/PostgreSQL-Anonymizer_H_couleur.png)
+![]({{ site.baseurl }}/img/PostgreSQL-Anonymizer_H_couleur.png)
 
 Tout d'abord, on peut déclarer une liste de [Règles de Masquage] directement dans le modèle de données avec les commentaires SQL, comme ceci :
 
