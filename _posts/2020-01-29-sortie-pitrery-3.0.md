@@ -73,4 +73,4 @@ d'informations.
    
 ------
 
-**Thibaut Madelaine, Étienne Bersac et Nicolas Thauvin sont les mainteneurs de pitrery, un projet du [Dalibo Labs](https://labs.dalibo.com/).**
+**Thibaut Madelaine, Étienne Bersac et Thibaud Walkoviak sont les mainteneurs de pitrery, un projet du [Dalibo Labs](https://labs.dalibo.com/).**
