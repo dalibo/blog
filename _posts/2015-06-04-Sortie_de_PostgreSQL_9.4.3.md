@@ -17,7 +17,7 @@ Le PostgreSQL Global Development Group a publié une mise à jour de toutes les 
 ## Correction des permissions de fichiers
 
 
-Les correctifs publiés le 2015-05-22 ont introduit une mesure contre la corruption de données, qui force un fsync sur tous les fichiers présents dans le répertoire de données de PostgreSQL (PGDATA) lors d'un redémarrage après un crash. Ceci empêchait PostgreSQL de démarrer si celui-ci rencontrait un problème sur les permissions de fichiers. Ce problème est désormais réglé. Vous trouverez plus d'informations sur l'[annonce précédente](http://blog.dalibo.com/2015/05/27/Probleme_sur_les_mises_a_jours_de_PostgreSQL.html) ([Version originale](https://wiki.postgresql.org/wiki/May_2015_Fsync_Permissions_Bug) sur le wiki PostgreSQL)
+Les correctifs publiés le 2015-05-22 ont introduit une mesure contre la corruption de données, qui force un fsync sur tous les fichiers présents dans le répertoire de données de PostgreSQL (PGDATA) lors d'un redémarrage après un crash. Ceci empêchait PostgreSQL de démarrer si celui-ci rencontrait un problème sur les permissions de fichiers. Ce problème est désormais réglé. Vous trouverez plus d'informations sur l'[annonce précédente]({{ site.baseurl }}/2015/05/27/Probleme_sur_les_mises_a_jours_de_PostgreSQL.html) ([Version originale](https://wiki.postgresql.org/wiki/May_2015_Fsync_Permissions_Bug) sur le wiki PostgreSQL)
 
 
 ## Autres correctifs

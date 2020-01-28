@@ -15,7 +15,7 @@ Découvrez les conférences que nous avons sélectionnées !
 
 <!--MORE-->
 
-![journee_conferences.png](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/journee_conferences.png)
+![journee_conferences.png]({{ site.baseurl }}/img/journee_conferences.png)
 
 ## 21 novembre : la journée Conférences
 

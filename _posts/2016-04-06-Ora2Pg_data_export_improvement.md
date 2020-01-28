@@ -106,7 +106,7 @@ Here are the duration results in seconds:
 |-J 2 -j 6 |  3314 |  3064  |   8% |
 |-J 4 -j 3 |  2585 |  2341  |  10% |
 
-<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test1.png" title="Results table_test1"/>
+<img src="{{ site.baseurl }}/assets/media/Ora2Pg_data_export_improvement_table_test1.png" title="Results table_test1"/>
 
 With this kind of table and data types, the speed gain is from 7 to 10 percent.
 At a maximum speed (447 tuples/sec) it took around 0h45 without the patch and
@@ -166,7 +166,7 @@ And the benchmark results:
 |-J 2 -j 6 |   195 |   195  |   0% |
 |-J 4 -j 3 |   113 |   116  |  -3% |
 
-<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test2.png" title="Results table_test2"/>
+<img src="{{ site.baseurl }}/assets/media/Ora2Pg_data_export_improvement_table_test2.png" title="Results table_test2"/>
 
 Most of the data are numerics and the majority of data size resides in the
 CLOB fields. In this case, the patch doesn't help at all or we need to
@@ -196,7 +196,7 @@ SQL> DESC TABLE_TEST3
 |-J 2 -j 6 |   276 |   165  |  40% |
 |-J 4 -j 3 |   276 |   152  |  45% |
 
-<img src="http://blog.dalibo.com/assets/media/Ora2Pg_data_export_improvement_table_test3.png" title="Results table_test3"/>
+<img src="{{ site.baseurl }}/assets/media/Ora2Pg_data_export_improvement_table_test3.png" title="Results table_test3"/>
 
 The speed gain is from 32% up to 45% at full speed. The more parallelizing we
 set, the more speed gain we have. Obviously I was not expecting such a gain,

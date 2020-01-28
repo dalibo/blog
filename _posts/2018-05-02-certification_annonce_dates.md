@@ -11,7 +11,7 @@ tags: [PostgreSQL, Dalibo, certification, essential, agenda]
 
 *Paris, le 2 mai 2018*
 
-Dalibo a lancé il y a quelques jours son programme de certifications PostgreSQL ([lien vers l'article blog](http://blog.dalibo.com/2018/04/17/certification_postgresql_dalibo.html)).
+Dalibo a lancé il y a quelques jours son programme de certifications PostgreSQL ([lien vers l'article blog]({{ site.baseurl }}/2018/04/17/certification_postgresql_dalibo.html)).
 
 <!--MORE-->
 

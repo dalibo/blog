@@ -15,7 +15,7 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 
 <!--MORE-->
 
-![jpa_vi](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/cogerance_2.png)
+![jpa_vi]({{ site.baseurl }}/img/cogerance_2.png)
 
 
 ### Virginie et Jean-Paul, qui êtes-vous ?

@@ -28,7 +28,7 @@ La [PGSession #12](https://dali.bo/pgsession12_savethedate) se déroulera sur de
   
 Ce qui nous intéresse aujourd'hui est la journée de conférences, qui se déroulera de 9h à 17h00 dans les sympathiques locaux du **[Pan Piper](https://www.pan-piper.com/)**.
 
-![pan_piper_localisation2.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pan_piper_localisation2.jpg)
+![pan_piper_localisation2.jpg]({{ site.baseurl }}/img/pan_piper_localisation2.jpg)
 
 ## Appel à conférenciers
 

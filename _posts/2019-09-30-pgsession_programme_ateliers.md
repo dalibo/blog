@@ -16,7 +16,7 @@ Découvrez aujourd'hui le programme du 20 novembre !
 
 <!--MORE-->
 
-![la_rochefoucauld_localisation.png](https://raw.githubusercontent.com/lauraricci/blog.dalibo.com/gh-pages/img/la_rochefoucauld_localisation.png)
+![la_rochefoucauld_localisation.png]({{ site.baseurl }}/img/la_rochefoucauld_localisation.png)
 
 ## 20 novembre : la journée Ateliers
 

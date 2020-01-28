@@ -15,7 +15,7 @@ Inscrivez-vous aux deux journées de la **PGSession #12** ! Après l'ouverture d
 
 <!--MORE-->
 
-![pgsession10_atelier_thibaut.jpg](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgsession10_atelier_thibaut.jpg)
+![pgsession10_atelier_thibaut.jpg]({{ site.baseurl }}/img/pgsession10_atelier_thibaut.jpg)
 
 ## 20 novembre : la journée Ateliers
 
@@ -37,7 +37,7 @@ Inscrivez-vous aux deux journées de la **PGSession #12** ! Après l'ouverture d
 
 ---------------------
 
-![PGSession #12 : Journée Conférences](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/img_conferences_medium.png)
+![PGSession #12 : Journée Conférences]({{ site.baseurl }}/img/img_conferences_medium.png)
 
 ## 21 novembre : la journée Conférences
 

@@ -13,7 +13,7 @@ Release of **temBoard 3.0**, the powerful PostgreSQL management tool developed i
 
 <!--MORE-->
 
-![logo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/temboard-bandeau-orange-catchphrase-ombre.png)
+![logo-temboard]({{ site.baseurl }}/img/temboard-bandeau-orange-catchphrase-ombre.png)
 
 
 ## New feature: Maintenance
@@ -51,7 +51,7 @@ Find out more information in the [online documentation of temboard](https://temb
 
 You can find the demo for this new version of temBoard on our Youtube page. Watch it by clicking the image below.
 
-[![demo-temboard](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/screen-temboard.png)](
+[![demo-temboard]({{ site.baseurl }}/img/screen-temboard.png)](
 https://youtu.be/0gSzKYTHEEw "Demo temboard")
 
 ## Links

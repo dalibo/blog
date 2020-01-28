@@ -18,9 +18,9 @@ en tant que membres du comité de sélection, orateurs, organisateurs, sponsor o
 <!--MORE-->
 
 Parmis ces événements récurrents que nous avons eu plaisir à rejoindre cette année, on peut citer le FOSDEM à Bruxelles, 
-le pgDay Paris, le [pgDay Belgique](http://blog.dalibo.com/2019/05/22/back_from_pgday_belgium.html), le [pgDay France à Lyon](http://blog.dalibo.com/2019/06/26/retour_pgday_france.html), pgCon à Ottawa, le LibDay à Marseille mais aussi **PGConf.EU**.
+le pgDay Paris, le [pgDay Belgique]({{ site.baseurl }}/2019/05/22/back_from_pgday_belgium.html), le [pgDay France à Lyon]({{ site.baseurl }}/2019/06/26/retour_pgday_france.html), pgCon à Ottawa, le LibDay à Marseille mais aussi **PGConf.EU**.
 
-![photo_salle](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/2019_pgconfeu_salle_520.jpg)
+![photo_salle]({{ site.baseurl }}/img/2019_pgconfeu_salle_520.jpg)
 
 ## PGConf.EU, qu'est-ce que c'est ?
 
@@ -80,7 +80,7 @@ Elle y a décrit la facon dont elle a mis ses compétences en marketing au profi
 
 Après la présentation de Claire, ça faisait tellement sens de relayer cet appel ! 
 
-![capture_marketing](https://raw.githubusercontent.com/dalibo/blog/gh-pages/img/pgconfeu_2019_marketing.jpg)
+![capture_marketing]({{ site.baseurl }}/img/pgconfeu_2019_marketing.jpg)
 
 
 
