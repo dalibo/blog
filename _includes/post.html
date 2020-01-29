@@ -32,7 +32,7 @@
 		  {% if tags_list.first[0] == null %}
 			{% for tag in tags_list %} 
 				<li>
-					<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag }}-ref">
+					<a href="{{ site.baseurl }}/{{ site.tags_path }}#{{ tag }}-ref">
 					{{ tag }} <span>({{ site.tags[tag].size }})</span>
 					{% unless forloop.last %},{% endunless %}
 					</a>
@@ -41,7 +41,7 @@
 		  {% else %}
 			{% for tag in tags_list %} 
 				<li>
-					<a href="{{ site.BASE_PATH }}/{{ site.tags_path }}#{{ tag[0] }}-ref">
+					<a href="{{ site.baseurl }}/{{ site.tags_path }}#{{ tag[0] }}-ref">
 						{{ tag[0] }} <span>({{ tag[1].size }})</span>
 						{% unless forloop.last %},{% endunless %}
 					</a>
@@ -76,7 +76,7 @@
       </section>
 
       <section class="col-sm-6 author">
-        <img src="{{ site.BASE_PATH }}/assets/img/logo.png" class="img-rounded author-image" />
+        <img src="{{ site.baseurl }}/assets/img/logo.png" class="img-rounded author-image" />
         <h4 class="section-title author-name">{{site.author.name}}</h4>
         <p class="author-bio">{{site.author.bio}}</p>
       </section>
@@ -86,12 +86,12 @@
 
 		<ul class="pager">
 		  {% if page.previous %}
-		  <li class="previous"><a href="{{ site.BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a></li>
+		  <li class="previous"><a href="{{ site.baseurl }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a></li>
 		  {% else %}
 		  <li class="previous disabled"><a>&larr; Précédent</a></li>
 		  {% endif %}
 		  {% if page.next %}
-		  <li class="next"><a href="{{ site.BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a></li>
+		  <li class="next"><a href="{{ site.baseurl }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a></li>
 		  {% else %}
 			<li class="next disabled"><a>Suivant &rarr;</a>
 		  {% endif %}

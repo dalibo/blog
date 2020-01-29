@@ -43,4 +43,5 @@ tags_path: tags.html
 
 ga_id: UA-637331-11
 
+# BASE_PATH is obsolete
 BASE_PATH: //blog.dalibo.com
