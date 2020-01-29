@@ -9,8 +9,7 @@ tags: [Dalibo Labs, Pitrery, upgrade, PostgreSQL, 12, PITR, backup]
 
 *Caen, le 29 janvier 2020*
 
-Pitrery, le logiciel simplifiant le PITR, est disponible en version 3.0. Il
-apporte le support de PostgreSQL en version 12.
+Pitrery, le logiciel simplifiant le PITR, est disponible en **version 3.0**. Il apporte le support de PostgreSQL en version 12.
 
 <!--MORE-->
 
