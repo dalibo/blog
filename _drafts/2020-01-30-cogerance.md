@@ -21,7 +21,7 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 ### Virginie et Jean-Paul, qui êtes-vous ?
 
 **Virginie** : Je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers les Ressources Humaines.
-Déjà baignée dans l’Open Source par mon expérience dans le SIG chez Camptocamp il y a 10 ans (que le temps passe vite !), j’ai retrouvé avec grand plaisir le même état d’esprit, ainsi que la même importance accordée à l’humain et à la communauté, avec un petit truc en plus, la SCOP, qui s’est avéré être en fait une découverte passionnante !
+Déjà baignée dans l’Open Source par mon expérience dans le SIG chez Camptocamp il y a 10 ans (que le temps passe vite !), j’ai retrouvé avec grand plaisir le même état d’esprit, ainsi que la même importance accordée à l’humain et à la communauté, avec un petit truc en plus, la SCOP, qui s’est avérée être en fait une découverte passionnante !
 
 Entre ces deux parcours d’entreprise, une expérience m’a particulièrement marquée : la vie à l’étranger, en Chine puis en Inde. Cela a contribué à m’ouvrir au monde, et à me construire aussi bien personnellement que professionnellement. Depuis, j’ai gardé un attachement particulier pour l’Asie, et un goût certain pour la vie à l’étranger…
 
@@ -31,7 +31,7 @@ J'ai trituré Oracle et SQL Serveur, en particulier, dans les moindres recoins. 
 
 De fil en aiguille [j'ai créé le site web www.PostgreSQLFr.org en 2004](https://www.postgresql.org/message-id/20040213124054.GA3800%40maison.argudo.org), puis [l'Association PostgreSQLFr](https://www.postgresql.fr/asso/histoire) avec une poignée d'amis, qui s'est très vite retrouvée avec [un stand dans le village associatif de l'expo Solutions Linux](https://blog.postgresql.fr/index.php?post/drupal/79).
 
-La rencontre avec plusieurs professionnels **demandeurs** de services autour de PostgreSQL me donne l'idée d'une société dédiée à PostgreSQL, et Dalibo naît en juillet 2005. Créée comme SARL simple, les pratiques de dialogue et de démocratie interne nous poussent collectivement à transformer Dalibo en 2011. Cette année-là, la société devient une SARL SCOP, qui n'appartient plus à ses créateurs, mais à ses salariés. Les gérants historiques sont depuis remplacés par des **gérants élus** par les salariés-associés de la structure.
+La rencontre avec plusieurs professionnels demandeurs de services autour de PostgreSQL me donne l'idée d'une société dédiée à PostgreSQL, et Dalibo naît en juillet 2005. Créée comme SARL simple, les pratiques de dialogue et de démocratie interne nous poussent collectivement à transformer Dalibo en 2011. Cette année-là, la société devient une SARL SCOP, qui n'appartient plus à ses créateurs, mais à ses salariés. Les gérants historiques sont depuis remplacés par des **gérants élus** par les salariés-associés de la structure.
 
 
 ### Vous sortez de 2 années de cogérance, quel est votre bilan ?
@@ -51,7 +51,7 @@ Tout n’est pas réglé bien sûr, il y a toujours des dissensions, des avis op
 
 Depuis, nous avons entériné le fait que Dalibo ne pourrait être désormais géré que par un tandem. C'est un bonheur quotidien que d'avoir Virginie à mes côtés pour gérer Dalibo. Mais on n'y arriverait pas non plus sans s'appuyer sur l'efficacité de nos responsables d'agences, et tout le travail réalisé par les différents groupes de travail que compte la société.
 
-Le bilan de 2018~2019 est à bien des égards très positif. Je pense que nous avons désormais tous confiance les uns en les autres, et qu'il y a un très fort respect pour le travail accompli à tous les niveaux. Les équipes sont soudées et avancent ensemble. Cela se ressent dans la qualité du travail rendu aux clients. L'**Expertise PostgreSQL** est plus que jamais l'ADN de Dalibo. Nous avons énormément investi sur la R&D, via des embauches dédiées. Cela a accéléré la production Open Source de Dalibo, via un effort qui est désormais collectif.
+Le bilan de 2018~2019 est à bien des égards très positif. Je pense que nous avons désormais tous confiance les uns en les autres, et qu'il y a un très fort respect pour le travail accompli à tous les niveaux. Les équipes sont soudées et avancent ensemble. Cela se ressent dans la qualité du travail rendu aux clients. L'Expertise PostgreSQL est plus que jamais l'ADN de Dalibo. Nous avons énormément investi sur la R&D, via des embauches dédiées. Cela a accéléré la production Open Source de Dalibo, via un effort qui est désormais collectif.
 
 S'il y a parfois des couacs, nous prenons de manière collective les mesures qui s'imposent pour qu'ils ne se reproduisent plus. La souplesse de la structure Dalibo est probablement plus grande aujourd'hui que ce qu'elle ne l'était auparavant, ce qui est paradoxal, puisque nous sommes désormais plus de 30 salariés. Sur le plan des chiffres, la croissance de Dalibo est au beau fixe, puisqu'elle s'exprime toujours à deux chiffres, ce qui est exceptionnel dans le paysage économique actuel.
 
@@ -62,16 +62,16 @@ S'il y a parfois des couacs, nous prenons de manière collective les mesures qui
 
 Mes prochains défis, moi qui suis plutôt orientée dans la cogérance « interne », c’est de continuer à placer l’humain et son expertise au centre, en favorisant l’émulation interne et la formation.
 
-**Jean-Paul** : Avec Virginie, nous avons entrepris ces deux dernières années des modifications structurelles de la société qui demandent à être affinées dans le temps. Il y a aussi plusieurs projets qui nous tiennent à coeur et que nous voulons porter à terme. 
+**Jean-Paul** : Nous avons entrepris ces deux dernières années des modifications structurelles de la société qui demandent à être affinées dans le temps. Il y a aussi plusieurs projets qui nous tiennent à coeur et que nous voulons porter à terme. 
 
 Sur le plan personnel, je m'efforce de transmettre un maximum de mon expérience de la gérance à Virginie, sait-on jamais qu'un jour je décide moi aussi de me consacrer à 100% à la technique à nouveau (bien que ça ne m'ait jamais vraiment quitté, je trouve toujours une bonne excuse pour lancer un *psql*, coder des fonctions en *pl/pgsql*…).
 
-Le plus important reste le *plaisir* de faire ce que je fais. Dalibo est un projet en constant renouvellement. L'embauche d'un profil particulier et nouveau amène son lot de nouveautés, et avec elles, de nouvelles possibilités et perspectives ! En fait, l'objectif primordial à mes yeux est de faire en sorte que les personnes ne cessent jamais d'apprendre, et ma responsabilité de cogérant c'est de leur donner les moyens pour le faire.
+Le plus important reste le *plaisir* de faire ce que je fais. Dalibo est un projet en constant renouvellement. L'embauche d'un profil particulier amène son lot de nouveautés, et avec elles, de nouvelles possibilités et perspectives ! En fait, l'objectif primordial à mes yeux est de faire en sorte que les personnes ne cessent jamais d'apprendre, et ma responsabilité de cogérant c'est de leur donner les moyens pour le faire.
 
 ### Quelle est la particularité de votre nouveau programme ?
 
-**Virginie** : Pour chaque mandat, nous nous engageons sur un programme de gérance sur les deux années à venir, et cette fois-ci, nous avons souhaité ajouter, en plus de la stratégie interne et externe, un **volet RSE**, pour inscrire notre SCOP dans une démarche sociale, solidaire et éco-responsable.
-Même si Dalibo a toujours eu des valeurs et s'est efforcée de maintenir une certaine éthique liée à nos pratiques, nous ne l'avions jusque ici jamais formalisée, nous contentant de faire au mieux, et de façon pragmatique.
+**Virginie** : Pour chaque mandat, nous nous engageons sur un programme de gérance pour les deux années à venir, et cette fois-ci, nous avons souhaité ajouter, en plus de la stratégie interne et externe, un **volet RSE**, pour inscrire notre SCOP dans une démarche sociale, solidaire et éco-responsable.
+Même si Dalibo a toujours eu des valeurs et s'est efforcée de maintenir une certaine éthique dans nos pratiques, nous ne l'avions jusqu'ici jamais formalisée, nous contentant de faire au mieux, et de façon pragmatique.
 
 Cette feuille de route, votée par l’Assemblée Générale en décembre 2019, a été construite et **co-construite**, sur plusieurs mois, avec l’ensemble des salariés. À nous tous maintenant de l’appliquer, et à nous deux d’assurer notre rôle de chefs d’orchestre !
 
