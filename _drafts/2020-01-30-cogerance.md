@@ -20,7 +20,7 @@ leurs parcours, leurs motivations et leurs visions de la gérance.
 
 ### Virginie et Jean-Paul, qui êtes-vous ?
 
-**Virginie** : Je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers la Communication interne puis les Ressources Humaines.
+**Virginie** : Je viens de fêter mes 6 ans chez Dalibo, où je suis rentrée d’abord par le biais de l’activité Formation, pour ensuite me diriger progressivement vers les Ressources Humaines.
 Déjà baignée dans l’Open Source par mon expérience dans le SIG chez Camptocamp il y a 10 ans (que le temps passe vite !), j’ai retrouvé avec grand plaisir le même état d’esprit, ainsi que la même importance accordée à l’humain et à la communauté, avec un petit truc en plus, la SCOP, qui s’est avéré être en fait une découverte passionnante !
 
 Entre ces deux parcours d’entreprise, une expérience m’a particulièrement marquée : la vie à l’étranger, en Chine puis en Inde. Cela a contribué à m’ouvrir au monde, et à me construire aussi bien personnellement que professionnellement. Depuis, j’ai gardé un attachement particulier pour l’Asie, et un goût certain pour la vie à l’étranger…
@@ -73,7 +73,7 @@ Le plus important reste le *plaisir* de faire ce que je fais. Dalibo est un proj
 **Virginie** : Pour chaque mandat, nous nous engageons sur un programme de gérance sur les deux années à venir, et cette fois-ci, nous avons souhaité ajouter, en plus de la stratégie interne et externe, un **volet RSE**, pour inscrire notre SCOP dans une démarche sociale, solidaire et éco-responsable.
 Même si Dalibo a toujours eu des valeurs et s'est efforcée de maintenir une certaine éthique liée à nos pratiques, nous ne l'avions jusque ici jamais formalisée, nous contentant de faire au mieux, et de façon pragmatique.
 
-Cette feuille de route, votée par l’Assemblée Générale en décembre 2019, a été construite et **co-construite**, sur plusieurs mois, avec l’ensemble des salariés de Dalibo. À nous tous maintenant de l’appliquer, et à nous deux d’assurer notre rôle de chefs d’orchestre !
+Cette feuille de route, votée par l’Assemblée Générale en décembre 2019, a été construite et **co-construite**, sur plusieurs mois, avec l’ensemble des salariés. À nous tous maintenant de l’appliquer, et à nous deux d’assurer notre rôle de chefs d’orchestre !
 
 **Jean-Paul** : Ce programme a été élaboré dans la concertation la plus vaste. Si au final c'est bien Virginie et moi-même qui avons le dernier mot sur son contenu, nous nous sommes efforcés d'y intégrer le maximum des demandes et remarques faites par nos pairs lors des nombreuses réunions collectives dédiées à l'élaboration du programme de gérance.
 
