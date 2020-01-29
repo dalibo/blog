@@ -64,7 +64,7 @@ Mes prochains défis, moi qui suis plutôt orientée dans la cogérance « inter
 
 **Jean-Paul** : Nous avons entrepris ces deux dernières années des modifications structurelles de la société qui demandent à être affinées dans le temps. Il y a aussi plusieurs projets qui nous tiennent à coeur et que nous voulons porter à terme. 
 
-Sur le plan personnel, je m'efforce de transmettre un maximum de mon expérience de la gérance à Virginie, sait-on jamais qu'un jour je décide moi aussi de me consacrer à 100% à la technique à nouveau (bien que ça ne m'ait jamais vraiment quitté, je trouve toujours une bonne excuse pour lancer un *psql*, coder des fonctions en *pl/pgsql*…).
+Sur le plan personnel, je m'efforce de transmettre un maximum de mon expérience de la gérance à Virginie comme en interne, sait-on jamais qu'un jour je décide moi aussi de me consacrer à 100% à la technique à nouveau (bien que ça ne m'ait jamais vraiment quitté, je trouve toujours une bonne excuse pour lancer un *psql*, coder des fonctions en *pl/pgsql*…).
 
 Le plus important reste le *plaisir* de faire ce que je fais. Dalibo est un projet en constant renouvellement. L'embauche d'un profil particulier amène son lot de nouveautés, et avec elles, de nouvelles possibilités et perspectives ! En fait, l'objectif primordial à mes yeux est de faire en sorte que les personnes ne cessent jamais d'apprendre, et ma responsabilité de cogérant c'est de leur donner les moyens pour le faire.
 
