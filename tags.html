@@ -14,7 +14,7 @@ group: navigation
     <div class="tab-pane" id="{{ tag[0] | replace:' ','-' | replace: '.', '-' }}-ref">
       <ul class="list-unstyled">
         {% for post in tag[1] %}{% if post.title != null %}
-          <li style="line-height: 35px;"><a href="{{ site.BASE_PATH }}{{post.url}}">{{post.title}}</a> <span class="text-muted">- {{ post.date | date: "%B %d, %Y" }}</span></li>
+          <li style="line-height: 35px;"><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a> <span class="text-muted">- {{ post.date | date: "%B %d, %Y" }}</span></li>
         {% endif %}{% endfor %}
       </ul>
     </div>

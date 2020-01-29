@@ -12,15 +12,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- Le styles -->
-	<link href="{{ site.BASE_PATH }}/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/resources/syntax/syntax.css" rel="stylesheet">
-	<link href="{{ site.BASE_PATH }}/assets/css/style.css" rel="stylesheet">
+	<link href="{{ site.baseurl }}/assets/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="{{ site.baseurl }}/assets/resources/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="{{ site.baseurl }}/assets/resources/syntax/syntax.css" rel="stylesheet">
+	<link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
 
 	<!-- Le fav and touch icons -->
-	<link rel="shortcut icon" href="{{ site.BASE_PATH }}/assets/img/favicon.ico">
+	<link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
 
-	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.BASE_PATH }}/feed.xml">
+	<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl }}/feed.xml">
 
 	{% if page.meta_robots %}
 	<meta name="robots" content="{{ page.meta_robots }}">
@@ -56,8 +56,8 @@
 				<i class="fa fa-envelope"></i>
 			</a>
 			{% endif %}
-			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
-				<img src="{{ site.BASE_PATH }}/assets/img/logo.png" class="img-circle" />
+			<a class="navbar-brand" href="{{ site.baseurl }}/">
+				<img src="{{ site.baseurl }}/assets/img/logo.png" class="img-circle" />
 				{{ site.title }}
 			</a>
 		</div>
@@ -65,8 +65,8 @@
 		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="{{ site.BASE_PATH }}/">Accueil</a></li>
-				<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}">Tags</a></li>
+				<li class="active"><a href="{{ site.baseurl }}/">Accueil</a></li>
+				<li><a href="{{ site.baseurl}}/{{ site.tags_path }}">Tags</a></li>
 			</ul>
 		</div><!-- /.navbar-collapse -->
 	</nav>
@@ -77,8 +77,8 @@
 			<i class="fa fa-bars"></i>
 		</button>
 		<ul class="dropdown-menu" role="menu">
-			<li><a href="{{ site.BASE_PATH}}/"><i class="fa fa-home"></i>Accueil</a></li>
-			<li><a href="{{ site.BASE_PATH}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
+			<li><a href="{{ site.baseurl}}/"><i class="fa fa-home"></i>Accueil</a></li>
+			<li><a href="{{ site.baseurl}}/{{ site.tags_path }}"><i class="fa fa-tags"></i>Tags</a></li>
 			<li class="divider"></li>
 			<li><a href="#"><i class="fa fa-arrow-up"></i>Haut de page</a></li>
 		</ul>
@@ -99,9 +99,9 @@
 		</footer>
 	</div>
 
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/jquery/jquery.min.js"></script>
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="{{ site.BASE_PATH }}/assets/js/app.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/assets/resources/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/assets/resources/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="{{ site.baseurl }}/assets/js/app.js"></script>
 	
 	<!-- Google Analytics -->   
 <script>
