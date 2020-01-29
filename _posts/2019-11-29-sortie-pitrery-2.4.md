@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie de Pitrery 2.4
+title: Sortie de pitrery 2.4
 author: Thibaut Madelaine, Etienne Bersac
 twitter_id: dalibolabs
 github_id: dalibo
@@ -9,8 +9,7 @@ tags: [Dalibo Labs, Pitrery, upgrade, PostgreSQL, PITR, backup]
 
 *Caen, le 20 novembre 2019*
 
-Pitrery, le logiciel simplifiant le PITR, est disponible en version 2.4,
-supportée par une équipe de développeurs de Dalibo renouvelée.
+Pitrery, le logiciel simplifiant le PITR, est disponible en version 2.4, supportée par une équipe de développeurs de Dalibo renouvelée.
 
 <!--MORE-->
 
