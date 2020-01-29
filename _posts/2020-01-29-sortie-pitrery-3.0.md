@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sortie de Pitrery 3.0
+title: Sortie de pitrery 3.0
 author: Thibaut Madelaine
 twitter_id: dalibolabs
 github_id: dalibo
